@@ -1,10 +1,10 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2006-12-22
+Version Consolidée au 2006-12-31
 ## Contenu: 
-  - [Partie législative (art. L1 à L5261-4)](#1)
+  - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
     - [PREMIÈRE PARTIE : ACQUISITION (art. L1111-1 à L1221-1)](#3)
-      - [LIVRE Ier : MODES D'ACQUISITION (art. L1111-1 à L1127-2)](#4)
+      - [LIVRE Ier : MODES D'ACQUISITION (art. L1111-1 à L1127-3)](#4)
         - [TITRE Ier : ACQUISITIONS À TITRE ONÉREUX (art. L1111-1 à L1112-9)](#5)
           - [Chapitre Ier : Acquisitions à l'amiable (art. L1111-1 à L1111-5)](#6)
             - [Section 1 : Achat. (art. L1111-1)](#7)
@@ -18,7 +18,7 @@ Version Consolidée au 2006-12-22
             - [Section 3 : Droit de préemption. (art. L1112-3 à L1112-9)](#15)
               - [Sous-section 1 : Droit de préemption immobilier. (art. L1112-4 à L1112-6)](#16)
               - [Sous-section 2 : Droit de préemption mobilier. (art. L1112-7 à L1112-9)](#17)
-        - [TITRE II : ACQUISITIONS À TITRE GRATUIT (art. L1121-1 à L1127-2)](#18)
+        - [TITRE II : ACQUISITIONS À TITRE GRATUIT (art. L1121-1 à L1127-3)](#18)
           - [Chapitre Ier : Dons et legs (art. L1121-1 à L1121-6)](#19)
             - [Section 1 : Dispositions applicables à l'Etat et à ses établissements publics (art. L1121-1 à L1121-3)](#20)
               - [Sous-section 1 : Dons et legs faits à l'Etat. (art. L1121-1)](#21)
@@ -32,7 +32,7 @@ Version Consolidée au 2006-12-22
           - [Chapitre IV : Biens confisqués. (art. L1124-1)](#29)
           - [Chapitre V : Objets placés sous main de justice. (art. L1125-1)](#30)
           - [Chapitre VI : Sommes et valeurs prescrites. (art. L1126-1 à L1126-4)](#31)
-          - [Chapitre VII : Dispositions diverses. (art. L1127-1 à L1127-2)](#32)
+          - [Chapitre VII : Dispositions diverses. (art. L1127-1 à L1127-3)](#32)
       - [LIVRE  II : PROCÉDURES D'ACQUISITION (art. L1211-1 à L1221-1)](#33)
         - [TITRE Ier : BIENS SITUÉS EN FRANCE (art. L1211-1 à L1212-8)](#34)
           - [Chapitre Ier : Consultation préalable (art. L1211-1 à L1211-2)](#35)
@@ -61,7 +61,7 @@ Version Consolidée au 2006-12-22
             - [Section 6 : Domaine public aéronautique. (art. L2111-16)](#58)
             - [Section 7 : Domaine public hertzien. (art. L2111-17)](#59)
           - [Chapitre II : Domaine public mobilier. (art. L2112-1)](#60)
-        - [TITRE II : UTILISATION DU DOMAINE PUBLIC (art. L2121-1 à L2125-7)](#61)
+        - [TITRE II : UTILISATION DU DOMAINE PUBLIC (art. L2121-1 à L2125-8)](#61)
           - [Chapitre Ier : Utilisation conforme à l'affectation. (art. L2121-1)](#62)
           - [Chapitre II : Utilisation compatible avec l'affectation (art. L2122-1 à L2122-21)](#63)
             - [Section 1 : Règles générales d'occupation. (art. L2122-1 à L2122-4)](#64)
@@ -90,9 +90,9 @@ Version Consolidée au 2006-12-22
             - [Section 5 : Edifices affectés aux cultes. (art. L2124-31)](#87)
             - [Section 6 : Concessions de logement (art. L2124-32)](#88)
               - [Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales, à leurs groupements et à leurs établissements publics. (art. L2124-32)](#89)
-          - [Chapitre V : Dispositions financières (art. L2125-1 à L2125-7)](#90)
+          - [Chapitre V : Dispositions financières (art. L2125-1 à L2125-8)](#90)
             - [Section 1 : Dispositions générales. (art. L2125-1 à L2125-6)](#91)
-            - [Section 2 : Dispositions particulières au domaine public fluvial. (art. L2125-7)](#92)
+            - [Section 2 : Dispositions particulières au domaine public fluvial. (art. L2125-7 à L2125-8)](#92)
         - [TITRE III : PROTECTION DU DOMAINE PUBLIC (art. L2131-1 à L2132-29)](#93)
           - [Chapitre Ier : Servitudes administratives (art. L2131-1 à L2131-6)](#94)
             - [Section 1 : Dispositions générales. (art. L2131-1)](#95)
@@ -214,14 +214,14 @@ Version Consolidée au 2006-12-22
           - [Chapitre II : Biens situés à l'étranger. (art. L4112-1)](#211)
         - [TITRE II : DISPOSITIONS APPLICABLES AUX BIENS DÉTENUS EN JOUISSANCE PAR L'ÉTAT (art. L4121-1)](#212)
           - [Chapitre unique. (art. L4121-1)](#213)
-    - [CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L5111-1 à L5261-4)](#214)
+    - [CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L5111-1 à L5261-2)](#214)
       - [LIVRE Ier : DISPOSITIONS SPÉCIFIQUES AUX DÉPARTEMENTS D'OUTRE-MER (art. L5111-1 à L5145-2)](#215)
         - [TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME (art. L5111-1 à L5113-2)](#216)
           - [Chapitre Ier : Dispositions communes. (art. L5111-1 à L5111-5)](#217)
           - [Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique. (art. L5112-1 à L5112-10)](#218)
           - [Chapitre III : Dispositions particulières à la Guyane et à La Réunion. (art. L5113-1 à L5113-2)](#219)
-        - [TITRE II : RÉGIME DOMANIAL DES EAUX (art. L5121-1 à L5121-5)](#220)
-          - [Chapitre unique. (art. L5121-1 à L5121-5)](#221)
+        - [TITRE II : RÉGIME DOMANIAL DES EAUX (art. L5121-1 à L5121-2)](#220)
+          - [Chapitre unique. (art. L5121-1 à L5121-2)](#221)
         - [TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE (art. L5141-1 à L5145-2)](#222)
           - [Chapitre Ier : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales. (art. L5141-1 à L5141-6)](#223)
           - [Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales et à l'établissement public d'aménagement en Guyane. (art. L5142-1 à L5142-2)](#224)
@@ -290,7 +290,7 @@ Version Consolidée au 2006-12-22
             - [Section 2 : Consultation de la commission d'aménagement foncier. (art. L5351-4)](#287)
           - [Chapitre II : Réception et authentification des actes. (art. L5352-1)](#288)
           - [Chapitre III : Dispositions applicables aux biens détenus en jouissance par l'Etat. (art. L5353-1)](#289)
-      - [LIVRE II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. L5211-1 à L5261-4)](#290)
+      - [LIVRE II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. L5211-1 à L5261-2)](#290)
         - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L5211-1 à L5211-4)](#291)
           - [Chapitre unique. (art. L5211-1 à L5211-4)](#292)
         - [TITRE II : ACQUISITIONS (art. L5221-1 à L5222-2)](#293)
@@ -318,8 +318,8 @@ Version Consolidée au 2006-12-22
           - [Chapitre II : Procédures de cession et d'échange. (art. L5242-1)](#315)
         - [TITRE V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES (art. L5251-1)](#316)
           - [Chapitre unique. (art. L5251-1)](#317)
-        - [TITRE VI : RÉGIME DOMANIAL DES EAUX (art. L5261-1 à L5261-4)](#318)
-          - [Chapitre unique. (art. L5261-1 à L5261-4)](#319)
+        - [TITRE VI : RÉGIME DOMANIAL DES EAUX (art. L5261-1 à L5261-2)](#318)
+          - [Chapitre unique. (art. L5261-1 à L5261-2)](#319)
 # Partie législative<a id=1></a>
 
 ## TITRE PRÉLIMINAIRE.<a id=2></a>
@@ -1224,6 +1224,43 @@ _Codifié par_:
 _Cite_:
 
   - Code de la santé publique - art. L6145-12 (V)
+
+
+###### Article L1127-3
+
+Le présent article s'applique à tout bateau, navire, engin flottant ou établissement flottant abandonné sur le domaine public
+fluvial. 
+
+L'abandon se présume, d'une part, du défaut d'autorisation d'occupation du domaine public fluvial et, d'autre part, de
+l'inexistence de mesures de manoeuvre ou d'entretien, ou de l'absence de propriétaire, conducteur ou gardien à bord. 
+
+L'abandon présumé du bateau, navire, engin flottant ou établissement flottant est constaté par les agents mentionnés à
+l'article L. 2132-23. Le constat est affiché sur le bien concerné et notifié au dernier propriétaire s'il est connu, en même
+temps qu'une mise en demeure de faire cesser l'état d'abandon. 
+
+Si aucun propriétaire, gardien ou conducteur ne s'est manifesté dans un délai de six mois, l'autorité administrative
+compétente déclare abandonné le bateau, navire, engin flottant ou établissement flottant et en transfère la propriété au
+gestionnaire du domaine public fluvial concerné. Le gestionnaire peut procéder à la vente du bien à l'expiration d'un délai
+de deux mois et sous réserve des droits des créanciers privilégiés et hypothécaires ou procéder à sa destruction à
+l'expiration de ce même délai, si sa valeur marchande ne justifie pas sa mise en vente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+_Créé par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 68 () JORF 31 décembre 2006
+
+_Cite_:
+
+  - Code général de la propriété des personnes publ... - art. L2132-23 (VT)
+
+_Cité par_:
+
+  - Code général de la propriété des personnes publ... - art. L5161-1 (V)
 
 
 ### LIVRE  II : PROCÉDURES D'ACQUISITION<a id=33></a>
@@ -3292,22 +3329,34 @@ _Cite_:
 
 ###### Article L2124-11
 
-Le curage des cours d'eau domaniaux et de leurs dépendances est à la charge de la personne publique propriétaire du domaine
-public fluvial. Toutefois, les personnes qui ont rendu les travaux nécessaires ou y trouvent intérêt peuvent être appelées à
-contribuer au financement de leur entretien.
+L'entretien, tel que défini aux articles L. 215-14 et L. 215-15 du code de l'environnement, des cours d'eau domaniaux et de
+leurs dépendances est à la charge de la personne publique propriétaire du domaine public fluvial. Toutefois, les personnes
+qui ont rendu les travaux nécessaires ou y trouvent intérêt peuvent être appelées à contribuer au financement de leur
+entretien. 
 
 De même, les propriétaires de moulins ou d'usines qui ont rendu les travaux nécessaires ou qui trouvent intérêt aux travaux
 d'entretien ou de réparation des ouvrages de navigation, de levées, barrages, pertuis, écluses peuvent être appelés à
-contribuer à leur financement.
+contribuer à leur financement. 
 
 A défaut d'accord sur le montant de la participation mentionnée aux deux alinéas précédents, il est fait application des
 dispositions de l'article L. 211-7 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Code du domaine public fluvial et de la navigation intérieure art. 14
+  - Code du domaine public fluvial et de la navigation intérieure art. 19
+  - Code du domaine public fluvial et de la navigation - art. 14 (Ab)
+  - Code du domaine public fluvial et de la navigation - art. 39 (Ab)
+
 _Codifié par_:
 
   - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -3315,16 +3364,10 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L2124-19 (V)
   - Code général de la propriété des personnes publ... - art. R2125-10 (V)
 
-_Anciens textes_:
-
-  - Code du domaine public fluvial et de la navigation - art. 14 (Ab)
-  - Code du domaine public fluvial et de la navigation - art. 39 (Ab)
-  - Code du domaine public fluvial et de la navigation intérieure art. 14
-  - Code du domaine public fluvial et de la navigation intérieure art. 19
-
 _Cite_:
 
-  - Code de l'environnement - art. L211-7 (M)
+  - Code de l'environnement - art. L211-7 (V)
+  - Code de l'environnement - art. L215-14 (V)
 
 
 ###### Article L2124-12
@@ -3349,15 +3392,25 @@ _Codifié par_:
 
 ###### Article L2124-13
 
-La délivrance, dans les communes, des permis de stationnement ou de dépôt temporaire sur les cours d'eau, ports et quais
-fluviaux, est régie par les dispositions des articles L. 2213-6 et L. 2512-14 du code général des collectivités
-territoriales.
+Les zones d'occupation du domaine public fluvial supérieure à un mois par un bateau, un navire, un engin flottant ou un
+établissement flottant ne peuvent être délimitées par le gestionnaire de ce domaine qu'après accord du maire de la commune
+sur le territoire de laquelle se trouvent ces zones.
+
+En dehors des zones ainsi délimitées, aucune occupation supérieure à un mois par un bateau, un navire, un engin flottant ou
+un établissement flottant ne peut être autorisée.
+
+Ces dispositions ne s'appliquent pas aux bateaux, navires, engins flottants ou établissements flottants nécessaires à
+l'entretien ou à la conservation du domaine public fluvial ou à la sécurité de la navigation fluviale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 69 () JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -3368,11 +3421,6 @@ _Anciens textes_:
 
   - Code du domaine public fluvial et de la navigation - art. 38 (Ab)
   - Code du domaine public fluvial et de la navigation intérieure art. 38
-  - Code général des collectivités territoriales - art. L2213-6 (M)
-  - Code général des collectivités territoriales - art. L2512-14 (M)
-
-_Cite_:
-
   - Code général des collectivités territoriales - art. L2213-6 (M)
   - Code général des collectivités territoriales - art. L2512-14 (M)
 
@@ -3912,14 +3960,19 @@ _Cite_:
 
 ###### Article L2125-2
 
-Les communes ou leurs groupements qui gèrent eux-mêmes leur service d'eau potable ou d'assainissement sont exonérés de toute
-redevance qui serait due en raison de l'occupation du domaine public de l'Etat par leurs canalisations ou réservoirs.
+Le régime des redevances susceptibles d'être perçues par l'Etat en raison de l'occupation de son domaine public par les
+canalisations ou ouvrages des services d'eau potable et d'assainissement exploités par les collectivités territoriales et
+leurs groupements est fixé par décret.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 54 () JORF 31 décembre 2006
 
 _Anciens textes_:
 
@@ -4062,6 +4115,30 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2125-7 (V)
 
 
+###### Article L2125-8
+
+Sans préjudice de la répression au titre des contraventions de grande voirie, le stationnement sans autorisation d'un bateau,
+navire, engin flottant ou établissement flottant sur le domaine public fluvial donne lieu au paiement d'une indemnité
+d'occupation égale à la redevance, majorée de 100 %, qui aurait été due pour un stationnement régulier à l'emplacement
+considéré ou à un emplacement similaire, sans application d'éventuels abattements.
+
+**Nota:**
+
+Dans sa décision n° 2013-341 QPC du 27 septembre 2013 (NOR : CSCX1324329S), le Conseil constitutionnel a déclaré l'article L.
+2125-8 du code général de la propriété des personnes publiques conforme à la Constitution, sous la réserve énoncée au
+considérant 8.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+_Créé par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 70 () JORF 31 décembre 2006
+
+
 #### TITRE III : PROTECTION DU DOMAINE PUBLIC<a id=93></a>
 
 ##### Chapitre Ier : Servitudes administratives<a id=94></a>
@@ -4093,6 +4170,13 @@ Les propriétaires riverains d'un cours d'eau ou d'un lac domanial ne peuvent pl
 autrement qu'à une distance de 3,25 mètres. Leurs propriétés sont grevées sur chaque rive de cette dernière servitude de 3,25
 mètres, dite servitude de marchepied.
 
+Tout propriétaire, locataire, fermier ou titulaire d'un droit réel, riverain d'un cours d'eau ou d'un lac domanial est tenu
+de laisser les terrains grevés de cette servitude de marchepied à l'usage du gestionnaire de ce cours d'eau ou de ce lac, des
+pêcheurs et des piétons.
+
+La responsabilité civile des riverains visés au deuxième alinéa ne peut être engagée au titre des dommages causés ou subis à
+l'occasion du passage des pêcheurs ou des piétons qu'en raison de leurs actes fautifs.
+
 Les propriétaires riverains des cours d'eau domaniaux sont tenus, dans l'intérêt du service de la navigation et partout où il
 existe un chemin de halage ou d'exploitation, de laisser le long des bords desdits cours d'eau domaniaux, ainsi que sur les
 îles où il en est besoin, un espace de 7,80 mètres de largeur. La servitude dont est ainsi grevée leur propriété est dite
@@ -4101,10 +4185,21 @@ servitude de halage.
 Ils ne peuvent planter d'arbres ni se clore par haies ou autrement qu'à une distance de 9,75 mètres sur les bords où il
 existe un chemin de halage ou d'exploitation.
 
+Le long des canaux de navigation, les pêcheurs et les piétons peuvent user du chemin de halage et de la portion de berge
+faisant partie du domaine public, dans la mesure où le permet l'exploitation de la navigation.
+
+Sur décision de l'autorité administrative, le droit visé à l'alinéa précédent peut exceptionnellement être supprimé soit pour
+des raisons d'intérêt général, soit pour des raisons de sécurité lorsque les berges sont incluses dans des établissements
+industriels.
+
 Lorsqu'un cours d'eau est déjà grevé de la servitude prévue au IV de l'article L. 211-7 du code de l'environnement, cette
 dernière servitude est maintenue.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 2 () JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -4120,10 +4215,6 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L5161-1 (V)
   - Code général de la propriété des personnes publ... - art. L5311-2 (VD)
 
-_Cite_:
-
-  - Code de l'environnement - art. L211-7 (M)
-
 _Anciens textes_:
 
   - Code du domaine public fluvial et de la navigation intérieure art. 15 al 1 à 3
@@ -4132,12 +4223,16 @@ _Codifié par_:
 
   - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
+_Cite_:
+
+  - Code de l'environnement - art. L211-7 (M)
+
 
 ###### Article L2131-3
 
-Lorsque l'exercice de la pêche et les nécessités d'entretien du cours d'eau le permettent, la distance de 3,25 mètres
-mentionnée à l'article L. 2131-2 pour la servitude de marchepied peut être exceptionnellement réduite sur décision de
-l'autorité gestionnaire dans les limites fixées à l'article L. 435-9 du code de l'environnement.
+Lorsque l'exercice de la pêche, le passage des piétons et les nécessités d'entretien et de surveillance du cours d'eau ou du
+lac le permettent, la distance de 3,25 mètres mentionnée à l'article L. 2131-2 pour la servitude de marchepied peut être
+exceptionnellement réduite, sur décision de l'autorité gestionnaire, jusqu'à 1,50 mètre. 
 
 Lorsque l'intérêt du service de la navigation le permet, les distances de 7,80 mètres et de 9,75 mètres mentionnées à
 l'article L. 2131-2, pour la servitude de halage, peuvent être réduites sur décision de l'autorité gestionnaire.
@@ -4148,15 +4243,17 @@ _Codifié par_:
 
   - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
+_Modifié par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
 _Anciens textes_:
 
   - Code du domaine public fluvial et de la navigation - art. 16 (Ab)
-  - Code du domaine public fluvial et de la navigation intérieure art. 16
 
 _Cite_:
 
-  - Code général de la propriété des personnes publiqu - art. L2131-2 (M)
-  - Code de l'environnement - art. L435-9 (M)
+  - Code général de la propriété des personnes publ... - art. L2131-2 (V)
 
 
 ###### Article L2131-4
@@ -4735,9 +4832,16 @@ _Codifié par_:
 Outre les agents mentionnés à l'article L. 2132-21, les fonctionnaires des collectivités territoriales et de leurs
 groupements, les adjoints au maire et les gardes champêtres ont compétence pour constater concurremment les contraventions en
 matière de grande voirie fixées par les articles L. 2132-5 à L. 2132-10, L. 2132-16, L. 2132-17 et les textes pris pour leur
-application.
+application. 
 
-Les fonctionnaires mentionnés ci-dessus qui n'ont pas prêté serment en justice le prêtent devant le préfet.
+Les fonctionnaires mentionnés ci-dessus qui n'ont pas prêté serment en justice le prêtent devant le préfet. 
+
+Lorsqu'ils constatent une contravention en matière de grande voirie, les agents mentionnés au premier alinéa sont habilités à
+relever l'identité de l'auteur de la contravention. Si l'intéressé refuse ou se trouve dans l'impossibilité de justifier de
+son identité, ils en rendent compte à tout officier de police judiciaire territorialement compétent, qui peut ordonner au
+contrevenant de lui communiquer son identité. Lorsque l'officier de police judiciaire procède à une vérification d'identité
+dans les conditions prévues à l'article 78-3 du code de procédure pénale, le délai prévu au troisième alinéa du même article
+court à compter du relevé d'identité.
 
 **Liens relatifs à cet article**
 
@@ -4749,6 +4853,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 71 () JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -4766,10 +4874,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publiqu - art. L2132-16 (V)
-  - Code général de la propriété des personnes publiqu - art. L2132-17 (V)
-  - Code général de la propriété des personnes publiqu - art. L2132-21 (V)
-  - Code général de la propriété des personnes publiques L2132-21, L2132-5 à L2132-10, L2132-16, L2132-17
+  - Code général de la propriété des personnes publ... - art. L2132-16 (V)
+  - Code général de la propriété des personnes publ... - art. L2132-21 (V)
+  - Code général de la propriété des personnes publ... - art. L2132-5 (V)
+  - Code de procédure pénale - art. 78-3 (V)
 
 
 ###### Article L2132-24
@@ -6152,20 +6260,19 @@ _Cité par_:
 
 ###### Article L2323-2
 
-A défaut de paiement des sommes mentionnées sur l'avis de mise en recouvrement ou de réclamation assortie d'une demande de
-sursis de paiement avec constitution de garanties dans les conditions fixées par l'article L. 2323-11, le comptable chargé du
-recouvrement met en oeuvre les dispositions fixées par l'article L. 257 du livre des procédures fiscales.
+A défaut de paiement des sommes mentionnées sur le titre de perception ou de la mise en jeu de l'article L. 2323-11, le
+comptable public compétent adresse au redevable une lettre de rappel avant la notification du premier acte de poursuite
+devant donner lieu à des frais.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI Livre des procédures fiscales L257
-  - Code général de la propriété des personnes publiqu - art. L2323-11 (M)
 
 _Codifié par_:
 
   - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006
 
 _Cité par_:
 
@@ -6177,6 +6284,10 @@ _Anciens textes_:
 
   - Code du domaine de l'Etat L81 al. 1
   - Code du domaine de l'Etat - art. L81 (Ab)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiqu - art. L2323-11 (M)
 
 
 ###### Article L2323-3
@@ -6389,30 +6500,29 @@ _Cité par_:
 
 ###### Article L2323-11
 
-Le redevable qui conteste le bien-fondé ou le montant de la somme principale mise à sa charge peut, s'il en a expressément
-formulé la demande dans sa réclamation et précisé le montant ou les bases de la réduction à laquelle il estime avoir droit,
-être autorisé à différer le paiement de la partie contestée de cette somme et des pénalités y afférentes, dans les conditions
-fixées aux premier, troisième et quatrième alinéas de l'article L. 277 du livre des procédures fiscales.
-
-Les conditions dans lesquelles le redevable peut contester la décision de refuser les garanties qu'il offre, sont fixées par
-les dispositions de l'article L. 279 du livre des procédures fiscales.
+Le redevable qui conteste l'existence de sa dette, son montant ou son exigibilité peut s'opposer à l'exécution du titre de
+perception mentionné à l'article L. 2323-1.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI Livre des procédures fiscales L277, L279
-
 _Codifié par_:
 
   - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 115 (V) JORF 31 décembre 2006
 
 _Anciens textes_:
 
   - Code du domaine de l'Etat L80 al. 12 et 13
   - Code du domaine de l'Etat - art. L80 (Ab)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publ... - art. L2323-1 (V)
 
 _Cité par_:
 
@@ -6722,10 +6832,10 @@ _Cite_:
 
 Les transferts de propriété du domaine public fluvial au profit d'une collectivité territoriale ou d'un groupement de
 collectivités territoriales de la part de l'Etat ou d'une autre personne publique peuvent être opérés à la demande de
-l'assemblée délibérante de la collectivité territoriale ou du groupement. Ils le sont à titre gratuit. Toutefois, les parties
-de cours d'eau, canaux, lacs ou plans d'eau inclus dans le périmètre d'une concession accordée par l'Etat au titre de
-l'utilisation de l'énergie hydraulique ne peuvent pas faire l'objet d'un transfert de propriété au profit des collectivités
-territoriales ou de leurs groupements.
+l'assemblée délibérante de la collectivité territoriale ou du groupement. Ils le sont à titre gratuit et ne donnent lieu au
+paiement d'aucune indemnité, droit, taxe, salaire ou honoraires. Toutefois, les parties de cours d'eau, canaux, lacs ou plans
+d'eau inclus dans le périmètre d'une concession accordée par l'Etat au titre de l'utilisation de l'énergie hydraulique ne
+peuvent pas faire l'objet d'un transfert de propriété au profit des collectivités territoriales ou de leurs groupements.
 
 Ces transferts s'opèrent en priorité au profit de la région ou du groupement de régions territorialement compétent qui en
 fait la demande. Lorsque d'autres collectivités ou groupements de collectivités territorialement compétents souhaitent
@@ -6766,6 +6876,10 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 3 () JORF 31 décembre 2006
 
 _Anciens textes_:
 
@@ -8795,17 +8909,14 @@ _Anciens textes_:
 
 ###### Article L5121-1
 
-Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de La Réunion, font partie du domaine public de
-l'Etat, sous réserve des droits régulièrement acquis par les usagers et propriétaires riverains à la date du 6 avril 1948 :
+Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de La Réunion, sous réserve des droits
+régulièrement acquis par les usagers et propriétaires riverains à la date du 6 avril 1948 et validés avant le 6 avril 1953 : 
 
-1° Toutes les eaux stagnantes ou courantes, à l'exception des eaux pluviales même lorsqu'elles sont accumulées
-artificiellement ;
+1° Les sources et, par dérogation à l'article 552 du code civil, les eaux souterraines font partie du domaine public de
+l'Etat ; 
 
-2° Tous les cours d'eau, naturels ou artificiels ;
-
-3° Les sources ;
-
-4° Par dérogation aux dispositions de l'article 552 du code civil, les eaux souterraines.
+2° Les cours d'eau et lacs naturels, sous réserve de leur déclassement, font partie du domaine public fluvial défini à
+l'article L. 2111-7 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -8813,10 +8924,19 @@ _Codifié par_:
 
   - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
+_Modifié par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 18 () JORF 31 décembre 2006
+
 _Anciens textes_:
 
   - Code du domaine de l'Etat L90 al. 1 à 5
   - Code du domaine de l'Etat - art. L90 (Ab)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publ... - art. L2111-7 (V)
+  - Code civil - art. 552 (V)
 
 _Cité par_:
 
@@ -8824,10 +8944,6 @@ _Cité par_:
   - Code général de la propriété des personnes publiqu - art. L5121-5 (Ab)
   - Code général de la propriété des personnes publiqu - art. L5261-3 (Ab)
   - Code général de la propriété des personnes publiqu - art. L5261-4 (Ab)
-
-_Cite_:
-
-  - Code civil - art. 552 (V)
 
 
 ###### Article L5121-2
@@ -8857,93 +8973,6 @@ _Anciens textes_:
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. R5121-1 (V)
-
-
-###### Article L5121-3
-
-Pour le passage dans l'intérêt des services administratifs, les propriétaires riverains des parties du domaine public de
-l'Etat mentionnées au 2° de l'article L. 5121-1 sont tenus de laisser libre le long de ces cours d'eau, ainsi que sur les
-îles, un espace de dix mètres de largeur.
-
-Ils ne peuvent se clore par haies ou autrement qu'à une distance de dix mètres.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-633 du 31 mars 1948 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiqu - art. L5121-1 (M)
-
-_Cité par_:
-
-  - Code général de la propriété des personnes publiqu - art. L5121-4 (Ab)
-  - Code général de la propriété des personnes publiqu - art. L5261-3 (Ab)
-
-
-###### Article L5121-4
-
-Lorsque l'intérêt du service le permet, les distances fixées à l'article L. 5121-3 peuvent être réduites par décision de
-l'autorité compétente.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-633 du 31 mars 1948 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiqu - art. L5121-3 (Ab)
-
-
-###### Article L5121-5
-
-Le déclassement de certaines parties du domaine public mentionnées aux 1° et 2° de l'article L. 5121-1 est prononcé, après
-enquête publique, par décret, tous les droits des riverains et des tiers acquis à la date du 6 avril 1948 et validés avant le
-6 avril 1953 demeurant réservés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°48-633 du 31 mars 1948 - art. 2 (Ab)
-  - Décret n°48-633 du 31 mars 1948 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiqu - art. L5121-1 (M)
-
-_Cité par_:
-
-  - Code général de la propriété des personnes publiqu - art. L5211-1 (V)
-  - Code général de la propriété des personnes publiqu - art. L5261-4 (Ab)
 
 
 #### TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE<a id=222></a>
@@ -11359,15 +11388,14 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 1° L. 1111-5, L. 1121-6, L. 1211-2, L. 1212-6 et L. 1212-7 ;
 
-2° L. 2111-7 à L. 2111-12, L. 2111-15, L. 2124-6 à L. 2124-14, L. 2124-16 à L. 2124-25, L. 2124-27, L. 2124-28, L. 2124-31,
-L. 2125-7, L. 2131-2 à L. 2131-6, L. 2132-5 à L. 2132-12, L. 2132-16 à L. 2132-18, L. 2132-23 à L. 2132-25, L. 2141-2, L.
-2141-3, L. 2142-1, L. 2142-2, L. 2222-3, L. 2222-4 et L. 2222-23 ;
+2° L. 2111-15, L. 2124-16 à L. 2124-25, L. 2124-27, L. 2124-28, L. 2124-31, L. 2132-12, L. 2132-18, L. 2141-2, L. 2141-3, L.
+2222-3, L. 2222-4 et L. 2222-23 ;
 
-3° L. 3111-2, L. 3113-1 à L. 3113-4, L. 3221-2, L. 3221-3 et L. 3222-3 ;
+3° L. 3111-2, L. 3221-2, L. 3221-3 et L. 3222-3 ;
 
 4° L. 4111-5 et L. 4111-6 ;
 
-5° Les livres Ier et III de la cinquième partie, à l'exception des articles L. 5121-3 à L. 5121-5.
+5° Les livres Ier et III de la cinquième partie.
 
 **Liens relatifs à cet article**
 
@@ -11375,9 +11403,34 @@ _Codifié par_:
 
   - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
+_Modifié par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 18 () JORF 31 décembre 2006
+
 _Cite_:
 
-  - Code général de la propriété des personnes publiques L5121-3 à L5121-5
+  - Code général de la propriété des personnes publiqu - art. L1111-5 (V)
+  - Code général de la propriété des personnes publiqu - art. L1121-6 (V)
+  - Code général de la propriété des personnes publiqu - art. L1211-2 (V)
+  - Code général de la propriété des personnes publiqu - art. L1212-6 (V)
+  - Code général de la propriété des personnes publiqu - art. L1212-7 (V)
+  - Code général de la propriété des personnes publiqu - art. L2111-15 (V)
+  - Code général de la propriété des personnes publiqu - art. L2124-27 (V)
+  - Code général de la propriété des personnes publiqu - art. L2124-28 (V)
+  - Code général de la propriété des personnes publiqu - art. L2124-31 (V)
+  - Code général de la propriété des personnes publiqu - art. L2132-12 (V)
+  - Code général de la propriété des personnes publiqu - art. L2132-18 (V)
+  - Code général de la propriété des personnes publiqu - art. L2141-2 (V)
+  - Code général de la propriété des personnes publiqu - art. L2141-3 (V)
+  - Code général de la propriété des personnes publiqu - art. L2222-23 (V)
+  - Code général de la propriété des personnes publiqu - art. L2222-3 (V)
+  - Code général de la propriété des personnes publiqu - art. L2222-4 (V)
+  - Code général de la propriété des personnes publiqu - art. L3111-2 (V)
+  - Code général de la propriété des personnes publiqu - art. L3221-2 (V)
+  - Code général de la propriété des personnes publiqu - art. L3221-3 (V)
+  - Code général de la propriété des personnes publiqu - art. L4111-6 (V)
+  - Code général de la propriété des personnes publiqu - art. L5121-5 (Ab)
+  - Code général de la propriété des personnes publiques L1111-5, L1121-6, L1211-2, L1212-6, L1212-7, L2111-15, L2124-16 à L2124-25, L2124-27, L2124-28, L2124-31, L2132-12, L2132-18, L2141-2, L2141-3, L2222-3, L2222-4, L2222-23, L3111-2, L3221-2, L3221-3
 
 
 ###### Article L5211-2
@@ -11888,17 +11941,14 @@ _Abrogé par_:
 
 ###### Article L5261-1
 
-Sous réserve des droits régulièrement acquis par les usagers et propriétaires riverains, font partie du domaine public de
-l'Etat :
+Sous réserve des droits régulièrement acquis par les usagers et les propriétaires à la date du 30 septembre 1977 et validés
+avant le 30 septembre 1982 : 
 
-1° Toutes les eaux stagnantes ou courantes, à l'exception des eaux pluviales même lorsqu'elles sont accumulées
-artificiellement ;
+1° Les sources et, par dérogation à l'article 552 du code civil, les eaux souterraines font partie du domaine public de
+l'Etat ; 
 
-2° Tous les cours d'eau, naturels ou artificiels ;
-
-3° Les sources ;
-
-4° Par dérogation aux dispositions de l'article 552 du code civil, les eaux souterraines.
+2° Les cours d'eau et lacs naturels, sous réserve de leur déclassement, font partie du domaine public fluvial défini à
+l'article L. 2111-7 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -11906,14 +11956,27 @@ _Codifié par_:
 
   - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
 
+_Modifié par_:
+
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 18 () JORF 31 décembre 2006
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
+
+_Cite_:
+
+  - Code général de la propriété des personnes publ... - art. L2111-7 (V)
+  - Code civil - art. 552 (V)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. L5461-1 (VD)
+
 _Cité par_:
 
   - Code général de la propriété des personnes publiqu - art. L5261-3 (Ab)
   - Code général de la propriété des personnes publiqu - art. L5261-4 (Ab)
-
-_Cite_:
-
-  - Code civil - art. 552 (V)
 
 
 ###### Article L5261-2
@@ -11943,50 +12006,5 @@ _Nouveaux textes_:
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. R5261-1 (V)
-
-
-###### Article L5261-3
-
-Pour l'application de l'article L. 5121-3, la référence à l'article L. 5121-1 est remplacée par la référence à l'article L.
-5261-1.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiqu - art. L5121-1 (M)
-  - Code général de la propriété des personnes publiqu - art. L5121-3 (Ab)
-  - Code général de la propriété des personnes publiqu - art. L5261-1 (M)
-
-
-###### Article L5261-4
-
-Pour l'application de l'article L. 5121-5, la référence à l'article L. 5121-1 est remplacée par la référence à l'article L.
-5261-1 et les mots : " acquis à la date du 6 avril 1948 et validés avant le 6 avril 1953 " sont remplacés par les mots : "
-acquis à la date du 30 septembre 1977 et validés avant le 30 septembre 1982 ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiqu - art. L5121-1 (M)
-  - Code général de la propriété des personnes publiqu - art. L5121-5 (Ab)
-  - Code général de la propriété des personnes publiqu - art. L5261-1 (M)
 
 
