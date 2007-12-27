@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2007-12-28
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -3938,7 +3938,8 @@ _Cité par_:
 ###### Article L2125-1
 
 Toute occupation ou utilisation du domaine public d'une personne publique mentionnée à l'article L. 1 donne lieu au paiement
-d'une redevance.
+d'une redevance sauf lorsque l'occupation ou l'utilisation concerne l'installation par l'Etat des équipements visant à
+améliorer la sécurité routière.
 
 Par dérogation aux dispositions de l'alinéa précédent, l'autorisation d'occupation ou d'utilisation du domaine public peut
 être délivrée gratuitement :
@@ -3956,7 +3957,7 @@ délibérant de la collectivité concernée détermine les conditions dans lesqu
 
 _Modifié par_:
 
-  - Loi n°2007-1787 du 20 décembre 2007 - art. 18
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 40 (V)
 
 _Cité par_:
 
