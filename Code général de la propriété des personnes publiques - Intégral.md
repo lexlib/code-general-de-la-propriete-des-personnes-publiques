@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-06-19
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -6050,20 +6050,24 @@ _Cité par_:
 
 ###### Article L2321-4
 
-Les produits et redevances du domaine public ou privé d'une personne publique mentionnée à l'article L. 1 sont soumis, quel
-que soit leur mode de fixation, à la prescription quinquennale édictée par l'article 2277 du code civil.
+Les produits et redevances du domaine public ou privé d'une personne publique mentionnée à l'article L. 1 se prescrivent par
+cinq ans, quel que soit leur mode de fixation. 
 
 Cette prescription commence à courir à compter de la date à laquelle les produits et redevances sont devenus exigibles.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Loi n°2008-561 du 17 juin 2008 - art. 21
 
 _Anciens textes_:
 
   - Code du domaine de l'Etat - art. L48 (Ab)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L1
 
 _Cité par_:
 
