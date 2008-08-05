@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2008-06-19
+Version Consolidée au 2008-08-06
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -6961,7 +6961,12 @@ _Codifié par_:
 ###### Article L3211-1
 
 Lorsqu'ils ne sont plus utilisés par un service civil ou militaire de l'Etat ou un établissement public de l'Etat, les
-immeubles du domaine privé de l'Etat peuvent être vendus dans les conditions fixées par décret en Conseil d'Etat.
+immeubles du domaine privé de l'Etat peuvent être vendus dans les conditions fixées par décret en Conseil d'Etat. 
+
+Lorsque la cession de ces immeubles implique au préalable l'application des mesures prévues à l'article L. 541-2 du code de
+l'environnement ou l'élimination des pollutions pyrotechniques, l'Etat peut confier au futur acquéreur le soin d'y faire
+procéder, le coût de la dépollution s'imputant sur le prix de vente. Dans cette hypothèse, le coût de la dépollution peut
+être fixé par un organisme expert indépendant choisi d'un commun accord par l'Etat et l'acquéreur.
 
 **Liens relatifs à cet article**
 
@@ -6976,13 +6981,17 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L5541-1 (V)
   - Code général de la propriété des personnes publ... - art. R3211-1 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Loi n°2008-776 du 4 août 2008 - art. 126
 
 _Anciens textes_:
 
   - Code du domaine de l'Etat - art. L53 (V)
+
+_Cite_:
+
+  - Code de l'environnement - art. L541-2
 
 
 ###### Article L3211-2
