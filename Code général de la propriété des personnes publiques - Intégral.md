@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2009-03-28
+Version Consolidée au 2009-05-14
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -68,7 +68,7 @@ Version Consolidée au 2009-03-28
             - [Section 2 : Règles particulières à certaines occupations (art. L2122-5 à L2122-21)](#65)
               - [Sous-section 1 : Dispositions applicables à l'Etat et à ses établissements publics. (art. L2122-5 à L2122-19)](#66)
                 - [Paragraphe 1 : Dispositions communes. (art. L2122-6 à L2122-14)](#67)
-                - [Paragraphe 2 : Règles particulières à certaines opérations de construction. (art. L2122-15 à L2122-16)](#68)
+                - [Paragraphe 2 : Règles particulières à certaines opérations de construction. (art. L2122-15)](#68)
                 - [Paragraphe 3 : Règles particulières au domaine public de l'Etat compris dans les limites administratives des ports relevant de la compétence des collectivités territoriales. (art. L2122-17 à L2122-18)](#69)
                 - [Paragraphe 4 : Règles particulières aux titres en cours. (art. L2122-19)](#70)
               - [Sous-section 2 : Dispositions applicables aux collectivités territoriales, à leurs groupements et à leurs établissements publics. (art. L2122-20)](#71)
@@ -164,13 +164,13 @@ Version Consolidée au 2009-03-28
               - [Sous-section 3 : Dispositions applicables aux collectivités territoriales, à leurs groupements et à leurs établissements publics. (art. L2323-14)](#161)
         - [TITRE III : CONTENTIEUX (art. L2331-1 à L2331-2)](#162)
           - [Chapitre unique. (art. L2331-1 à L2331-2)](#163)
-    - [TROISIÈME PARTIE : CESSION (art. L3111-1 à L3331-1)](#164)
+    - [TROISIÈME PARTIE : CESSION (art. L3111-1 à L3231-1)](#164)
       - [LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC (art. L3111-1 à L3113-4)](#165)
         - [TITRE UNIQUE : INALIÉNABILITÉ ET IMPRESCRIPTIBILITÉ (art. L3111-1 à L3113-4)](#166)
           - [Chapitre Ier : Principe. (art. L3111-1 à L3111-2)](#167)
           - [Chapitre II : Dérogations. (art. L3112-1 à L3112-3)](#168)
           - [Chapitre III : Transfert de propriété du domaine public fluvial. (art. L3113-1 à L3113-4)](#169)
-      - [LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ (art. L3211-1 à L3331-1)](#170)
+      - [LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ (art. L3211-1 à L3231-1)](#170)
         - [TITRE Ier : MODES DE CESSION (art. L3211-1 à L3212-3)](#171)
           - [Chapitre Ier : Cessions à titre onéreux (art. L3211-1 à L3211-25)](#172)
             - [Section 1 : Vente (art. L3211-1 à L3211-20)](#173)
@@ -201,8 +201,8 @@ Version Consolidée au 2009-03-28
             - [Section 1 : Dispositions applicables à l'Etat et à ses établissements publics. (art. L3222-1)](#198)
             - [Section 2 : Dispositions applicables aux collectivités territoriales, à leurs groupements et à leurs établissements publics. (art. L3222-2)](#199)
             - [Section 3 : Dispositions applicables aux établissements publics fonciers locaux. (art. L3222-3)](#200)
-        - [TITRE III : CONTENTIEUX (art. L3331-1)](#201)
-          - [Chapitre unique. (art. L3331-1)](#202)
+        - [TITRE III : CONTENTIEUX (art. L3231-1)](#201)
+          - [Chapitre unique. (art. L3231-1)](#202)
     - [QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES (art. L4111-1 à L4121-1)](#203)
       - [LIVRE Ier : RÉALISATION DES OPÉRATIONS IMMOBILIÈRES (art. L4111-1 à L4121-1)](#204)
         - [TITRE Ier : PRISES À BAIL (art. L4111-1 à L4112-1)](#205)
@@ -246,20 +246,20 @@ Version Consolidée au 2009-03-28
               - [Sous-section 3 : Dispositions communes. (art. L5322-10)](#243)
             - [Section 2 : Actes. (art. L5322-11 à L5322-13)](#244)
         - [TITRE III : GESTION (art. L5331-1 à L5333-3)](#245)
-          - [Chapitre Ier : Biens relevant du domaine public (art. L5331-1 à L5331-19)](#246)
+          - [Chapitre Ier : Biens relevant du domaine public (art. L5331-1 à L5331-18)](#246)
             - [Section 1 : Consistance du domaine public (art. L5331-1 à L5331-9)](#247)
               - [Sous-section 1 : Règles générales. (art. L5331-1)](#248)
               - [Sous-section 2 : Domaine public maritime. (art. L5331-2 à L5331-7)](#249)
               - [Sous-section 3 : Régime domanial des eaux. (art. L5331-8)](#250)
               - [Sous-section 4 : Domaine public routier. (art. L5331-9)](#251)
-            - [Section 2 : Utilisation du domaine public (art. L5331-10 à L5331-19)](#252)
+            - [Section 2 : Utilisation du domaine public (art. L5331-10 à L5331-18)](#252)
               - [Sous-section 1 : Gestion et superposition d'affectations. (art. L5331-10 à L5331-11)](#253)
               - [Sous-section 2 : Dispositions particulières (art. L5331-12 à L5331-16)](#254)
                 - [Paragraphe 1 : Utilisation du domaine public maritime. (art. L5331-12 à L5331-13)](#255)
                 - [Paragraphe 2 : Utilisation du domaine public fluvial. (art. L5331-14)](#256)
                 - [Paragraphe 3 : Utilisation des eaux du domaine public. (art. L5331-15)](#257)
                 - [Paragraphe 4 : Concessions de logement. (art. L5331-16)](#258)
-              - [Sous-section 3 : Dispositions financières. (art. L5331-17 à L5331-19)](#259)
+              - [Sous-section 3 : Dispositions financières. (art. L5331-17 à L5331-18)](#259)
           - [Chapitre II : Biens relevant du domaine privé (art. L5332-1 à L5332-7)](#260)
             - [Section 1 : Location, mise à disposition et affectation (art. L5332-1 à L5332-3)](#261)
               - [Sous-section 1 : Domaine immobilier. (art. L5332-1 à L5332-2)](#262)
@@ -1113,11 +1113,10 @@ _Anciens textes_:
 
 ###### Article L1126-2
 
-Les sociétés commerciales ou civiles, les collectivités privées ou publiques sont tenues de remettre à l'administration des
-impôts :
+Les sociétés commerciales ou civiles, les collectivités privées ou publiques sont tenues de remettre     au Trésor public : 
 
 1° Le montant des coupons, intérêts ou dividendes atteints par la prescription quinquennale ou conventionnelle et afférents
-aux actions, parts de fondateur, obligations et autres valeurs mobilières négociables qu'elles ont émises ;
+aux actions, parts de fondateur, obligations et autres valeurs mobilières négociables qu'elles ont émises ; 
 
 2° Le montant, atteint par la prescription trentenaire ou conventionnelle, des sommes ou valeurs quelconques dues à raison
 des actions, parts de fondateur, obligations et autres valeurs mobilières émises par elles, et qui n'ont pas été déposées
@@ -1125,13 +1124,12 @@ dans un établissement habilité à cet effet par décret.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Loi n°2009-526 du 12 mai 2009 - art. 121
 
 _Anciens textes_:
 
-  - Code du domaine de l'Etat - art. R46 (M)
   - Code du domaine de l'Etat - art. R46 (Ab)
 
 _Cité par_:
@@ -1144,20 +1142,15 @@ _Cité par_:
 ###### Article L1126-3
 
 Les banques, les établissements de crédit et tous autres établissements qui reçoivent soit des fonds en dépôt ou en compte
-courant, soit des titres en dépôt ou pour tout autre cause sont tenus de remettre à l'administration des impôts tous les
-dépôts ou avoirs en espèces ou en titres, qui n'ont fait l'objet, de la part des ayants droit, d'aucune opération ou
-réclamation depuis trente ans et qui n'ont pas été déposés dans un établissement habilité à cet effet par décret.
+courant, soit des titres en dépôt ou pour tout autre cause sont tenus de remettre     au Trésor public tous les dépôts ou
+avoirs en espèces ou en titres, qui n'ont fait l'objet, de la part des ayants droit, d'aucune opération ou réclamation depuis
+trente ans et qui n'ont pas été déposés dans un établissement habilité à cet effet par décret.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. R47 (M)
-  - Code du domaine de l'Etat R47, alinéa 1
+  - Loi n°2009-526 du 12 mai 2009 - art. 121
 
 _Cité par_:
 
@@ -2493,10 +2486,9 @@ _Cite_:
 ###### Article L2122-13
 
 Dans le cadre des titres d'occupation prévus par les articles L. 2122-6 et L. 2122-11, la réalisation des ouvrages,
-constructions et installations, à l'exclusion de ceux affectés à un service public et faisant l'objet d'un aménagement
-indispensable à l'exécution des missions de ce service ou affectés à l'usage direct du public ainsi que des travaux exécutés
-pour une personne publique dans un but d'intérêt général, peut donner lieu à la conclusion de contrats de crédit-bail par le
-titulaire du droit d'occupation.
+constructions et installations peut donner lieu à la conclusion de contrats de crédit-bail. Lorsque ces contrats concernent
+le financement d'ouvrages, de constructions et d'installations qui sont nécessaires à la continuité d'un service public, ils
+comportent des clauses permettant de préserver les exigences de ce service public. 
 
 La conclusion de tels contrats de crédit-bail au bénéfice d'organismes dans lesquels l'Etat ou l'établissement public
 gestionnaire du domaine apporte un concours financier ou détient, directement ou indirectement, une participation financière
@@ -2506,23 +2498,23 @@ en Conseil d'Etat fixe les modalités de cet agrément.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Loi n°2009-526 du 12 mai 2009 - art. 121
 
 _Anciens textes_:
 
   - Code du domaine de l'Etat - art. L34-7 (Ab)
 
+_Cite_:
+
+  - Code général de la propriété des personnes publ... - art. L2122-11 (V)
+  - Code général de la propriété des personnes publiques. - art. L2122-6
+
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. L2122-16 (Ab)
   - Code général de la propriété des personnes publ... - art. R2122-27 (VD)
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-11 (V)
-  - Code général de la propriété des personnes publiqu - art. L2122-6 (V)
 
 
 ###### Article L2122-14
@@ -2606,35 +2598,6 @@ _Anciens textes_:
 
   - Code du domaine de l'Etat - art. L34-3-1 (M)
   - Code du domaine de l'Etat - art. L34-3-1 (Ab)
-
-
-###### Article L2122-16
-
-Par dérogation aux dispositions du premier alinéa de l'article L. 2122-13, le financement des constructions mentionnées à
-l'article L. 2122-15 ou réalisées dans le cadre de contrats de partenariat peut donner lieu à la conclusion de contrats de
-crédit-bail. Dans ce cas, le contrat comporte des clauses permettant de préserver les exigences du service public.
-
-Les dispositions du second alinéa de l'article L. 2122-13 sont applicables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2009-526 du 12 mai 2009 - art. 121
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. L34-7-1 (M)
-  - Code du domaine de l'Etat - art. L34-7-1 (Ab)
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiques. - art. L2122-13
-  - Code général de la propriété des personnes publiques. - art. L2122-15
 
 
 ##### Paragraphe 3 : Règles particulières au domaine public de l'Etat compris dans les limites administratives des ports relevant de la compétence des collectivités territoriales.<a id=69></a>
@@ -3929,25 +3892,24 @@ _Cité par_:
 
 Toute occupation ou utilisation du domaine public d'une personne publique mentionnée à l'article L. 1 donne lieu au paiement
 d'une redevance sauf lorsque l'occupation ou l'utilisation concerne l'installation par l'Etat des équipements visant à
-améliorer la sécurité routière.
+améliorer la sécurité routière. 
 
 Par dérogation aux dispositions de l'alinéa précédent, l'autorisation d'occupation ou d'utilisation du domaine public peut
-être délivrée gratuitement :
+être délivrée gratuitement : 
 
 1° Soit lorsque l'occupation ou l'utilisation est la condition naturelle et forcée de l'exécution de travaux ou de la
-présence d'un ouvrage, intéressant un service public qui bénéficie gratuitement à tous ;
+présence d'un ouvrage, intéressant un service public qui bénéficie gratuitement à tous ; 
 
-2° Soit lorsque l'occupation ou l'utilisation contribue directement à assurer la conservation du domaine public lui-même.
+2° Soit lorsque l'occupation ou l'utilisation contribue directement à assurer la conservation du domaine public lui-même. 
 
-L'autorisation d'occupation ou d'utilisation du domaine public peut également être délivrée gratuitement lorsque cette
-occupation ou cette utilisation ne présente pas un objet commercial pour le bénéficiaire de l'autorisation.L'organe
-délibérant de la collectivité concernée détermine les conditions dans lesquelles il est fait application du présent alinéa.
+En outre, l'autorisation d'occupation ou d'utilisation du domaine public peut être délivrée gratuitement aux associations à
+but non lucratif qui concourent à la satisfaction d'un intérêt général.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2007-1822 du 24 décembre 2007 - art. 40 (V)
+  - Loi n°2009-526 du 12 mai 2009 - art. 121
 
 _Cité par_:
 
@@ -6350,21 +6312,21 @@ _Cité par_:
 
 Si, pour les produits et redevances mentionnés à l'article L. 2321-3, la lettre de rappel n'a pas été suivie de paiement, le
 comptable public compétent peut, à l'expiration d'un délai de vingt jours suivant cette formalité, engager des poursuites,
-dans les conditions fixées par les 5° à 7° de l'article L. 1617-5 du code général des collectivités territoriales, ainsi que
+dans les conditions fixées par les 5° et 6° de l'article L. 1617-5 du code général des collectivités territoriales, ainsi que
 par les articles L. 258 et L. 259 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Loi n°2009-526 du 12 mai 2009 - art. 96 (V)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L258 (V)
-  - Livre des procédures fiscales - art. L259 (V)
-  - Code général des collectivités territoriales - art. L1617-5, v. 3.1 (V)
-  - Code général des collectivités territoriales - art. L2321-3 (V)
+  - Livre des procédures fiscales - art. L258
+  - Livre des procédures fiscales - art. L259
+  - Code général des collectivités territoriales - art. L1617-5
+  - Code général des collectivités territoriales - art. L2321-3
 
 _Cité par_:
 
@@ -7736,31 +7698,35 @@ _Cité par_:
 
 ###### Article L3212-2
 
-Par dérogation aux dispositions du premier alinéa de l'article L. 3211-18, peuvent être réalisées gratuitement :
+Par dérogation aux dispositions du premier alinéa de l'article L. 3211-18, peuvent être réalisées gratuitement : 
 
 1° Les cessions de biens meubles dont la valeur n'excède pas des plafonds fixés par l'autorité désignée par décret en Conseil
-d'Etat à des Etats étrangers dans le cadre d'une action de coopération ;
+d'Etat à des Etats étrangers dans le cadre d'une action de coopération ; 
 
 2° Les cessions de biens meubles dont la valeur unitaire n'excède pas un plafond fixé comme il est dit au 1° à des
 associations relevant de la loi du 1er juillet 1901 relative au contrat d'association visées au 1 b de l'article 238 bis du
 code général des impôts et dont les ressources sont affectées à des oeuvres d'assistance, notamment à la redistribution
 gratuite de biens meubles aux personnes les plus défavorisées. Ces associations ne peuvent procéder à la cession, à titre
-onéreux, des biens ainsi alloués à peine d'être exclues définitivement du bénéfice des présentes mesures ;
+onéreux, des biens ainsi alloués à peine d'être exclues définitivement du bénéfice des présentes mesures ; 
 
 3° Les cessions des matériels informatiques dont les services de l'Etat ou de l'un de ses établissements publics n'ont plus
 l'emploi et dont la valeur unitaire n'excède pas un seuil fixé par décret aux associations de parents d'élèves aux
 associations de soutien scolaire et aux associations d'étudiants. Les associations s'engagent par écrit à n'utiliser les
 matériels qui leur sont cédés que pour l'objet prévu par leurs statuts, à l'exclusion de tout autre. Elles ne peuvent
-procéder à la cession, à titre onéreux, des biens ainsi alloués, à peine d'être exclues du bénéfice des présentes mesures ;
+procéder à la cession, à titre onéreux, des biens ainsi alloués, à peine d'être exclues du bénéfice des présentes mesures ; 
 
 4° Les cessions de matériels et d'équipements destinés à l'enseignement et à la recherche scientifiques, lorsqu'ils ont été
-remis, dans le cadre d'une convention de coopération, à un organisme assurant des missions de même nature.
+remis, dans le cadre d'une convention de coopération, à un organisme assurant des missions de même nature ; 
+
+5° Les cessions des matériels informatiques et des logiciels nécessaires à leur utilisation, dont les services de l'Etat ou
+de l'un de ses établissements publics n'ont plus l'emploi et dont la valeur unitaire n'excède pas un plafond fixé par décret,
+aux personnels des administrations concernées.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Loi n°2009-526 du 12 mai 2009 - art. 121
 
 _Cité par_:
 
@@ -7777,7 +7743,8 @@ _Cité par_:
 _Cite_:
 
   - CGI 238 bis
-  - Code général de la propriété des personnes publiqu - art. L3211-18 (V)
+  - Code général des impôts, CGI. - art. 238 bis (V)
+  - Code général de la propriété des personnes publiques. - art. L3211-18
   - Loi n°1901-07-01
 
 _Anciens textes_:
@@ -7795,11 +7762,15 @@ Les collectivités territoriales, leurs groupements et leurs établissements pub
 matériels informatiques dont ils n'ont plus l'emploi aux mêmes conditions que celles fixées pour l'Etat au 3° de l'article L.
 3212-2.
 
+Ils peuvent également céder gratuitement à leurs personnels les matériels informatiques et les logiciels nécessaires à leur
+utilisation dont ils n'ont plus l'emploi, aux mêmes conditions que celles fixées pour l'Etat ou l'un de ses établissements
+publics au 5° de l'article L. 3212-2.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Loi n°2009-526 du 12 mai 2009 - art. 121
 
 _Anciens textes_:
 
@@ -7813,7 +7784,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publiqu - art. L3212-2 (V)
+  - Code général de la propriété des personnes publ... - art. L3212-2 (V)
 
 
 #### TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE<a id=189></a>
@@ -8126,15 +8097,15 @@ _Cité par_:
 
 ##### Chapitre unique.<a id=202></a>
 
-###### Article L3331-1
+###### Article L3231-1
 
 Sont portés devant la juridiction administrative les litiges relatifs aux cessions des biens immobiliers de l'Etat.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Loi n°2009-526 du 12 mai 2009 - art. 121
 
 
 ## QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES<a id=203></a>
@@ -9519,11 +9490,11 @@ applicables à Mayotte :
 1° Les articles L. 1 et L. 2 ; 
 
 2° La première partie, à l'exception des articles L. 1111-5, du 3° de l'article L. 1112-6, L. 1121-6, L. 1123-1 à L. 1123-3,
-L. 1126-4, L. 1211-2, L. 1212-3, L. 1212-4 et L. 1212-7 ; 
+L. 1126-4, L. 1127-3, L. 1211-2, L. 1212-3, L. 1212-4 et L. 1212-7 ; 
 
 3° La deuxième partie, à l'exception des articles L. 2111-4, L. 2111-7 à L. 2111-12, L. 2111-14, L. 2111-15, du 7° de
 l'article L. 2112-1, des articles L. 2122-5 à L. 2122-21, L. 2123-3 à L. 2123-8, L. 2124-2, L. 2124-3, L. 2124-5 à L.
-2124-13, L. 2124-15 à L. 2124-25, L. 2124-27 à L. 2124-31, des articles L. 2125-4 à L. 2125-7, L. 2131-2 à L. 2131-6, L.
+2124-13, L. 2124-15 à L. 2124-25, L. 2124-27 à L. 2124-31, des articles L. 2125-4 à    L. 2125-8, L. 2131-2 à L. 2131-6, L.
 2132-1, L. 2132-3 à L. 2132-12, L. 2132-15 à L. 2132-18, L. 2132-23 à L. 2132-25, L. 2141-2, L. 2141-3, L. 2142-1 et L.
 2142-2, des articles L. 2222-1, L. 2222-4, L. 2222-5, L. 2222-10, L. 2222-11, L. 2222-20 à L. 2222-23, du II de l'article L.
 2321-1, de l'article L. 2322-2, des 5° et 6° de l'article L. 2331-1 et de l'article L. 2331-2 ; 
@@ -9538,36 +9509,19 @@ L. 3221-2, L. 3221-3, L. 3221-5 et L. 3222-3 ;
 
 _Modifié par_:
 
-  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
+  - Loi n°2009-526 du 12 mai 2009 - art. 121
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L1 (V)
-  - Code général de la propriété des personnes publ... - art. L1211-2 (V)
-  - Code général de la propriété des personnes publ... - art. L2 (V)
-  - Code général de la propriété des personnes publ... - art. L2222-10 (V)
-  - Code général de la propriété des personnes publ... - art. L2222-11 (V)
-  - Code général de la propriété des personnes publ... - art. L2222-20 (V)
-  - Code général de la propriété des personnes publ... - art. L2222-4 (V)
-  - Code général de la propriété des personnes publ... - art. L2222-5 (V)
-  - Code général de la propriété des personnes publ... - art. L2322-2 (V)
-  - Code général de la propriété des personnes publ... - art. L2331-2 (V)
-  - Code général de la propriété des personnes publ... - art. L3211-10 (V)
-  - Code général de la propriété des personnes publ... - art. L3211-11 (V)
-  - Code général de la propriété des personnes publ... - art. L3211-13 (V)
-  - Code général de la propriété des personnes publ... - art. L3211-17 (V)
-  - Code général de la propriété des personnes publ... - art. L3211-24 (V)
-  - Code général de la propriété des personnes publ... - art. L3211-25 (V)
-  - Code général de la propriété des personnes publ... - art. L3221-2 (V)
-  - Code général de la propriété des personnes publ... - art. L3221-3 (V)
-  - Code général de la propriété des personnes publ... - art. L3221-5 (V)
-  - Code général de la propriété des personnes publ... - art. L3222-3 (V)
+  - Code général de la propriété des personnes publiques. - art. L1
   - Code général de la propriété des personnes publiques. - art. L1111-5
   - Code général de la propriété des personnes publiques. - art. L1112-6
   - Code général de la propriété des personnes publiques. - art. L1121-6
   - Code général de la propriété des personnes publiques. - art. L1123-1
   - Code général de la propriété des personnes publiques. - art. L1126-4
+  - Code général de la propriété des personnes publiques. - art. L1211-2
   - Code général de la propriété des personnes publiques. - art. L1212-3
+  - Code général de la propriété des personnes publiques. - art. L2
   - Code général de la propriété des personnes publiques. - art. L2111-4
   - Code général de la propriété des personnes publiques. - art. L2112-1
   - Code général de la propriété des personnes publiques. - art. L2122-5
@@ -9579,12 +9533,29 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. L2141-2
   - Code général de la propriété des personnes publiques. - art. L2142-1
   - Code général de la propriété des personnes publiques. - art. L2222-1
+  - Code général de la propriété des personnes publiques. - art. L2222-10
+  - Code général de la propriété des personnes publiques. - art. L2222-11
+  - Code général de la propriété des personnes publiques. - art. L2222-20
+  - Code général de la propriété des personnes publiques. - art. L2222-4
+  - Code général de la propriété des personnes publiques. - art. L2222-5
   - Code général de la propriété des personnes publiques. - art. L2321-1
+  - Code général de la propriété des personnes publiques. - art. L2322-2
   - Code général de la propriété des personnes publiques. - art. L2331-1
+  - Code général de la propriété des personnes publiques. - art. L2331-2
   - Code général de la propriété des personnes publiques. - art. L3112-1
   - Code général de la propriété des personnes publiques. - art. L3113-1
+  - Code général de la propriété des personnes publiques. - art. L3211-10
+  - Code général de la propriété des personnes publiques. - art. L3211-11
+  - Code général de la propriété des personnes publiques. - art. L3211-13
+  - Code général de la propriété des personnes publiques. - art. L3211-17
+  - Code général de la propriété des personnes publiques. - art. L3211-24
+  - Code général de la propriété des personnes publiques. - art. L3211-25
   - Code général de la propriété des personnes publiques. - art. L3211-3
   - Code général de la propriété des personnes publiques. - art. L3212-1
+  - Code général de la propriété des personnes publiques. - art. L3221-2
+  - Code général de la propriété des personnes publiques. - art. L3221-3
+  - Code général de la propriété des personnes publiques. - art. L3221-5
+  - Code général de la propriété des personnes publiques. - art. L3222-3
   - Code général de la propriété des personnes publiques. - art. L4111-3
 
 
@@ -10756,26 +10727,6 @@ _Codifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
-
-
-###### Article L5331-19
-
-A l'article L. 2125-2, les mots : " Les communes ou leurs groupements " sont remplacés par les mots : " Les personnes
-publiques " et les mots : " de l'Etat " par les mots : " d'une autre personne publique ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2009-526 du 12 mai 2009 - art. 121
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiques. - art. L2125-2
 
 
 ##### Chapitre II : Biens relevant du domaine privé<a id=260></a>
@@ -11975,6 +11926,21 @@ _Codifié par_:
 _Cite_:
 
   - Code général de la propriété des personnes publ... - art. L3211-5 (V)
+
+
+###### Article L5241-1-1
+
+Les quatre derniers alinéas de l'article L. 3211-7 sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 121
+
+_Abrogé par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
 
 
 ###### Article L5241-2
