@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2010-07-29
+Version Consolidée au 2010-12-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -4415,13 +4415,13 @@ _Créé par_:
 ###### Article L2132-4
 
 Les atteintes à l'intégrité ou à l'utilisation du domaine public maritime des ports maritimes sont définies au titre III du
-livre III du code des ports maritimes.
+livre III de la cinquième partie du code des transports.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 3 (V)
 
 
 ##### Paragraphe 2 : Domaine public fluvial.<a id=103></a>
@@ -4582,13 +4582,13 @@ _Cité par_:
 ###### Article L2132-11
 
 Les atteintes à l'intégrité ou à l'utilisation du domaine public fluvial des ports maritimes sont définies au titre III du
-livre III du code des ports maritimes.
+livre III de la cinquième partie du code des transports.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 3 (V)
 
 
 ##### Paragraphe 3 : Domaine public ferroviaire.<a id=104></a>
@@ -4826,13 +4826,13 @@ _Cité par_:
 ###### Article L2132-22
 
 La répression des atteintes au domaine public des ports maritimes est opérée dans les conditions fixées par les dispositions
-du titre III du livre III du code des ports maritimes.
+au titre III du livre III de la cinquième partie du code des transports.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 3 (V)
 
 
 ##### Paragraphe 3 : Dispositions particulières au domaine public fluvial.<a id=115></a>
