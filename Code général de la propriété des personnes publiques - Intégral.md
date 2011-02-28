@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-03-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -3739,20 +3739,20 @@ _Cité par_:
 
 ###### Article L2124-27
 
-L'autorisation domaniale nécessaire pour la recherche et l'exploitation des substances minérales non visées à l'article 2 du
-code minier et contenues dans les fonds marins appartenant au domaine public est délivrée en application des règles fixées à
-l'article 1er de la loi n° 76-646 du 16 juillet 1976.
+L'autorisation domaniale nécessaire pour la recherche et l'exploitation des substances minérales autres que celles
+mentionnées à l'article L. 111-1 du code minier lorsqu'elles sont contenues dans les fonds marins du domaine public est
+délivrée en application des règles fixées à la section 1 du chapitre III du titre II et à la section 1 du chapitre II du
+titre III du livre 1er du code minier.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°76-646 du 16 juillet 1976 - art. 1 (V)
-  - Code minier 2
-
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 7
 
 _Cité par_:
 
@@ -3762,28 +3762,36 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L5211-1 (V)
   - Code général de la propriété des personnes publ... - art. L5411-1 (V)
 
+_Cite_:
+
+  - Code minier (nouveau) - art. L111-1 (V)
+
 
 ###### Article L2124-28
 
 Le titulaire de l'autorisation de prospections préalables ou du titre de recherche et d'exploitation est, en cas de retrait
-ou de réduction de l'assiette de l'autorisation domaniale mentionnée à l'article L. 2124-27, soumis aux règles fixées par
-l'article 2 de la loi n° 76-646 du 16 juillet 1976.
+ou de réduction de l'assiette de l'autorisation domaniale mentionnée à l'article L. 2124-27, soumis aux obligations fixées
+par l'article L. 123-3 du code minier.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°76-646 du 16 juillet 1976 - art. 2 (V)
-  - Code général de la propriété des personnes publiqu - art. L2124-27 (V)
-
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 7
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. L5163-5 (V)
   - Code général de la propriété des personnes publ... - art. L5211-1 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L2124-27
+  - Code minier (nouveau) - art. L123-3 (V)
 
 
 ###### Article L2124-29
@@ -9483,15 +9491,15 @@ _Anciens textes_:
 ###### Article L5144-2
 
 Peuvent bénéficier de cessions gratuites les personnes physiques occupant, à la date du 4 septembre 1998, sur les terrains
-mentionnés à l'article précédent, des constructions principalement affectées à leur habitation.
+mentionnés à l'article précédent, des constructions principalement affectées à leur habitation. 
 
 Ces personnes ne doivent pas être déjà, directement ou par personnes interposées, propriétaires d'un bien immobilier ou
 titulaires d'un droit réel immobilier, à moins que ce droit n'entre dans le champ d'application des dispositions de l'article
-68-13 du code minier.
+L. 611-17 du code minier. 
 
-A la date de leur demande de cession, les mêmes personnes doivent :
+A la date de leur demande de cession, les mêmes personnes doivent : 
 
-1° Avoir leur domicile fiscal en Guyane ;
+1° Avoir leur domicile fiscal en Guyane ; 
 
 2° Etre ressortissantes d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'espace économique
 européen ou de la Confédération suisse ou être titulaire d'une carte de résident.
@@ -9504,7 +9512,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 7
 
 _Anciens textes_:
 
@@ -9512,7 +9524,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code minier 68-13
+  - Code minier (nouveau) - art. L611-17 (V)
 
 
 ###### Article L5144-3
