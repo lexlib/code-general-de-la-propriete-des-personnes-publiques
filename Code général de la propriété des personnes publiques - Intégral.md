@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2011-11-25
+Version Consolidée au 2011-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -9454,7 +9454,7 @@ _Cite_:
 
 Les cessions gratuites de terres à usage agricole mentionnées au 3° de l'article L. 5141-1 peuvent être consenties aux
 personnes se livrant à une activité essentiellement agricole qui, depuis leur installation, antérieure à la date du 4
-septembre 1998 et pendant une période d'au moins cinq ans, ont réalisé l'aménagement et la mise en valeur des terres mises à
+septembre 2008 et pendant une période d'au moins cinq ans, ont réalisé l'aménagement et la mise en valeur des terres mises à
 leur disposition par l'Etat, les ont exploitées directement à des fins exclusivement agricoles et qui s'engagent à les
 maintenir à cet usage pendant trente ans à compter de la date de transfert de propriété. Pour bénéficier, dans les mêmes
 conditions, des dispositions du présent alinéa, les mêmes personnes qui exploitent ces terres sans titre régulier doivent
@@ -9468,7 +9468,7 @@ de l'article L. 5141-5. Elle comporte l'engagement de maintenir l'usage agricole
 
 _Modifié par_:
 
-  - Loi n°2010-874 du 27 juillet 2010 - art. 96
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 136
 
 _Anciens textes_:
 
@@ -9489,16 +9489,16 @@ _Cite_:
 
 ###### Article L5141-5
 
-I. - Les cessions gratuites de terres à usage agricole mentionnées au 3° de l'article L. 5141-1 peuvent être consenties aux
+I. – Les cessions gratuites de terres à usage agricole mentionnées au 3° de l'article L. 5141-1 peuvent être consenties aux
 agriculteurs et aux personnes morales mentionnées au second alinéa de l'article L. 5141-4 qui détiennent des titres
 d'occupation autres que les concessions.
 
-II. - Lorsque le demandeur de la cession est une personne physique, il doit :
+II. – Lorsque le demandeur de la cession est une personne physique, il doit :
 
 1° Etre de nationalité française ou être ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à
 l'accord sur l'Espace économique européen ou de la Confédération suisse ou être titulaire d'une carte de résident ;
 
-2° Justifier de son installation antérieurement à la date du 4 septembre 1998 ;
+2° Justifier de son installation antérieurement à la date du 4 septembre 2008 ;
 
 3° Avoir exercé pendant la période prévue à l'article L. 5141-4 la profession d'agriculteur à titre principal et exploité
 personnellement les terres dont la cession est demandée. Est réputée exploitation personnelle celle qui est faite par le
@@ -9508,28 +9508,31 @@ frais de ce dernier.
 La demande de cession présentée par une personne physique comporte son engagement de maintenir l'usage agricole du bien cédé
 pendant trente ans.
 
-III. - Lorsque la demande est présentée par une personne morale, elle doit répondre aux conditions fixées au dernier alinéa
+III. – Lorsque la demande est présentée par une personne morale, elle doit répondre aux conditions fixées au dernier alinéa
 de l'article L. 5141-4.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 136
 
 _Anciens textes_:
 
-  - Code du domaine de l'Etat - art. R170-46-1 (M)
   - Code du domaine de l'Etat - art. R170-46-1 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publ... - art. L5141-1 (V)
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. L5141-4 (V)
   - Code général de la propriété des personnes publ... - art. R5141-23 (V)
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiqu - art. L5141-1 (V)
 
 
 ###### Article L5141-6
