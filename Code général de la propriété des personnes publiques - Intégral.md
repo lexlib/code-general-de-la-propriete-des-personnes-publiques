@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2012-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -6462,15 +6462,25 @@ _Anciens textes_:
 ###### Article L2323-3
 
 Afin d'assurer le recouvrement des produits, redevances et sommes de toute nature mentionnés à l'article L. 2321-3,
-l'autorité administrative compétente adresse à chaque redevable, sous pli simple, un titre de recettes individuel ou un
-extrait du titre de recettes collectif et met en oeuvre les dispositions du 4° de l'article L. 1617-5 du code général des
-collectivités territoriales.
+l'autorité administrative compétente adresse à chaque redevable, sous pli simple, une ampliation du titre de recettes
+individuel ou de l'extrait du titre collectif et met en oeuvre les dispositions du 4° de l'article L. 1617-5 du code général
+des collectivités territoriales.
+
+**Nota:**
+
+Décret n° 2011-2036 du 29 décembre 2011, article 4 : Les dispositions du 2° du C du I de l'article 55 de la loi n° 2010-1658
+du 29 décembre 2010 de finances rectificative pour 2010 entrent en vigueur le 1er janvier 2012.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (V)
 
 _Cite_:
 
@@ -6545,23 +6555,25 @@ _Cité par_:
 
 ###### Article L2323-5
 
-Si, pour les produits et redevances mentionnés à l'article L. 2321-3, la lettre de rappel n'a pas été suivie de paiement, le
-comptable public compétent peut, à l'expiration d'un délai de vingt jours suivant cette formalité, engager des poursuites,
-dans les conditions fixées par les 5° et 6° de l'article L. 1617-5 du code général des collectivités territoriales, ainsi que
-par les articles L. 258 et L. 259 du livre des procédures fiscales.
+A défaut de paiement des produits mentionnés à l'article L. 2321-3, le comptable public compétent met en œuvre les 4° à 8° de
+l'article L. 1617-5 du code général des collectivités territoriales.
+
+**Nota:**
+
+Décret n° 2011-2036 du 29 décembre 2011, article 4 : Les dispositions du 5° du C du I de l'article 55 de la loi n° 2010-1658
+du 29 décembre 2010 de finances rectificative pour 2010 entrent en vigueur le 1er janvier 2012.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 96 (V)
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (V)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L258
-  - Livre des procédures fiscales - art. L259
-  - Code général des collectivités territoriales - art. L1617-5
-  - Code général des collectivités territoriales - art. L2321-3
+  - Code général de la propriété des personnes publ... - art. L2321-3 (V)
+  - Code général des collectivités territoriales - art. L1617-5 (V)
 
 _Cité par_:
 
@@ -13853,7 +13865,7 @@ _Cite_:
 
 La consultation du directeur départemental des finances publiques préalable aux acquisitions immobilières poursuivies par les
 collectivités territoriales, leurs groupements et leurs établissements publics a lieu dans les conditions fixées aux articles
-R. 1311-1, R. 1311-2 et R. 1311-3 du code général des collectivités territoriales.
+R. 1311-3, R. 1311-4 et R. 1311-5 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
@@ -13861,13 +13873,13 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2011-2065 du 30 décembre 2011 - art. 2
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. R1311-1 (V)
+  - Code général des collectivités territoriales - art. R1311-3 (V)
 
 
 ###### Article R1211-10
@@ -21231,7 +21243,7 @@ _Cite_:
 ###### Article R2142-3
 
 L'enquête publique en matière de déclassement du domaine public fluvial d'une collectivité territoriale ou d'un groupement
-prévue au second alinéa de l'article L. 2142-1 se déroule dans les conditions fixées par l'article R. 1311-6 du code général
+prévue au second alinéa de l'article L. 2142-1 se déroule dans les conditions fixées par l'article R. 1311-8 du code général
 des collectivités territoriales.
 
 **Liens relatifs à cet article**
@@ -21240,14 +21252,14 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2011-2065 du 30 décembre 2011 - art. 2
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L2142-1 (V)
-  - Code général des collectivités territoriales - art. R1311-6 (V)
+  - Code général de la propriété des personnes publiques. - art. L2142-1
+  - Code général des collectivités territoriales - art. R1311-8 (V)
 
 
 ### LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ<a id=419></a>
@@ -26341,7 +26353,7 @@ _Cite_:
 
 La consultation du directeur départemental des finances publiques préalable aux baux, accords amiables et conventions
 quelconques ayant pour objet la prise en location d'immeubles poursuivis par les collectivités territoriales, leurs
-groupements et leurs établissements publics a lieu dans les conditions fixées aux articles R. 1311-1 à R. 1311-3 du code
+groupements et leurs établissements publics a lieu dans les conditions fixées aux articles R. 1311-3 à R. 1311-5 du code
 général des collectivités territoriales.
 
 **Liens relatifs à cet article**
@@ -26350,13 +26362,13 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2011-2065 du 30 décembre 2011 - art. 2
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. R1311-1 (V)
+  - Code général des collectivités territoriales - art. R1311-3 (V)
 
 
 ##### Section 2 : Passation des actes<a id=516></a>
