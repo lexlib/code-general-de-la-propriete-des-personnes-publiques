@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-03-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -9086,7 +9086,7 @@ publics à réaliser pour répondre aux besoins des habitants ou usagers de ces 
 programmés excède ces besoins, la fraction du coût proportionnelle à ceux-ci. 
 
 Le montant de la participation est égal au produit de cette part et du rapport entre la surface du terrain cédé et la surface
-de l'ensemble des terrains desservis.
+de l'ensemble des terrains desservis. 
 
 L'arrêté précité prévoit également les délais et les modalités de versement de la participation. 
 
@@ -9103,8 +9103,7 @@ participation est exigée à compter de cette publication. Il précise que le mo
 participation sont notifiés au bénéficiaire de la cession par le préfet. 
 
 Les équipements financés par la participation prévue par le présent article ne peuvent faire l'objet des participations
-prévues aux articles L. 311-4, 
-L. 332-9, L. 332-11-1 et L. 332-11-3 du code de l'urbanisme. 
+prévues aux articles L. 311-4, L. 332-11-1 et L. 332-11-3 du code de l'urbanisme. 
 
 Le produit de la participation est versé à l'agence pour la mise en valeur des espaces urbains de la zone dite des cinquante
 pas géométriques. Les sommes correspondantes font l'objet d'une affectation exclusive au financement des programmes
@@ -9112,18 +9111,23 @@ d'équipements au titre desquels elles ont été perçues.
 
 Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions d'application du présent article.
 
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 III H : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, y compris aux modifications ultérieures au 1er mars 2012
+relatives à une demande ou déclaration préalable déposée avant cette date.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°96-1241 du 30 décembre 1996 - art. 3 (V)
-  - Code général de la propriété des personnes publ... - art. L5112-4-1 (V)
-  - Code général de la propriété des personnes publ... - art. L5112-5 (V)
-  - Code général de la propriété des personnes publ... - art. L5112-6 (V)
+  - Loi n°96-1241 du 30 décembre 1996 - art. 3
+  - Code général de la propriété des personnes publiques. - art. L5112-4-1
+  - Code général de la propriété des personnes publiques. - art. L5112-5
+  - Code général de la propriété des personnes publiques. - art. L5112-6
   - Code de l'urbanisme - art. L311-4 (V)
-  - Code de l'urbanisme - art. L332-11-1 (V)
-  - Code de l'urbanisme - art. L332-11-3 (V)
-  - Code de l'urbanisme - art. L332-9 (V)
+  - Code de l'urbanisme - art. L332-11-1
+  - Code de l'urbanisme - art. L332-11-3
 
 _Cité par_:
 
@@ -9131,7 +9135,6 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 32 (M)
   - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 
 
@@ -24012,19 +24015,23 @@ directeur départemental des finances publiques.
 Lorsque la valeur vénale de l'immeuble excède un montant fixé par arrêté du ministre chargé du domaine, la cession est
 autorisée par le ministre chargé du domaine.
 
+Préalablement à l'autorisation mentionnée à l'alinéa précédent, la commission pour la transparence et la qualité des
+opérations immobilières de l'Etat émet un avis sur le projet de cession lorsque ce dernier prévoit une cession dans les
+conditions mentionnées à l'article R. 3211-7. L'avis porte sur le respect des règles figurant à l'article R. 3211-7 et sur la
+qualité des procédures envisagées. A cette fin, le directeur général des finances publiques adresse à la commission le
+dossier du projet, accompagné d'un rapport de présentation. Cette procédure ne s'applique pas en cas d'exercice du droit de
+priorité prévue à l'article L. 240-1 du code de l'urbanisme. La commission émet son avis dans le délai d'un mois à compter de
+la réception du dossier. Ce délai peut être prorogé une fois par le ministre chargé du domaine.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. R129-4 (Ab)
+  - Décret n°2012-203 du 10 février 2012 - art. 5
 
 _Cité par_:
 
@@ -24034,6 +24041,10 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R3211-23 (V)
   - Code général de la propriété des personnes publ... - art. R3211-25 (V)
   - Code général de la propriété des personnes publ... - art. R3211-7 (V)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L240-1
 
 
 ###### Article R3211-7
@@ -24339,8 +24350,8 @@ _Cité par_:
 
 ###### Article R3211-14
 
-Une décote peut être appliquée lorsqu'un terrain est aliéné en vue de recevoir au moins 75 % de surface hors œuvre nette
-affectée au logement et comportant des logements locatifs sociaux mentionnés aux 3° et 5° de l'article L. 351-2 du code de la
+Une décote peut être appliquée lorsqu'un terrain est aliéné en vue de recevoir au moins 75 % de surface de plancher affectée
+au logement et comportant des logements locatifs sociaux mentionnés aux 3° et 5° de l'article L. 351-2 du code de la
 construction et de l'habitation. L'avantage financier résultant de la décote est exclusivement et en totalité répercuté dans
 le prix de revient des logements locatifs sociaux réalisés sur le terrain aliéné.
 
@@ -24350,9 +24361,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)
 
 _Anciens textes_:
 
@@ -24365,14 +24376,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L351-2 (V)
+  - Code de la construction et de l'habitation. - art. L351-2
 
 
 ###### Article R3211-15
 
 La décote ne peut excéder 25 % ou, dans la zone définie en fonction du niveau du marché foncier par arrêté conjoint des
 ministres chargés du budget et du logement, 35 % du produit de la valeur vénale du terrain, pondérée par le rapport de la
-surface hors œuvre nette affectée au logement locatif social à la surface hors œuvre nette totale du programme immobilier.
+surface de plancher affectée au logement locatif social à la surface de plancher totale du programme immobilier.
 
 **Liens relatifs à cet article**
 
@@ -24380,9 +24391,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)
 
 _Cité par_:
 
