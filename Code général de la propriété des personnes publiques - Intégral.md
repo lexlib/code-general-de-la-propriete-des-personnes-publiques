@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2012-03-01
+Version Consolidée au 2012-05-11
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -388,7 +388,7 @@ Version Consolidée au 2012-03-01
             - [Section 1 : Convention de gestion (art. R2123-1 à R2123-8)](#385)
             - [Section 2 : Transfert de gestion lié à un changement d'affectation (art. R2123-9 à R2123-14)](#386)
             - [Section 3 : Superposition d'affectations (art. R2123-15 à R2123-17)](#387)
-          - [Chapitre IV : Dispositions particulières (art. R2124-1 à R2124-78)](#388)
+          - [Chapitre IV : Dispositions particulières (art. R2124-1 à R2124-79)](#388)
             - [Section 1 : Utilisation du domaine public maritime (art. R2124-1 à R2124-56)](#389)
               - [Sous-section 1 : Concessions d'utilisation  du domaine public maritime en dehors des ports (art. R2124-1 à R2124-12)](#390)
               - [Sous-section 2 : Concessions de plage (art. R2124-13 à R2124-38)](#391)
@@ -407,127 +407,130 @@ Version Consolidée au 2012-03-01
             - [Section 5 : Concessions de logement (art. D2124-75 à R2124-78)](#404)
               - [Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics (art. D2124-75 à R2124-77)](#405)
                 - [Paragraphe 1 : Concessions de logement dans les immeubles  appartenant à l'Etat (art. D2124-75 à R2124-74)](#406)
-                - [Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat (art. R2124-77)](#407)
+                - [Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat (art. R2124-76 à R2124-77)](#407)
               - [Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales, à leurs groupements et à leurs établissements publics (art. R2124-78)](#408)
-          - [Chapitre V : Dispositions financières (art. R2125-1 à R2125-16)](#409)
-            - [Section 1 : Dispositions générales (art. R2125-1 à R2125-6)](#410)
-            - [Section 2 : Dispositions particulières au domaine public fluvial (art. R2125-7 à R2125-13)](#411)
-            - [Section 3 : Dispositions particulières à certaines occupations (art. R2125-14 à R2125-16)](#412)
-        - [TITRE III : PROTECTION DU DOMAINE PUBLIC (art. R2132-1)](#413)
-          - [Chapitre II : Police de la conservation (art. R2132-1)](#414)
-            - [Section 1 : Contraventions de voirie routière (art. R2132-1)](#415)
-        - [TITRE IV : SORTIE DES BIENS DU DOMAINE PUBLIC (art. D2141-1 à R2142-3)](#416)
-          - [Chapitre Ier : Règles générales (art. D2141-1)](#417)
-          - [Chapitre II : Règles particulières au domaine public fluvial (art. R2142-1 à R2142-3)](#418)
-      - [LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ (art. R2222-1 à R2222-36)](#419)
-        - [TITRE II : UTILISATION DU DOMAINE PRIVÉ (art. R2222-1 à R2222-36)](#420)
-          - [Chapitre II : Dispositions particulières (art. R2222-1 à R2222-36)](#421)
-            - [Section 1 : Location, mise à disposition et affectation (art. R2222-1 à R2222-7)](#422)
-              - [Sous-section 1 : Domaine immobilier (art. R2222-1 à R2222-5)](#423)
-              - [Sous-section 2 : Domaine mobilier (art. R2222-6 à R2222-7)](#424)
-            - [Section 2 : Gestion confiée à des tiers (art. R2222-8 à R2222-17)](#425)
-              - [Sous-section 1 : Gestion confiée à des tiers par l'Etat (art. R2222-8 à R2222-16)](#426)
-                - [Paragraphe 1 : Convention de gestion (art. R2222-8 à R2222-15)](#427)
-                - [Paragraphe 2 : Contrat de gérance (art. R2222-16)](#428)
-              - [Sous-section 2 : Gestion confiée à des tiers par les collectivités territoriales,  leurs groupements et leurs établissements publics (art. R2222-17)](#429)
-            - [Section 3 : Concessions de logement (art. R2222-18 à R2222-20)](#430)
-              - [Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics (art. R2222-18 à R2222-19)](#431)
-                - [Paragraphe 1 : Concessions de logement  dans les immeubles appartenant à l'Etat (art. R2222-18)](#432)
-                - [Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat (art. R2222-19)](#433)
-              - [Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales,à leurs groupements et à leurs établissements publics (art. R2222-20)](#434)
-            - [Section 4 : Révision des libéralités et restitution de biens (art. R2222-21 à R2222-32)](#435)
-              - [Sous-section 1 : Dispositions applicables à l'Etat (art. R2222-21 à R2222-27)](#436)
-              - [Sous-section 2 : Dispositions applicables aux établissements publics de l'Etat (art. R2222-28 à R2222-29)](#437)
-              - [Sous-section 3 : Dispositions communes à l'Etat et à ses établissements publics (art. R2222-30 à R2222-32)](#438)
-            - [Section 5 : Sommes et valeurs prescrites (art. R2222-33 à R2222-34)](#439)
-            - [Section 6 : Mise en valeur des terres incultes  ou manifestement sous-exploitées (art. R2222-35)](#440)
-            - [Section 7 : Administration du domaine forestier (art. R2222-36)](#441)
-      - [LIVRE III : DISPOSITIONS COMMUNES (art. D2312-3 à R2331-11)](#442)
-        - [TITRE Ier : INSAISISSABILITÉ, IMPLANTATION  ET ATTRIBUTION DES BIENS (art. D2312-3 à R2313-6)](#443)
-          - [Chapitre II : Implantation et inventaire (art. D2312-3 à D2312-9)](#444)
-            - [Section 1 : Biens situés à l'étranger (art. D2312-3 à R2312-2)](#445)
-            - [Section 2 : Biens situés en France (art. R2312-4)](#446)
-            - [Section 3 : Inventaire (art. D2312-6 à R2312-7)](#447)
-              - [Sous-section 1 : Domaine immobilier (art. D2312-6 à R2312-5)](#448)
-              - [Sous-section 2 : Domaine mobilier (art. R2312-7)](#449)
-            - [Section 4 : Délégations et représentations (art. D2312-8 à D2312-9)](#450)
-          - [Chapitre III : Attribution (art. R2313-1 à R2313-6)](#451)
-        - [TITRE II : PRODUITS ET REDEVANCES DU DOMAINE (art. D2321-5 à R2323-6)](#452)
-          - [Chapitre Ier : Constatation et perception (art. D2321-5 à R2321-9)](#453)
-            - [Section 1 : Autorités compétentes (art. D2321-5 à R2321-4)](#454)
-            - [Section 2 : Prescriptions (art. R2321-6)](#455)
-            - [Section 3 : Seuil de mise en recouvrement (art. D2321-7 à D2321-8)](#456)
-            - [Section 4 : Prélèvement pour frais d'administration,  de vente et de recouvrement (art. R2321-9)](#457)
-          - [Chapitre III : Action en recouvrement (art. R2323-1 à R2323-6)](#458)
-            - [Section 1 : Exercice des poursuites (art. R2323-1 à R2323-2)](#459)
-            - [Section 2 : Contentieux du recouvrement (art. R2323-3 à R2323-6)](#460)
-              - [Sous-section 1 : Dispositions applicables à l'Etat (art. R2323-3 à R2323-5)](#461)
-              - [Sous-section 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R2323-6)](#462)
-        - [TITRE III : CONTENTIEUX (art. R2331-1 à R2331-11)](#463)
-          - [Chapitre unique (art. R2331-1 à R2331-11)](#464)
-            - [Section 1 : Exercice des fonctions de contentieux  au sein de l'Etat (art. R2331-1 à R2331-6)](#465)
-            - [Section 2 : Procédures contentieuses (art. R2331-7 à R2331-11)](#466)
-              - [Sous-section 1 : Procédure devant la juridiction administrative (art. R2331-7)](#467)
-              - [Sous-section 2 : Procédure devant la juridiction judiciaire (art. R2331-8 à R2331-11)](#468)
-    - [TROISIÈME PARTIE : CESSION (art. R3113-1 à R3231-2)](#469)
-      - [LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC (art. R3113-1 à R3113-7)](#470)
-        - [TITRE UNIQUE : INALIÉNABILITÉ ET IMPRESCRIPTIBILITÉ (art. R3113-1 à R3113-7)](#471)
-          - [Chapitre III : Transfert de propriété du domaine public fluvial (art. R3113-1 à R3113-7)](#472)
-      - [LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ (art. R3211-1 à R3231-2)](#473)
-        - [TITRE Ier : MODES DE CESSION (art. R3211-1 à D3212-6)](#474)
-          - [Chapitre Ier : Cessions à titre onéreux (art. R3211-1 à R3211-47)](#475)
-            - [Section 1 : Vente (art. R3211-1 à R3211-42)](#476)
-              - [Sous-section 1 : Domaine immobilier (art. R3211-1 à R3211-34)](#477)
-                - [Paragraphe 1 : Dispositions applicables à l'Etat (art. R3211-1 à R3211-28)](#478)
-                  - [Sous-paragraphe 1 : Dispositions générales (art. R3211-1 à R3211-8)](#479)
-                  - [Sous-paragraphe 2 : Dispositions particulières (art. D3211-29 à R3211-28)](#480)
-                - [Paragraphe 2 : Dispositions applicables aux établissements publics de l'Etat (art. R3211-31 à R3211-32)](#481)
-                - [Paragraphe 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3211-33)](#482)
-                - [Paragraphe 4 : Dispositions communes à l'Etat,  aux collectivités territoriales et à leurs groupements (art. R3211-34)](#483)
-              - [Sous-section 2 : Domaine mobilier (art. R3211-35 à R3211-42)](#484)
-            - [Section 2 : Autres modes (art. R3211-43 à R3211-47)](#485)
-              - [Sous-section 1 : Echange (art. R3211-43 à R3211-46)](#486)
-              - [Sous-section 2 : Apport (art. R3211-47)](#487)
-          - [Chapitre II : Cessions à titre gratuit (art. R3212-1 à D3212-6)](#488)
-            - [Section 1 : Domaine immobilier (art. R3212-1)](#489)
-            - [Section 2 : Domaine mobilier (art. D3212-3 à D3212-6)](#490)
-              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. D3212-3 à R3212-2)](#491)
-              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. D3212-5 à D3212-6)](#492)
-        - [TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE (art. R3221-1 à R3222-4)](#493)
-          - [Chapitre Ier : Ventes (art. R3221-1 à R3221-15)](#494)
-            - [Section 1 : Domaine immobilier (art. R3221-1 à R3221-11)](#495)
-              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R3221-1 à D3221-5)](#496)
-                - [Paragraphe 1 : Réalisation par l'administration chargée des domaines de cessions  pour le compte des services et des établissements publics de l'Etat (art. R3221-1 à R3221-3)](#497)
-                - [Paragraphe 2 : Délégations et représentations (art. D3221-4 à D3221-5)](#498)
-              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3221-6 à R3221-7)](#499)
-              - [Sous-section 3 : Dispositions applicables  aux établissements publics fonciers locaux (art. R3221-8)](#500)
-              - [Sous-section 4 : Dispositions applicables aux établissements publics  d'habitations à loyer modéré (art. R3221-9)](#501)
-              - [Sous-section 5 : Dispositions applicables aux biens situés à l'étranger (art. D3221-12 à R3221-11)](#502)
-            - [Section 2 : Domaine mobilier (art. D3221-16 à R3221-15)](#503)
-          - [Chapitre II : Echange (art. D3222-1 à R3222-4)](#504)
-            - [Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. D3222-1 à D3222-2)](#505)
-            - [Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3222-3)](#506)
-            - [Section 3 : Dispositions applicables  aux établissements publics fonciers locaux (art. R3222-4)](#507)
-        - [TITRE III : CONTENTIEUX (art. R3231-1 à R3231-2)](#508)
-    - [QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES  DES PERSONNES PUBLIQUES (art. R4111-1 à D4121-6)](#509)
-      - [LIVRE Ier : RÉALISATION DES OPÉRATIONS IMMOBILIÈRES (art. R4111-1 à D4121-6)](#510)
-        - [TITRE Ier : PRISES À BAIL (art. R4111-1 à R4111-11)](#511)
-          - [Chapitre Ier : Biens situés en France (art. R4111-1 à R4111-11)](#512)
-            - [Section 1 : Consultation préalable (art. R4111-1 à R4111-7)](#513)
-              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R4111-2 à R4111-6)](#514)
-              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R4111-7)](#515)
-            - [Section 2 : Passation des actes (art. R4111-8)](#516)
-            - [Section 3 : Délégations et représentations (art. D4111-9 à D4111-10)](#517)
-            - [Section 4 : Contentieux (art. R4111-11)](#518)
-        - [TITRE II : BIENS SITUÉS À L'ÉTRANGER (art. D4112-3 à R4112-2)](#519)
-        - [TITRE III : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT (art. R4121-1 à D4121-6)](#520)
-          - [Chapitre unique (art. R4121-1 à D4121-6)](#521)
-            - [Section 1 : Mise en location (art. R4121-1)](#522)
-            - [Section 2 : Attribution (art. R4121-2)](#523)
-            - [Section 3 : Concessions de logement (art. R4121-3)](#524)
-            - [Section 4 : Inventaire (art. D4121-5 à R4121-4)](#525)
-            - [Section 5 : Biens situés à l'étranger (art. D4121-6)](#526)
-    - [ANNEXE (art. Annexe à l'article R3113-2)](#527)
+            - [Section 6 : Autres utilisations du domaine public (art. R2124-79)](#409)
+          - [Chapitre V : Dispositions financières (art. R2125-1 à R2125-16)](#410)
+            - [Section 1 : Dispositions générales (art. R2125-1 à R2125-6)](#411)
+            - [Section 2 : Dispositions particulières au domaine public fluvial (art. R2125-7 à R2125-13)](#412)
+            - [Section 3 : Dispositions particulières à certaines occupations (art. R2125-14 à R2125-16)](#413)
+        - [TITRE III : PROTECTION DU DOMAINE PUBLIC (art. R2132-1)](#414)
+          - [Chapitre II : Police de la conservation (art. R2132-1)](#415)
+            - [Section 1 : Contraventions de voirie routière (art. R2132-1)](#416)
+        - [TITRE IV : SORTIE DES BIENS DU DOMAINE PUBLIC (art. D2141-1 à R2142-3)](#417)
+          - [Chapitre Ier : Règles générales (art. D2141-1)](#418)
+          - [Chapitre II : Règles particulières au domaine public fluvial (art. R2142-1 à R2142-3)](#419)
+      - [LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ (art. R2222-1 à R2222-36)](#420)
+        - [TITRE II : UTILISATION DU DOMAINE PRIVÉ (art. R2222-1 à R2222-36)](#421)
+          - [Chapitre II : Dispositions particulières (art. R2222-1 à R2222-36)](#422)
+            - [Section 1 : Location, mise à disposition et affectation (art. R2222-1 à R2222-7)](#423)
+              - [Sous-section 1 : Domaine immobilier (art. R2222-1 à R2222-5)](#424)
+              - [Sous-section 2 : Domaine mobilier (art. R2222-6 à R2222-7)](#425)
+            - [Section 2 : Gestion confiée à des tiers (art. R2222-8 à R2222-17)](#426)
+              - [Sous-section 1 : Gestion confiée à des tiers par l'Etat (art. R2222-8 à R2222-16)](#427)
+                - [Paragraphe 1 : Convention de gestion (art. R2222-8 à R2222-15)](#428)
+                - [Paragraphe 2 : Contrat de gérance (art. R2222-16)](#429)
+              - [Sous-section 2 : Gestion confiée à des tiers par les collectivités territoriales,  leurs groupements et leurs établissements publics (art. R2222-17)](#430)
+            - [Section 3 : Concessions de logement (art. R2222-18 à R2222-20)](#431)
+              - [Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics (art. R2222-18 à R2222-19)](#432)
+                - [Paragraphe 1 : Concessions de logement  dans les immeubles appartenant à l'Etat (art. R2222-18)](#433)
+                - [Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat (art. R2222-19)](#434)
+              - [Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales,à leurs groupements et à leurs établissements publics (art. R2222-20)](#435)
+            - [Section 4 : Révision des libéralités et restitution de biens (art. R2222-21 à R2222-32)](#436)
+              - [Sous-section 1 : Dispositions applicables à l'Etat (art. R2222-21 à R2222-27)](#437)
+              - [Sous-section 2 : Dispositions applicables aux établissements publics de l'Etat (art. R2222-28 à R2222-29)](#438)
+              - [Sous-section 3 : Dispositions communes à l'Etat et à ses établissements publics (art. R2222-30 à R2222-32)](#439)
+            - [Section 5 : Sommes et valeurs prescrites (art. R2222-33 à R2222-34)](#440)
+            - [Section 6 : Mise en valeur des terres incultes  ou manifestement sous-exploitées (art. R2222-35)](#441)
+            - [Section 7 : Administration du domaine forestier (art. R2222-36)](#442)
+      - [LIVRE III : DISPOSITIONS COMMUNES (art. D2312-3 à R2331-11)](#443)
+        - [TITRE Ier : INSAISISSABILITÉ, IMPLANTATION  ET ATTRIBUTION DES BIENS (art. D2312-3 à R2313-6)](#444)
+          - [Chapitre II : Implantation et inventaire (art. D2312-3 à D2312-9)](#445)
+            - [Section 1 : Biens situés à l'étranger (art. D2312-3 à R2312-2)](#446)
+            - [Section 2 : Biens situés en France (art. R2312-4)](#447)
+            - [Section 3 : Inventaire (art. D2312-6 à R2312-7)](#448)
+              - [Sous-section 1 : Domaine immobilier (art. D2312-6 à R2312-5)](#449)
+              - [Sous-section 2 : Domaine mobilier (art. R2312-7)](#450)
+            - [Section 4 : Délégations et représentations (art. D2312-8 à D2312-9)](#451)
+          - [Chapitre III : Attribution (art. R2313-1 à R2313-6)](#452)
+        - [TITRE II : PRODUITS ET REDEVANCES DU DOMAINE (art. D2321-5 à R2323-6)](#453)
+          - [Chapitre Ier : Constatation et perception (art. D2321-5 à R2321-9)](#454)
+            - [Section 1 : Autorités compétentes (art. D2321-5 à R2321-4)](#455)
+            - [Section 2 : Prescriptions (art. R2321-6)](#456)
+            - [Section 3 : Seuil de mise en recouvrement (art. D2321-7 à D2321-8)](#457)
+            - [Section 4 : Prélèvement pour frais d'administration,  de vente et de recouvrement (art. R2321-9)](#458)
+          - [Chapitre III : Action en recouvrement (art. R2323-1 à R2323-6)](#459)
+            - [Section 1 : Exercice des poursuites (art. R2323-1 à R2323-2)](#460)
+            - [Section 2 : Contentieux du recouvrement (art. R2323-3 à R2323-6)](#461)
+              - [Sous-section 1 : Dispositions applicables à l'Etat (art. R2323-3 à R2323-5)](#462)
+              - [Sous-section 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R2323-6)](#463)
+        - [TITRE III : CONTENTIEUX (art. R2331-1 à R2331-11)](#464)
+          - [Chapitre unique (art. R2331-1 à R2331-11)](#465)
+            - [Section 1 : Exercice des fonctions de contentieux  au sein de l'Etat (art. R2331-1 à R2331-6)](#466)
+            - [Section 2 : Procédures contentieuses (art. R2331-7 à R2331-11)](#467)
+              - [Sous-section 1 : Procédure devant la juridiction administrative (art. R2331-7)](#468)
+              - [Sous-section 2 : Procédure devant la juridiction judiciaire (art. R2331-8 à R2331-11)](#469)
+    - [TROISIÈME PARTIE : CESSION (art. R3113-1 à R3231-2)](#470)
+      - [LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC (art. R3113-1 à R3113-7)](#471)
+        - [TITRE UNIQUE : INALIÉNABILITÉ ET IMPRESCRIPTIBILITÉ (art. R3113-1 à R3113-7)](#472)
+          - [Chapitre III : Transfert de propriété du domaine public fluvial (art. R3113-1 à R3113-7)](#473)
+      - [LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ (art. R3211-1 à R3231-2)](#474)
+        - [TITRE Ier : MODES DE CESSION (art. R3211-1 à D3212-6)](#475)
+          - [Chapitre Ier : Cessions à titre onéreux (art. R3211-1 à R3211-47)](#476)
+            - [Section 1 : Vente (art. R3211-1 à R3211-42)](#477)
+              - [Sous-section 1 : Domaine immobilier (art. R3211-1 à R3211-34)](#478)
+                - [Paragraphe 1 : Dispositions applicables à l'Etat (art. R3211-1 à R3211-28)](#479)
+                  - [Sous-paragraphe 1 : Dispositions générales (art. R3211-1 à R3211-8)](#480)
+                  - [Sous-paragraphe 2 : Dispositions particulières (art. D3211-29 à R3211-28)](#481)
+                - [Paragraphe 2 : Dispositions applicables aux établissements publics de l'Etat (art. R3211-31 à R3211-32)](#482)
+                - [Paragraphe 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3211-33)](#483)
+                - [Paragraphe 4 : Dispositions communes à l'Etat,  aux collectivités territoriales et à leurs groupements (art. R3211-34)](#484)
+              - [Sous-section 2 : Domaine mobilier (art. R3211-35 à R3211-42)](#485)
+            - [Section 2 : Autres modes (art. R3211-43 à R3211-47)](#486)
+              - [Sous-section 1 : Echange (art. R3211-43 à R3211-46)](#487)
+              - [Sous-section 2 : Apport (art. R3211-47)](#488)
+          - [Chapitre II : Cessions à titre gratuit (art. R3212-1 à D3212-6)](#489)
+            - [Section 1 : Domaine immobilier (art. R3212-1)](#490)
+            - [Section 2 : Domaine mobilier (art. D3212-3 à D3212-6)](#491)
+              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. D3212-3 à R3212-2)](#492)
+              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. D3212-5 à D3212-6)](#493)
+        - [TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE (art. R3221-1 à R3222-4)](#494)
+          - [Chapitre Ier : Ventes (art. R3221-1 à R3221-15)](#495)
+            - [Section 1 : Domaine immobilier (art. R3221-1 à R3221-11)](#496)
+              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R3221-1 à D3221-5)](#497)
+                - [Paragraphe 1 : Réalisation par l'administration chargée des domaines de cessions  pour le compte des services et des établissements publics de l'Etat (art. R3221-1 à R3221-3)](#498)
+                - [Paragraphe 2 : Délégations et représentations (art. D3221-4 à D3221-5)](#499)
+              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3221-6 à R3221-7)](#500)
+              - [Sous-section 3 : Dispositions applicables  aux établissements publics fonciers locaux (art. R3221-8)](#501)
+              - [Sous-section 4 : Dispositions applicables aux établissements publics  d'habitations à loyer modéré (art. R3221-9)](#502)
+              - [Sous-section 5 : Dispositions applicables aux biens situés à l'étranger (art. D3221-12 à R3221-11)](#503)
+            - [Section 2 : Domaine mobilier (art. D3221-16 à R3221-15)](#504)
+          - [Chapitre II : Echange (art. D3222-1 à R3222-4)](#505)
+            - [Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. D3222-1 à D3222-2)](#506)
+            - [Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3222-3)](#507)
+            - [Section 3 : Dispositions applicables  aux établissements publics fonciers locaux (art. R3222-4)](#508)
+        - [TITRE III : CONTENTIEUX (art. R3231-1 à R3231-2)](#509)
+    - [QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES  DES PERSONNES PUBLIQUES (art. R4111-1 à D4121-6)](#510)
+      - [LIVRE Ier : RÉALISATION DES OPÉRATIONS IMMOBILIÈRES (art. R4111-1 à D4121-6)](#511)
+        - [TITRE Ier : PRISES À BAIL (art. R4111-1 à R4112-2)](#512)
+          - [Chapitre Ier : Biens situés en France (art. R4111-1 à R4111-11)](#513)
+            - [Section 1 : Consultation préalable (art. R4111-1 à R4111-7)](#514)
+              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R4111-2 à R4111-6)](#515)
+              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R4111-7)](#516)
+            - [Section 2 : Passation des actes (art. R4111-8)](#517)
+            - [Section 3 : Délégations et représentations (art. D4111-9 à D4111-10)](#518)
+            - [Section 4 : Contentieux (art. R4111-11)](#519)
+          - [Chapitre II : Biens situés à l'étranger (art. D4112-3 à R4112-2)](#520)
+        - [TITRE III : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT (art. R4121-1 à D4121-6)](#521)
+          - [Chapitre unique (art. R4121-1 à D4121-6)](#522)
+            - [Section 1 : Mise en location (art. R4121-1 à R4121-1-1)](#523)
+            - [Section 2 : Attribution (art. R4121-2)](#524)
+            - [Section 3 : Concessions de logement (art. R4121-3 à R4121-3-1)](#525)
+            - [Section 4 : Inventaire (art. D4121-5 à R4121-4)](#526)
+            - [Section 5 : Biens situés à l'étranger (art. D4121-6)](#527)
+        - [TITRE II : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT (art.  à D4121-6)](#528)
+          - [Chapitre unique (art.  à D4121-6)](#529)
+    - [ANNEXE (art. Annexe à l'article R3113-2)](#530)
 # Partie législative<a id=1></a>
 
 ## TITRE PRÉLIMINAIRE.<a id=2></a>
@@ -20194,13 +20197,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. D14 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public accordées en métropole.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 _Cité par_:
 
@@ -20210,7 +20209,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 82 (V)
 
 
-###### Article D2124-76
+###### Article D2124-75-1
 
 La gratuité du logement accordé en application de l'article D. 2124-75 s'étend à la fourniture de l'eau, à l'exclusion de
 toutes autres fournitures.
@@ -20219,28 +20218,18 @@ toutes autres fournitures.
 
 _Créé par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
-**Liens**:
+_Cite_:
 
-  - TRANSFERE: Décret n°2012-752 du 9 mai 2012 - art. 1
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. D15 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public accordées en métropole.
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. R2124-76 (V)
+  - Code général de la propriété des personnes publiques. - art. D2124-75
 
 
 ###### Article R2124-64
 
-Dans les immeubles dépendant de son domaine public, l'Etat peut accorder à ses agents civils une concession de logement, par
-nécessité absolue de service ou par utilité de service, dans les conditions prévues au présent paragraphe.
-
-L'occupation d'un logement étrangère à toute considération de service peut faire l'objet d'une autorisation d'occupation
-précaire.
+Dans les immeubles dépendant de son domaine public, l'Etat peut accorder à ses agents civils ou militaires une concession de
+logement par nécessité absolue de service ou une convention d'occupation précaire avec astreinte, dans les conditions prévues
+au présent paragraphe.
 
 **Liens relatifs à cet article**
 
@@ -20248,9 +20237,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 _Anciens textes_:
 
@@ -20267,7 +20256,11 @@ _Cité par_:
 ###### Article R2124-65
 
 Une concession de logement peut être accordée par nécessité absolue de service lorsque l'agent ne peut accomplir normalement
-son service sans être logé dans les bâtiments où il doit exercer ses fonctions.
+son service, notamment pour des raisons de sûreté, de sécurité ou de responsabilité, sans être logé sur son lieu de travail
+ou à proximité immédiate. 
+
+Des arrêtés conjoints du ministre chargé du domaine et des ministres intéressés fixent la liste des fonctions qui peuvent
+ouvrir droit à l'attribution d'une concession de logement par nécessité absolue de service.
 
 **Liens relatifs à cet article**
 
@@ -20275,9 +20268,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 _Cité par_:
 
@@ -20346,8 +20339,14 @@ _Anciens textes_:
 
 ###### Article R2124-66
 
-Une concession de logement peut être accordée par utilité de service lorsque, sans être absolument nécessaire à l'exercice de
-la fonction, le logement présente un intérêt certain pour la bonne marche du service.
+Les concessions de logement sont accordées, après avis du directeur départemental des finances publiques au nom du ministre
+chargé du domaine et du ministre sous l'autorité duquel se trouve placé l'agent bénéficiaire, par arrêté pris par le préfet
+et, pour les agents civils et militaires du ministère de la défense, par arrêté du ministre de la défense ou de son
+représentant. 
+
+Sous réserve des dispositions de l'article D. 2124-75, ces arrêtés sont nominatifs et indiquent la localisation, la
+consistance et la superficie des locaux mis à la disposition des intéressés, le nombre et la qualité des personnes à charge
+occupant le logement ainsi que les conditions financières, les prestations accessoires et les charges de la concession.
 
 **Liens relatifs à cet article**
 
@@ -20355,25 +20354,24 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 _Cité par_:
 
   - Décret n°2012-752 du 9 mai 2012 - art. 10 (V)
   - Arrêté du 1er décembre 2015 - art. 2 (VT)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code du domaine de l'Etat - art. R94 (Ab), alinéa 2, ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
+  - Code général de la propriété des personnes publiques. - art. D2124-75
 
 
 ###### Article R2124-67
 
-Les concessions de logement sont accordées au nom du ministre chargé du domaine et du ministre sous l'autorité duquel se
-trouve placé l'agent bénéficiaire, par arrêté pris par le préfet, après avis du directeur départemental des finances
-publiques.
+La concession de logement accordée par nécessité absolue de service comporte la gratuité de la prestation du logement nu.
+Elle est accordée par priorité dans des immeubles appartenant à l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -20381,23 +20379,22 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. R95 (Ab), alinéa 1, ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
-  - Code du domaine de l'Etat - art. R96 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 
 ###### Article R2124-68
 
-Les arrêtés prévus à l'article R. 2124-67 peuvent être nominatifs ou viser de manière impersonnelle les titulaires de
-certains emplois.
+Lorsqu'un agent est tenu d'accomplir un service d'astreinte mais qu'il ne remplit pas les conditions ouvrant droit à la
+concession d'un logement par nécessité absolue de service, une convention d'occupation précaire avec astreinte peut lui être
+accordée. Elle est accordée par priorité dans des immeubles appartenant à l'Etat. 
 
-Ils indiquent la situation et la consistance des locaux mis à la disposition des bénéficiaires ainsi que les conditions
-financières de la concession.
+Une redevance est mise à la charge du bénéficiaire de cette convention. Elle est égale à 50 % de la valeur locative réelle
+des locaux occupés. 
+
+Des arrêtés conjoints du ministre chargé du domaine et des ministres intéressés fixent la liste des fonctions comportant un
+service d'astreinte qui peuvent ouvrir droit à l'attribution d'une convention d'occupation précaire.
 
 **Liens relatifs à cet article**
 
@@ -20405,9 +20402,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 _Cité par_:
 
@@ -20474,9 +20471,10 @@ _Anciens textes_:
 
 ###### Article R2124-69
 
-La concession de logement accordée par nécessité absolue de service emporte la gratuité de la prestation du logement nu.
-L'arrêté précise si cette gratuité s'étend à la fourniture de l'eau, du gaz, de l'électricité et du chauffage ou à certains
-seulement de ces avantages.
+Les conventions d'occupation précaire avec astreinte sont passées, après avis du directeur départemental des finances
+publiques, au nom du ministre chargé du domaine et du ministre sous l'autorité duquel se trouve placé l'agent bénéficiaire,
+par le préfet et, pour les agents civils et militaires du ministère de la défense, par le ministre de la défense ou son
+représentant.
 
 **Liens relatifs à cet article**
 
@@ -20484,30 +20482,20 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. R98 (Ab), alinéa 1, ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 
 ###### Article R2124-70
 
-La redevance mise à la charge du bénéficiaire d'une concession de logement par utilité de service est égale à la valeur
-locative des locaux occupés, déterminée conformément à la législation relative aux loyers des locaux à usage d'habitation.
+Le directeur départemental des finances publiques est compétent pour déterminer la redevance prévue à l'article R. 2124-68 et
+pour la réviser ou la modifier. 
 
-Cette valeur locative est diminuée d'un abattement destiné à tenir compte :
+La redevance due commence à courir à compter de la date de l'occupation des locaux. 
 
-1° De l'obligation faite au fonctionnaire de loger dans les locaux concédés ;
-
-2° De la précarité de l'occupation ;
-
-3° Des charges anormales que la concession de logement ferait supporter à son bénéficiaire eu égard à sa situation
-administrative.
-
-Les modalités de calcul de cet abattement sont fixées par arrêté du ministre chargé du domaine.
+La redevance et, s'il y a lieu, les remboursements à la charge de l'occupant font l'objet d'un précompte mensuel, dans des
+conditions définies par arrêté du ministre chargé du budget, sur la rémunération de l'agent bénéficiaire.
 
 **Liens relatifs à cet article**
 
@@ -20515,26 +20503,26 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 _Anciens textes_:
 
   - Code du domaine de l'Etat - art. R100 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
 
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. R2124-68
+
 
 ###### Article R2124-71
 
-Le directeur départemental des finances publiques est compétent pour déterminer la redevance, conformément aux règles fixées
-par l'article R. 2124-70, et pour la réviser ou la modifier conformément à la législation relative aux loyers des locaux à
-usage d'habitation.
-
-La redevance due commence à courir soit à compter de la date de notification de l'autorisation, soit à compter de la date de
-l'occupation du logement si elle est antérieure.
-
-Le directeur départemental des finances publiques recouvre cette redevance comme en matière de produit du domaine de l'Etat,
-dans les conditions fixées aux articles R. 2321-1, R. 2321-2, R. 2321-6, D. 2321-7, R. 2321-9 et R. 2323-1.
+Le bénéficiaire d'une concession de logement par nécessité absolue de service ou d'une convention d'occupation précaire avec
+astreinte supporte l'ensemble des réparations locatives et des charges locatives afférentes au logement qu'il occupe,
+déterminées conformément à la législation relative aux loyers des locaux à usage d'habitation, ainsi que les impôts ou taxes
+qui sont liés à l'occupation des locaux. Il souscrit une assurance contre les risques dont il doit répondre en qualité
+d'occupant.
 
 **Liens relatifs à cet article**
 
@@ -20542,22 +20530,15 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. R101 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 
 ###### Article R2124-72
 
-L'occupant qui ne peut justifier d'un titre est susceptible de faire l'objet d'une mesure d'expulsion.
-
-En outre, pour toute la période pendant laquelle il occupe les locaux sans titre, notamment dans le cas où son titre est venu
-à expiration, il est astreint au paiement de la redevance fixée dans les conditions prévues à l'article R. 2124-71. Cette
-redevance est majorée de 50 % pour les six premiers mois, de 100 % au-delà.
+Un arrêté du ministre chargé du domaine précise les modalités selon lesquelles le nombre de pièces du logement auquel peut
+prétendre l'agent est déterminé en fonction de sa situation familiale.
 
 **Liens relatifs à cet article**
 
@@ -20565,30 +20546,27 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 _Cité par_:
 
   - Arrêté du 22 janvier 2013 - art. 1 (V)
   - Code général de la propriété des personnes publ... - art. R2124-73 (V)
 
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. R102 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
-
 
 ###### Article R2124-73
 
-Les concessions de logement sont, dans tous les cas, accordées à titre précaire et révocable. Leur durée est strictement
-limitée à celle pendant laquelle les intéressés occupent effectivement les emplois qui les justifient. Elles prennent fin, en
-toute hypothèse, en cas d'aliénation ou de désaffectation de l'immeuble.
+Les concessions de logement et les conventions d'occupation précaire avec astreinte sont, dans tous les cas, accordées à
+titre précaire et révocable. Leur durée est limitée à celle pendant laquelle les intéressés occupent effectivement les
+emplois qui les justifient et dans les conditions fixées par l'arrêté mentionné à l'article R. 2124-72. Elles prennent fin,
+en toute hypothèse, en cas de changement d'utilisation ou d'aliénation de l'immeuble. 
 
-Elles ne peuvent être renouvelées que dans les mêmes formes et conditions.
+Elles ne peuvent être renouvelées que dans les mêmes formes et conditions. 
 
-Lorsque la concession vient à expiration, pour quelque motif que ce soit, l'agent est tenu de libérer les lieux sans délai
-sous peine de se voir appliquer les sanctions prévues à l'article R. 2124-72.
+Lorsque les titres d'occupation viennent à expiration, pour quelque motif que ce soit, l'agent est tenu de libérer les lieux
+sans délai sous peine de se voir appliquer les sanctions prévues à l'article R. 2124-74.
 
 **Liens relatifs à cet article**
 
@@ -20596,20 +20574,24 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
-_Anciens textes_:
+_Cite_:
 
-  - Code du domaine de l'Etat - art. R99 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public.
+  - Code général de la propriété des personnes publiques. - art. R2124-72
+  - Code général de la propriété des personnes publiques. - art. R2124-74
 
 
 ###### Article R2124-74
 
-Les dispositions des articles R. 2124-64 à R. 2124-73 sont applicables aux personnels militaires du ministère de la défense,
-dans les conditions fixées par arrêté conjoint du ministre chargé des finances, du ministre chargé de la fonction publique et
-du ministre de la défense.
+L'occupant qui ne peut justifier d'un titre est susceptible de faire l'objet d'une mesure d'expulsion. 
+
+En outre, pour toute la période pendant laquelle il occupe les locaux sans titre, notamment dans le cas où son titre est venu
+à expiration, il est astreint au paiement d'une redevance fixée par le directeur départemental des finances publiques, égale
+à la valeur locative réelle des locaux occupés. Cette redevance est majorée de 50 % pour les six premiers mois, de 100 % au-
+delà.
 
 **Liens relatifs à cet article**
 
@@ -20617,13 +20599,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. R104 (V), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine public accordées en métropole.
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
 
 _Cité par_:
 
@@ -20632,6 +20610,46 @@ _Cité par_:
 
 
 ##### Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat<a id=407></a>
+
+###### Article R2124-76
+
+Les dispositions des articles R. 2124-64 à D. 2124-75-1 sont applicables aux personnels civils ou militaires de l'Etat et aux
+personnels des établissements publics de l'Etat qui occupent un logement dans un immeuble dépendant du domaine public de l'un
+de ces établissements, sous réserve des modalités fixées par le présent paragraphe. 
+
+Les établissements mentionnés au premier alinéa sont les établissements publics dont les opérations financières et comptables
+sont effectuées par un agent comptable soumis à la juridiction de la Cour des comptes. 
+
+Les concessions de logement et les conventions d'occupation précaire avec astreinte sont accordées, par l'organe compétent de
+l'établissement et en conformité avec les dispositions statutaires propres à ce dernier, aux agents qui occupent les
+fonctions définies par les arrêtés prévus au dernier alinéa de l'article R. 2124-65 et au dernier alinéa de l'article R.
+2124-68. La redevance prévue à l'article R. 2124-68 est déterminée, modifiée ou révisée par l'organe compétent de
+l'établissement. 
+
+Les sommes de toute nature dues en vertu du titre d'occupation sont prises en charge par le comptable de l'établissement qui
+en assure le recouvrement dans les conditions prévues par les textes applicables à cet établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-752 du 9 mai 2012 - art. 1
+
+_Anciens textes_:
+
+  - Code général de la propriété des personnes publ... - art. D2124-76 (T)
+
+_Cité par_:
+
+  - Code général de la propriété des personnes publ... - art. R2222-19 (V)
+  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. R2124-64
+  - Code général de la propriété des personnes publiques. - art. R2124-65
+  - Code général de la propriété des personnes publiques. - art. R2124-68
+
 
 ###### Article R2124-77
 
@@ -20690,9 +20708,35 @@ _Cite_:
   - Code de l'éducation - art. R216-4 (V)
 
 
-##### Chapitre V : Dispositions financières<a id=409></a>
+##### Section 6 : Autres utilisations du domaine public<a id=409></a>
 
-##### Section 1 : Dispositions générales<a id=410></a>
+###### Article R2124-79
+
+Sans préjudice des dispositions de l'article R. 2124-64, les immeubles du domaine public de l'Etat peuvent faire l'objet
+d'autorisations d'occupation précaire en vue de fournir un logement à ses agents civils et militaires sans que l'occupation
+de ce logement ne soit liée à des considérations de service. Dans ce cas, une redevance est mise à la charge de l'agent. Elle
+est égale, sauf disposition spéciale liée à l'usage social de l'immeuble, à la valeur locative réelle des locaux occupés,
+déduction faite d'un abattement de 15 % destiné à tenir compte de la précarité de l'occupation mentionnée dans
+l'autorisation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-752 du 9 mai 2012 - art. 3
+
+_Cité par_:
+
+  - Décret n°2012-752 du 9 mai 2012 - art. 8 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. R2124-64
+
+
+##### Chapitre V : Dispositions financières<a id=410></a>
+
+##### Section 1 : Dispositions générales<a id=411></a>
 
 ###### Article R2125-1
 
@@ -20880,7 +20924,7 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 2 : Dispositions particulières au domaine public fluvial<a id=411></a>
+##### Section 2 : Dispositions particulières au domaine public fluvial<a id=412></a>
 
 ###### Article R2125-7
 
@@ -21144,7 +21188,7 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 3 : Dispositions particulières à certaines occupations<a id=412></a>
+##### Section 3 : Dispositions particulières à certaines occupations<a id=413></a>
 
 ###### Article R2125-14
 
@@ -21224,11 +21268,11 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R57-15 (Ab)
 
 
-#### TITRE III : PROTECTION DU DOMAINE PUBLIC<a id=413></a>
+#### TITRE III : PROTECTION DU DOMAINE PUBLIC<a id=414></a>
 
-##### Chapitre II : Police de la conservation<a id=414></a>
+##### Chapitre II : Police de la conservation<a id=415></a>
 
-##### Section 1 : Contraventions de voirie routière<a id=415></a>
+##### Section 1 : Contraventions de voirie routière<a id=416></a>
 
 ###### Article R2132-1
 
@@ -21250,9 +21294,9 @@ _Cite_:
   - Code de la voirie routière - art. R*116-1 (V)
 
 
-#### TITRE IV : SORTIE DES BIENS DU DOMAINE PUBLIC<a id=416></a>
+#### TITRE IV : SORTIE DES BIENS DU DOMAINE PUBLIC<a id=417></a>
 
-##### Chapitre Ier : Règles générales<a id=417></a>
+##### Chapitre Ier : Règles générales<a id=418></a>
 
 ###### Article D2141-1
 
@@ -21283,7 +21327,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Chapitre II : Règles particulières au domaine public fluvial<a id=418></a>
+##### Chapitre II : Règles particulières au domaine public fluvial<a id=419></a>
 
 ###### Article R2142-1
 
@@ -21362,15 +21406,15 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1311-8 (V)
 
 
-### LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ<a id=419></a>
+### LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ<a id=420></a>
 
-#### TITRE II : UTILISATION DU DOMAINE PRIVÉ<a id=420></a>
+#### TITRE II : UTILISATION DU DOMAINE PRIVÉ<a id=421></a>
 
-##### Chapitre II : Dispositions particulières<a id=421></a>
+##### Chapitre II : Dispositions particulières<a id=422></a>
 
-##### Section 1 : Location, mise à disposition et affectation<a id=422></a>
+##### Section 1 : Location, mise à disposition et affectation<a id=423></a>
 
-##### Sous-section 1 : Domaine immobilier<a id=423></a>
+##### Sous-section 1 : Domaine immobilier<a id=424></a>
 
 ###### Article R2222-1
 
@@ -21480,6 +21524,30 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3211-11 (V)
 
 
+###### Article R2222-4-1
+
+Sans préjudice des dispositions de l'article R. 2222-18, les immeubles du domaine privé de l'Etat peuvent faire l'objet de
+baux en vue de fournir un logement à ses agents civils et militaires sans que l'occupation de ce logement ne soit liée à des
+considérations de service. Dans ce cas, un loyer est mis à la charge de l'agent. Il est égal, sauf disposition spéciale liée
+à l'usage social de l'immeuble, à la valeur locative réelle des locaux occupés, déduction faite d'un abattement de 15 %
+destiné à tenir compte de la précarité de l'occupation mentionnée dans le bail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-752 du 9 mai 2012 - art. 4
+
+_Cité par_:
+
+  - Décret n°2012-752 du 9 mai 2012 - art. 8 (V)
+  - Code général de la propriété des personnes publ... - art. R5211-1 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. R2222-18
+
+
 ###### Article R2222-5
 
 Les baux des communes, des départements et des régions sont passés dans les conditions prévues respectivement au premier
@@ -21500,7 +21568,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R2241-1 (M)
 
 
-##### Sous-section 2 : Domaine mobilier<a id=424></a>
+##### Sous-section 2 : Domaine mobilier<a id=425></a>
 
 ###### Article R2222-6
 
@@ -21550,11 +21618,11 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 2 : Gestion confiée à des tiers<a id=425></a>
+##### Section 2 : Gestion confiée à des tiers<a id=426></a>
 
-##### Sous-section 1 : Gestion confiée à des tiers par l'Etat<a id=426></a>
+##### Sous-section 1 : Gestion confiée à des tiers par l'Etat<a id=427></a>
 
-##### Paragraphe 1 : Convention de gestion<a id=427></a>
+##### Paragraphe 1 : Convention de gestion<a id=428></a>
 
 ###### Article R2222-8
 
@@ -21838,7 +21906,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2222-9 (V)
 
 
-##### Paragraphe 2 : Contrat de gérance<a id=428></a>
+##### Paragraphe 2 : Contrat de gérance<a id=429></a>
 
 ###### Article R2222-16
 
@@ -21875,7 +21943,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*422-1 (V)
 
 
-##### Sous-section 2 : Gestion confiée à des tiers par les collectivités territoriales,  leurs groupements et leurs établissements publics<a id=429></a>
+##### Sous-section 2 : Gestion confiée à des tiers par les collectivités territoriales,  leurs groupements et leurs établissements publics<a id=430></a>
 
 ###### Article R2222-17
 
@@ -21903,19 +21971,17 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*422-1 (V)
 
 
-##### Section 3 : Concessions de logement<a id=430></a>
+##### Section 3 : Concessions de logement<a id=431></a>
 
-##### Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics<a id=431></a>
+##### Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics<a id=432></a>
 
-##### Paragraphe 1 : Concessions de logement  dans les immeubles appartenant à l'Etat<a id=432></a>
+##### Paragraphe 1 : Concessions de logement  dans les immeubles appartenant à l'Etat<a id=433></a>
 
 ###### Article R2222-18
 
 Dans les immeubles dépendant de son domaine privé, l'Etat peut accorder à ses agents civils ou militaires une concession de
-logement, par nécessité absolue de service ou par utilité de service, dans les conditions prévues aux articles R. 2124-65 à
-D. 2124-76. 
-
-L'occupation d'un logement, étrangère à toute considération de service, peut faire l'objet d'un bail.
+logement par nécessité absolue de service ou une convention d'occupation précaire avec astreinte, dans les conditions prévues
+aux articles R. 2124-65 à D. 2124-75-1.
 
 **Liens relatifs à cet article**
 
@@ -21923,9 +21989,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2012-752 du 9 mai 2012 - art. 2
 
 _Anciens textes_:
 
@@ -21944,22 +22010,22 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R98 (Ab), alinéa 1, ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
   - Code du domaine de l'Etat - art. R99 (Ab), ecqc les concessions de logement dans les immeubles appartenant à l'Etat et dépendant de son domaine privé.
 
-_Cite_:
-
-  - Code général de la propriété des personnes publ... - art. R2124-65 (V)
-
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. R2222-4-1 (V)
 
+_Cite_:
 
-##### Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat<a id=433></a>
+  - Code général de la propriété des personnes publiques. - art. R2124-65
+
+
+##### Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat<a id=434></a>
 
 ###### Article R2222-19
 
-Un logement peut être concédé aux personnels civils ou militaires de l'Etat et aux personnels civils des établissements
+Un logement peut être accordé aux personnels civils ou militaires de l'Etat et aux personnels civils des établissements
 publics de l'Etat dans un immeuble dépendant du domaine privé de l'un de ces établissements publics, dans les conditions
-fixées à l'article R. 2124-77.
+fixées à l'article R. 2124-76.
 
 **Liens relatifs à cet article**
 
@@ -21967,21 +22033,16 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. A93-1 (V), ecqc les concessions de logement dans les immeubles appartenant aux établissements publics et dépendant de leur domaine privé. accordées en métropole.
-  - Code du domaine de l'Etat - art. D13 (Ab), ecqc les concessions de logement dans les immeubles appartenant aux établissements publics et dépendant de leur domaine privé.
+  - Décret n°2012-752 du 9 mai 2012 - art. 2
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R2124-77 (V)
+  - Code général de la propriété des personnes publiques. - art. R2124-76
 
 
-##### Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales,à leurs groupements et à leurs établissements publics<a id=434></a>
+##### Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales,à leurs groupements et à leurs établissements publics<a id=435></a>
 
 ###### Article R2222-20
 
@@ -22003,9 +22064,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2124-78 (V)
 
 
-##### Section 4 : Révision des libéralités et restitution de biens<a id=435></a>
+##### Section 4 : Révision des libéralités et restitution de biens<a id=436></a>
 
-##### Sous-section 1 : Dispositions applicables à l'Etat<a id=436></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat<a id=437></a>
 
 ###### Article R2222-21
 
@@ -22259,7 +22320,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2321-9 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux établissements publics de l'Etat<a id=437></a>
+##### Sous-section 2 : Dispositions applicables aux établissements publics de l'Etat<a id=438></a>
 
 ###### Article R2222-28
 
@@ -22327,7 +22388,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2222-24 (V)
 
 
-##### Sous-section 3 : Dispositions communes à l'Etat et à ses établissements publics<a id=438></a>
+##### Sous-section 3 : Dispositions communes à l'Etat et à ses établissements publics<a id=439></a>
 
 ###### Article R2222-30
 
@@ -22405,7 +22466,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R42 (Ab), alinéa 4.
 
 
-##### Section 5 : Sommes et valeurs prescrites<a id=439></a>
+##### Section 5 : Sommes et valeurs prescrites<a id=440></a>
 
 ###### Article R2222-33
 
@@ -22451,7 +22512,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1126-1 (V)
 
 
-##### Section 6 : Mise en valeur des terres incultes  ou manifestement sous-exploitées<a id=440></a>
+##### Section 6 : Mise en valeur des terres incultes  ou manifestement sous-exploitées<a id=441></a>
 
 ###### Article R2222-35
 
@@ -22480,7 +22541,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Section 7 : Administration du domaine forestier<a id=441></a>
+##### Section 7 : Administration du domaine forestier<a id=442></a>
 
 ###### Article R2222-36
 
@@ -22522,13 +22583,13 @@ _Cite_:
   - Code forestier - art. L121-2 (V)
 
 
-### LIVRE III : DISPOSITIONS COMMUNES<a id=442></a>
+### LIVRE III : DISPOSITIONS COMMUNES<a id=443></a>
 
-#### TITRE Ier : INSAISISSABILITÉ, IMPLANTATION  ET ATTRIBUTION DES BIENS<a id=443></a>
+#### TITRE Ier : INSAISISSABILITÉ, IMPLANTATION  ET ATTRIBUTION DES BIENS<a id=444></a>
 
-##### Chapitre II : Implantation et inventaire<a id=444></a>
+##### Chapitre II : Implantation et inventaire<a id=445></a>
 
-##### Section 1 : Biens situés à l'étranger<a id=445></a>
+##### Section 1 : Biens situés à l'étranger<a id=446></a>
 
 ###### Article D2312-3
 
@@ -22606,7 +22667,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1221-2 (V)
 
 
-##### Section 2 : Biens situés en France<a id=446></a>
+##### Section 2 : Biens situés en France<a id=447></a>
 
 ###### Article R2312-4
 
@@ -22629,9 +22690,9 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 3 : Inventaire<a id=447></a>
+##### Section 3 : Inventaire<a id=448></a>
 
-##### Sous-section 1 : Domaine immobilier<a id=448></a>
+##### Sous-section 1 : Domaine immobilier<a id=449></a>
 
 ###### Article D2312-6
 
@@ -22683,7 +22744,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R52 (Ab), ecqc les biens appartenant à l'Etat ou à ses établissements publics administratifs.
 
 
-##### Sous-section 2 : Domaine mobilier<a id=449></a>
+##### Sous-section 2 : Domaine mobilier<a id=450></a>
 
 ###### Article R2312-7
 
@@ -22713,7 +22774,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R112 (Ab)
 
 
-##### Section 4 : Délégations et représentations<a id=450></a>
+##### Section 4 : Délégations et représentations<a id=451></a>
 
 ###### Article D2312-8
 
@@ -22762,7 +22823,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R152 (Ab), ecqc les opérations de gestion.
 
 
-##### Chapitre III : Attribution<a id=451></a>
+##### Chapitre III : Attribution<a id=452></a>
 
 ###### Article R2313-1
 
@@ -22986,11 +23047,11 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2313-1 (V)
 
 
-#### TITRE II : PRODUITS ET REDEVANCES DU DOMAINE<a id=452></a>
+#### TITRE II : PRODUITS ET REDEVANCES DU DOMAINE<a id=453></a>
 
-##### Chapitre Ier : Constatation et perception<a id=453></a>
+##### Chapitre Ier : Constatation et perception<a id=454></a>
 
-##### Section 1 : Autorités compétentes<a id=454></a>
+##### Section 1 : Autorités compétentes<a id=455></a>
 
 ###### Article D2321-5
 
@@ -23119,7 +23180,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Section 2 : Prescriptions<a id=455></a>
+##### Section 2 : Prescriptions<a id=456></a>
 
 ###### Article R2321-6
 
@@ -23145,7 +23206,7 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 3 : Seuil de mise en recouvrement<a id=456></a>
+##### Section 3 : Seuil de mise en recouvrement<a id=457></a>
 
 ###### Article D2321-7
 
@@ -23196,7 +23257,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. D1611-1 (V)
 
 
-##### Section 4 : Prélèvement pour frais d'administration,  de vente et de recouvrement<a id=457></a>
+##### Section 4 : Prélèvement pour frais d'administration,  de vente et de recouvrement<a id=458></a>
 
 ###### Article R2321-9
 
@@ -23232,9 +23293,9 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. L77 (Ab), alinéas 1 et 2.
 
 
-##### Chapitre III : Action en recouvrement<a id=458></a>
+##### Chapitre III : Action en recouvrement<a id=459></a>
 
-##### Section 1 : Exercice des poursuites<a id=459></a>
+##### Section 1 : Exercice des poursuites<a id=460></a>
 
 ###### Article R2323-1
 
@@ -23283,9 +23344,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1617-22 (V)
 
 
-##### Section 2 : Contentieux du recouvrement<a id=460></a>
+##### Section 2 : Contentieux du recouvrement<a id=461></a>
 
-##### Sous-section 1 : Dispositions applicables à l'Etat<a id=461></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat<a id=462></a>
 
 ###### Article R2323-3
 
@@ -23358,7 +23419,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R*283-1 (V)
 
 
-##### Sous-section 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=462></a>
+##### Sous-section 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=463></a>
 
 ###### Article R2323-6
 
@@ -23384,11 +23445,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. R4341-4 (V)
 
 
-#### TITRE III : CONTENTIEUX<a id=463></a>
+#### TITRE III : CONTENTIEUX<a id=464></a>
 
-##### Chapitre unique<a id=464></a>
+##### Chapitre unique<a id=465></a>
 
-##### Section 1 : Exercice des fonctions de contentieux  au sein de l'Etat<a id=465></a>
+##### Section 1 : Exercice des fonctions de contentieux  au sein de l'Etat<a id=466></a>
 
 ###### Article R2331-1
 
@@ -23595,9 +23656,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2331-1 (V)
 
 
-##### Section 2 : Procédures contentieuses<a id=466></a>
+##### Section 2 : Procédures contentieuses<a id=467></a>
 
-##### Sous-section 1 : Procédure devant la juridiction administrative<a id=467></a>
+##### Sous-section 1 : Procédure devant la juridiction administrative<a id=468></a>
 
 ###### Article R2331-7
 
@@ -23623,7 +23684,7 @@ _Cite_:
   - Code de justice administrative (V)
 
 
-##### Sous-section 2 : Procédure devant la juridiction judiciaire<a id=468></a>
+##### Sous-section 2 : Procédure devant la juridiction judiciaire<a id=469></a>
 
 ###### Article R2331-8
 
@@ -23737,13 +23798,13 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R4111-11 (V)
 
 
-## TROISIÈME PARTIE : CESSION<a id=469></a>
+## TROISIÈME PARTIE : CESSION<a id=470></a>
 
-### LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC<a id=470></a>
+### LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC<a id=471></a>
 
-#### TITRE UNIQUE : INALIÉNABILITÉ ET IMPRESCRIPTIBILITÉ<a id=471></a>
+#### TITRE UNIQUE : INALIÉNABILITÉ ET IMPRESCRIPTIBILITÉ<a id=472></a>
 
-##### Chapitre III : Transfert de propriété du domaine public fluvial<a id=472></a>
+##### Chapitre III : Transfert de propriété du domaine public fluvial<a id=473></a>
 
 ###### Article R3113-1
 
@@ -23952,19 +24013,19 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3113-5 (V)
 
 
-### LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ<a id=473></a>
+### LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ<a id=474></a>
 
-#### TITRE Ier : MODES DE CESSION<a id=474></a>
+#### TITRE Ier : MODES DE CESSION<a id=475></a>
 
-##### Chapitre Ier : Cessions à titre onéreux<a id=475></a>
+##### Chapitre Ier : Cessions à titre onéreux<a id=476></a>
 
-##### Section 1 : Vente<a id=476></a>
+##### Section 1 : Vente<a id=477></a>
 
-##### Sous-section 1 : Domaine immobilier<a id=477></a>
+##### Sous-section 1 : Domaine immobilier<a id=478></a>
 
-##### Paragraphe 1 : Dispositions applicables à l'Etat<a id=478></a>
+##### Paragraphe 1 : Dispositions applicables à l'Etat<a id=479></a>
 
-##### Sous-paragraphe 1 : Dispositions générales<a id=479></a>
+##### Sous-paragraphe 1 : Dispositions générales<a id=480></a>
 
 ###### Article R3211-1
 
@@ -24246,7 +24307,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L3211-12 (V)
 
 
-##### Sous-paragraphe 2 : Dispositions particulières<a id=480></a>
+##### Sous-paragraphe 2 : Dispositions particulières<a id=481></a>
 
 ###### Article D3211-29
 
@@ -24960,7 +25021,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Paragraphe 2 : Dispositions applicables aux établissements publics de l'Etat<a id=481></a>
+##### Paragraphe 2 : Dispositions applicables aux établissements publics de l'Etat<a id=482></a>
 
 ###### Article R3211-31
 
@@ -25019,7 +25080,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 198 septies (V)
 
 
-##### Paragraphe 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=482></a>
+##### Paragraphe 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=483></a>
 
 ###### Article R3211-33
 
@@ -25048,7 +25109,7 @@ _Cite_:
   - Code rural - art. R142-9 (V)
 
 
-##### Paragraphe 4 : Dispositions communes à l'Etat,  aux collectivités territoriales et à leurs groupements<a id=483></a>
+##### Paragraphe 4 : Dispositions communes à l'Etat,  aux collectivités territoriales et à leurs groupements<a id=484></a>
 
 ###### Article R3211-34
 
@@ -25090,7 +25151,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3211-19 (V)
 
 
-##### Sous-section 2 : Domaine mobilier<a id=484></a>
+##### Sous-section 2 : Domaine mobilier<a id=485></a>
 
 ###### Article R3211-35
 
@@ -25342,9 +25403,9 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 2 : Autres modes<a id=485></a>
+##### Section 2 : Autres modes<a id=486></a>
 
-##### Sous-section 1 : Echange<a id=486></a>
+##### Sous-section 1 : Echange<a id=487></a>
 
 ###### Article R3211-43
 
@@ -25451,7 +25512,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3211-43 (V)
 
 
-##### Sous-section 2 : Apport<a id=487></a>
+##### Sous-section 2 : Apport<a id=488></a>
 
 ###### Article R3211-47
 
@@ -25488,9 +25549,9 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5241-5 (V)
 
 
-##### Chapitre II : Cessions à titre gratuit<a id=488></a>
+##### Chapitre II : Cessions à titre gratuit<a id=489></a>
 
-##### Section 1 : Domaine immobilier<a id=489></a>
+##### Section 1 : Domaine immobilier<a id=490></a>
 
 ###### Article R3212-1
 
@@ -25517,9 +25578,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L3212-1 (V)
 
 
-##### Section 2 : Domaine mobilier<a id=490></a>
+##### Section 2 : Domaine mobilier<a id=491></a>
 
-##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=491></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=492></a>
 
 ###### Article D3212-3
 
@@ -25602,7 +25663,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L3212-2 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=492></a>
+##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=493></a>
 
 ###### Article D3212-5
 
@@ -25656,15 +25717,15 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L3212-3 (V)
 
 
-#### TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE<a id=493></a>
+#### TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE<a id=494></a>
 
-##### Chapitre Ier : Ventes<a id=494></a>
+##### Chapitre Ier : Ventes<a id=495></a>
 
-##### Section 1 : Domaine immobilier<a id=495></a>
+##### Section 1 : Domaine immobilier<a id=496></a>
 
-##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=496></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=497></a>
 
-##### Paragraphe 1 : Réalisation par l'administration chargée des domaines de cessions  pour le compte des services et des établissements publics de l'Etat<a id=497></a>
+##### Paragraphe 1 : Réalisation par l'administration chargée des domaines de cessions  pour le compte des services et des établissements publics de l'Etat<a id=498></a>
 
 ###### Article R3221-1
 
@@ -25763,7 +25824,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3221-1 (V)
 
 
-##### Paragraphe 2 : Délégations et représentations<a id=498></a>
+##### Paragraphe 2 : Délégations et représentations<a id=499></a>
 
 ###### Article D3221-4
 
@@ -25812,7 +25873,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R152 (Ab), ecqc les opérations de cessions immobilières.
 
 
-##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=499></a>
+##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=500></a>
 
 ###### Article R3221-6
 
@@ -25867,7 +25928,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Sous-section 3 : Dispositions applicables  aux établissements publics fonciers locaux<a id=500></a>
+##### Sous-section 3 : Dispositions applicables  aux établissements publics fonciers locaux<a id=501></a>
 
 ###### Article R3221-8
 
@@ -25896,7 +25957,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L3221-2 (V)
 
 
-##### Sous-section 4 : Dispositions applicables aux établissements publics  d'habitations à loyer modéré<a id=501></a>
+##### Sous-section 4 : Dispositions applicables aux établissements publics  d'habitations à loyer modéré<a id=502></a>
 
 ###### Article R3221-9
 
@@ -25918,7 +25979,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*451-10 (V)
 
 
-##### Sous-section 5 : Dispositions applicables aux biens situés à l'étranger<a id=502></a>
+##### Sous-section 5 : Dispositions applicables aux biens situés à l'étranger<a id=503></a>
 
 ###### Article D3221-12
 
@@ -25993,7 +26054,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1221-2 (V)
 
 
-##### Section 2 : Domaine mobilier<a id=503></a>
+##### Section 2 : Domaine mobilier<a id=504></a>
 
 ###### Article D3221-16
 
@@ -26105,9 +26166,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1221-2 (V)
 
 
-##### Chapitre II : Echange<a id=504></a>
+##### Chapitre II : Echange<a id=505></a>
 
-##### Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=505></a>
+##### Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=506></a>
 
 ###### Article D3222-1
 
@@ -26156,7 +26217,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R152 (Ab), ecqc les opérations d'échange de biens immobiliers.
 
 
-##### Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=506></a>
+##### Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=507></a>
 
 ###### Article R3222-3
 
@@ -26189,7 +26250,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5242-1 (V)
 
 
-##### Section 3 : Dispositions applicables  aux établissements publics fonciers locaux<a id=507></a>
+##### Section 3 : Dispositions applicables  aux établissements publics fonciers locaux<a id=508></a>
 
 ###### Article R3222-4
 
@@ -26222,7 +26283,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-#### TITRE III : CONTENTIEUX<a id=508></a>
+#### TITRE III : CONTENTIEUX<a id=509></a>
 
 ###### Article R3231-1
 
@@ -26281,15 +26342,15 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3231-1 (V)
 
 
-## QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES  DES PERSONNES PUBLIQUES<a id=509></a>
+## QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES  DES PERSONNES PUBLIQUES<a id=510></a>
 
-### LIVRE Ier : RÉALISATION DES OPÉRATIONS IMMOBILIÈRES<a id=510></a>
+### LIVRE Ier : RÉALISATION DES OPÉRATIONS IMMOBILIÈRES<a id=511></a>
 
-#### TITRE Ier : PRISES À BAIL<a id=511></a>
+#### TITRE Ier : PRISES À BAIL<a id=512></a>
 
-##### Chapitre Ier : Biens situés en France<a id=512></a>
+##### Chapitre Ier : Biens situés en France<a id=513></a>
 
-##### Section 1 : Consultation préalable<a id=513></a>
+##### Section 1 : Consultation préalable<a id=514></a>
 
 ###### Article R4111-1
 
@@ -26324,7 +26385,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R4111-6 (V)
 
 
-##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=514></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=515></a>
 
 ###### Article R4111-2
 
@@ -26471,7 +26532,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R4111-5 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=515></a>
+##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=516></a>
 
 ###### Article R4111-7
 
@@ -26495,7 +26556,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1311-3 (V)
 
 
-##### Section 2 : Passation des actes<a id=516></a>
+##### Section 2 : Passation des actes<a id=517></a>
 
 ###### Article R4111-8
 
@@ -26522,7 +26583,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R4111-11 (V)
 
 
-##### Section 3 : Délégations et représentations<a id=517></a>
+##### Section 3 : Délégations et représentations<a id=518></a>
 
 ###### Article D4111-9
 
@@ -26571,7 +26632,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R152 (Ab), alinéas 1 et 2, ecqc  les prises en location.
 
 
-##### Section 4 : Contentieux<a id=518></a>
+##### Section 4 : Contentieux<a id=519></a>
 
 ###### Article R4111-11
 
@@ -26607,16 +26668,16 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R4111-8 (V)
 
 
-#### TITRE II : BIENS SITUÉS À L'ÉTRANGER<a id=519></a>
+##### Chapitre II : Biens situés à l'étranger<a id=520></a>
 
 ###### Article D4112-3
 
 La commission interministérielle mentionnée aux articles D. 1221-3 à D. 1221-6 est chargée d'émettre un avis sur les projets
 de prise à bail d'immeubles poursuivis à l'étranger par l'Etat lorsque le montant du loyer annuel, charges comprises, est
-égal ou supérieur à un montant fixé par arrêté du ministre chargé du domaine et du ministre des affaires étrangères. 
+égal ou supérieur à un montant fixé par arrêté du ministre chargé du domaine et du ministre des affaires étrangères.
 
 Il ne peut être passé outre à son avis défavorable que par décision conjointe du ministre chargé du domaine, du ministre des
-affaires étrangères et, le cas échéant, du ministre intéressé. 
+affaires étrangères et, le cas échéant, du ministre intéressé.
 
 Lorsqu'il n'est pas justifié de l'avis de la commission ou, le cas échéant, de la décision de passer outre mentionnée au
 deuxième alinéa, il est fait défense, d'une part, aux membres du corps de contrôle général économique et financier de viser
@@ -26629,17 +26690,13 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. D36 (Ab), ecqc les prises à bail d'immeubles à l'étranger.
+  - DEPLACE: Décret n°2012-752 du 9 mai 2012 - art. 5
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. D1221-3 (V)
+  - Code général de la propriété des personnes publiques. - art. D1221-3
 
 
 ###### Article R4112-1
@@ -26654,13 +26711,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. R152 (Ab), alinéa 4, ecqc les opérations de prise à bail de biens.
+  - DEPLACE: Décret n°2012-752 du 9 mai 2012 - art. 5
 
 
 ###### Article R4112-2
@@ -26674,20 +26727,20 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - DEPLACE: Décret n°2012-752 du 9 mai 2012 - art. 5
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R1221-2 (V)
+  - Code général de la propriété des personnes publiques. - art. R1221-2
 
 
-#### TITRE III : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT<a id=520></a>
+#### TITRE III : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT<a id=521></a>
 
-##### Chapitre unique<a id=521></a>
+##### Chapitre unique<a id=522></a>
 
-##### Section 1 : Mise en location<a id=522></a>
+##### Section 1 : Mise en location<a id=523></a>
 
 ###### Article R4121-1
 
@@ -26711,7 +26764,31 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2222-1 (V)
 
 
-##### Section 2 : Attribution<a id=523></a>
+###### Article R4121-1-1
+
+Sans préjudice des dispositions de l'article R. 4121-3, les immeubles dont l'Etat a la jouissance ou qu'il détient à un titre
+quelconque peuvent faire l'objet de baux en vue de fournir un logement à ses agents civils et militaires sans que
+l'occupation de ce logement ne soit liée à des considérations de service. Dans ce cas, un loyer est mis à la charge de
+l'agent. Il est égal, sauf disposition spéciale liée à l'usage social de l'immeuble, à la valeur locative réelle des locaux
+occupés, déduction faite d'un abattement de 15 % destiné à tenir compte de la précarité de l'occupation mentionnée dans le
+bail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-752 du 9 mai 2012 - art. 6
+
+_Cité par_:
+
+  - Code général de la propriété des personnes publ... - art. R5211-1 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. R4121-3
+
+
+##### Section 2 : Attribution<a id=524></a>
 
 ###### Article R4121-2
 
@@ -26781,24 +26858,27 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2313-1 (V)
 
 
-##### Section 3 : Concessions de logement<a id=524></a>
+##### Section 3 : Concessions de logement<a id=525></a>
 
 ###### Article R4121-3
 
 Pour l'application des dispositions de l'article L. 4121-1, l'Etat peut accorder à ses agents civils ou militaires une
-concession de logement dans les immeubles dont il a la jouissance ou qu'il détient à un titre quelconque sans en avoir la
-propriété, par nécessité absolue de service ou par utilité de service, dans les conditions prévues aux articles R. 2124-65 à
-D. 2124-76. 
+concession de logement par nécessité absolue de service ou une convention d'occupation précaire avec astreinte, dans les
+conditions prévues aux articles R. 2124-65 à D. 2124-75-1, sous réserve des modalités prévues au présent article et à
+l'article R. 4121-3-1.
 
-L'occupation du logement étrangère à toute considération de service peut faire l'objet d'un bail. 
+Ces dispositions sont également applicables aux personnels civils ou militaires de l'Etat et aux personnels des
+établissements publics de l'Etat qui occupent un logement dans un immeuble détenu par l'un de ces établissements publics à un
+titre quelconque dans les conditions fixées à l'article R. 2124-76. 
 
-Ces dispositions sont applicables aux personnels civils ou militaires de l'Etat et aux personnels civils des établissements
-publics de l'Etat qui occupent un logement dans un immeuble détenu par l'un de ces établissements publics à un titre
-quelconque dans les conditions fixées par arrêté conjoint du ministre chargé des finances, du ministre chargé de la fonction
-publique, du ministre de la défense et du ministre chargé de l'outre-mer. 
+Toutefois, lorsque le logement est situé dans un immeuble appartenant à l'Etat mis à la disposition d'un établissement
+public, le directeur départemental des finances publiques est compétent pour déterminer la redevance prévue à l'article R.
+2124-68 et pour la réviser ou la modifier. 
 
-Les établissements publics mentionnés au troisième alinéa sont ceux dont les opérations financières et comptables sont
-effectuées par un agent comptable soumis à la juridiction de la Cour des comptes.
+Le directeur de l'établissement adresse au directeur départemental des finances publiques, chaque année avant le 31 mars,
+l'état détaillé des concessions de logement par nécessité absolue de service et des conventions d'occupation précaire avec
+astreinte ainsi que des autorisations d'occupation précaire ou des baux qu'il a accordés au cours de l'année civile
+précédente.
 
 **Liens relatifs à cet article**
 
@@ -26806,41 +26886,46 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. A93-1 (V), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par les établissements publics.
-  - Code du domaine de l'Etat - art. D13 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par les établissements publics.
-  - Code du domaine de l'Etat - art. D14 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat accordées en métropole.
-  - Code du domaine de l'Etat - art. D15 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat accordées en métropole.
-  - Code du domaine de l'Etat - art. R100 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-  - Code du domaine de l'Etat - art. R101 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-  - Code du domaine de l'Etat - art. R102 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-  - Code du domaine de l'Etat - art. R104 (V), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat accordées en métropole.
-  - Code du domaine de l'Etat - art. R92 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-  - Code du domaine de l'Etat - art. R93 (Ab), alinéa 1, ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-  - Code du domaine de l'Etat - art. R94 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-  - Code du domaine de l'Etat - art. R95 (Ab), alinéa 1, ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-  - Code du domaine de l'Etat - art. R96 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-  - Code du domaine de l'Etat - art. R97 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-  - Code du domaine de l'Etat - art. R98 (Ab), alinéa 1, ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-  - Code du domaine de l'Etat - art. R99 (Ab), ecqc les concessions de logements accordées dans les immeubles détenus en jouissance par l'Etat.
-
-_Cite_:
-
-  - Code général de la propriété des personnes publ... - art. L4121-1 (V)
-  - Code général de la propriété des personnes publ... - art. R2124-65 (V)
+  - Décret n°2012-752 du 9 mai 2012 - art. 7
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. R4121-1-1 (V)
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
+_Cite_:
 
-##### Section 4 : Inventaire<a id=525></a>
+  - Code général de la propriété des personnes publ... - art. R4121-3-1 (V)
+  - Code général de la propriété des personnes publiques. - art. L4121-1
+  - Code général de la propriété des personnes publiques. - art. R2124-65
+  - Code général de la propriété des personnes publiques. - art. R2124-68
+  - Code général de la propriété des personnes publiques. - art. R2124-76
+
+
+###### Article R4121-3-1
+
+A l'exception des cas où le logement est situé dans un immeuble appartenant à l'Etat et mis à la disposition d'un
+établissement public, la concession de logement ou la convention d'occupation précaire avec astreinte est accordée dans la
+limite d'une superficie déterminée par arrêté du ministre chargé du domaine. 
+
+Lorsque la superficie des locaux occupés est supérieure à cette limite, le loyer correspondant à la superficie excédentaire
+est mis à la charge du bénéficiaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-752 du 9 mai 2012 - art. 7
+
+_Cité par_:
+
+  - Arrêté du 22 janvier 2013 - art. 2 (V)
+  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
+
+
+##### Section 4 : Inventaire<a id=526></a>
 
 ###### Article D4121-5
 
@@ -26889,7 +26974,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. D4121-5 (V)
 
 
-##### Section 5 : Biens situés à l'étranger<a id=526></a>
+##### Section 5 : Biens situés à l'étranger<a id=527></a>
 
 ###### Article D4121-6
 
@@ -26921,7 +27006,11 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. D1221-3 (V)
 
 
-## ANNEXE<a id=527></a>
+#### TITRE II : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT<a id=528></a>
+
+##### Chapitre unique<a id=529></a>
+
+## ANNEXE<a id=530></a>
 
 ###### Article Annexe à l'article R3113-2
 
