@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2013-04-17
+Version Consolidée au 2013-05-25
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -13074,8 +13074,7 @@ suivantes :
 
 3° Les immeubles en nature de bois et forêts ou espaces naturels pouvant être incorporés au domaine forestier de l'Etat ; 
 
-4° Les blocs de titres de sociétés cotées, les titres d'organismes de placement collectif en valeurs mobilières investis en
-titres de sociétés cotées ou en obligations négociables et les obligations négociables.
+4° Abrogé.
 
 **Liens relatifs à cet article**
 
@@ -13083,13 +13082,13 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2013-420 du 23 mai 2013 - art. 11 (V)
 
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 384 A (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 384 A
 
 _Cité par_:
 
