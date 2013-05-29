@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2013-05-25
+Version Consolidée au 2013-05-30
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -1440,29 +1440,30 @@ L'abandon présumé du bateau, navire, engin flottant ou établissement flottant
 l'article L. 2132-23. Le constat est affiché sur le bien concerné et notifié au dernier propriétaire s'il est connu, en même
 temps qu'une mise en demeure de faire cesser l'état d'abandon. 
 
-Si aucun propriétaire, gardien ou conducteur ne s'est manifesté dans un délai de six mois, l'autorité administrative
-compétente déclare abandonné le bateau, navire, engin flottant ou établissement flottant et en transfère la propriété au
-gestionnaire du domaine public fluvial concerné. Le gestionnaire peut procéder à la vente du bien à l'expiration d'un délai
-de deux mois et sous réserve des droits des créanciers privilégiés et hypothécaires ou procéder à sa destruction à
-l'expiration de ce même délai, si sa valeur marchande ne justifie pas sa mise en vente.
+Si aucun propriétaire, gardien ou conducteur ne s'est manifesté ou s'il n'a pas pris les mesures de manœuvre ou d'entretien
+nécessaires pour faire cesser l'état d'abandon, dans un délai de six mois, l'autorité administrative compétente déclare
+abandonné le bateau, navire, engin flottant ou établissement flottant et en transfère la propriété au gestionnaire du domaine
+public fluvial concerné. Le gestionnaire peut procéder à la vente du bien à l'expiration d'un délai de deux mois et sous
+réserve des droits des créanciers privilégiés et hypothécaires ou procéder à sa destruction à l'expiration de ce même délai,
+si sa valeur marchande ne justifie pas sa mise en vente.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-1772 du 30 décembre 2006 - art. 68 () JORF 31 décembre 2006
-
-_Cite_:
-
-  - Code général de la propriété des personnes publ... - art. L2132-23 (VT)
+  - Loi n°2013-431 du 28 mai 2013 - art. 24
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. L5161-1 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L2132-23
 
 
 ### LIVRE  II : PROCÉDURES D'ACQUISITION<a id=33></a>
@@ -5068,15 +5069,24 @@ _Modifié par_:
 
 ###### Article L2132-23
 
-Outre les agents mentionnés à l'article L. 2132-21, les fonctionnaires des collectivités territoriales et de leurs
-groupements, les adjoints au maire, les gardes champêtres et les personnels de Voies navigables de France sur le domaine qui
-lui a été confié ont compétence pour constater concurremment les contraventions en matière de grande voirie fixées par les
-articles L. 2132-5 à L. 2132-10, 
-L. 2132-16, L. 2132-17 et les textes pris pour leur application. 
+Ont compétence pour constater concurremment les contraventions en matière de grande voirie définies aux articles L. 2132-5 à
+L. 2132-10, L. 2132-16 et L. 2132-17 : 
+
+1° Les fonctionnaires des collectivités territoriales et de leurs groupements ; 
+
+2° Les adjoints au maire et les gardes champêtres ; 
+
+3° Les personnels de Voies navigables de France sur le domaine qui lui a été confié, assermentés à cet effet devant le
+tribunal de grande instance ; 
+
+4° Les agents des ports autonomes fluviaux sur le domaine appartenant à ces ports ou qui leur a été confié, assermentés à cet
+effet devant le tribunal de grande instance ; 
+
+5° Les agents mentionnés à l'article L. 2132-21. 
 
 Les fonctionnaires mentionnés ci-dessus qui n'ont pas prêté serment en justice le prêtent devant le préfet. 
 
-Lorsqu'ils constatent une contravention en matière de grande voirie, les agents mentionnés au premier alinéa sont habilités à
+Lorsqu'ils constatent une contravention en matière de grande voirie, les agents mentionnés aux 1° à 5° sont habilités à
 relever l'identité de l'auteur de la contravention. Si l'intéressé refuse ou se trouve dans l'impossibilité de justifier de
 son identité, ils en rendent compte à tout officier de police judiciaire territorialement compétent, qui peut ordonner au
 contrevenant de lui communiquer son identité. Lorsque l'officier de police judiciaire procède à une vérification d'identité
@@ -5096,7 +5106,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2012-77 du 24 janvier 2012 - art. 4
+  - Loi n°2013-431 du 28 mai 2013 - art. 25
 
 _Cité par_:
 
@@ -5114,9 +5124,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publiques. - art. L2132-16
-  - Code général de la propriété des personnes publiques. - art. L2132-21
-  - Code général de la propriété des personnes publiques. - art. L2132-5
+  - Code général de la propriété des personnes publ... - art. L2132-16 (V)
+  - Code général de la propriété des personnes publ... - art. L2132-21 (V)
+  - Code général de la propriété des personnes publ... - art. L2132-5 (V)
   - Code de procédure pénale - art. 78-3
 
 
