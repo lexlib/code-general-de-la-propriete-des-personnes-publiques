@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2013-05-30
+Version Consolidée au 2013-10-19
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -9246,7 +9246,7 @@ d'établissements à usage professionnel. La cession à une personne morale est 
 ou au groupement de collectivités territoriales concerné, qui dispose de trois mois pour faire connaître son avis.
 
 Les demandes de cession faites en application du présent article doivent, sous peine de forclusion, être déposées avant le
-1er janvier 2013.
+1er janvier 2015. 
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
 fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
@@ -9259,7 +9259,7 @@ des bâtiments et installations édifiés avant le 1er janvier 1995.
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 32 (M)
+  - Loi n°2013-922 du 17 octobre 2013 - art. 2
 
 _Cité par_:
 
@@ -9290,7 +9290,7 @@ A défaut d'identification des personnes mentionnées à l'alinéa précédent, 
 cession à titre onéreux aux occupants de constructions affectées à leur habitation édifiées avant le 1er janvier 1995. 
 
 Les demandes de cession faites en application du présent article doivent, sous peine de forclusion, être déposées avant le
-1er janvier 2013. 
+1er janvier 2015. 
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
 fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
@@ -9314,7 +9314,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 32 (M)
+  - Loi n°2013-922 du 17 octobre 2013 - art. 2
 
 _Anciens textes_:
 
@@ -9322,7 +9322,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L5112-1 (V)
+  - Code général de la propriété des personnes publiques. - art. L5112-1
 
 
 ###### Article L5112-6-1
