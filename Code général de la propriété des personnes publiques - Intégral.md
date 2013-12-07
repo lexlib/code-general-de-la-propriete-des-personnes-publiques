@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2013-10-21
+Version Consolidée au 2013-12-08
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -6054,7 +6054,8 @@ _Cité par_:
 ###### Article L2222-22
 
 Toute contravention aux dispositions des articles L. 1126-2 et L. 1126-3, et tout refus de communication dans le cadre des
-dispositions de l'article L. 2222-21 sont punis de l'amende prévue à l'article 1734 du code général des impôts. 
+dispositions de l'article L. 2222-21 sont punis de l'amende prévue au premier alinéa de l'article 1734 du code général des
+impôts. 
 
 Les règles applicables en matière domaniale régissent le recouvrement de l'amende ainsi que la présentation, l'instruction et
 le jugement des réclamations.
@@ -6063,17 +6064,20 @@ le jugement des réclamations.
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2013-1117 du 6 décembre 2013 - art. 20 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1734 (V)
-  - Code général de la propriété des personnes publ... - art. L1126-2 (V)
-  - Code général de la propriété des personnes publ... - art. L2222-21 (V)
+  - Code général des impôts, CGI. - art. 1734
+  - Code général de la propriété des personnes publiques. - art. L1126-2
+  - Code général de la propriété des personnes publiques. - art. L2222-21
 
 _Anciens textes_:
 
-  - Code du domaine de l'Etat L27 al. 8 à 10
   - Code du domaine de l'Etat - art. L27 (Ab)
 
 _Cité par_:
