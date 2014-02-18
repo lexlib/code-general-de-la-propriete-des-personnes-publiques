@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-01-29
+Version Consolidée au 2014-02-19
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -13065,8 +13065,7 @@ _Cite_:
 ###### Article R1111-3
 
 La remise, au titre de la dation en paiement prévue par le code général des impôts, est effectuée selon la procédure fixée
-par les articles 384 A, 384 A bis, 384 A ter et 384 A quater de l'annexe II de ce même code pour les catégories de biens
-suivantes : 
+par les articles 384 A, 384 A bis, 384 A ter de l'annexe II de ce même code pour les catégories de biens suivantes : 
 
 1° Les œuvres d'art, livres, objets de collection et documents, de haute valeur artistique ou historique ; 
 
@@ -13084,11 +13083,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-420 du 23 mai 2013 - art. 11 (V)
+  - Décret n°2014-132 du 17 février 2014 - art. 33
 
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 384 A
+  - Code général des impôts, annexe 2, CGIAN2. - art. 384 A (V)
 
 _Cité par_:
 
