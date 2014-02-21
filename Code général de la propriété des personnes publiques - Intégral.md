@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-02-19
+Version Consolidée au 2014-02-22
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -129,7 +129,7 @@ Version Consolidée au 2014-02-19
           - [Chapitre Ier : Dispositions générales. (art. L2221-1)](#126)
           - [Chapitre II : Dispositions particulières (art. L2222-1 à L2222-23)](#127)
             - [Section 1 : Location, mise à disposition et affectation (art. L2222-1 à L2222-9)](#128)
-              - [Sous-section 1 : Domaine immobilier. (art. L2222-1 à L2222-5)](#129)
+              - [Sous-section 1 : Domaine immobilier. (art. L2222-1 à L2222-5-1)](#129)
               - [Sous-section 2 : Domaine mobilier. (art. L2222-6 à L2222-9)](#130)
             - [Section 2 : Gestion confiée à des tiers (art. L2222-10)](#131)
               - [Sous-section 1 : Gestion confiée à des tiers par l'Etat (art. L2222-10)](#132)
@@ -5554,6 +5554,25 @@ _Cité par_:
 _Cite_:
 
   - Code rural - art. L415-11 (V)
+
+
+###### Article L2222-5-1
+
+Un bien immobilier appartenant au domaine privé des collectivités territoriales, à leurs groupements ou à leurs
+établissements publics ainsi qu'aux établissements publics fonciers de l'Etat peut faire l'objet d'un bail réel immobilier
+prévu à l'article L. 254-1 du code de la construction et de l'habitation en vue de la location ou de l'accession temporaire à
+la propriété de logements relevant du régime du logement intermédiaire défini à l'article L. 302-16 du même code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2014-159 du 20 février 2014 - art. 4
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L254-1
+  - Code de la construction et de l'habitation. - art. L302-16
 
 
 ##### Sous-section 2 : Domaine mobilier.<a id=130></a>
