@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-02-22
+Version Consolidée au 2014-03-27
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -1174,20 +1174,22 @@ _Cite_:
 
 L'acquisition des immeubles mentionnés au 2° de l'article L. 1123-1 est opérée selon les modalités suivantes. 
 
-Un arrêté du maire pris dans les conditions fixées par décret en Conseil d'Etat constate que l'immeuble satisfait aux
-conditions mentionnées au 2° de l'article L. 1123-1. Il est procédé par les soins du maire à une publication et à un
-affichage de cet arrêté et, s'il y a lieu, à une notification aux derniers domicile et résidence du dernier propriétaire
-connu. Une notification est également adressée, si l'immeuble est habité ou exploité, à l'habitant ou à l'exploitant ainsi
-qu'au tiers qui aurait acquitté les taxes foncières. Cet arrêté est, dans tous les cas, notifié au représentant de l'Etat
-dans le département. 
+Un arrêté du maire ou du président de l'établissement public de coopération intercommunale à fiscalité propre pris dans les
+conditions fixées par décret en Conseil d'Etat constate que l'immeuble satisfait aux conditions mentionnées au 2° de
+l'article L. 1123-1. Il est procédé par les soins du maire ou du président de l'établissement public de coopération
+intercommunale à fiscalité propre à une publication et à un affichage de cet arrêté et, s'il y a lieu, à une notification aux
+derniers domicile et résidence du dernier propriétaire connu. Une notification est également adressée, si l'immeuble est
+habité ou exploité, à l'habitant ou à l'exploitant ainsi qu'au tiers qui aurait acquitté les taxes foncières. Cet arrêté est,
+dans tous les cas, notifié au représentant de l'Etat dans le département. 
 
 Les dispositions du deuxième alinéa sont applicables lorsque les taxes foncières font l'objet d'une exonération ou ne sont
 pas mises en recouvrement conformément aux dispositions de l'article 1657 du code général des impôts. 
 
 Dans le cas où un propriétaire ne s'est pas fait connaître dans un délai de six mois à dater de l'accomplissement de la
-dernière des mesures de publicité mentionnées au deuxième alinéa, l'immeuble est présumé sans maître. La commune dans
-laquelle est situé ce bien peut, par délibération du conseil municipal, l'incorporer dans le domaine communal. Cette
-incorporation est constatée par arrêté du maire. 
+dernière des mesures de publicité mentionnées au deuxième alinéa, l'immeuble est présumé sans maître. La commune ou
+l'établissement public de coopération intercommunale à fiscalité propre peut, par délibération de son organe délibérant,
+l'incorporer dans son domaine. Cette incorporation est constatée par arrêté du maire ou du président de l'établissement
+public de coopération intercommunale à fiscalité propre.
 
 A défaut de délibération prise dans un délai de six mois à compter de la vacance présumée du bien, la propriété de celui-ci
 est attribuée à l'Etat. Le transfert du bien dans le domaine de l'Etat est constaté par un acte administratif.
@@ -1196,7 +1198,11 @@ est attribuée à l'Etat. Le transfert du bien dans le domaine de l'Etat est con
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2014-366 du 24 mars 2014 - art. 152
 
 _Cité par_:
 
@@ -1215,12 +1221,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1657 (V)
-  - Code général de la propriété des personnes publ... - art. L1123-1 (V)
+  - Code général des impôts, CGI. - art. 1657
+  - Code général de la propriété des personnes publiques. - art. L1123-1
 
 _Anciens textes_:
 
-  - Code du domaine de l'Etat - art. L27 bis (M)
   - Code du domaine de l'Etat - art. L27 bis (Ab)
 
 
@@ -3724,19 +3729,28 @@ _Cite_:
 L'édification de toute construction est interdite sur les terrains compris entre les digues et la rivière, sur les digues et
 levées, ou sur les îles.
 
-Du côté du val, il est interdit de planter des arbres ou arbustes, de creuser des puits, caves, fossés, ou faire toutes
-autres excavations de terrain à moins de 19,50 mètres du pied des levées.
-
-Toute construction doit faire l'objet d'une autorisation préfectorale.
+Du côté du val, les ouvrages, plantations, constructions, excavations et clôtures situés à moins de 19,50 mètres du pied des
+levées sont soumis à autorisation préfectorale. L'autorisation prescrit les mesures nécessaires pour assurer, en toutes
+circonstances, la sécurité des biens et des personnes, l'accès aux ouvrages de protection, leur entretien ou leur
+fonctionnement. 
 
 En cas de non-respect de ces dispositions, le contrevenant est passible d'une amende de 150 à 12 000 euros. Il doit, après
 mise en demeure préalable, procéder à la remise en état des lieux.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Code du domaine public fluvial et de la navigation intérieure art. 59
+  - Code du domaine public fluvial et de la navigation - art. 59 (Ab)
+
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2014-366 du 24 mars 2014 - art. 127
 
 _Cité par_:
 
@@ -3744,11 +3758,6 @@ _Cité par_:
   - Code de l'urbanisme - art. L422-2 (VD)
   - Code de l'urbanisme - art. R*422-2 (V)
   - Code de l'urbanisme - art. R*425-10 (VD)
-
-_Anciens textes_:
-
-  - Code du domaine public fluvial et de la navigation - art. 59 (Ab)
-  - Code du domaine public fluvial et de la navigation intérieure art. 59
 
 
 ##### Sous-section 3 : Règles relatives aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=83></a>
@@ -5991,12 +6000,13 @@ _Cite_:
 
 ###### Article L2222-20
 
-Lorsque la propriété d'un immeuble a été attribuée, dans les conditions fixées à l'article L. 1123-3, à une commune ou, à
-défaut, à l'Etat, le propriétaire ou ses ayants droit sont en droit d'en exiger la restitution. Toutefois, il ne peut être
-fait droit à cette demande si le bien a été aliéné ou utilisé d'une manière s'opposant à cette restitution. Ils ne peuvent,
-dans ce cas, obtenir de la commune ou de l'Etat que le paiement d'une indemnité représentant la valeur de l'immeuble au jour
-de l'acte d'aliénation ou, le cas échéant, du procès-verbal constatant la remise effective de l'immeuble au service ou à
-l'établissement public utilisateur. 
+Lorsque la propriété d'un immeuble a été attribuée, dans les conditions fixées à l'article L. 1123-3, à une commune, à un
+établissement public de coopération intercommunale à fiscalité propre ou, à défaut, à l'Etat, le propriétaire ou ses ayants
+droit sont en droit d'en exiger la restitution. Toutefois, il ne peut être fait droit à cette demande si le bien a été aliéné
+ou utilisé d'une manière s'opposant à cette restitution. Ils ne peuvent, dans ce cas, obtenir de la commune, de
+l'établissement public de coopération intercommunale à fiscalité propre ou de l'Etat que le paiement d'une indemnité
+représentant la valeur de l'immeuble au jour de l'acte d'aliénation ou, le cas échéant, du procès-verbal constatant la remise
+effective de l'immeuble au service ou à l'établissement public utilisateur. 
 
 A défaut d'accord amiable, l'indemnité est fixée par le juge compétent en matière d'expropriation pour cause d'utilité
 publique. 
@@ -6004,13 +6014,17 @@ publique.
 La restitution de l'immeuble, ou à défaut, le paiement de l'indemnité, est subordonné au paiement par le propriétaire ou ses
 ayants droit du montant des charges qu'ils ont éludées depuis le point de départ du délai de trois ans mentionné au deuxième
 alinéa de l'article L. 1123-3, ainsi que du montant des dépenses nécessaires à la conservation du bien engagées par la
-commune ou par l'Etat.
+commune, par l'établissement public de coopération intercommunale à fiscalité propre, ou par l'Etat.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2014-366 du 24 mars 2014 - art. 152
 
 _Cité par_:
 
@@ -6019,12 +6033,11 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Code du domaine de l'Etat - art. L27 ter (M)
   - Code du domaine de l'Etat - art. L27 ter (Ab)
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L1123-3 (V)
+  - Code général de la propriété des personnes publiques. - art. L1123-3
 
 
 ##### Section 5 : Sommes et valeurs prescrites.<a id=141></a>
@@ -7517,7 +7530,7 @@ _Cité par_:
 
 ###### Article L3211-7
 
-I. - L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale lorsque ces
+I.-L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale lorsque ces
 terrains, bâtis ou non, sont destinés à la réalisation de programmes de constructions comportant essentiellement des
 logements dont une partie au moins est réalisée en logement social. Pour la part du programme destinée aux logements sociaux,
 la décote ainsi consentie, qui peut atteindre 100 % de la valeur vénale du terrain, est fixée en fonction de la catégorie à
@@ -7527,7 +7540,7 @@ logements sociaux existant sur le territoire de la collectivité considérée et
 l'opération. La décote ne saurait excéder 50 % pour les logements financés en prêts locatifs sociaux et pour les logements en
 accession à la propriété bénéficiant des dispositifs mentionnés au VIII. 
 
-II. - Une décote est de droit lorsque les deux conditions suivantes sont satisfaites : 
+II.-Une décote est de droit lorsque les deux conditions suivantes sont satisfaites : 
 
 1° Les terrains sont cédés au profit d'une collectivité territoriale, d'un établissement public de coopération intercommunale
 à fiscalité propre, d'un établissement public mentionné aux chapitres Ier et IV du titre II du livre III du code de
@@ -7554,7 +7567,7 @@ l'objet est la construction d'équipements publics destinés en tout ou partie a
 consentie est alignée sur la décote allouée pour la part du programme consacrée aux logements sociaux. Les modalités
 d'application du présent alinéa et la liste des équipements publics concernés sont fixées par décret en Conseil d'Etat. 
 
-III. - L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des
+III.-L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des
 logements locatifs sociaux. 
 
 Cette décote est également répercutée sur le prix de cession des logements en accession à la propriété bénéficiant des
@@ -7575,8 +7588,7 @@ similaires.
 A peine de nullité, les contrats de vente comportent la mention des obligations visées aux troisième et quatrième alinéas du
 présent III et du montant de la décote consentie. 
 
-IV. - Pour les programmes ayant bénéficié de la cession d'un terrain avec une décote dans les conditions du présent
-article : 
+IV.-Pour les programmes ayant bénéficié de la cession d'un terrain avec une décote dans les conditions du présent article : 
 
 1° Les conventions mentionnées à l'article L. 351-2 du code de la construction et de l'habitation sont d'une durée au moins
 égale à vingt ans. Cette durée ne peut être inférieure à la période restant à courir pour l'amortissement du prêt. Le
@@ -7585,7 +7597,7 @@ remboursement anticipé du prêt n'a pas d'incidence sur la durée de la convent
 2° Le délai de dix ans mentionné au premier alinéa de l'article L. 443-7 du même code est porté à vingt ans. Cette
 disposition s'applique également aux opérations des organismes agréés mentionnés à l'article L. 365-2 dudit code. 
 
-V. - Une convention conclue entre le représentant de l'Etat dans la région et l'acquéreur, jointe à l'acte d'aliénation, fixe
+V.-Une convention conclue entre le représentant de l'Etat dans la région et l'acquéreur, jointe à l'acte d'aliénation, fixe
 les conditions d'utilisation du terrain cédé et détermine le contenu du programme de logements à réaliser. 
 
 Les données dont l'Etat dispose sur le patrimoine naturel du terrain faisant l'objet de la cession sont annexées à cette
@@ -7604,11 +7616,18 @@ L'acte d'aliénation prévoit, en cas de réalisation partielle du programme de 
 différentes de celles prises en compte pour la fixation du prix de cession, le paiement d'un complément de prix correspondant
 à l'avantage financier indûment consenti. 
 
+Lorsque la cession d'un terrain, bâti ou non, du domaine privé de l'Etat s'inscrit dans une opération d'aménagement, au sens
+de l'article L. 300-1 du code de l'urbanisme, qui porte sur un périmètre de plus de cinq hectares, et après accord des
+ministres chargés du logement et du domaine, au vu du rapport transmis par le représentant de l'Etat dans la région, la
+convention conclue entre le représentant de l'Etat dans la région et l'acquéreur peut prévoir une réalisation de l'opération
+par tranches échelonnées sur une durée totale supérieure à cinq ans et permettant chacune un contrôle du dispositif de
+décote, dans les conditions prévues aux troisième et quatrième alinéas du présent V. 
+
 La convention peut prévoir, en outre, le droit de réservation d'un contingent plafonné à 10 % des logements sociaux
 construits, au profit de l'administration qui cède son terrain avec décote, pour le logement de ses agents, au-delà du
 contingent dont dispose l'Etat. 
 
-VI. - Le représentant de l'Etat dans la région, assisté du comité régional de l'habitat, contrôle l'effectivité de toute
+VI.-Le représentant de l'Etat dans la région, assisté du comité régional de l'habitat, contrôle l'effectivité de toute
 convention annexée à un acte d'aliénation et définie au V du présent article. A cet effet, l'acquéreur des terrains
 mentionnés au 2° du II rend compte de l'état d'avancement du programme de constructions au comité régional de l'habitat ainsi
 qu'à la commune sur le territoire de laquelle se trouve le terrain cédé. Cette obligation prend fin au jour de la livraison
@@ -7624,7 +7643,7 @@ sociaux mis en chantier sur les parcelles cédées. Ce bilan est transmis à la 
 d'établir, pour le compte du ministre chargé du logement, le rapport annuel au Parlement sur la mise en œuvre du dispositif,
 lequel fait l'objet d'un débat devant les commissions permanentes. 
 
-VII. - Il est créé, auprès des ministres chargés du logement et de l'urbanisme, une Commission nationale de l'aménagement, de
+VII.-Il est créé, auprès des ministres chargés du logement et de l'urbanisme, une Commission nationale de l'aménagement, de
 l'urbanisme et du foncier. Elle est composée de deux membres de l'Assemblée nationale et de deux membres du Sénat, de
 représentants de l'Etat dont notamment de représentants des ministres chargés du logement et de l'urbanisme, de représentants
 du ministre chargé du Domaine, de représentants des associations représentatives des collectivités locales, des organismes
@@ -7638,7 +7657,7 @@ publics concernés est de nature à favoriser la cession de biens appartenant à
 de logements sociaux. Le décret en Conseil d'Etat prévu au IX précise sa composition et fixe ses modalités de travail et de
 décision. 
 
-VIII. - Pour l'application du présent article, sont assimilés aux logements locatifs mentionnés aux 3° et 5° de l'article L.
+VIII.-Pour l'application du présent article, sont assimilés aux logements locatifs mentionnés aux 3° et 5° de l'article L.
 351-2 du code de la construction et de l'habitation : 
 
 1° Les structures d'hébergement temporaire ou d'urgence bénéficiant d'une aide de l'Etat ; 
@@ -7662,7 +7681,7 @@ code ;
 b) Les logements faisant l'objet d'une opération d'accession dans les conditions définies au huitième alinéa de l'article L.
 411-2 dudit code. 
 
-IX. - Un décret en Conseil d'Etat précise les conditions d'application des I à VII.
+IX.-Un décret en Conseil d'Etat précise les conditions d'application des I à VII.
 
 **Liens relatifs à cet article**
 
@@ -7670,6 +7689,7 @@ _Cite_:
 
   - Loi n°2000-614 du 5 juillet 2000 - art. 1
   - Code de l'action sociale et des familles - art. L345-1
+  - Code de l'urbanisme - art. L300-1 (V)
   - Code de la construction et de l'habitation. - art. L351-2
   - Code de la construction et de l'habitation. - art. L353-1
   - Code de la construction et de l'habitation. - art. L365-1
@@ -7713,7 +7733,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-61 du 18 janvier 2013 - art. 3
+  - Loi n°2014-366 du 24 mars 2014 - art. 160
 
 _Anciens textes_:
 
@@ -9257,7 +9277,7 @@ d'établissements à usage professionnel. La cession à une personne morale est 
 ou au groupement de collectivités territoriales concerné, qui dispose de trois mois pour faire connaître son avis.
 
 Les demandes de cession faites en application du présent article doivent, sous peine de forclusion, être déposées avant le
-1er janvier 2015. 
+1er janvier 2016. 
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
 fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
@@ -9270,7 +9290,7 @@ des bâtiments et installations édifiés avant le 1er janvier 1995.
 
 _Modifié par_:
 
-  - Loi n°2013-922 du 17 octobre 2013 - art. 2
+  - Loi n°2014-366 du 24 mars 2014 - art. 176
 
 _Cité par_:
 
@@ -9301,7 +9321,7 @@ A défaut d'identification des personnes mentionnées à l'alinéa précédent, 
 cession à titre onéreux aux occupants de constructions affectées à leur habitation édifiées avant le 1er janvier 1995. 
 
 Les demandes de cession faites en application du présent article doivent, sous peine de forclusion, être déposées avant le
-1er janvier 2015. 
+1er janvier 2016. 
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
 fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
@@ -9325,7 +9345,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-922 du 17 octobre 2013 - art. 2
+  - Loi n°2014-366 du 24 mars 2014 - art. 176
 
 _Anciens textes_:
 
