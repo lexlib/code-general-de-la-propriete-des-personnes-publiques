@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-08-23
+Version Consolidée au 2014-10-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -1295,18 +1295,22 @@ _Cité par_:
 
 ###### Article L1125-1
 
-Les objets placés sous main de justice qui ne sont pas restitués sont acquis par l'Etat selon les règles fixées au troisième
-alinéa de l'article 41-4 du code de procédure pénale.
+Les objets placés sous main de justice qui ne sont pas restitués sont acquis par l'Etat selon les règles fixées aux troisième
+et dernier alinéas de l'article 41-4 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2014-640 du 20 juin 2014 - art. 5
 
 _Cite_:
 
-  - Code de procédure pénale - art. 41-4 (V)
+  - Code de procédure pénale - art. 41-4
 
 
 ##### Chapitre VI : Sommes et valeurs prescrites.<a id=31></a>
