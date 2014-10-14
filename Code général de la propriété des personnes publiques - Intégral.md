@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-10-01
+Version Consolidée au 2014-10-15
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -26,9 +26,9 @@ Version Consolidée au 2014-10-01
               - [Sous-section 3 : Dispositions communes à l'Etat et à ses établissements publics. (art. L1121-3)](#23)
             - [Section 2 : Dispositions applicables aux collectivités territoriales et à leurs établissements publics. (art. L1121-4 à L1121-6)](#24)
           - [Chapitre II : Successions en déshérence. (art. L1122-1)](#25)
-          - [Chapitre III : Biens sans maître (art. L1123-1 à L1123-3)](#26)
+          - [Chapitre III : Biens sans maître (art. L1123-1 à L1123-4)](#26)
             - [Section 1 : Définition. (art. L1123-1)](#27)
-            - [Section 2 : Modalités d'acquisition. (art. L1123-2 à L1123-3)](#28)
+            - [Section 2 : Modalités d'acquisition. (art. L1123-2 à L1123-4)](#28)
           - [Chapitre IV : Biens confisqués. (art. L1124-1)](#29)
           - [Chapitre V : Objets placés sous main de justice. (art. L1125-1)](#30)
           - [Chapitre VI : Sommes et valeurs prescrites. (art. L1126-1 à L1126-4)](#31)
@@ -1169,15 +1169,24 @@ Sont considérés comme n'ayant pas de maître les biens autres que ceux relevan
 1° Soit font partie d'une succession ouverte depuis plus de trente ans et pour laquelle aucun successible ne s'est
 présenté ; 
 
-2° Soit sont des immeubles qui n'ont pas de propriétaire connu et pour lesquels depuis plus de trois ans les taxes foncières
-n'ont pas été acquittées ou ont été acquittées par un tiers. Ces dispositions ne font pas obstacle à l'application des règles
-de droit civil relatives à la prescription.
+2° Soit sont des immeubles qui n'ont pas de propriétaire connu et pour lesquels depuis plus de trois ans la taxe foncière sur
+les propriétés bâties n'a pas été acquittée ou a été acquittée par un tiers. Ces dispositions ne font pas obstacle à
+l'application des règles de droit civil relatives à la prescription ;
+
+3° Soit sont des immeubles qui n'ont pas de propriétaire connu, qui ne sont pas assujettis à la taxe foncière sur les
+propriétés bâties et pour lesquels, depuis plus de trois ans, la taxe foncière sur les propriétés non bâties n'a pas été
+acquittée ou a été acquittée par un tiers. Le présent 3° ne fait pas obstacle à l'application des règles de droit civil
+relatives à la prescription.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 72
 
 _Cité par_:
 
@@ -1189,7 +1198,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L1122-1 (V)
+  - Code général de la propriété des personnes publiques. - art. L1122-1
 
 
 ##### Section 2 : Modalités d'acquisition.<a id=28></a>
@@ -1273,6 +1282,53 @@ _Cite_:
 _Anciens textes_:
 
   - Code du domaine de l'Etat - art. L27 bis (Ab)
+
+
+###### Article L1123-4
+
+L'acquisition des immeubles mentionnés au 3° de l'article L. 1123-1 est opérée selon les modalités suivantes. 
+
+Au 1er mars de chaque année, les centres des impôts fonciers signalent au représentant de l'Etat dans le département les
+immeubles satisfaisant aux conditions prévues au même 3°. Au plus tard le 1er juin de chaque année, le représentant de l'Etat
+dans le département arrête la liste de ces immeubles par commune et la transmet au maire de chaque commune concernée. Le
+représentant de l'Etat dans le département et le maire de chaque commune concernée procèdent à une publication et à un
+affichage de cet arrêté ainsi que, s'il y a lieu, à une notification aux derniers domicile et résidence du dernier
+propriétaire connu. Une notification est également adressée, si l'immeuble est habité ou exploité, à l'habitant ou à
+l'exploitant ainsi qu'au tiers qui a acquitté les taxes foncières. 
+
+Le deuxième alinéa du présent article est applicable lorsque les taxes foncières font l'objet d'une exonération ou ne sont
+pas mises en recouvrement en application de l'article 1657 du code général des impôts. 
+
+Dans le cas où un propriétaire ne s'est pas fait connaître dans un délai de six mois à compter de l'accomplissement de la
+dernière des mesures de publicité mentionnées au deuxième alinéa du présent article, l'immeuble est présumé sans maître. Le
+représentant de l'Etat dans le département notifie cette présomption au maire de la commune dans laquelle est situé le bien. 
+
+La commune dans laquelle est situé ce bien peut, par délibération du conseil municipal, l'incorporer dans le domaine
+communal. Cette incorporation est constatée par arrêté du maire. A défaut de délibération prise dans un délai de six mois à
+compter de la notification de la vacance présumée du bien, la propriété de celui-ci est attribuée à l'Etat. Le transfert du
+bien dans le domaine de l'Etat est constaté par arrêté du représentant de l'Etat dans le département. 
+
+Les bois et forêts acquis dans les conditions prévues au présent article sont soumis au régime forestier prévu à l'article L.
+211-1 du code forestier à l'expiration d'un délai de cinq ans à compter de l'incorporation au domaine communal ou du
+transfert dans le domaine de l'Etat. Dans ce délai, il peut être procédé à toute opération foncière.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 72
+
+_Cité par_:
+
+  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 11 (VD)
+  - Code général de la propriété des personnes publ... - art. L3211-5 (VD)
+  - Code général de la propriété des personnes publ... - art. L5162-1 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1657 (V)
+  - Code général de la propriété des personnes publ... - art. L1123-1 (V)
+  - Code forestier (nouveau) - art. L211-1 (V)
 
 
 ##### Chapitre IV : Biens confisqués.<a id=29></a>
@@ -7704,20 +7760,27 @@ et à la protection de la qualité des eaux, ni à l'équilibre biologique d'une
 
 Par dérogation aux dispositions du premier alinéa, les bois et forêts de l'Etat compris dans le périmètre d'une déclaration
 d'utilité publique sont cédés conformément aux dispositions du dernier alinéa de l'article L. 12-4 du code de l'expropriation
-pour cause d'utilité publique dans les conditions précisées par décret en Conseil d'Etat.
+pour cause d'utilité publique dans les conditions précisées par décret en Conseil d'Etat. 
+
+Les bois et forêts acquis à l'Etat en application de l'article L. 1123-4 sont soumis au premier alinéa du présent article à
+compter de la date à laquelle le régime forestier de l'article L. 211-1 du code forestier leur est appliqué.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 72
 
 _Cité par_:
 
   - Loi n°2016-925 du 7 juillet 2016 - art. 75
   - Code du patrimoine - art. L621-35 (MMN)
   - Code du patrimoine - art. L621-40 (V)
-  - Code forestier (nouveau) - art. L213-1 (VD)
+  - Code forestier (nouveau) - art. L213-1 (V)
   - Code général de la propriété des personnes publ... - art. L5161-1 (V)
   - Code général de la propriété des personnes publ... - art. L5241-1 (VD)
   - Code général de la propriété des personnes publ... - art. L5341-1 (V)
@@ -7732,13 +7795,11 @@ _Anciens textes_:
 
   - Code du domaine de l'Etat - art. L62 (Ab)
 
-_Nouveaux textes_:
-
-  - Code forestier (nouveau) - art. L213-1 (VD)
-
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L12-4 (V)
+  - Code général de la propriété des personnes publ... - art. L1123-4 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L12-4 (VD)
+  - Code forestier (nouveau) - art. L211-1 (V)
 
 
 ###### Article L3211-5-1
@@ -13033,17 +13094,29 @@ _Cite_:
 
 ###### Article L5241-1
 
-Le dernier alinéa de l'article L. 3211-5 est supprimé.
+L'avant-dernier alinéa de l'article L. 3211-5 est supprimé.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 72
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. L5441-1 (VD)
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L3211-5 (V)
+  - Code général de la propriété des personnes publiques. - art. L3211-5
 
 
 ###### Article L5241-2
