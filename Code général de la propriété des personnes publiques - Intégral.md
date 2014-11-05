@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-10-15
+Version Consolidée au 2014-11-06
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -14259,11 +14259,19 @@ _Cite_:
 
 Les projets d'opérations immobilières mentionnés à l'article R. 1211-2 doivent être précédés, avant toute entente amiable,
 d'une demande d'avis du directeur départemental des finances publiques lorsqu'ils sont poursuivis par l'Etat et ses
-établissements publics. 
+établissements publics.
 
-Ces dispositions ne sont pas applicables aux établissements de crédit.
+Ces dispositions ne sont pas applicables aux établissements de crédit ou aux sociétés de financement.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°86-455 du 14 mars 1986 - art. 3 (Ab), ecqc les projets d'aquisitions poursuivis par l'Etat et ses établissements publics.
+
+_Codifié par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 _Cité par_:
 
@@ -14275,17 +14283,9 @@ _Cité par_:
   - Code des transports - art. R5313-53 (V)
   - Code général de la propriété des personnes publ... - art. R1211-2 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°86-455 du 14 mars 1986 - art. 3 (Ab), ecqc les projets d'aquisitions poursuivis par l'Etat et ses établissements publics.
-
-_Codifié par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Créé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2014-1315 du 3 novembre 2014 - art. 14
 
 
 ###### Article R1211-2
@@ -27677,27 +27677,23 @@ _Cité par_:
 ###### Article R4111-2
 
 Les projets d'opérations immobilières mentionnés à l'article R. 4111-1 poursuivis par l'Etat et ses établissements publics
-doivent être précédés, avant toute entente amiable, d'une demande d'avis du directeur départemental des finances publiques. 
+doivent être précédés, avant toute entente amiable, d'une demande d'avis du directeur départemental des finances publiques.
 
-Ces dispositions ne sont pas applicables aux établissements de crédit.
+Ces dispositions ne sont pas applicables aux établissements de crédit ou aux sociétés de financement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°86-455 du 14 mars 1986 - art. 3 (Ab), ecqc les projets de prise en location poursuivis par l'Etat et ses établissements publics.
 
 _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2014-1315 du 3 novembre 2014 - art. 14
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R4111-1 (V)
+  - Code général de la propriété des personnes publiques. - art. R4111-1
 
 
 ###### Article R4111-3
