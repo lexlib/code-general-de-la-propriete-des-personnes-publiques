@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-11-06
+Version Consolidée au 2014-12-18
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -18775,25 +18775,25 @@ _Cité par_:
 ###### Article R2124-7
 
 Le projet fait l'objet, préalablement à son approbation, d'une enquête publique menée dans les formes prévues par les
-articles R. 123-1 à R. 123-23 du code de l'environnement.  
+articles R. 123-2 à R. 123-27 du code de l'environnement.
 
-Le dossier soumis à l'enquête comprend obligatoirement :  
+Le dossier soumis à l'enquête comprend obligatoirement :
 
-1° Le projet de convention ;  
+1° Le projet de convention ;
 
-2° Les pièces énumérées à l'article R. 2124-2 du présent code ;  
+2° Les pièces énumérées à l'article R. 2124-2 du présent code ;
 
-3° L'avis du préfet maritime ou du délégué du Gouvernement pour l'action de l'Etat en mer ;  
+3° L'avis du préfet maritime ou du délégué du Gouvernement pour l'action de l'Etat en mer ;
 
-4° Les avis recueillis lors de l'instruction administrative ;  
+4° Les avis recueillis lors de l'instruction administrative ;
 
-5° L'avis du service gestionnaire du domaine public maritime qui a clos l'instruction administrative.  
+5° L'avis du service gestionnaire du domaine public maritime qui a clos l'instruction administrative.
 
 A l'issue de l'enquête publique, la convention est approuvée par arrêté du préfet. En cas d'avis défavorable du commissaire
-enquêteur ou de la commission d'enquête, le préfet peut néanmoins approuver la convention par arrêté motivé.  
+enquêteur ou de la commission d'enquête, le préfet peut néanmoins approuver la convention par arrêté motivé.
 
 Dans le cas où le projet intéresse plusieurs départements, la convention est approuvée par arrêté conjoint des préfets
-intéressés.  
+intéressés.
 
 Le préfet adresse copie de la convention au directeur départemental des finances publiques.
 
@@ -18805,12 +18805,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-2018 du 29 décembre 2011 - art. 10
+  - Décret n°2014-1510 du 15 décembre 2014 - art. 3
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R2124-2 (V)
-  - Code de l'environnement - art. R123-1 (VT)
+  - Code général de la propriété des personnes publiques. - art. R2124-2
+  - Code de l'environnement - art. R123-1
+  - Code de l'environnement - art. R123-2
 
 
 ###### Article R2124-8
@@ -20058,26 +20059,23 @@ _Créé par_:
 ###### Article R2124-44
 
 Dans le cas où l'autorisation demandée entraîne un changement substantiel dans l'utilisation du domaine public maritime, le
-dossier est soumis par le préfet à une enquête publique selon les modalités prévues aux articles R. 123-1 à R. 123-23 du code
+dossier est soumis par le préfet à une enquête publique selon les modalités prévues aux articles R. 123-2 à R. 123-27 du code
 de l'environnement. Le dossier est complété par le demandeur à cet effet.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°91-1110 du 22 octobre 1991 - art. 6 (V)
 
 _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2014-1510 du 15 décembre 2014 - art. 3
 
 _Cite_:
 
-  - Code de l'environnement - art. R123-1 (VT)
+  - Code de l'environnement - art. R123-1
+  - Code de l'environnement - art. R123-2
 
 
 ###### Article R2124-45
