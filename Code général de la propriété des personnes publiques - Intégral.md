@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-12-18
+Version Consolidée au 2014-12-22
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -295,285 +295,279 @@ Version Consolidée au 2014-12-18
       - [LIVRE II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. L5211-1 à L5261-2)](#292)
         - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L5211-1 à L5211-4)](#293)
           - [Chapitre unique. (art. L5211-1 à L5211-4)](#294)
-        - [TITRE II : ACQUISITIONS (art. L5221-1 à L5222-2)](#295)
-          - [Chapitre Ier : Modes d'acquisition (art. L5221-1 à L5221-3)](#296)
-            - [Section 1 : Acquisitions à titre onéreux. (art. L5221-1)](#297)
-            - [Section 2 : Acquisitions à titre gratuit (art. L5221-2 à L5221-3)](#298)
-              - [Sous-section 1 : Dons et legs. (art. L5221-2)](#299)
-              - [Sous-section 2 : Biens présumés sans maître. (art. L5221-3)](#300)
-          - [Chapitre II : Procédures d'acquisition (art. L5222-1 à L5222-2)](#301)
-            - [Section 1 : Purge des privilèges et hypothèques et remise des fonds. (art. L5222-1)](#302)
-            - [Section 2 : Réception et authentification des actes. (art. L5222-2)](#303)
-        - [TITRE III : GESTION (art. L5231-1 à L5234-1)](#304)
-          - [Chapitre Ier : Biens relevant du domaine public. (art. L5231-1 à L5231-2)](#305)
-          - [Chapitre II : Biens relevant du domaine privé. (art. L5232-1 à L5232-2)](#306)
-          - [Chapitre III : Recouvrement. (art. L5233-1)](#307)
-          - [Chapitre IV : Contentieux. (art. L5234-1)](#308)
-        - [TITRE IV : CESSIONS (art. L5241-1 à L5242-1)](#309)
-          - [Chapitre Ier : Modes de cession (art. L5241-1 à L5241-6)](#310)
-            - [Section 1 : Cessions à titre onéreux (art. L5241-1 à L5241-4)](#311)
-              - [Sous-section 1 : Vente (art. L5241-1 à L5241-3)](#312)
-                - [Paragraphe 1 : Domaine immobilier. (art. L5241-1 à L5241-2)](#313)
-                - [Paragraphe 2 : Domaine mobilier. (art. L5241-3)](#314)
-              - [Sous-section 2 : Autres modes. (art. L5241-4)](#315)
-            - [Section 2 : Cessions à titre gratuit. (art. L5241-5 à L5241-6)](#316)
-          - [Chapitre II : Procédures de cession et d'échange. (art. L5242-1)](#317)
-        - [TITRE V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES (art. L5251-1)](#318)
-          - [Chapitre unique. (art. L5251-1)](#319)
-        - [TITRE VI : RÉGIME DOMANIAL DES EAUX (art. L5261-1 à L5261-2)](#320)
-          - [Chapitre unique. (art. L5261-1 à L5261-2)](#321)
-  - [Partie réglementaire (art. R1111-1 à Annexe à l'article R3113-2)](#322)
-    - [PREMIÈRE PARTIE : ACQUISITION (art. R1111-1 à R1221-2)](#323)
-      - [LIVRE Ier : MODES D'ACQUISITION (art. R1111-1 à R1127-1)](#324)
-        - [TITRE Ier : ACQUISITIONS À TITRE ONÉREUX (art. R1111-1 à R1112-7)](#325)
-          - [Chapitre Ier : Acquisitions à l'amiable (art. R1111-1 à R1111-3)](#326)
-            - [Section 1 : Echange (art. R1111-1 à R1111-2)](#327)
-            - [Section 2 : Dation en paiement (art. R1111-3)](#328)
-          - [Chapitre II : Acquisitions selon des procédés de contrainte (art. R1112-1 à R1112-7)](#329)
-            - [Section 1 : Droit de préemption immobilier (art. R1112-1 à R1112-4)](#330)
-            - [Section 2 : Droit de préemption mobilier (art. R1112-5 à R1112-7)](#331)
-        - [TITRE II : ACQUISITIONS À TITRE GRATUIT (art. R1121-1 à R1127-1)](#332)
-          - [Chapitre Ier : Dons et legs (art. R1121-1 à R1121-8)](#333)
-            - [Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R1121-1 à R1121-5)](#334)
-            - [Section 2 : Dispositions applicables aux collectivités territoriales  et à leurs établissements publics (art. R1121-6 à R1121-8)](#335)
-          - [Chapitre II : Successions en déshérence (art. R1122-1)](#336)
-          - [Chapitre III : Biens sans maître (art. R1123-1 à R1123-2)](#337)
-          - [Chapitre VI : Sommes et valeurs prescrites (art. R1126-1 à R1126-6)](#338)
-          - [Chapitre VII : Dispositions diverses (art. R1127-1)](#339)
-      - [LIVRE II : PROCÉDURES D'ACQUISITION (art. R1211-1 à R1221-2)](#340)
-        - [TITRE Ier : BIENS SITUÉS EN FRANCE (art. R1211-1 à D1212-26)](#341)
-          - [Chapitre Ier : Consultation préalable (art. R1211-1 à R1211-10)](#342)
-            - [Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R1211-1 à R1211-8)](#343)
-            - [Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R1211-9 à R1211-10)](#344)
-          - [Chapitre II : Actes (art. R1212-1 à D1212-26)](#345)
-            - [Section 1 : Passation des actes (art. R1212-1 à R1212-2)](#346)
-            - [Section 2 : Purge des privilèges et hypothèques et remise des fonds (art. R1212-3 à R1212-8)](#347)
-            - [Section 3 : Réalisation par l'administration chargée des domaines d'acquisitions foncières pour le compte des collectivités publiques (art. R1212-9 à R1212-24)](#348)
-              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R1212-9 à R1212-22)](#349)
-                - [Paragraphe 1 : Dispositions générales (art. R1212-9 à R1212-18)](#350)
-                - [Paragraphe 2 : Dispositions applicables dans la région d'Ile-de-France (art. R1212-19 à R1212-22)](#351)
-              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R1212-23 à R1212-24)](#352)
-                - [Paragraphe 1 : Dispositions générales (art. R1212-23)](#353)
-                - [Paragraphe 2 : Dispositions applicables dans la région d'Ile-de-France (art. R1212-24)](#354)
-            - [Section 4 : Délégations et représentations (art. D1212-25 à D1212-26)](#355)
-        - [TITRE II : BIENS SITUÉS À L'ÉTRANGER (art. D1221-3 à R1221-2)](#356)
-          - [Chapitre unique (art. D1221-3 à R1221-2)](#357)
-    - [DEUXIÈME PARTIE : GESTION (art. R2111-1 à R2331-11)](#358)
-      - [LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC (art. R2111-1 à R2142-3)](#359)
-        - [TITRE Ier : CONSISTANCE DU DOMAINE PUBLIC (art. R2111-1 à R2111-20)](#360)
-          - [Chapitre Ier : Domaine public immobilier (art. R2111-1 à R2111-20)](#361)
-            - [Section 1 : Règles générales (art. R2111-1 à R2111-3)](#362)
-            - [Section 2 : Domaine public maritime (art. R2111-4 à R2111-14)](#363)
-            - [Section 3 : Domaine public fluvial (art. R2111-15 à R2111-20)](#364)
-        - [TITRE II : UTILISATION DU DOMAINE PUBLIC (art. R2122-1 à R2125-16)](#365)
-          - [Chapitre II : Utilisation compatible avec l'affectation (art. R2122-1 à R2122-55)](#366)
-            - [Section 1 : Règles générales d'occupation (art. R2122-1 à R2122-8)](#367)
-            - [Section 2 : Règles particulières à certaines occupations (art. R2122-9 à R2122-55)](#368)
-              - [Sous-section 1 : Dispositions communes (art. R2122-10 à R2122-27)](#369)
-                - [Paragraphe 1 : Présentation de la demande  de titre d'occupation constitutif de droit réel (art. R2122-12 à R2122-13)](#370)
-                - [Paragraphe 2 : Délivrance du titre  d'occupation constitutif de droit réel (art. R2122-14 à R2122-17)](#371)
-                - [Paragraphe 3 : Retrait du titre d'occupation constitutif de droit réel (art. R2122-18)](#372)
-                - [Paragraphe 4 : Transmission ou cession des ouvrages, constructions et installations  prévus par le titre d'occupation et transfert du droit réel y attaché (art. R2122-19 à R2122-26)](#373)
-                - [Paragraphe 5 : Financement des ouvrages, constructions et installations  prévus par le titre d'occupation constitutif de droit réel (art. R2122-27)](#374)
-              - [Sous-section 2 : Règles particulières à certaines opérations de construction (art. R2122-28 à R2122-49)](#375)
-                - [Paragraphe 1 : Dispositions générales (art. R2122-28 à R2122-33)](#376)
-                - [Paragraphe 2 : Procédure de passation de droit commun (art. R2122-34 à R2122-37)](#377)
-                - [Paragraphe 3 : Cas de recours à la procédure négociée (art. R2122-38 à R2122-40)](#378)
-                - [Paragraphe 4 : Procédure de dialogue compétitif (art. R2122-41 à R2122-46)](#379)
-                - [Paragraphe 5 : Conclusion et modifications ultérieures du contrat (art. R2122-47 à R2122-49)](#380)
-              - [Sous-section 3 : Règles particulières au domaine public de l'Etat compris dans les limites administratives des ports relevant de la compétence des collectivités territoriales (art. R2122-50 à R2122-54)](#381)
-                - [Paragraphe 1 : Compétence du département (art. R2122-50 à R2122-51)](#382)
-                - [Paragraphe 2 : Compétence de la commune (art. R2122-52 à R2122-53)](#383)
-                - [Paragraphe 3 : Dispositions communes (art. R2122-54)](#384)
-              - [Sous-section 4 : Règles particulières aux titres en cours (art. R2122-55)](#385)
-          - [Chapitre III : Modalités de gestion (art. R2123-1 à R2123-17)](#386)
-            - [Section 1 : Convention de gestion (art. R2123-1 à R2123-8)](#387)
-            - [Section 2 : Transfert de gestion lié à un changement d'affectation (art. R2123-9 à R2123-14)](#388)
-            - [Section 3 : Superposition d'affectations (art. R2123-15 à R2123-17)](#389)
-          - [Chapitre IV : Dispositions particulières (art. R2124-1 à R2124-79)](#390)
-            - [Section 1 : Utilisation du domaine public maritime (art. R2124-1 à R2124-56)](#391)
-              - [Sous-section 1 : Concessions d'utilisation  du domaine public maritime en dehors des ports (art. R2124-1 à R2124-12)](#392)
-              - [Sous-section 2 : Concessions de plage (art. R2124-13 à R2124-38)](#393)
-                - [Paragraphe 1 : Règles d'occupation  des plages faisant l'objet d'une concession (art. R2124-13 à R2124-20)](#394)
-                - [Paragraphe 2 : Attribution des concessions de plage (art. R2124-21 à R2124-30)](#395)
-                - [Paragraphe 3 : Attribution des sous-traités d'exploitation (art. R2124-31 à R2124-34)](#396)
-                - [Paragraphe 4 : Résiliation des concessions  et des conventions d'exploitation (art. R2124-35 à R2124-38)](#397)
-              - [Sous-section 3 : Autorisations d'occupation temporaire concernant les zones de mouillages et d'équipements légers sur le domaine public maritime (art. R2124-39 à R2124-55)](#398)
-              - [Sous-section 4 : Dispositions communes (art. R2124-56)](#399)
-            - [Section 2 : Utilisation du domaine public fluvial (art. R2124-57 à R2124-59)](#400)
-              - [Sous-section 1 : Règles générales (art. R2124-57)](#401)
-              - [Sous-section 2 : Autorisations d'occupation temporaire concernant les zones de mouillages et d'équipements légers sur le domaine public fluvial (art. R2124-58)](#402)
-              - [Sous-section 3 : Dispositions relatives au canal du Midi (art. R2124-59)](#403)
-            - [Section 3 : Utilisation du domaine public hertzien (art. R2124-60)](#404)
-            - [Section 4 : Exploitation des ressources naturelles (art. R2124-61 à R2124-63)](#405)
-            - [Section 5 : Concessions de logement (art. D2124-75 à R2124-78)](#406)
-              - [Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics (art. D2124-75 à R2124-77)](#407)
-                - [Paragraphe 1 : Concessions de logement dans les immeubles  appartenant à l'Etat (art. D2124-75 à R2124-74)](#408)
-                - [Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat (art. R2124-76 à R2124-77)](#409)
-              - [Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales, à leurs groupements et à leurs établissements publics (art. R2124-78)](#410)
-            - [Section 6 : Autres utilisations du domaine public (art. R2124-79)](#411)
-          - [Chapitre V : Dispositions financières (art. R2125-1 à R2125-16)](#412)
-            - [Section 1 : Dispositions générales (art. R2125-1 à R2125-6)](#413)
-            - [Section 2 : Dispositions particulières au domaine public fluvial (art. R2125-7 à R2125-13)](#414)
-            - [Section 3 : Dispositions particulières à certaines occupations (art. R2125-14 à R2125-16)](#415)
-        - [TITRE III : PROTECTION DU DOMAINE PUBLIC (art. R2132-1)](#416)
-          - [Chapitre II : Police de la conservation (art. R2132-1)](#417)
-            - [Section 1 : Contraventions de voirie routière (art. R2132-1)](#418)
-        - [TITRE IV : SORTIE DES BIENS DU DOMAINE PUBLIC (art. D2141-1 à R2142-3)](#419)
-          - [Chapitre Ier : Règles générales (art. D2141-1)](#420)
-          - [Chapitre II : Règles particulières au domaine public fluvial (art. R2142-1 à R2142-3)](#421)
-      - [LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ (art. R2222-1 à R2222-36)](#422)
-        - [TITRE II : UTILISATION DU DOMAINE PRIVÉ (art. R2222-1 à R2222-36)](#423)
-          - [Chapitre II : Dispositions particulières (art. R2222-1 à R2222-36)](#424)
-            - [Section 1 : Location, mise à disposition et affectation (art. R2222-1 à R2222-7)](#425)
-              - [Sous-section 1 : Domaine immobilier (art. R2222-1 à R2222-5)](#426)
-              - [Sous-section 2 : Domaine mobilier (art. R2222-6 à R2222-7)](#427)
-            - [Section 2 : Gestion confiée à des tiers (art. R2222-8 à R2222-17)](#428)
-              - [Sous-section 1 : Gestion confiée à des tiers par l'Etat (art. R2222-8 à R2222-16)](#429)
-                - [Paragraphe 1 : Convention de gestion (art. R2222-8 à R2222-15)](#430)
-                - [Paragraphe 2 : Contrat de gérance (art. R2222-16)](#431)
-              - [Sous-section 2 : Gestion confiée à des tiers par les collectivités territoriales,  leurs groupements et leurs établissements publics (art. R2222-17)](#432)
-            - [Section 3 : Concessions de logement (art. R2222-18 à R2222-20)](#433)
-              - [Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics (art. R2222-18 à R2222-19)](#434)
-                - [Paragraphe 1 : Concessions de logement  dans les immeubles appartenant à l'Etat (art. R2222-18)](#435)
-                - [Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat (art. R2222-19)](#436)
-              - [Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales,à leurs groupements et à leurs établissements publics (art. R2222-20)](#437)
-            - [Section 4 : Révision des libéralités et restitution de biens (art. R2222-21 à R2222-32)](#438)
-              - [Sous-section 1 : Dispositions applicables à l'Etat (art. R2222-21 à R2222-27)](#439)
-              - [Sous-section 2 : Dispositions applicables aux établissements publics de l'Etat (art. R2222-28 à R2222-29)](#440)
-              - [Sous-section 3 : Dispositions communes à l'Etat et à ses établissements publics (art. R2222-30 à R2222-32)](#441)
-            - [Section 5 : Sommes et valeurs prescrites (art. R2222-33 à R2222-34)](#442)
-            - [Section 6 : Mise en valeur des terres incultes  ou manifestement sous-exploitées (art. R2222-35)](#443)
-            - [Section 7 : Administration du domaine forestier (art. R2222-36)](#444)
-      - [LIVRE III : DISPOSITIONS COMMUNES (art. D2312-3 à R2331-11)](#445)
-        - [TITRE Ier : INSAISISSABILITÉ, IMPLANTATION  ET ATTRIBUTION DES BIENS (art. D2312-3 à R2313-6)](#446)
-          - [Chapitre II : Implantation et inventaire (art. D2312-3 à D2312-9)](#447)
-            - [Section 1 : Biens situés à l'étranger (art. D2312-3 à R2312-2)](#448)
-            - [Section 2 : Biens situés en France (art. R2312-4)](#449)
-            - [Section 3 : Inventaire (art. D2312-6 à R2312-7)](#450)
-              - [Sous-section 1 : Domaine immobilier (art. D2312-6 à R2312-5)](#451)
-              - [Sous-section 2 : Domaine mobilier (art. R2312-7)](#452)
-            - [Section 4 : Délégations et représentations (art. D2312-8 à D2312-9)](#453)
-          - [Chapitre III : Attribution (art. R2313-1 à R2313-6)](#454)
-        - [TITRE II : PRODUITS ET REDEVANCES DU DOMAINE (art. D2321-5 à R2323-6)](#455)
-          - [Chapitre Ier : Constatation et perception (art. D2321-5 à R2321-9)](#456)
-            - [Section 1 : Autorités compétentes (art. D2321-5 à R2321-4)](#457)
-            - [Section 2 : Prescriptions (art. R2321-6)](#458)
-            - [Section 3 : Seuil de mise en recouvrement (art. D2321-7 à D2321-8)](#459)
-            - [Section 4 : Prélèvement pour frais d'administration,  de vente et de recouvrement (art. R2321-9)](#460)
-          - [Chapitre III : Action en recouvrement (art. R2323-1 à R2323-6)](#461)
-            - [Section 1 : Exercice des poursuites (art. R2323-1 à R2323-2)](#462)
-            - [Section 2 : Contentieux du recouvrement (art. R2323-3 à R2323-6)](#463)
-              - [Sous-section 1 : Dispositions applicables à l'Etat (art. R2323-3 à R2323-5)](#464)
-              - [Sous-section 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R2323-6)](#465)
-        - [TITRE III : CONTENTIEUX (art. R2331-1 à R2331-11)](#466)
-          - [Chapitre unique (art. R2331-1 à R2331-11)](#467)
-            - [Section 1 : Exercice des fonctions de contentieux  au sein de l'Etat (art. R2331-1 à R2331-6)](#468)
-            - [Section 2 : Procédures contentieuses (art. R2331-7 à R2331-11)](#469)
-              - [Sous-section 1 : Procédure devant la juridiction administrative (art. R2331-7)](#470)
-              - [Sous-section 2 : Procédure devant la juridiction judiciaire (art. R2331-8 à R2331-11)](#471)
-    - [TROISIÈME PARTIE : CESSION (art. R3113-1 à R3231-2)](#472)
-      - [LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC (art. R3113-1 à R3113-7)](#473)
-        - [TITRE UNIQUE : INALIÉNABILITÉ ET IMPRESCRIPTIBILITÉ (art. R3113-1 à R3113-7)](#474)
-          - [Chapitre III : Transfert de propriété du domaine public fluvial (art. R3113-1 à R3113-7)](#475)
-      - [LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ (art. R3211-1 à R3231-2)](#476)
-        - [TITRE Ier : MODES DE CESSION (art. R3211-1 à D3212-6)](#477)
-          - [Chapitre Ier : Cessions à titre onéreux (art. R3211-1 à R3211-47)](#478)
-            - [Section 1 : Vente (art. R3211-1 à R3211-42)](#479)
-              - [Sous-section 1 : Domaine immobilier (art. R3211-1 à R3211-34)](#480)
-                - [Paragraphe 1 : Dispositions applicables à l'Etat (art. R3211-1 à R3211-28)](#481)
-                  - [Sous-paragraphe 1 : Dispositions générales (art. R3211-1 à R3211-8)](#482)
-                  - [Sous-paragraphe 2 : Dispositions particulières (art. D3211-29 à R3211-28)](#483)
-                - [Paragraphe 2 : Dispositions applicables aux établissements publics de l'Etat (art. R3211-31 à R3211-32-9)](#484)
-                - [Paragraphe 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3211-33)](#485)
-                - [Paragraphe 4 : Dispositions communes à l'Etat,  aux collectivités territoriales et à leurs groupements (art. R3211-34)](#486)
-              - [Sous-section 2 : Domaine mobilier (art. R3211-35 à R3211-42)](#487)
-            - [Section 2 : Autres modes (art. R3211-43 à R3211-47)](#488)
-              - [Sous-section 1 : Echange (art. R3211-43 à R3211-46)](#489)
-              - [Sous-section 2 : Apport (art. R3211-47)](#490)
-          - [Chapitre II : Cessions à titre gratuit (art. R3212-1 à D3212-6)](#491)
-            - [Section 1 : Domaine immobilier (art. R3212-1)](#492)
-            - [Section 2 : Domaine mobilier (art. D3212-3 à D3212-6)](#493)
-              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. D3212-3 à R3212-2)](#494)
-              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. D3212-5 à D3212-6)](#495)
-        - [TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE (art. R3221-1 à R3222-4)](#496)
-          - [Chapitre Ier : Ventes (art. R3221-1 à R3221-15)](#497)
-            - [Section 1 : Domaine immobilier (art. R3221-1 à R3221-11)](#498)
-              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R3221-1 à D3221-5)](#499)
-                - [Paragraphe 1 : Réalisation par l'administration chargée des domaines de cessions  pour le compte des services et des établissements publics de l'Etat (art. R3221-1 à R3221-3)](#500)
-                - [Paragraphe 2 : Délégations et représentations (art. D3221-4 à D3221-5)](#501)
-              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3221-6 à R3221-7)](#502)
-              - [Sous-section 3 : Dispositions applicables  aux établissements publics fonciers locaux (art. R3221-8)](#503)
-              - [Sous-section 4 : Dispositions applicables aux établissements publics  d'habitations à loyer modéré (art. R3221-9)](#504)
-              - [Sous-section 5 : Dispositions applicables aux biens situés à l'étranger (art. D3221-12 à R3221-11)](#505)
-            - [Section 2 : Domaine mobilier (art. D3221-16 à R3221-15)](#506)
-          - [Chapitre II : Echange (art. D3222-1 à R3222-4)](#507)
-            - [Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. D3222-1 à D3222-2)](#508)
-            - [Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3222-3)](#509)
-            - [Section 3 : Dispositions applicables  aux établissements publics fonciers locaux (art. R3222-4)](#510)
-        - [TITRE III : CONTENTIEUX (art. R3231-1 à R3231-2)](#511)
-    - [QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES  DES PERSONNES PUBLIQUES (art. R4111-1 à D4121-6)](#512)
-      - [LIVRE Ier : RÉALISATION DES OPÉRATIONS IMMOBILIÈRES (art. R4111-1 à D4121-6)](#513)
-        - [TITRE Ier : PRISES À BAIL (art. R4111-1 à R4112-2)](#514)
-          - [Chapitre Ier : Biens situés en France (art. R4111-1 à R4111-11)](#515)
-            - [Section 1 : Consultation préalable (art. R4111-1 à R4111-7)](#516)
-              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R4111-2 à R4111-6)](#517)
-              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R4111-7)](#518)
-            - [Section 2 : Passation des actes (art. R4111-8)](#519)
-            - [Section 3 : Délégations et représentations (art. D4111-9 à D4111-10)](#520)
-            - [Section 4 : Contentieux (art. R4111-11)](#521)
-          - [Chapitre II : Biens situés à l'étranger (art. D4112-3 à R4112-2)](#522)
-        - [TITRE II : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT (art. R4121-1 à D4121-6)](#523)
-          - [Chapitre unique (art. R4121-1 à D4121-6)](#524)
-            - [Section 1 : Mise en location (art. R4121-1 à R4121-1-1)](#525)
-            - [Section 2 : Attribution (art. R4121-2)](#526)
-            - [Section 3 : Concessions de logement (art. R4121-3 à R4121-3-1)](#527)
-            - [Section 4 : Inventaire (art. D4121-5 à R4121-4)](#528)
-            - [Section 5 : Biens situés à l'étranger (art. D4121-6)](#529)
-    - [CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D5111-6 à R5261-1)](#530)
-      - [LIVRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION (art. D5111-6 à R5151-5)](#531)
-        - [TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME (art. D5111-6 à R5113-1)](#532)
-          - [Chapitre Ier : Dispositions communes (art. D5111-6 à R5111-10)](#533)
-          - [Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique (art. R5112-1 à R5112-45)](#534)
-            - [Section 1 : Délimitation des espaces urbains et naturels (art. R5112-1)](#535)
-            - [Section 2 : Cession de terrains prévue par l'article L. 5112-4 (art. R5112-2 à R5112-12)](#536)
-            - [Section 3 : Cession de terrains prévue par l'article L. 5112-4-1 (art. R5112-13)](#537)
-            - [Section 4 : Cession de terrains prévue par l'article L. 5112-5 (art. R5112-14 à R5112-19)](#538)
-            - [Section 5 : Cession de terrains prévue par l'article L. 5112-6 (art. D5112-24 à R5112-25)](#539)
-            - [Section 6 : Dispositions relatives à l'application de l'article L. 5112-9 (art. R5112-26 à R5112-28)](#540)
-            - [Section 7 : Dispositions relatives à l'application de l'article L. 5112-3 (art. R5112-29 à R5112-45)](#541)
-          - [Chapitre III : Dispositions particulières à la Guyane et à La Réunion (art. R5113-1)](#542)
-        - [TITRE II : RÉGIME DOMANIAL DES EAUX (art. R5121-1)](#543)
-          - [Chapitre unique. (art. R5121-1)](#544)
-        - [TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE (art. D5141-7 à R5145-8)](#545)
-          - [Chapitre Ier : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales (art. D5141-7 à R5141-25)](#546)
-          - [Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales et à l'Etablissement public d'aménagement en Guyane (art. D5142-10 à R5142-12)](#547)
-          - [Chapitre III : Concessions et cessions à des communautés d'habitants (art. D5143-6 à R5143-5)](#548)
-          - [Chapitre IV : Cessions de terrains domaniaux ne relevant pas des dispositions des chapitres Ier, II et III (art. D5144-4 à R5144-3)](#549)
-          - [Chapitre V : Dispositions communes et diverses (art. R5145-1 à R5145-8)](#550)
-        - [TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE ET À LA RÉUNION (art. R5151-1 à R5151-5)](#551)
-          - [Chapitre unique. (art. R5151-1 à R5151-5)](#552)
-      - [LIVRE  II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. R5211-1 à R5261-1)](#553)
-        - [TITRE  Ier : DISPOSITIONS GÉNÉRALES (art. R5211-1 à R5211-4)](#554)
-          - [Chapitre unique. (art. R5211-1 à R5211-4)](#555)
-        - [TITRE  II : ACQUISITIONS (art. R5221-1 à R5222-2)](#556)
-          - [Chapitre Ier : Modes d'acquisition (art. R5221-1)](#557)
-          - [Chapitre II : Procédures d'acquisition (art. R5222-1 à R5222-2)](#558)
-        - [TITRE  III : GESTION (art. R5231-1 à R5233-2)](#559)
-          - [Chapitre Ier : Biens relevant du domaine public (art. R5231-1 à R5231-7)](#560)
-          - [Chapitre III : Recouvrement (art. R5233-1 à R5233-2)](#561)
-        - [TITRE  IV : CESSIONS (art. R5241-1 à R5242-1)](#562)
-          - [Chapitre Ier : Modes de cession (art. R5241-1 à R5241-9)](#563)
-            - [Section 1 : Cessions à titre onéreux (art. R5241-1 à R5241-5)](#564)
-              - [Sous-section 1 : Vente (art. R5241-1 à R5241-4)](#565)
-              - [Sous-section 2 : Autres modes (art. R5241-5)](#566)
-            - [Section 2 : Cessions à titre gratuit (art. R5241-6 à R5241-9)](#567)
-          - [Chapitre II : Procédures de cession et d'échange (art. R5242-1)](#568)
-        - [TITRE  V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES (art. R5251-1)](#569)
-          - [Chapitre unique. (art. R5251-1)](#570)
-        - [TITRE  VI : RÉGIME DOMANIAL DES EAUX (art. R5261-1)](#571)
-          - [Chapitre unique. (art. R5261-1)](#572)
-    - [ANNEXE (art. Annexe à l'article R3113-2)](#573)
+        - [TITRE II : ACQUISITIONS (art. L5221-3 à L5222-1)](#295)
+          - [Chapitre Ier : Modes d'acquisition (art. L5221-3)](#296)
+            - [Section 2 : Acquisitions à titre gratuit (art. L5221-3)](#297)
+              - [Sous-section 2 : Biens présumés sans maître. (art. L5221-3)](#298)
+          - [Chapitre II : Procédures d'acquisition (art. L5222-1)](#299)
+            - [Section 1 : Purge des privilèges et hypothèques et remise des fonds. (art. L5222-1)](#300)
+        - [TITRE III : GESTION (art. L5231-1 à L5234-1)](#301)
+          - [Chapitre Ier : Biens relevant du domaine public. (art. L5231-1 à L5231-2)](#302)
+          - [Chapitre II : Biens relevant du domaine privé. (art. L5232-2)](#303)
+          - [Chapitre III : Recouvrement. (art. L5233-1)](#304)
+          - [Chapitre IV : Contentieux. (art. L5234-1)](#305)
+        - [TITRE IV : CESSIONS (art. L5241-1 à L5242-1)](#306)
+          - [Chapitre Ier : Modes de cession (art. L5241-1 à L5241-6)](#307)
+            - [Section 1 : Cessions à titre onéreux (art. L5241-1 à L5241-3)](#308)
+              - [Sous-section 1 : Vente (art. L5241-1 à L5241-3)](#309)
+                - [Paragraphe 1 : Domaine immobilier. (art. L5241-1)](#310)
+                - [Paragraphe 2 : Domaine mobilier. (art. L5241-3)](#311)
+            - [Section 2 : Cessions à titre gratuit. (art. L5241-5 à L5241-6)](#312)
+          - [Chapitre II : Procédures de cession et d'échange. (art. L5242-1)](#313)
+        - [TITRE VI : RÉGIME DOMANIAL DES EAUX (art. L5261-1 à L5261-2)](#314)
+          - [Chapitre unique. (art. L5261-1 à L5261-2)](#315)
+  - [Partie réglementaire (art. R1111-1 à Annexe à l'article R3113-2)](#316)
+    - [PREMIÈRE PARTIE : ACQUISITION (art. R1111-1 à R1221-2)](#317)
+      - [LIVRE Ier : MODES D'ACQUISITION (art. R1111-1 à R1127-1)](#318)
+        - [TITRE Ier : ACQUISITIONS À TITRE ONÉREUX (art. R1111-1 à R1112-7)](#319)
+          - [Chapitre Ier : Acquisitions à l'amiable (art. R1111-1 à R1111-3)](#320)
+            - [Section 1 : Echange (art. R1111-1 à R1111-2)](#321)
+            - [Section 2 : Dation en paiement (art. R1111-3)](#322)
+          - [Chapitre II : Acquisitions selon des procédés de contrainte (art. R1112-1 à R1112-7)](#323)
+            - [Section 1 : Droit de préemption immobilier (art. R1112-1 à R1112-4)](#324)
+            - [Section 2 : Droit de préemption mobilier (art. R1112-5 à R1112-7)](#325)
+        - [TITRE II : ACQUISITIONS À TITRE GRATUIT (art. R1121-1 à R1127-1)](#326)
+          - [Chapitre Ier : Dons et legs (art. R1121-1 à R1121-8)](#327)
+            - [Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R1121-1 à R1121-5)](#328)
+            - [Section 2 : Dispositions applicables aux collectivités territoriales  et à leurs établissements publics (art. R1121-6 à R1121-8)](#329)
+          - [Chapitre II : Successions en déshérence (art. R1122-1)](#330)
+          - [Chapitre III : Biens sans maître (art. R1123-1 à R1123-2)](#331)
+          - [Chapitre VI : Sommes et valeurs prescrites (art. R1126-1 à R1126-6)](#332)
+          - [Chapitre VII : Dispositions diverses (art. R1127-1)](#333)
+      - [LIVRE II : PROCÉDURES D'ACQUISITION (art. R1211-1 à R1221-2)](#334)
+        - [TITRE Ier : BIENS SITUÉS EN FRANCE (art. R1211-1 à D1212-26)](#335)
+          - [Chapitre Ier : Consultation préalable (art. R1211-1 à R1211-10)](#336)
+            - [Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R1211-1 à R1211-8)](#337)
+            - [Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R1211-9 à R1211-10)](#338)
+          - [Chapitre II : Actes (art. R1212-1 à D1212-26)](#339)
+            - [Section 1 : Passation des actes (art. R1212-1 à R1212-2)](#340)
+            - [Section 2 : Purge des privilèges et hypothèques et remise des fonds (art. R1212-3 à R1212-8)](#341)
+            - [Section 3 : Réalisation par l'administration chargée des domaines d'acquisitions foncières pour le compte des collectivités publiques (art. R1212-9 à R1212-24)](#342)
+              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R1212-9 à R1212-22)](#343)
+                - [Paragraphe 1 : Dispositions générales (art. R1212-9 à R1212-18)](#344)
+                - [Paragraphe 2 : Dispositions applicables dans la région d'Ile-de-France (art. R1212-19 à R1212-22)](#345)
+              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R1212-23 à R1212-24)](#346)
+                - [Paragraphe 1 : Dispositions générales (art. R1212-23)](#347)
+                - [Paragraphe 2 : Dispositions applicables dans la région d'Ile-de-France (art. R1212-24)](#348)
+            - [Section 4 : Délégations et représentations (art. D1212-25 à D1212-26)](#349)
+        - [TITRE II : BIENS SITUÉS À L'ÉTRANGER (art. D1221-3 à R1221-2)](#350)
+          - [Chapitre unique (art. D1221-3 à R1221-2)](#351)
+    - [DEUXIÈME PARTIE : GESTION (art. R2111-1 à R2331-11)](#352)
+      - [LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC (art. R2111-1 à R2142-3)](#353)
+        - [TITRE Ier : CONSISTANCE DU DOMAINE PUBLIC (art. R2111-1 à R2111-20)](#354)
+          - [Chapitre Ier : Domaine public immobilier (art. R2111-1 à R2111-20)](#355)
+            - [Section 1 : Règles générales (art. R2111-1 à R2111-3)](#356)
+            - [Section 2 : Domaine public maritime (art. R2111-4 à R2111-14)](#357)
+            - [Section 3 : Domaine public fluvial (art. R2111-15 à R2111-20)](#358)
+        - [TITRE II : UTILISATION DU DOMAINE PUBLIC (art. R2122-1 à R2125-16)](#359)
+          - [Chapitre II : Utilisation compatible avec l'affectation (art. R2122-1 à R2122-55)](#360)
+            - [Section 1 : Règles générales d'occupation (art. R2122-1 à R2122-8)](#361)
+            - [Section 2 : Règles particulières à certaines occupations (art. R2122-9 à R2122-55)](#362)
+              - [Sous-section 1 : Dispositions communes (art. R2122-10 à R2122-27)](#363)
+                - [Paragraphe 1 : Présentation de la demande  de titre d'occupation constitutif de droit réel (art. R2122-12 à R2122-13)](#364)
+                - [Paragraphe 2 : Délivrance du titre  d'occupation constitutif de droit réel (art. R2122-14 à R2122-17)](#365)
+                - [Paragraphe 3 : Retrait du titre d'occupation constitutif de droit réel (art. R2122-18)](#366)
+                - [Paragraphe 4 : Transmission ou cession des ouvrages, constructions et installations  prévus par le titre d'occupation et transfert du droit réel y attaché (art. R2122-19 à R2122-26)](#367)
+                - [Paragraphe 5 : Financement des ouvrages, constructions et installations  prévus par le titre d'occupation constitutif de droit réel (art. R2122-27)](#368)
+              - [Sous-section 2 : Règles particulières à certaines opérations de construction (art. R2122-28 à R2122-49)](#369)
+                - [Paragraphe 1 : Dispositions générales (art. R2122-28 à R2122-33)](#370)
+                - [Paragraphe 2 : Procédure de passation de droit commun (art. R2122-34 à R2122-37)](#371)
+                - [Paragraphe 3 : Cas de recours à la procédure négociée (art. R2122-38 à R2122-40)](#372)
+                - [Paragraphe 4 : Procédure de dialogue compétitif (art. R2122-41 à R2122-46)](#373)
+                - [Paragraphe 5 : Conclusion et modifications ultérieures du contrat (art. R2122-47 à R2122-49)](#374)
+              - [Sous-section 3 : Règles particulières au domaine public de l'Etat compris dans les limites administratives des ports relevant de la compétence des collectivités territoriales (art. R2122-50 à R2122-54)](#375)
+                - [Paragraphe 1 : Compétence du département (art. R2122-50 à R2122-51)](#376)
+                - [Paragraphe 2 : Compétence de la commune (art. R2122-52 à R2122-53)](#377)
+                - [Paragraphe 3 : Dispositions communes (art. R2122-54)](#378)
+              - [Sous-section 4 : Règles particulières aux titres en cours (art. R2122-55)](#379)
+          - [Chapitre III : Modalités de gestion (art. R2123-1 à R2123-17)](#380)
+            - [Section 1 : Convention de gestion (art. R2123-1 à R2123-8)](#381)
+            - [Section 2 : Transfert de gestion lié à un changement d'affectation (art. R2123-9 à R2123-14)](#382)
+            - [Section 3 : Superposition d'affectations (art. R2123-15 à R2123-17)](#383)
+          - [Chapitre IV : Dispositions particulières (art. R2124-1 à R2124-79)](#384)
+            - [Section 1 : Utilisation du domaine public maritime (art. R2124-1 à R2124-56)](#385)
+              - [Sous-section 1 : Concessions d'utilisation  du domaine public maritime en dehors des ports (art. R2124-1 à R2124-12)](#386)
+              - [Sous-section 2 : Concessions de plage (art. R2124-13 à R2124-38)](#387)
+                - [Paragraphe 1 : Règles d'occupation  des plages faisant l'objet d'une concession (art. R2124-13 à R2124-20)](#388)
+                - [Paragraphe 2 : Attribution des concessions de plage (art. R2124-21 à R2124-30)](#389)
+                - [Paragraphe 3 : Attribution des sous-traités d'exploitation (art. R2124-31 à R2124-34)](#390)
+                - [Paragraphe 4 : Résiliation des concessions  et des conventions d'exploitation (art. R2124-35 à R2124-38)](#391)
+              - [Sous-section 3 : Autorisations d'occupation temporaire concernant les zones de mouillages et d'équipements légers sur le domaine public maritime (art. R2124-39 à R2124-55)](#392)
+              - [Sous-section 4 : Dispositions communes (art. R2124-56)](#393)
+            - [Section 2 : Utilisation du domaine public fluvial (art. R2124-57 à R2124-59)](#394)
+              - [Sous-section 1 : Règles générales (art. R2124-57)](#395)
+              - [Sous-section 2 : Autorisations d'occupation temporaire concernant les zones de mouillages et d'équipements légers sur le domaine public fluvial (art. R2124-58)](#396)
+              - [Sous-section 3 : Dispositions relatives au canal du Midi (art. R2124-59)](#397)
+            - [Section 3 : Utilisation du domaine public hertzien (art. R2124-60)](#398)
+            - [Section 4 : Exploitation des ressources naturelles (art. R2124-61 à R2124-63)](#399)
+            - [Section 5 : Concessions de logement (art. D2124-75 à R2124-78)](#400)
+              - [Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics (art. D2124-75 à R2124-77)](#401)
+                - [Paragraphe 1 : Concessions de logement dans les immeubles  appartenant à l'Etat (art. D2124-75 à R2124-74)](#402)
+                - [Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat (art. R2124-76 à R2124-77)](#403)
+              - [Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales, à leurs groupements et à leurs établissements publics (art. R2124-78)](#404)
+            - [Section 6 : Autres utilisations du domaine public (art. R2124-79)](#405)
+          - [Chapitre V : Dispositions financières (art. R2125-1 à R2125-16)](#406)
+            - [Section 1 : Dispositions générales (art. R2125-1 à R2125-6)](#407)
+            - [Section 2 : Dispositions particulières au domaine public fluvial (art. R2125-7 à R2125-13)](#408)
+            - [Section 3 : Dispositions particulières à certaines occupations (art. R2125-14 à R2125-16)](#409)
+        - [TITRE III : PROTECTION DU DOMAINE PUBLIC (art. R2132-1)](#410)
+          - [Chapitre II : Police de la conservation (art. R2132-1)](#411)
+            - [Section 1 : Contraventions de voirie routière (art. R2132-1)](#412)
+        - [TITRE IV : SORTIE DES BIENS DU DOMAINE PUBLIC (art. D2141-1 à R2142-3)](#413)
+          - [Chapitre Ier : Règles générales (art. D2141-1)](#414)
+          - [Chapitre II : Règles particulières au domaine public fluvial (art. R2142-1 à R2142-3)](#415)
+      - [LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ (art. R2222-1 à R2222-36)](#416)
+        - [TITRE II : UTILISATION DU DOMAINE PRIVÉ (art. R2222-1 à R2222-36)](#417)
+          - [Chapitre II : Dispositions particulières (art. R2222-1 à R2222-36)](#418)
+            - [Section 1 : Location, mise à disposition et affectation (art. R2222-1 à R2222-7)](#419)
+              - [Sous-section 1 : Domaine immobilier (art. R2222-1 à R2222-5)](#420)
+              - [Sous-section 2 : Domaine mobilier (art. R2222-6 à R2222-7)](#421)
+            - [Section 2 : Gestion confiée à des tiers (art. R2222-8 à R2222-17)](#422)
+              - [Sous-section 1 : Gestion confiée à des tiers par l'Etat (art. R2222-8 à R2222-16)](#423)
+                - [Paragraphe 1 : Convention de gestion (art. R2222-8 à R2222-15)](#424)
+                - [Paragraphe 2 : Contrat de gérance (art. R2222-16)](#425)
+              - [Sous-section 2 : Gestion confiée à des tiers par les collectivités territoriales,  leurs groupements et leurs établissements publics (art. R2222-17)](#426)
+            - [Section 3 : Concessions de logement (art. R2222-18 à R2222-20)](#427)
+              - [Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics (art. R2222-18 à R2222-19)](#428)
+                - [Paragraphe 1 : Concessions de logement  dans les immeubles appartenant à l'Etat (art. R2222-18)](#429)
+                - [Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat (art. R2222-19)](#430)
+              - [Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales,à leurs groupements et à leurs établissements publics (art. R2222-20)](#431)
+            - [Section 4 : Révision des libéralités et restitution de biens (art. R2222-21 à R2222-32)](#432)
+              - [Sous-section 1 : Dispositions applicables à l'Etat (art. R2222-21 à R2222-27)](#433)
+              - [Sous-section 2 : Dispositions applicables aux établissements publics de l'Etat (art. R2222-28 à R2222-29)](#434)
+              - [Sous-section 3 : Dispositions communes à l'Etat et à ses établissements publics (art. R2222-30 à R2222-32)](#435)
+            - [Section 5 : Sommes et valeurs prescrites (art. R2222-33 à R2222-34)](#436)
+            - [Section 6 : Mise en valeur des terres incultes  ou manifestement sous-exploitées (art. R2222-35)](#437)
+            - [Section 7 : Administration du domaine forestier (art. R2222-36)](#438)
+      - [LIVRE III : DISPOSITIONS COMMUNES (art. D2312-3 à R2331-11)](#439)
+        - [TITRE Ier : INSAISISSABILITÉ, IMPLANTATION  ET ATTRIBUTION DES BIENS (art. D2312-3 à R2313-6)](#440)
+          - [Chapitre II : Implantation et inventaire (art. D2312-3 à D2312-9)](#441)
+            - [Section 1 : Biens situés à l'étranger (art. D2312-3 à R2312-2)](#442)
+            - [Section 2 : Biens situés en France (art. R2312-4)](#443)
+            - [Section 3 : Inventaire (art. D2312-6 à R2312-7)](#444)
+              - [Sous-section 1 : Domaine immobilier (art. D2312-6 à R2312-5)](#445)
+              - [Sous-section 2 : Domaine mobilier (art. R2312-7)](#446)
+            - [Section 4 : Délégations et représentations (art. D2312-8 à D2312-9)](#447)
+          - [Chapitre III : Attribution (art. R2313-1 à R2313-6)](#448)
+        - [TITRE II : PRODUITS ET REDEVANCES DU DOMAINE (art. D2321-5 à R2323-6)](#449)
+          - [Chapitre Ier : Constatation et perception (art. D2321-5 à R2321-9)](#450)
+            - [Section 1 : Autorités compétentes (art. D2321-5 à R2321-4)](#451)
+            - [Section 2 : Prescriptions (art. R2321-6)](#452)
+            - [Section 3 : Seuil de mise en recouvrement (art. D2321-7 à D2321-8)](#453)
+            - [Section 4 : Prélèvement pour frais d'administration,  de vente et de recouvrement (art. R2321-9)](#454)
+          - [Chapitre III : Action en recouvrement (art. R2323-1 à R2323-6)](#455)
+            - [Section 1 : Exercice des poursuites (art. R2323-1 à R2323-2)](#456)
+            - [Section 2 : Contentieux du recouvrement (art. R2323-3 à R2323-6)](#457)
+              - [Sous-section 1 : Dispositions applicables à l'Etat (art. R2323-3 à R2323-5)](#458)
+              - [Sous-section 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R2323-6)](#459)
+        - [TITRE III : CONTENTIEUX (art. R2331-1 à R2331-11)](#460)
+          - [Chapitre unique (art. R2331-1 à R2331-11)](#461)
+            - [Section 1 : Exercice des fonctions de contentieux  au sein de l'Etat (art. R2331-1 à R2331-6)](#462)
+            - [Section 2 : Procédures contentieuses (art. R2331-7 à R2331-11)](#463)
+              - [Sous-section 1 : Procédure devant la juridiction administrative (art. R2331-7)](#464)
+              - [Sous-section 2 : Procédure devant la juridiction judiciaire (art. R2331-8 à R2331-11)](#465)
+    - [TROISIÈME PARTIE : CESSION (art. R3113-1 à R3231-2)](#466)
+      - [LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC (art. R3113-1 à R3113-7)](#467)
+        - [TITRE UNIQUE : INALIÉNABILITÉ ET IMPRESCRIPTIBILITÉ (art. R3113-1 à R3113-7)](#468)
+          - [Chapitre III : Transfert de propriété du domaine public fluvial (art. R3113-1 à R3113-7)](#469)
+      - [LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ (art. R3211-1 à R3231-2)](#470)
+        - [TITRE Ier : MODES DE CESSION (art. R3211-1 à D3212-6)](#471)
+          - [Chapitre Ier : Cessions à titre onéreux (art. R3211-1 à R3211-47)](#472)
+            - [Section 1 : Vente (art. R3211-1 à R3211-42)](#473)
+              - [Sous-section 1 : Domaine immobilier (art. R3211-1 à R3211-34)](#474)
+                - [Paragraphe 1 : Dispositions applicables à l'Etat (art. R3211-1 à R3211-28)](#475)
+                  - [Sous-paragraphe 1 : Dispositions générales (art. R3211-1 à R3211-8)](#476)
+                  - [Sous-paragraphe 2 : Dispositions particulières (art. D3211-29 à R3211-28)](#477)
+                - [Paragraphe 2 : Dispositions applicables aux établissements publics de l'Etat (art. R3211-31 à R3211-32-9)](#478)
+                - [Paragraphe 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3211-33)](#479)
+                - [Paragraphe 4 : Dispositions communes à l'Etat,  aux collectivités territoriales et à leurs groupements (art. R3211-34)](#480)
+              - [Sous-section 2 : Domaine mobilier (art. R3211-35 à R3211-42)](#481)
+            - [Section 2 : Autres modes (art. R3211-43 à R3211-47)](#482)
+              - [Sous-section 1 : Echange (art. R3211-43 à R3211-46)](#483)
+              - [Sous-section 2 : Apport (art. R3211-47)](#484)
+          - [Chapitre II : Cessions à titre gratuit (art. R3212-1 à D3212-6)](#485)
+            - [Section 1 : Domaine immobilier (art. R3212-1)](#486)
+            - [Section 2 : Domaine mobilier (art. D3212-3 à D3212-6)](#487)
+              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. D3212-3 à R3212-2)](#488)
+              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. D3212-5 à D3212-6)](#489)
+        - [TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE (art. R3221-1 à R3222-4)](#490)
+          - [Chapitre Ier : Ventes (art. R3221-1 à R3221-15)](#491)
+            - [Section 1 : Domaine immobilier (art. R3221-1 à R3221-11)](#492)
+              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R3221-1 à D3221-5)](#493)
+                - [Paragraphe 1 : Réalisation par l'administration chargée des domaines de cessions  pour le compte des services et des établissements publics de l'Etat (art. R3221-1 à R3221-3)](#494)
+                - [Paragraphe 2 : Délégations et représentations (art. D3221-4 à D3221-5)](#495)
+              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3221-6 à R3221-7)](#496)
+              - [Sous-section 3 : Dispositions applicables  aux établissements publics fonciers locaux (art. R3221-8)](#497)
+              - [Sous-section 4 : Dispositions applicables aux établissements publics  d'habitations à loyer modéré (art. R3221-9)](#498)
+              - [Sous-section 5 : Dispositions applicables aux biens situés à l'étranger (art. D3221-12 à R3221-11)](#499)
+            - [Section 2 : Domaine mobilier (art. D3221-16 à R3221-15)](#500)
+          - [Chapitre II : Echange (art. D3222-1 à R3222-4)](#501)
+            - [Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. D3222-1 à D3222-2)](#502)
+            - [Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3222-3)](#503)
+            - [Section 3 : Dispositions applicables  aux établissements publics fonciers locaux (art. R3222-4)](#504)
+        - [TITRE III : CONTENTIEUX (art. R3231-1 à R3231-2)](#505)
+    - [QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES  DES PERSONNES PUBLIQUES (art. R4111-1 à D4121-6)](#506)
+      - [LIVRE Ier : RÉALISATION DES OPÉRATIONS IMMOBILIÈRES (art. R4111-1 à D4121-6)](#507)
+        - [TITRE Ier : PRISES À BAIL (art. R4111-1 à R4112-2)](#508)
+          - [Chapitre Ier : Biens situés en France (art. R4111-1 à R4111-11)](#509)
+            - [Section 1 : Consultation préalable (art. R4111-1 à R4111-7)](#510)
+              - [Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics (art. R4111-2 à R4111-6)](#511)
+              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R4111-7)](#512)
+            - [Section 2 : Passation des actes (art. R4111-8)](#513)
+            - [Section 3 : Délégations et représentations (art. D4111-9 à D4111-10)](#514)
+            - [Section 4 : Contentieux (art. R4111-11)](#515)
+          - [Chapitre II : Biens situés à l'étranger (art. D4112-3 à R4112-2)](#516)
+        - [TITRE II : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT (art. R4121-1 à D4121-6)](#517)
+          - [Chapitre unique (art. R4121-1 à D4121-6)](#518)
+            - [Section 1 : Mise en location (art. R4121-1 à R4121-1-1)](#519)
+            - [Section 2 : Attribution (art. R4121-2)](#520)
+            - [Section 3 : Concessions de logement (art. R4121-3 à R4121-3-1)](#521)
+            - [Section 4 : Inventaire (art. D4121-5 à R4121-4)](#522)
+            - [Section 5 : Biens situés à l'étranger (art. D4121-6)](#523)
+    - [CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D5111-6 à R5261-1)](#524)
+      - [LIVRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION (art. D5111-6 à R5151-5)](#525)
+        - [TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME (art. D5111-6 à R5113-1)](#526)
+          - [Chapitre Ier : Dispositions communes (art. D5111-6 à R5111-10)](#527)
+          - [Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique (art. R5112-1 à R5112-45)](#528)
+            - [Section 1 : Délimitation des espaces urbains et naturels (art. R5112-1)](#529)
+            - [Section 2 : Cession de terrains prévue par l'article L. 5112-4 (art. R5112-2 à R5112-12)](#530)
+            - [Section 3 : Cession de terrains prévue par l'article L. 5112-4-1 (art. R5112-13)](#531)
+            - [Section 4 : Cession de terrains prévue par l'article L. 5112-5 (art. R5112-14 à R5112-19)](#532)
+            - [Section 5 : Cession de terrains prévue par l'article L. 5112-6 (art. D5112-24 à R5112-25)](#533)
+            - [Section 6 : Dispositions relatives à l'application de l'article L. 5112-9 (art. R5112-26 à R5112-28)](#534)
+            - [Section 7 : Dispositions relatives à l'application de l'article L. 5112-3 (art. R5112-29 à R5112-45)](#535)
+          - [Chapitre III : Dispositions particulières à la Guyane et à La Réunion (art. R5113-1)](#536)
+        - [TITRE II : RÉGIME DOMANIAL DES EAUX (art. R5121-1)](#537)
+          - [Chapitre unique. (art. R5121-1)](#538)
+        - [TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE (art. D5141-7 à R5145-8)](#539)
+          - [Chapitre Ier : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales (art. D5141-7 à R5141-25)](#540)
+          - [Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales et à l'Etablissement public d'aménagement en Guyane (art. D5142-10 à R5142-12)](#541)
+          - [Chapitre III : Concessions et cessions à des communautés d'habitants (art. D5143-6 à R5143-5)](#542)
+          - [Chapitre IV : Cessions de terrains domaniaux ne relevant pas des dispositions des chapitres Ier, II et III (art. D5144-4 à R5144-3)](#543)
+          - [Chapitre V : Dispositions communes et diverses (art. R5145-1 à R5145-8)](#544)
+        - [TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE ET À LA RÉUNION (art. R5151-1 à R5151-5)](#545)
+          - [Chapitre unique. (art. R5151-1 à R5151-5)](#546)
+      - [LIVRE  II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. R5211-1 à R5261-1)](#547)
+        - [TITRE  Ier : DISPOSITIONS GÉNÉRALES (art. R5211-1 à R5211-4)](#548)
+          - [Chapitre unique. (art. R5211-1 à R5211-4)](#549)
+        - [TITRE  II : ACQUISITIONS (art. R5221-1 à R5222-2)](#550)
+          - [Chapitre Ier : Modes d'acquisition (art. R5221-1)](#551)
+          - [Chapitre II : Procédures d'acquisition (art. R5222-1 à R5222-2)](#552)
+        - [TITRE  III : GESTION (art. R5231-1 à R5233-2)](#553)
+          - [Chapitre Ier : Biens relevant du domaine public (art. R5231-1 à R5231-7)](#554)
+          - [Chapitre III : Recouvrement (art. R5233-1 à R5233-2)](#555)
+        - [TITRE  IV : CESSIONS (art. R5241-1 à R5242-1)](#556)
+          - [Chapitre Ier : Modes de cession (art. R5241-1 à R5241-9)](#557)
+            - [Section 1 : Cessions à titre onéreux (art. R5241-1 à R5241-5)](#558)
+              - [Sous-section 1 : Vente (art. R5241-1 à R5241-4)](#559)
+              - [Sous-section 2 : Autres modes (art. R5241-5)](#560)
+            - [Section 2 : Cessions à titre gratuit (art. R5241-6 à R5241-9)](#561)
+          - [Chapitre II : Procédures de cession et d'échange (art. R5242-1)](#562)
+        - [TITRE  V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES (art. R5251-1)](#563)
+          - [Chapitre unique. (art. R5251-1)](#564)
+        - [TITRE  VI : RÉGIME DOMANIAL DES EAUX (art. R5261-1)](#565)
+          - [Chapitre unique. (art. R5261-1)](#566)
+    - [ANNEXE (art. Annexe à l'article R3113-2)](#567)
 # Partie législative<a id=1></a>
 
 ## TITRE PRÉLIMINAIRE.<a id=2></a>
@@ -1027,8 +1021,8 @@ _Anciens textes_:
 
 ###### Article L1121-3
 
-Dans tous les cas où les dons et legs donnent lieu à des réclamations des héritiers légaux, l'autorisation de les accepter
-est donnée par décret en Conseil d'Etat.
+Dans tous les cas où les dons et legs donnent lieu à des réclamations des héritiers légaux, l'autorisation de les accepter,
+en tout ou partie, est donnée par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1043,7 +1037,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
 
 _Anciens textes_:
 
@@ -4187,8 +4185,7 @@ _Cité par_:
 
 L'autorisation domaniale nécessaire pour la recherche et l'exploitation des substances minérales autres que celles
 mentionnées à l'article L. 111-1 du code minier lorsqu'elles sont contenues dans les fonds marins du domaine public est
-délivrée en application des règles fixées à la section 1 du chapitre III du titre II et à la section 1 du chapitre II du
-titre III du livre 1er du code minier.
+délivrée en application des règles fixées à la section 2 du chapitre III des titres II et III du livre Ier du code minier.
 
 **Liens relatifs à cet article**
 
@@ -4198,11 +4195,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 7
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
 
 _Cité par_:
 
-  - Code général de la propriété des personnes publ... - art. L2124-28 (VD)
+  - Code général de la propriété des personnes publ... - art. L2124-28 (V)
   - Code général de la propriété des personnes publ... - art. L2124-3 (V)
   - Code général de la propriété des personnes publ... - art. L5163-4 (V)
   - Code général de la propriété des personnes publ... - art. L5211-1 (V)
@@ -4210,14 +4207,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code minier (nouveau) - art. L111-1 (V)
+  - Code minier (nouveau) - art. L111-1
 
 
 ###### Article L2124-28
 
 Le titulaire de l'autorisation de prospections préalables ou du titre de recherche et d'exploitation est, en cas de retrait
 ou de réduction de l'assiette de l'autorisation domaniale mentionnée à l'article L. 2124-27, soumis aux obligations fixées
-par l'article L. 123-3 du code minier.
+aux articles L. 123-6 et L. 133-8 du code minier.
 
 **Liens relatifs à cet article**
 
@@ -4227,17 +4224,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 7
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
+
+_Cite_:
+
+  - Code général de la propriété des personnes publ... - art. L2124-27 (V)
+  - Code minier (nouveau) - art. L123-6 (V)
+  - Code minier (nouveau) - art. L133-8 (V)
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. L5163-5 (V)
   - Code général de la propriété des personnes publ... - art. L5211-1 (V)
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiques. - art. L2124-27
-  - Code minier (nouveau) - art. L123-3 (V)
 
 
 ###### Article L2124-29
@@ -7009,17 +7007,21 @@ _Cite_:
 
 L'action des comptables publics chargés de recouvrer les créances domaniales des établissements publics de l'Etat se prescrit
 par quatre ans à compter de la prise en charge du titre de recettes ou du document en tenant lieu. Toutefois, ce délai est
-porté à dix ans lorsqu'un établissement public national à caractère industriel et commercial conduit les poursuites
+porté à cinq ans lorsqu'un établissement public national à caractère industriel et commercial conduit les poursuites
 conformément aux usages du commerce.
 
-Le délai de quatre ou de dix ans mentionné à l'alinéa précédent est interrompu par tous actes comportant reconnaissance de la
-part des débiteurs ou par tous actes interruptifs de prescription.
+Le délai de quatre ou de cinq ans mentionné à l'alinéa précédent est interrompu par tous actes comportant reconnaissance de
+la part des débiteurs ou par tous actes interruptifs de prescription.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
 
 
 ###### Article L2323-10
@@ -12648,14 +12650,14 @@ _Cite_:
 
 Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles : 
 
-1° L. 1111-5, L. 1121-6, L. 1211-2, L. 1212-6 et L. 1212-7 ; 
+1° L. 1111-5, L. 1211-2, et L. 1212-7 ; 
 
 2° L. 2111-15, L. 2124-16 à L. 2124-25, L. 2124-27, L. 2124-28, L. 2124-31, L. 2132-12, L. 2132-18, L. 2141-2, L. 2141-3, L.
-2222-3, L. 2222-4 et L. 2222-23 ; 
+2222-4 et L. 2222-23 ; 
 
 3° L. 3111-2, L. 3211-7, L. 3221-2, L. 3221-3 et L. 3222-3 ; 
 
-4° L. 4111-5 et L. 4111-6 ; 
+4° L. 4111-6 ; 
 
 5° Les livres Ier et III de la cinquième partie.
 
@@ -12667,33 +12669,40 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (M)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L1111-5 (V)
-  - Code général de la propriété des personnes publ... - art. L1121-6 (V)
   - Code général de la propriété des personnes publ... - art. L1211-2 (V)
-  - Code général de la propriété des personnes publ... - art. L1212-6 (V)
-  - Code général de la propriété des personnes publ... - art. L1212-7 (V)
-  - Code général de la propriété des personnes publ... - art. L2111-15 (V)
-  - Code général de la propriété des personnes publ... - art. L2124-16 (V)
-  - Code général de la propriété des personnes publ... - art. L2124-27 (VT)
-  - Code général de la propriété des personnes publ... - art. L2124-28 (VT)
-  - Code général de la propriété des personnes publ... - art. L2124-31 (V)
-  - Code général de la propriété des personnes publ... - art. L2132-12 (V)
-  - Code général de la propriété des personnes publ... - art. L2132-18 (V)
-  - Code général de la propriété des personnes publ... - art. L2141-2 (V)
-  - Code général de la propriété des personnes publ... - art. L2141-3 (V)
-  - Code général de la propriété des personnes publ... - art. L2222-23 (V)
-  - Code général de la propriété des personnes publ... - art. L2222-3 (V)
-  - Code général de la propriété des personnes publ... - art. L2222-4 (V)
-  - Code général de la propriété des personnes publ... - art. L3111-2 (V)
-  - Code général de la propriété des personnes publ... - art. L3211-7 (V)
-  - Code général de la propriété des personnes publ... - art. L3221-2 (V)
-  - Code général de la propriété des personnes publ... - art. L3221-3 (V)
-  - Code général de la propriété des personnes publ... - art. L3222-3 (V)
-  - Code général de la propriété des personnes publ... - art. L4111-5 (V)
+  - Code général de la propriété des personnes publiques. - art. L1111-5
+  - Code général de la propriété des personnes publiques. - art. L1212-7
+  - Code général de la propriété des personnes publiques. - art. L2111-15
+  - Code général de la propriété des personnes publiques. - art. L2124-16
+  - Code général de la propriété des personnes publiques. - art. L2124-27
+  - Code général de la propriété des personnes publiques. - art. L2124-28
+  - Code général de la propriété des personnes publiques. - art. L2124-31
+  - Code général de la propriété des personnes publiques. - art. L2132-12
+  - Code général de la propriété des personnes publiques. - art. L2132-18
+  - Code général de la propriété des personnes publiques. - art. L2141-2
+  - Code général de la propriété des personnes publiques. - art. L2141-3
+  - Code général de la propriété des personnes publiques. - art. L2222-23
+  - Code général de la propriété des personnes publiques. - art. L2222-3
+  - Code général de la propriété des personnes publiques. - art. L2222-4
+  - Code général de la propriété des personnes publiques. - art. L3111-2
+  - Code général de la propriété des personnes publiques. - art. L3211-7
+  - Code général de la propriété des personnes publiques. - art. L3221-2
+  - Code général de la propriété des personnes publiques. - art. L3221-3
+  - Code général de la propriété des personnes publiques. - art. L3222-3
+  - Code général de la propriété des personnes publiques. - art. L4111-5
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. L5411-1 (VD)
 
 
 ###### Article L5211-2
@@ -12763,60 +12772,9 @@ _Nouveaux textes_:
 
 ##### Chapitre Ier : Modes d'acquisition<a id=296></a>
 
-##### Section 1 : Acquisitions à titre onéreux.<a id=297></a>
+##### Section 2 : Acquisitions à titre gratuit<a id=297></a>
 
-###### Article L5221-1
-
-Pour l'application de l'article L. 1111-4, les mots : " dans les conditions fixées par le code général des collectivités
-territoriales ou par le code de la santé publique " sont remplacés par les mots : 
-
-" dans les conditions fixées par la deuxième partie du code général des collectivités territoriales, la loi du 10 août 1871
-relative aux conseils généraux ou par le code de la santé publique ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
-_Cite_:
-
-  - Loi n°1871-08-10. du 10 août 1871 (Ab)
-  - Code général de la propriété des personnes publ... - art. L1111-4 (V)
-
-
-##### Section 2 : Acquisitions à titre gratuit<a id=298></a>
-
-##### Sous-section 1 : Dons et legs.<a id=299></a>
-
-###### Article L5221-2
-
-Pour l'application de l'article L. 1121-5, la référence à l'article L. 3213-6 du code général des collectivités territoriales
-est remplacée par une référence au 5° de l'article 46 et au premier alinéa de l'article 53 de la loi du 10 août 1871 relative
-aux conseils généraux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
-_Cite_:
-
-  - Loi n°1871-08-10. du 10 août 1871 - art. 46 (Ab)
-  - Loi n°1871-08-10. du 10 août 1871 - art. 53 (Ab)
-  - Code général de la propriété des personnes publ... - art. L1121-5 (V)
-
-
-##### Sous-section 2 : Biens présumés sans maître.<a id=300></a>
+##### Sous-section 2 : Biens présumés sans maître.<a id=298></a>
 
 ###### Article L5221-3
 
@@ -12842,52 +12800,40 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. L1123-3
 
 
-##### Chapitre II : Procédures d'acquisition<a id=301></a>
+##### Chapitre II : Procédures d'acquisition<a id=299></a>
 
-##### Section 1 : Purge des privilèges et hypothèques et remise des fonds.<a id=302></a>
+##### Section 1 : Purge des privilèges et hypothèques et remise des fonds.<a id=300></a>
 
 ###### Article L5222-1
 
-L'article L. 1212-3 est ainsi modifié : 
-
-1° Les mots : ", les régions et leurs établissements publics " sont supprimés ; 
-
-2° Les références aux articles L. 4221-4-1, L. 5211-27-2 et L. 5722-9 sont supprimées.
+Pour l'application de l'article L. 1212-3, la référence à l'article L. 5211-27-2 est supprimée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
 
-_Cite_:
-
-  - Code général de la propriété des personnes publ... - art. L1212-3 (V)
-
-
-##### Section 2 : Réception et authentification des actes.<a id=303></a>
-
-###### Article L5222-2
-
-Le maire, le président du conseil général, les présidents des établissements publics rattachés à une collectivité
-territoriale sont habilités à recevoir les actes d'acquisition immobilière passés en la forme administrative par ces
-collectivités et établissements publics, et en assurent la conservation. Ils confèrent à ces actes l'authenticité en vue de
-leur publication au fichier immobilier.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°2014-1545 du 20 décembre 2014 - art. 50
 
+**Liens**:
 
-#### TITRE III : GESTION<a id=304></a>
+  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-##### Chapitre Ier : Biens relevant du domaine public.<a id=305></a>
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. L5422-1 (VD)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L1212-3
+
+
+#### TITRE III : GESTION<a id=301></a>
+
+##### Chapitre Ier : Biens relevant du domaine public.<a id=302></a>
 
 ###### Article L5231-1
 
@@ -12937,25 +12883,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. L5431-2 (VD)
 
 
-##### Chapitre II : Biens relevant du domaine privé.<a id=306></a>
-
-###### Article L5232-1
-
-Le maire, le président du conseil général, les présidents des établissements publics rattachés à une collectivité
-territoriale sont habilités à recevoir les baux passés en la forme administrative par ces collectivités et établissements
-publics, et en assurent la conservation. Ils confèrent à ces actes l'authenticité en vue de leur publication au fichier
-immobilier lorsqu'elle est requise par les dispositions qui leur sont applicables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
+##### Chapitre II : Biens relevant du domaine privé.<a id=303></a>
 
 ###### Article L5232-2
 
@@ -12981,7 +12909,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. L2222-22
 
 
-##### Chapitre III : Recouvrement.<a id=307></a>
+##### Chapitre III : Recouvrement.<a id=304></a>
 
 ###### Article L5233-1
 
@@ -13004,7 +12932,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. L5433-1 (VD)
 
 
-##### Chapitre IV : Contentieux.<a id=308></a>
+##### Chapitre IV : Contentieux.<a id=305></a>
 
 ###### Article L5234-1
 
@@ -13029,15 +12957,15 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. L2331-2
 
 
-#### TITRE IV : CESSIONS<a id=309></a>
+#### TITRE IV : CESSIONS<a id=306></a>
 
-##### Chapitre Ier : Modes de cession<a id=310></a>
+##### Chapitre Ier : Modes de cession<a id=307></a>
 
-##### Section 1 : Cessions à titre onéreux<a id=311></a>
+##### Section 1 : Cessions à titre onéreux<a id=308></a>
 
-##### Sous-section 1 : Vente<a id=312></a>
+##### Sous-section 1 : Vente<a id=309></a>
 
-##### Paragraphe 1 : Domaine immobilier.<a id=313></a>
+##### Paragraphe 1 : Domaine immobilier.<a id=310></a>
 
 ###### Article L5241-1
 
@@ -13066,29 +12994,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. L3211-5
 
 
-###### Article L5241-2
-
-Pour l'application de l'article L. 3211-14, les mots : " dans les conditions fixées par le code général des collectivités
-territoriales " sont remplacés par les mots : " dans les conditions fixées par la deuxième partie du code général des
-collectivités territoriales ou par la loi du 10 août 1871 relative aux conseils généraux ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
-_Cite_:
-
-  - Loi du 10 août 1871
-  - Code général de la propriété des personnes publiques. - art. L3211-14
-
-
-##### Paragraphe 2 : Domaine mobilier.<a id=314></a>
+##### Paragraphe 2 : Domaine mobilier.<a id=311></a>
 
 ###### Article L5241-3
 
@@ -13118,33 +13024,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. L3211-19
 
 
-##### Sous-section 2 : Autres modes.<a id=315></a>
-
-###### Article L5241-4
-
-Pour l'application de l'article L. 3211-23, les mots : " dans les conditions fixées par le code général des collectivités
-territoriales ou par le code de la santé publique " sont remplacés par les mots : 
-
-" dans les conditions fixées par la deuxième partie du code général des collectivités territoriales, la loi du 10 août 1871
-relative aux conseils généraux ou par le code de la santé publique ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006
-
-_Abrogé par_:
-
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 50
-
-_Cite_:
-
-  - Loi du 10 août 1871
-  - Code général de la propriété des personnes publiques. - art. L3211-23
-
-
-##### Section 2 : Cessions à titre gratuit.<a id=316></a>
+##### Section 2 : Cessions à titre gratuit.<a id=312></a>
 
 ###### Article L5241-5
 
@@ -13220,49 +13100,39 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. L5441-6 (VD)
 
 
-##### Chapitre II : Procédures de cession et d'échange.<a id=317></a>
+##### Chapitre II : Procédures de cession et d'échange.<a id=313></a>
 
 ###### Article L5242-1
 
-Pour l'application des articles L. 3221-1 et L. 3222-2, les références aux articles L. 4221-4, L. 5211-37 et L. 5722-3 sont
-supprimées.
+Pour l'application des articles L. 3221-1 et L. 3222-2, la référence à l'article L. 5211-37 est supprimée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
 
-_Cite_:
-
-  - Code général de la propriété des personnes publ... - art. L3221-1 (V)
-
-
-#### TITRE V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES<a id=318></a>
-
-##### Chapitre unique.<a id=319></a>
-
-###### Article L5251-1
-
-Le maire, le président du conseil général, les présidents des établissements publics rattachés à une collectivité
-territoriale sont habilités à recevoir les actes de prise en location passés en la forme administrative par ces collectivités
-et établissements publics, et en assurent la conservation. Ils confèrent à ces actes l'authenticité en vue de leur
-publication au fichier immobilier lorsqu'elle est requise par les dispositions qui leur sont applicables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
-
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°2014-1545 du 20 décembre 2014 - art. 50
 
+**Liens**:
 
-#### TITRE VI : RÉGIME DOMANIAL DES EAUX<a id=320></a>
+  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 4
 
-##### Chapitre unique.<a id=321></a>
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. L5442-1 (VD)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L3221-1
+  - Code général de la propriété des personnes publiques. - art. L3222-2
+
+
+#### TITRE VI : RÉGIME DOMANIAL DES EAUX<a id=314></a>
+
+##### Chapitre unique.<a id=315></a>
 
 ###### Article L5261-1
 
@@ -13333,17 +13203,17 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5261-1 (V)
 
 
-# Partie réglementaire<a id=322></a>
+# Partie réglementaire<a id=316></a>
 
-## PREMIÈRE PARTIE : ACQUISITION<a id=323></a>
+## PREMIÈRE PARTIE : ACQUISITION<a id=317></a>
 
-### LIVRE Ier : MODES D'ACQUISITION<a id=324></a>
+### LIVRE Ier : MODES D'ACQUISITION<a id=318></a>
 
-#### TITRE Ier : ACQUISITIONS À TITRE ONÉREUX<a id=325></a>
+#### TITRE Ier : ACQUISITIONS À TITRE ONÉREUX<a id=319></a>
 
-##### Chapitre Ier : Acquisitions à l'amiable<a id=326></a>
+##### Chapitre Ier : Acquisitions à l'amiable<a id=320></a>
 
-##### Section 1 : Echange<a id=327></a>
+##### Section 1 : Echange<a id=321></a>
 
 ###### Article R1111-1
 
@@ -13414,7 +13284,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1111-1 (V)
 
 
-##### Section 2 : Dation en paiement<a id=328></a>
+##### Section 2 : Dation en paiement<a id=322></a>
 
 ###### Article R1111-3
 
@@ -13448,9 +13318,9 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Chapitre II : Acquisitions selon des procédés de contrainte<a id=329></a>
+##### Chapitre II : Acquisitions selon des procédés de contrainte<a id=323></a>
 
-##### Section 1 : Droit de préemption immobilier<a id=330></a>
+##### Section 1 : Droit de préemption immobilier<a id=324></a>
 
 ###### Article R1112-1
 
@@ -13583,7 +13453,7 @@ _Cite_:
   - Code de l'urbanisme - art. R213-1 (V)
 
 
-##### Section 2 : Droit de préemption mobilier<a id=331></a>
+##### Section 2 : Droit de préemption mobilier<a id=325></a>
 
 ###### Article R1112-5
 
@@ -13654,11 +13524,11 @@ _Cite_:
   - Code du patrimoine. - art. R212-91 (V)
 
 
-#### TITRE II : ACQUISITIONS À TITRE GRATUIT<a id=332></a>
+#### TITRE II : ACQUISITIONS À TITRE GRATUIT<a id=326></a>
 
-##### Chapitre Ier : Dons et legs<a id=333></a>
+##### Chapitre Ier : Dons et legs<a id=327></a>
 
-##### Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=334></a>
+##### Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=328></a>
 
 ###### Article R1121-1
 
@@ -13821,7 +13691,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1121-3 (V)
 
 
-##### Section 2 : Dispositions applicables aux collectivités territoriales  et à leurs établissements publics<a id=335></a>
+##### Section 2 : Dispositions applicables aux collectivités territoriales  et à leurs établissements publics<a id=329></a>
 
 ###### Article R1121-6
 
@@ -13883,7 +13753,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R4221-8 (V)
 
 
-##### Chapitre II : Successions en déshérence<a id=336></a>
+##### Chapitre II : Successions en déshérence<a id=330></a>
 
 ###### Article R1122-1
 
@@ -13905,7 +13775,7 @@ _Cite_:
   - Code de procédure civile - art. 1354 (V)
 
 
-##### Chapitre III : Biens sans maître<a id=337></a>
+##### Chapitre III : Biens sans maître<a id=331></a>
 
 ###### Article R1123-1
 
@@ -13955,7 +13825,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L1123-3 (V)
 
 
-##### Chapitre VI : Sommes et valeurs prescrites<a id=338></a>
+##### Chapitre VI : Sommes et valeurs prescrites<a id=332></a>
 
 ###### Article R1126-1
 
@@ -14171,7 +14041,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1126-4 (V)
 
 
-##### Chapitre VII : Dispositions diverses<a id=339></a>
+##### Chapitre VII : Dispositions diverses<a id=333></a>
 
 ###### Article R1127-1
 
@@ -14194,13 +14064,13 @@ _Cite_:
   - Code du patrimoine. - art. R532-5 (V)
 
 
-### LIVRE II : PROCÉDURES D'ACQUISITION<a id=340></a>
+### LIVRE II : PROCÉDURES D'ACQUISITION<a id=334></a>
 
-#### TITRE Ier : BIENS SITUÉS EN FRANCE<a id=341></a>
+#### TITRE Ier : BIENS SITUÉS EN FRANCE<a id=335></a>
 
-##### Chapitre Ier : Consultation préalable<a id=342></a>
+##### Chapitre Ier : Consultation préalable<a id=336></a>
 
-##### Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=343></a>
+##### Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=337></a>
 
 ###### Article R1211-1
 
@@ -14458,7 +14328,7 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-17 (V)
 
 
-##### Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=344></a>
+##### Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=338></a>
 
 ###### Article R1211-9
 
@@ -14505,9 +14375,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*451-10 (V)
 
 
-##### Chapitre II : Actes<a id=345></a>
+##### Chapitre II : Actes<a id=339></a>
 
-##### Section 1 : Passation des actes<a id=346></a>
+##### Section 1 : Passation des actes<a id=340></a>
 
 ###### Article R1212-1
 
@@ -14558,7 +14428,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R80 (Ab)
 
 
-##### Section 2 : Purge des privilèges et hypothèques et remise des fonds<a id=347></a>
+##### Section 2 : Purge des privilèges et hypothèques et remise des fonds<a id=341></a>
 
 ###### Article R1212-3
 
@@ -14730,11 +14600,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. R5212-1-1 (V)
 
 
-##### Section 3 : Réalisation par l'administration chargée des domaines d'acquisitions foncières pour le compte des collectivités publiques<a id=348></a>
+##### Section 3 : Réalisation par l'administration chargée des domaines d'acquisitions foncières pour le compte des collectivités publiques<a id=342></a>
 
-##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=349></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=343></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=350></a>
+##### Paragraphe 1 : Dispositions générales<a id=344></a>
 
 ###### Article R1212-9
 
@@ -15013,7 +14883,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R186 (Ab), ecqc  l'Etat et ses établissements publics.
 
 
-##### Paragraphe 2 : Dispositions applicables dans la région d'Ile-de-France<a id=351></a>
+##### Paragraphe 2 : Dispositions applicables dans la région d'Ile-de-France<a id=345></a>
 
 ###### Article R1212-19
 
@@ -15150,9 +15020,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1212-19 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=352></a>
+##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=346></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=353></a>
+##### Paragraphe 1 : Dispositions générales<a id=347></a>
 
 ###### Article R1212-23
 
@@ -15176,7 +15046,7 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Paragraphe 2 : Dispositions applicables dans la région d'Ile-de-France<a id=354></a>
+##### Paragraphe 2 : Dispositions applicables dans la région d'Ile-de-France<a id=348></a>
 
 ###### Article R1212-24
 
@@ -15204,7 +15074,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Section 4 : Délégations et représentations<a id=355></a>
+##### Section 4 : Délégations et représentations<a id=349></a>
 
 ###### Article D1212-25
 
@@ -15253,9 +15123,9 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R152 (Ab) al 1 et 2, ecqc les opérations d'acquisition de biens mobiliers ou immobiliers.
 
 
-#### TITRE II : BIENS SITUÉS À L'ÉTRANGER<a id=356></a>
+#### TITRE II : BIENS SITUÉS À L'ÉTRANGER<a id=350></a>
 
-##### Chapitre unique<a id=357></a>
+##### Chapitre unique<a id=351></a>
 
 ###### Article D1221-3
 
@@ -15438,15 +15308,15 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R4112-2 (V)
 
 
-## DEUXIÈME PARTIE : GESTION<a id=358></a>
+## DEUXIÈME PARTIE : GESTION<a id=352></a>
 
-### LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC<a id=359></a>
+### LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC<a id=353></a>
 
-#### TITRE Ier : CONSISTANCE DU DOMAINE PUBLIC<a id=360></a>
+#### TITRE Ier : CONSISTANCE DU DOMAINE PUBLIC<a id=354></a>
 
-##### Chapitre Ier : Domaine public immobilier<a id=361></a>
+##### Chapitre Ier : Domaine public immobilier<a id=355></a>
 
-##### Section 1 : Règles générales<a id=362></a>
+##### Section 1 : Règles générales<a id=356></a>
 
 ###### Article R2111-1
 
@@ -15531,7 +15401,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L2111-3 (V)
 
 
-##### Section 2 : Domaine public maritime<a id=363></a>
+##### Section 2 : Domaine public maritime<a id=357></a>
 
 ###### Article R2111-4
 
@@ -15844,7 +15714,7 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 3 : Domaine public fluvial<a id=364></a>
+##### Section 3 : Domaine public fluvial<a id=358></a>
 
 ###### Article R2111-15
 
@@ -16014,11 +15884,11 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2111-19 (V)
 
 
-#### TITRE II : UTILISATION DU DOMAINE PUBLIC<a id=365></a>
+#### TITRE II : UTILISATION DU DOMAINE PUBLIC<a id=359></a>
 
-##### Chapitre II : Utilisation compatible avec l'affectation<a id=366></a>
+##### Chapitre II : Utilisation compatible avec l'affectation<a id=360></a>
 
-##### Section 1 : Règles générales d'occupation<a id=367></a>
+##### Section 1 : Règles générales d'occupation<a id=361></a>
 
 ###### Article R2122-1
 
@@ -16238,7 +16108,7 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 2 : Règles particulières à certaines occupations<a id=368></a>
+##### Section 2 : Règles particulières à certaines occupations<a id=362></a>
 
 ###### Article R2122-9
 
@@ -16270,7 +16140,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L2122-6 (V)
 
 
-##### Sous-section 1 : Dispositions communes<a id=369></a>
+##### Sous-section 1 : Dispositions communes<a id=363></a>
 
 ###### Article R2122-10
 
@@ -16326,7 +16196,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2122-12 (V)
 
 
-##### Paragraphe 1 : Présentation de la demande  de titre d'occupation constitutif de droit réel<a id=370></a>
+##### Paragraphe 1 : Présentation de la demande  de titre d'occupation constitutif de droit réel<a id=364></a>
 
 ###### Article R2122-12
 
@@ -16410,7 +16280,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2122-53-2 (V)
 
 
-##### Paragraphe 2 : Délivrance du titre  d'occupation constitutif de droit réel<a id=371></a>
+##### Paragraphe 2 : Délivrance du titre  d'occupation constitutif de droit réel<a id=365></a>
 
 ###### Article R2122-14
 
@@ -16577,7 +16447,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R57-5 (Ab)
 
 
-##### Paragraphe 3 : Retrait du titre d'occupation constitutif de droit réel<a id=372></a>
+##### Paragraphe 3 : Retrait du titre d'occupation constitutif de droit réel<a id=366></a>
 
 ###### Article R2122-18
 
@@ -16608,7 +16478,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2122-33 (VT)
 
 
-##### Paragraphe 4 : Transmission ou cession des ouvrages, constructions et installations  prévus par le titre d'occupation et transfert du droit réel y attaché<a id=373></a>
+##### Paragraphe 4 : Transmission ou cession des ouvrages, constructions et installations  prévus par le titre d'occupation et transfert du droit réel y attaché<a id=367></a>
 
 ###### Article R2122-19
 
@@ -16935,7 +16805,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2122-25 (V)
 
 
-##### Paragraphe 5 : Financement des ouvrages, constructions et installations  prévus par le titre d'occupation constitutif de droit réel<a id=374></a>
+##### Paragraphe 5 : Financement des ouvrages, constructions et installations  prévus par le titre d'occupation constitutif de droit réel<a id=368></a>
 
 ###### Article R2122-27
 
@@ -16997,9 +16867,9 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. R2122-25
 
 
-##### Sous-section 2 : Règles particulières à certaines opérations de construction<a id=375></a>
+##### Sous-section 2 : Règles particulières à certaines opérations de construction<a id=369></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=376></a>
+##### Paragraphe 1 : Dispositions générales<a id=370></a>
 
 ###### Article R2122-28
 
@@ -17244,7 +17114,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. R2122-18
 
 
-##### Paragraphe 2 : Procédure de passation de droit commun<a id=377></a>
+##### Paragraphe 2 : Procédure de passation de droit commun<a id=371></a>
 
 ###### Article R2122-34
 
@@ -17425,7 +17295,7 @@ _Cite_:
   - Code des marchés publics - art. 53
 
 
-##### Paragraphe 3 : Cas de recours à la procédure négociée<a id=378></a>
+##### Paragraphe 3 : Cas de recours à la procédure négociée<a id=372></a>
 
 ###### Article R2122-38
 
@@ -17523,7 +17393,7 @@ _Abrogé par_:
   - Décret n°2016-360 du 25 mars 2016 - art. 187 (VT)
 
 
-##### Paragraphe 4 : Procédure de dialogue compétitif<a id=379></a>
+##### Paragraphe 4 : Procédure de dialogue compétitif<a id=373></a>
 
 ###### Article R2122-41
 
@@ -17738,7 +17608,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2122-43 (VT)
 
 
-##### Paragraphe 5 : Conclusion et modifications ultérieures du contrat<a id=380></a>
+##### Paragraphe 5 : Conclusion et modifications ultérieures du contrat<a id=374></a>
 
 ###### Article R2122-47
 
@@ -17824,9 +17694,9 @@ _Abrogé par_:
   - Décret n°2016-360 du 25 mars 2016 - art. 187
 
 
-##### Sous-section 3 : Règles particulières au domaine public de l'Etat compris dans les limites administratives des ports relevant de la compétence des collectivités territoriales<a id=381></a>
+##### Sous-section 3 : Règles particulières au domaine public de l'Etat compris dans les limites administratives des ports relevant de la compétence des collectivités territoriales<a id=375></a>
 
-##### Paragraphe 1 : Compétence du département<a id=382></a>
+##### Paragraphe 1 : Compétence du département<a id=376></a>
 
 ###### Article R2122-50
 
@@ -17911,7 +17781,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2122-54 (V)
 
 
-##### Paragraphe 2 : Compétence de la commune<a id=383></a>
+##### Paragraphe 2 : Compétence de la commune<a id=377></a>
 
 ###### Article R2122-52
 
@@ -17987,7 +17857,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2122-55 (M)
 
 
-##### Paragraphe 3 : Dispositions communes<a id=384></a>
+##### Paragraphe 3 : Dispositions communes<a id=378></a>
 
 ###### Article R2122-54
 
@@ -18020,7 +17890,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2122-53-2 (V)
 
 
-##### Sous-section 4 : Règles particulières aux titres en cours<a id=385></a>
+##### Sous-section 4 : Règles particulières aux titres en cours<a id=379></a>
 
 ###### Article R2122-55
 
@@ -18061,9 +17931,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2122-19 (V)
 
 
-##### Chapitre III : Modalités de gestion<a id=386></a>
+##### Chapitre III : Modalités de gestion<a id=380></a>
 
-##### Section 1 : Convention de gestion<a id=387></a>
+##### Section 1 : Convention de gestion<a id=381></a>
 
 ###### Article R2123-1
 
@@ -18346,7 +18216,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2123-2 (V)
 
 
-##### Section 2 : Transfert de gestion lié à un changement d'affectation<a id=388></a>
+##### Section 2 : Transfert de gestion lié à un changement d'affectation<a id=382></a>
 
 ###### Article R2123-9
 
@@ -18495,7 +18365,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L2123-6 (V)
 
 
-##### Section 3 : Superposition d'affectations<a id=389></a>
+##### Section 3 : Superposition d'affectations<a id=383></a>
 
 ###### Article R2123-15
 
@@ -18570,11 +18440,11 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L2123-8 (V)
 
 
-##### Chapitre IV : Dispositions particulières<a id=390></a>
+##### Chapitre IV : Dispositions particulières<a id=384></a>
 
-##### Section 1 : Utilisation du domaine public maritime<a id=391></a>
+##### Section 1 : Utilisation du domaine public maritime<a id=385></a>
 
-##### Sous-section 1 : Concessions d'utilisation  du domaine public maritime en dehors des ports<a id=392></a>
+##### Sous-section 1 : Concessions d'utilisation  du domaine public maritime en dehors des ports<a id=386></a>
 
 ###### Article R2124-1
 
@@ -19006,9 +18876,9 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Sous-section 2 : Concessions de plage<a id=393></a>
+##### Sous-section 2 : Concessions de plage<a id=387></a>
 
-##### Paragraphe 1 : Règles d'occupation  des plages faisant l'objet d'une concession<a id=394></a>
+##### Paragraphe 1 : Règles d'occupation  des plages faisant l'objet d'une concession<a id=388></a>
 
 ###### Article R2124-13
 
@@ -19297,7 +19167,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2122-5 (V)
 
 
-##### Paragraphe 2 : Attribution des concessions de plage<a id=395></a>
+##### Paragraphe 2 : Attribution des concessions de plage<a id=389></a>
 
 ###### Article R2124-21
 
@@ -19626,7 +19496,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Paragraphe 3 : Attribution des sous-traités d'exploitation<a id=396></a>
+##### Paragraphe 3 : Attribution des sous-traités d'exploitation<a id=390></a>
 
 ###### Article R2124-31
 
@@ -19783,7 +19653,7 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Paragraphe 4 : Résiliation des concessions  et des conventions d'exploitation<a id=397></a>
+##### Paragraphe 4 : Résiliation des concessions  et des conventions d'exploitation<a id=391></a>
 
 ###### Article R2124-35
 
@@ -19920,7 +19790,7 @@ _Cité par_:
   - Code de l'environnement - art. R321-4-1 (V)
 
 
-##### Sous-section 3 : Autorisations d'occupation temporaire concernant les zones de mouillages et d'équipements légers sur le domaine public maritime<a id=398></a>
+##### Sous-section 3 : Autorisations d'occupation temporaire concernant les zones de mouillages et d'équipements légers sur le domaine public maritime<a id=392></a>
 
 ###### Article R2124-39
 
@@ -20448,7 +20318,7 @@ _Cite_:
   - Code du tourisme. - art. R341-5 (V)
 
 
-##### Sous-section 4 : Dispositions communes<a id=399></a>
+##### Sous-section 4 : Dispositions communes<a id=393></a>
 
 ###### Article R2124-56
 
@@ -20480,9 +20350,9 @@ _Cité par_:
   - CODIFIE: Code du domaine de l'Etat - art. R152-1 (Ab)
 
 
-##### Section 2 : Utilisation du domaine public fluvial<a id=400></a>
+##### Section 2 : Utilisation du domaine public fluvial<a id=394></a>
 
-##### Sous-section 1 : Règles générales<a id=401></a>
+##### Sous-section 1 : Règles générales<a id=395></a>
 
 ###### Article R2124-57
 
@@ -20528,7 +20398,7 @@ _Cite_:
   - Code de l'environnement - art. L212-1 (V)
 
 
-##### Sous-section 2 : Autorisations d'occupation temporaire concernant les zones de mouillages et d'équipements légers sur le domaine public fluvial<a id=402></a>
+##### Sous-section 2 : Autorisations d'occupation temporaire concernant les zones de mouillages et d'équipements légers sur le domaine public fluvial<a id=396></a>
 
 ###### Article R2124-58
 
@@ -20562,7 +20432,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2124-39 (V)
 
 
-##### Sous-section 3 : Dispositions relatives au canal du Midi<a id=403></a>
+##### Sous-section 3 : Dispositions relatives au canal du Midi<a id=397></a>
 
 ###### Article R2124-59
 
@@ -20593,7 +20463,7 @@ _Anciens textes_:
   - Code du domaine public fluvial et de la navigat... - art. 244 (Ab), les mots "par le préfet".
 
 
-##### Section 3 : Utilisation du domaine public hertzien<a id=404></a>
+##### Section 3 : Utilisation du domaine public hertzien<a id=398></a>
 
 ###### Article R2124-60
 
@@ -20615,7 +20485,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R20-44-5 (V)
 
 
-##### Section 4 : Exploitation des ressources naturelles<a id=405></a>
+##### Section 4 : Exploitation des ressources naturelles<a id=399></a>
 
 ###### Article R2124-61
 
@@ -20692,11 +20562,11 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Section 5 : Concessions de logement<a id=406></a>
+##### Section 5 : Concessions de logement<a id=400></a>
 
-##### Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics<a id=407></a>
+##### Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics<a id=401></a>
 
-##### Paragraphe 1 : Concessions de logement dans les immeubles  appartenant à l'Etat<a id=408></a>
+##### Paragraphe 1 : Concessions de logement dans les immeubles  appartenant à l'Etat<a id=402></a>
 
 ###### Article D2124-75
 
@@ -21106,7 +20976,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2124-73 (V)
 
 
-##### Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat<a id=409></a>
+##### Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat<a id=403></a>
 
 ###### Article R2124-76
 
@@ -21178,7 +21048,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2222-19 (V)
 
 
-##### Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales, à leurs groupements et à leurs établissements publics<a id=410></a>
+##### Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales, à leurs groupements et à leurs établissements publics<a id=404></a>
 
 ###### Article R2124-78
 
@@ -21205,7 +21075,7 @@ _Cite_:
   - Code de l'éducation - art. R216-4 (V)
 
 
-##### Section 6 : Autres utilisations du domaine public<a id=411></a>
+##### Section 6 : Autres utilisations du domaine public<a id=405></a>
 
 ###### Article R2124-79
 
@@ -21231,9 +21101,9 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. R2124-64
 
 
-##### Chapitre V : Dispositions financières<a id=412></a>
+##### Chapitre V : Dispositions financières<a id=406></a>
 
-##### Section 1 : Dispositions générales<a id=413></a>
+##### Section 1 : Dispositions générales<a id=407></a>
 
 ###### Article R2125-1
 
@@ -21419,7 +21289,7 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 2 : Dispositions particulières au domaine public fluvial<a id=414></a>
+##### Section 2 : Dispositions particulières au domaine public fluvial<a id=408></a>
 
 ###### Article R2125-7
 
@@ -21686,7 +21556,7 @@ _Modifié par_:
   - Décret n°2011-2018 du 29 décembre 2011 - art. 12
 
 
-##### Section 3 : Dispositions particulières à certaines occupations<a id=415></a>
+##### Section 3 : Dispositions particulières à certaines occupations<a id=409></a>
 
 ###### Article R2125-14
 
@@ -21766,11 +21636,11 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R57-15 (Ab)
 
 
-#### TITRE III : PROTECTION DU DOMAINE PUBLIC<a id=416></a>
+#### TITRE III : PROTECTION DU DOMAINE PUBLIC<a id=410></a>
 
-##### Chapitre II : Police de la conservation<a id=417></a>
+##### Chapitre II : Police de la conservation<a id=411></a>
 
-##### Section 1 : Contraventions de voirie routière<a id=418></a>
+##### Section 1 : Contraventions de voirie routière<a id=412></a>
 
 ###### Article R2132-1
 
@@ -21792,9 +21662,9 @@ _Cite_:
   - Code de la voirie routière - art. R*116-1 (V)
 
 
-#### TITRE IV : SORTIE DES BIENS DU DOMAINE PUBLIC<a id=419></a>
+#### TITRE IV : SORTIE DES BIENS DU DOMAINE PUBLIC<a id=413></a>
 
-##### Chapitre Ier : Règles générales<a id=420></a>
+##### Chapitre Ier : Règles générales<a id=414></a>
 
 ###### Article D2141-1
 
@@ -21825,7 +21695,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Chapitre II : Règles particulières au domaine public fluvial<a id=421></a>
+##### Chapitre II : Règles particulières au domaine public fluvial<a id=415></a>
 
 ###### Article R2142-1
 
@@ -21904,15 +21774,15 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1311-8 (V)
 
 
-### LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ<a id=422></a>
+### LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ<a id=416></a>
 
-#### TITRE II : UTILISATION DU DOMAINE PRIVÉ<a id=423></a>
+#### TITRE II : UTILISATION DU DOMAINE PRIVÉ<a id=417></a>
 
-##### Chapitre II : Dispositions particulières<a id=424></a>
+##### Chapitre II : Dispositions particulières<a id=418></a>
 
-##### Section 1 : Location, mise à disposition et affectation<a id=425></a>
+##### Section 1 : Location, mise à disposition et affectation<a id=419></a>
 
-##### Sous-section 1 : Domaine immobilier<a id=426></a>
+##### Sous-section 1 : Domaine immobilier<a id=420></a>
 
 ###### Article R2222-1
 
@@ -22066,7 +21936,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R2241-1 (M)
 
 
-##### Sous-section 2 : Domaine mobilier<a id=427></a>
+##### Sous-section 2 : Domaine mobilier<a id=421></a>
 
 ###### Article R2222-6
 
@@ -22116,11 +21986,11 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 2 : Gestion confiée à des tiers<a id=428></a>
+##### Section 2 : Gestion confiée à des tiers<a id=422></a>
 
-##### Sous-section 1 : Gestion confiée à des tiers par l'Etat<a id=429></a>
+##### Sous-section 1 : Gestion confiée à des tiers par l'Etat<a id=423></a>
 
-##### Paragraphe 1 : Convention de gestion<a id=430></a>
+##### Paragraphe 1 : Convention de gestion<a id=424></a>
 
 ###### Article R2222-8
 
@@ -22404,7 +22274,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2222-9 (V)
 
 
-##### Paragraphe 2 : Contrat de gérance<a id=431></a>
+##### Paragraphe 2 : Contrat de gérance<a id=425></a>
 
 ###### Article R2222-16
 
@@ -22441,7 +22311,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*422-1 (V)
 
 
-##### Sous-section 2 : Gestion confiée à des tiers par les collectivités territoriales,  leurs groupements et leurs établissements publics<a id=432></a>
+##### Sous-section 2 : Gestion confiée à des tiers par les collectivités territoriales,  leurs groupements et leurs établissements publics<a id=426></a>
 
 ###### Article R2222-17
 
@@ -22469,11 +22339,11 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*422-1 (V)
 
 
-##### Section 3 : Concessions de logement<a id=433></a>
+##### Section 3 : Concessions de logement<a id=427></a>
 
-##### Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics<a id=434></a>
+##### Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics<a id=428></a>
 
-##### Paragraphe 1 : Concessions de logement  dans les immeubles appartenant à l'Etat<a id=435></a>
+##### Paragraphe 1 : Concessions de logement  dans les immeubles appartenant à l'Etat<a id=429></a>
 
 ###### Article R2222-18
 
@@ -22517,7 +22387,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. R2124-65
 
 
-##### Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat<a id=436></a>
+##### Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat<a id=430></a>
 
 ###### Article R2222-19
 
@@ -22540,7 +22410,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. R2124-76
 
 
-##### Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales,à leurs groupements et à leurs établissements publics<a id=437></a>
+##### Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales,à leurs groupements et à leurs établissements publics<a id=431></a>
 
 ###### Article R2222-20
 
@@ -22562,9 +22432,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2124-78 (V)
 
 
-##### Section 4 : Révision des libéralités et restitution de biens<a id=438></a>
+##### Section 4 : Révision des libéralités et restitution de biens<a id=432></a>
 
-##### Sous-section 1 : Dispositions applicables à l'Etat<a id=439></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat<a id=433></a>
 
 ###### Article R2222-21
 
@@ -22818,7 +22688,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2321-9 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux établissements publics de l'Etat<a id=440></a>
+##### Sous-section 2 : Dispositions applicables aux établissements publics de l'Etat<a id=434></a>
 
 ###### Article R2222-28
 
@@ -22886,7 +22756,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2222-24 (V)
 
 
-##### Sous-section 3 : Dispositions communes à l'Etat et à ses établissements publics<a id=441></a>
+##### Sous-section 3 : Dispositions communes à l'Etat et à ses établissements publics<a id=435></a>
 
 ###### Article R2222-30
 
@@ -22964,7 +22834,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R42 (Ab), alinéa 4.
 
 
-##### Section 5 : Sommes et valeurs prescrites<a id=442></a>
+##### Section 5 : Sommes et valeurs prescrites<a id=436></a>
 
 ###### Article R2222-33
 
@@ -23010,7 +22880,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1126-1 (V)
 
 
-##### Section 6 : Mise en valeur des terres incultes  ou manifestement sous-exploitées<a id=443></a>
+##### Section 6 : Mise en valeur des terres incultes  ou manifestement sous-exploitées<a id=437></a>
 
 ###### Article R2222-35
 
@@ -23039,7 +22909,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Section 7 : Administration du domaine forestier<a id=444></a>
+##### Section 7 : Administration du domaine forestier<a id=438></a>
 
 ###### Article R2222-36
 
@@ -23081,13 +22951,13 @@ _Cite_:
   - Code forestier - art. L121-2 (V)
 
 
-### LIVRE III : DISPOSITIONS COMMUNES<a id=445></a>
+### LIVRE III : DISPOSITIONS COMMUNES<a id=439></a>
 
-#### TITRE Ier : INSAISISSABILITÉ, IMPLANTATION  ET ATTRIBUTION DES BIENS<a id=446></a>
+#### TITRE Ier : INSAISISSABILITÉ, IMPLANTATION  ET ATTRIBUTION DES BIENS<a id=440></a>
 
-##### Chapitre II : Implantation et inventaire<a id=447></a>
+##### Chapitre II : Implantation et inventaire<a id=441></a>
 
-##### Section 1 : Biens situés à l'étranger<a id=448></a>
+##### Section 1 : Biens situés à l'étranger<a id=442></a>
 
 ###### Article D2312-3
 
@@ -23165,7 +23035,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1221-2 (V)
 
 
-##### Section 2 : Biens situés en France<a id=449></a>
+##### Section 2 : Biens situés en France<a id=443></a>
 
 ###### Article R2312-4
 
@@ -23188,9 +23058,9 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 3 : Inventaire<a id=450></a>
+##### Section 3 : Inventaire<a id=444></a>
 
-##### Sous-section 1 : Domaine immobilier<a id=451></a>
+##### Sous-section 1 : Domaine immobilier<a id=445></a>
 
 ###### Article D2312-6
 
@@ -23242,7 +23112,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R52 (Ab), ecqc les biens appartenant à l'Etat ou à ses établissements publics administratifs.
 
 
-##### Sous-section 2 : Domaine mobilier<a id=452></a>
+##### Sous-section 2 : Domaine mobilier<a id=446></a>
 
 ###### Article R2312-7
 
@@ -23272,7 +23142,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R112 (Ab)
 
 
-##### Section 4 : Délégations et représentations<a id=453></a>
+##### Section 4 : Délégations et représentations<a id=447></a>
 
 ###### Article D2312-8
 
@@ -23321,7 +23191,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R152 (Ab), ecqc les opérations de gestion.
 
 
-##### Chapitre III : Attribution<a id=454></a>
+##### Chapitre III : Attribution<a id=448></a>
 
 ###### Article R2313-1
 
@@ -23540,11 +23410,11 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2313-1 (V)
 
 
-#### TITRE II : PRODUITS ET REDEVANCES DU DOMAINE<a id=455></a>
+#### TITRE II : PRODUITS ET REDEVANCES DU DOMAINE<a id=449></a>
 
-##### Chapitre Ier : Constatation et perception<a id=456></a>
+##### Chapitre Ier : Constatation et perception<a id=450></a>
 
-##### Section 1 : Autorités compétentes<a id=457></a>
+##### Section 1 : Autorités compétentes<a id=451></a>
 
 ###### Article D2321-5
 
@@ -23675,7 +23545,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Section 2 : Prescriptions<a id=458></a>
+##### Section 2 : Prescriptions<a id=452></a>
 
 ###### Article R2321-6
 
@@ -23701,7 +23571,7 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 3 : Seuil de mise en recouvrement<a id=459></a>
+##### Section 3 : Seuil de mise en recouvrement<a id=453></a>
 
 ###### Article D2321-7
 
@@ -23751,7 +23621,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. D1611-1 (V)
 
 
-##### Section 4 : Prélèvement pour frais d'administration,  de vente et de recouvrement<a id=460></a>
+##### Section 4 : Prélèvement pour frais d'administration,  de vente et de recouvrement<a id=454></a>
 
 ###### Article R2321-9
 
@@ -23785,9 +23655,9 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R3221-13 (V)
 
 
-##### Chapitre III : Action en recouvrement<a id=461></a>
+##### Chapitre III : Action en recouvrement<a id=455></a>
 
-##### Section 1 : Exercice des poursuites<a id=462></a>
+##### Section 1 : Exercice des poursuites<a id=456></a>
 
 ###### Article R2323-1
 
@@ -23836,9 +23706,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1617-22 (V)
 
 
-##### Section 2 : Contentieux du recouvrement<a id=463></a>
+##### Section 2 : Contentieux du recouvrement<a id=457></a>
 
-##### Sous-section 1 : Dispositions applicables à l'Etat<a id=464></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat<a id=458></a>
 
 ###### Article R2323-3
 
@@ -23908,7 +23778,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R*283-1 (V)
 
 
-##### Sous-section 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=465></a>
+##### Sous-section 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=459></a>
 
 ###### Article R2323-6
 
@@ -23934,11 +23804,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. R4341-4 (V)
 
 
-#### TITRE III : CONTENTIEUX<a id=466></a>
+#### TITRE III : CONTENTIEUX<a id=460></a>
 
-##### Chapitre unique<a id=467></a>
+##### Chapitre unique<a id=461></a>
 
-##### Section 1 : Exercice des fonctions de contentieux  au sein de l'Etat<a id=468></a>
+##### Section 1 : Exercice des fonctions de contentieux  au sein de l'Etat<a id=462></a>
 
 ###### Article R2331-1
 
@@ -24145,9 +24015,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2331-1 (V)
 
 
-##### Section 2 : Procédures contentieuses<a id=469></a>
+##### Section 2 : Procédures contentieuses<a id=463></a>
 
-##### Sous-section 1 : Procédure devant la juridiction administrative<a id=470></a>
+##### Sous-section 1 : Procédure devant la juridiction administrative<a id=464></a>
 
 ###### Article R2331-7
 
@@ -24173,7 +24043,7 @@ _Cite_:
   - Code de justice administrative (V)
 
 
-##### Sous-section 2 : Procédure devant la juridiction judiciaire<a id=471></a>
+##### Sous-section 2 : Procédure devant la juridiction judiciaire<a id=465></a>
 
 ###### Article R2331-8
 
@@ -24287,13 +24157,13 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R4111-11 (V)
 
 
-## TROISIÈME PARTIE : CESSION<a id=472></a>
+## TROISIÈME PARTIE : CESSION<a id=466></a>
 
-### LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC<a id=473></a>
+### LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC<a id=467></a>
 
-#### TITRE UNIQUE : INALIÉNABILITÉ ET IMPRESCRIPTIBILITÉ<a id=474></a>
+#### TITRE UNIQUE : INALIÉNABILITÉ ET IMPRESCRIPTIBILITÉ<a id=468></a>
 
-##### Chapitre III : Transfert de propriété du domaine public fluvial<a id=475></a>
+##### Chapitre III : Transfert de propriété du domaine public fluvial<a id=469></a>
 
 ###### Article R3113-1
 
@@ -24492,19 +24362,19 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3113-5 (V)
 
 
-### LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ<a id=476></a>
+### LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ<a id=470></a>
 
-#### TITRE Ier : MODES DE CESSION<a id=477></a>
+#### TITRE Ier : MODES DE CESSION<a id=471></a>
 
-##### Chapitre Ier : Cessions à titre onéreux<a id=478></a>
+##### Chapitre Ier : Cessions à titre onéreux<a id=472></a>
 
-##### Section 1 : Vente<a id=479></a>
+##### Section 1 : Vente<a id=473></a>
 
-##### Sous-section 1 : Domaine immobilier<a id=480></a>
+##### Sous-section 1 : Domaine immobilier<a id=474></a>
 
-##### Paragraphe 1 : Dispositions applicables à l'Etat<a id=481></a>
+##### Paragraphe 1 : Dispositions applicables à l'Etat<a id=475></a>
 
-##### Sous-paragraphe 1 : Dispositions générales<a id=482></a>
+##### Sous-paragraphe 1 : Dispositions générales<a id=476></a>
 
 ###### Article R3211-1
 
@@ -24778,7 +24648,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L3211-12 (V)
 
 
-##### Sous-paragraphe 2 : Dispositions particulières<a id=483></a>
+##### Sous-paragraphe 2 : Dispositions particulières<a id=477></a>
 
 ###### Article D3211-29
 
@@ -25966,7 +25836,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Paragraphe 2 : Dispositions applicables aux établissements publics de l'Etat<a id=484></a>
+##### Paragraphe 2 : Dispositions applicables aux établissements publics de l'Etat<a id=478></a>
 
 ###### Article R3211-31
 
@@ -26247,7 +26117,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. R3211-32-1
 
 
-##### Paragraphe 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=485></a>
+##### Paragraphe 3 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=479></a>
 
 ###### Article R3211-33
 
@@ -26276,7 +26146,7 @@ _Cite_:
   - Code rural - art. R142-9 (V)
 
 
-##### Paragraphe 4 : Dispositions communes à l'Etat,  aux collectivités territoriales et à leurs groupements<a id=486></a>
+##### Paragraphe 4 : Dispositions communes à l'Etat,  aux collectivités territoriales et à leurs groupements<a id=480></a>
 
 ###### Article R3211-34
 
@@ -26318,7 +26188,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3211-19 (V)
 
 
-##### Sous-section 2 : Domaine mobilier<a id=487></a>
+##### Sous-section 2 : Domaine mobilier<a id=481></a>
 
 ###### Article R3211-35
 
@@ -26570,9 +26440,9 @@ _Créé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 
-##### Section 2 : Autres modes<a id=488></a>
+##### Section 2 : Autres modes<a id=482></a>
 
-##### Sous-section 1 : Echange<a id=489></a>
+##### Sous-section 1 : Echange<a id=483></a>
 
 ###### Article R3211-43
 
@@ -26679,7 +26549,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3211-43 (V)
 
 
-##### Sous-section 2 : Apport<a id=490></a>
+##### Sous-section 2 : Apport<a id=484></a>
 
 ###### Article R3211-47
 
@@ -26716,9 +26586,9 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5241-5 (V)
 
 
-##### Chapitre II : Cessions à titre gratuit<a id=491></a>
+##### Chapitre II : Cessions à titre gratuit<a id=485></a>
 
-##### Section 1 : Domaine immobilier<a id=492></a>
+##### Section 1 : Domaine immobilier<a id=486></a>
 
 ###### Article R3212-1
 
@@ -26745,9 +26615,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L3212-1 (V)
 
 
-##### Section 2 : Domaine mobilier<a id=493></a>
+##### Section 2 : Domaine mobilier<a id=487></a>
 
-##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=494></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=488></a>
 
 ###### Article D3212-3
 
@@ -26830,7 +26700,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L3212-2 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=495></a>
+##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=489></a>
 
 ###### Article D3212-5
 
@@ -26884,15 +26754,15 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L3212-3 (V)
 
 
-#### TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE<a id=496></a>
+#### TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE<a id=490></a>
 
-##### Chapitre Ier : Ventes<a id=497></a>
+##### Chapitre Ier : Ventes<a id=491></a>
 
-##### Section 1 : Domaine immobilier<a id=498></a>
+##### Section 1 : Domaine immobilier<a id=492></a>
 
-##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=499></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=493></a>
 
-##### Paragraphe 1 : Réalisation par l'administration chargée des domaines de cessions  pour le compte des services et des établissements publics de l'Etat<a id=500></a>
+##### Paragraphe 1 : Réalisation par l'administration chargée des domaines de cessions  pour le compte des services et des établissements publics de l'Etat<a id=494></a>
 
 ###### Article R3221-1
 
@@ -26991,7 +26861,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3221-1 (V)
 
 
-##### Paragraphe 2 : Délégations et représentations<a id=501></a>
+##### Paragraphe 2 : Délégations et représentations<a id=495></a>
 
 ###### Article D3221-4
 
@@ -27040,7 +26910,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R152 (Ab), ecqc les opérations de cessions immobilières.
 
 
-##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=502></a>
+##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=496></a>
 
 ###### Article R3221-6
 
@@ -27095,7 +26965,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-##### Sous-section 3 : Dispositions applicables  aux établissements publics fonciers locaux<a id=503></a>
+##### Sous-section 3 : Dispositions applicables  aux établissements publics fonciers locaux<a id=497></a>
 
 ###### Article R3221-8
 
@@ -27124,7 +26994,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L3221-2 (V)
 
 
-##### Sous-section 4 : Dispositions applicables aux établissements publics  d'habitations à loyer modéré<a id=504></a>
+##### Sous-section 4 : Dispositions applicables aux établissements publics  d'habitations à loyer modéré<a id=498></a>
 
 ###### Article R3221-9
 
@@ -27146,7 +27016,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*451-10 (V)
 
 
-##### Sous-section 5 : Dispositions applicables aux biens situés à l'étranger<a id=505></a>
+##### Sous-section 5 : Dispositions applicables aux biens situés à l'étranger<a id=499></a>
 
 ###### Article D3221-12
 
@@ -27221,7 +27091,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1221-2 (V)
 
 
-##### Section 2 : Domaine mobilier<a id=506></a>
+##### Section 2 : Domaine mobilier<a id=500></a>
 
 ###### Article D3221-16
 
@@ -27333,9 +27203,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1221-2 (V)
 
 
-##### Chapitre II : Echange<a id=507></a>
+##### Chapitre II : Echange<a id=501></a>
 
-##### Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=508></a>
+##### Section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=502></a>
 
 ###### Article D3222-1
 
@@ -27384,7 +27254,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R152 (Ab), ecqc les opérations d'échange de biens immobiliers.
 
 
-##### Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=509></a>
+##### Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=503></a>
 
 ###### Article R3222-3
 
@@ -27417,7 +27287,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5242-1 (V)
 
 
-##### Section 3 : Dispositions applicables  aux établissements publics fonciers locaux<a id=510></a>
+##### Section 3 : Dispositions applicables  aux établissements publics fonciers locaux<a id=504></a>
 
 ###### Article R3222-4
 
@@ -27450,7 +27320,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
 
-#### TITRE III : CONTENTIEUX<a id=511></a>
+#### TITRE III : CONTENTIEUX<a id=505></a>
 
 ###### Article R3231-1
 
@@ -27509,15 +27379,15 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3231-1 (V)
 
 
-## QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES  DES PERSONNES PUBLIQUES<a id=512></a>
+## QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES  DES PERSONNES PUBLIQUES<a id=506></a>
 
-### LIVRE Ier : RÉALISATION DES OPÉRATIONS IMMOBILIÈRES<a id=513></a>
+### LIVRE Ier : RÉALISATION DES OPÉRATIONS IMMOBILIÈRES<a id=507></a>
 
-#### TITRE Ier : PRISES À BAIL<a id=514></a>
+#### TITRE Ier : PRISES À BAIL<a id=508></a>
 
-##### Chapitre Ier : Biens situés en France<a id=515></a>
+##### Chapitre Ier : Biens situés en France<a id=509></a>
 
-##### Section 1 : Consultation préalable<a id=516></a>
+##### Section 1 : Consultation préalable<a id=510></a>
 
 ###### Article R4111-1
 
@@ -27552,7 +27422,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R4111-6 (V)
 
 
-##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=517></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat  et à ses établissements publics<a id=511></a>
 
 ###### Article R4111-2
 
@@ -27695,7 +27565,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R4111-5 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=518></a>
+##### Sous-section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=512></a>
 
 ###### Article R4111-7
 
@@ -27719,7 +27589,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1311-3 (V)
 
 
-##### Section 2 : Passation des actes<a id=519></a>
+##### Section 2 : Passation des actes<a id=513></a>
 
 ###### Article R4111-8
 
@@ -27746,7 +27616,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R4111-11 (V)
 
 
-##### Section 3 : Délégations et représentations<a id=520></a>
+##### Section 3 : Délégations et représentations<a id=514></a>
 
 ###### Article D4111-9
 
@@ -27795,7 +27665,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R152 (Ab), alinéas 1 et 2, ecqc  les prises en location.
 
 
-##### Section 4 : Contentieux<a id=521></a>
+##### Section 4 : Contentieux<a id=515></a>
 
 ###### Article R4111-11
 
@@ -27831,7 +27701,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R4111-8 (V)
 
 
-##### Chapitre II : Biens situés à l'étranger<a id=522></a>
+##### Chapitre II : Biens situés à l'étranger<a id=516></a>
 
 ###### Article D4112-3
 
@@ -27899,11 +27769,11 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. R1221-2
 
 
-#### TITRE II : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT<a id=523></a>
+#### TITRE II : DISPOSITIONS APPLICABLES AUX BIENS  DÉTENUS EN JOUISSANCE PAR L'ÉTAT<a id=517></a>
 
-##### Chapitre unique<a id=524></a>
+##### Chapitre unique<a id=518></a>
 
-##### Section 1 : Mise en location<a id=525></a>
+##### Section 1 : Mise en location<a id=519></a>
 
 ###### Article R4121-1
 
@@ -27951,7 +27821,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. R4121-3
 
 
-##### Section 2 : Attribution<a id=526></a>
+##### Section 2 : Attribution<a id=520></a>
 
 ###### Article R4121-2
 
@@ -28017,7 +27887,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2313-1 (V)
 
 
-##### Section 3 : Concessions de logement<a id=527></a>
+##### Section 3 : Concessions de logement<a id=521></a>
 
 ###### Article R4121-3
 
@@ -28084,7 +27954,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R4121-3 (V)
 
 
-##### Section 4 : Inventaire<a id=528></a>
+##### Section 4 : Inventaire<a id=522></a>
 
 ###### Article D4121-5
 
@@ -28133,7 +28003,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. D4121-5 (V)
 
 
-##### Section 5 : Biens situés à l'étranger<a id=529></a>
+##### Section 5 : Biens situés à l'étranger<a id=523></a>
 
 ###### Article D4121-6
 
@@ -28165,13 +28035,13 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. D1221-3 (V)
 
 
-## CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=530></a>
+## CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=524></a>
 
-### LIVRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION<a id=531></a>
+### LIVRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION<a id=525></a>
 
-#### TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME<a id=532></a>
+#### TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME<a id=526></a>
 
-##### Chapitre Ier : Dispositions communes<a id=533></a>
+##### Chapitre Ier : Dispositions communes<a id=527></a>
 
 ###### Article D5111-6
 
@@ -28498,9 +28368,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L5111-5 (V)
 
 
-##### Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique<a id=534></a>
+##### Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique<a id=528></a>
 
-##### Section 1 : Délimitation des espaces urbains et naturels<a id=535></a>
+##### Section 1 : Délimitation des espaces urbains et naturels<a id=529></a>
 
 ###### Article R5112-1
 
@@ -28523,7 +28393,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L5112-2 (V)
 
 
-##### Section 2 : Cession de terrains prévue par l'article L. 5112-4<a id=536></a>
+##### Section 2 : Cession de terrains prévue par l'article L. 5112-4<a id=530></a>
 
 ###### Article R5112-2
 
@@ -28891,7 +28761,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L5112-4 (V)
 
 
-##### Section 3 : Cession de terrains prévue par l'article L. 5112-4-1<a id=537></a>
+##### Section 3 : Cession de terrains prévue par l'article L. 5112-4-1<a id=531></a>
 
 ###### Article R5112-13
 
@@ -28919,7 +28789,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R5111-1 (V)
 
 
-##### Section 4 : Cession de terrains prévue par l'article L. 5112-5<a id=538></a>
+##### Section 4 : Cession de terrains prévue par l'article L. 5112-5<a id=532></a>
 
 ###### Article R5112-14
 
@@ -29108,7 +28978,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R5111-1 (V)
 
 
-##### Section 5 : Cession de terrains prévue par l'article L. 5112-6<a id=539></a>
+##### Section 5 : Cession de terrains prévue par l'article L. 5112-6<a id=533></a>
 
 ###### Article D5112-24
 
@@ -29295,7 +29165,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R170-7 (V)
 
 
-##### Section 6 : Dispositions relatives à l'application de l'article L. 5112-9<a id=540></a>
+##### Section 6 : Dispositions relatives à l'application de l'article L. 5112-9<a id=534></a>
 
 ###### Article R5112-26
 
@@ -29392,7 +29262,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R170-10 (V)
 
 
-##### Section 7 : Dispositions relatives à l'application de l'article L. 5112-3<a id=541></a>
+##### Section 7 : Dispositions relatives à l'application de l'article L. 5112-3<a id=535></a>
 
 ###### Article R5112-29
 
@@ -29858,7 +29728,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R170-27 (V)
 
 
-##### Chapitre III : Dispositions particulières à la Guyane et à La Réunion<a id=542></a>
+##### Chapitre III : Dispositions particulières à la Guyane et à La Réunion<a id=536></a>
 
 ###### Article R5113-1
 
@@ -29890,9 +29760,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R5112-38 (V)
 
 
-#### TITRE II : RÉGIME DOMANIAL DES EAUX<a id=543></a>
+#### TITRE II : RÉGIME DOMANIAL DES EAUX<a id=537></a>
 
-##### Chapitre unique.<a id=544></a>
+##### Chapitre unique.<a id=538></a>
 
 ###### Article R5121-1
 
@@ -29915,9 +29785,9 @@ _Cite_:
   - Code de l'environnement - art. R214-5 (V)
 
 
-#### TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE<a id=545></a>
+#### TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE<a id=539></a>
 
-##### Chapitre Ier : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales<a id=546></a>
+##### Chapitre Ier : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales<a id=540></a>
 
 ###### Article D5141-7
 
@@ -30883,7 +30753,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R5145-2 (V)
 
 
-##### Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales et à l'Etablissement public d'aménagement en Guyane<a id=547></a>
+##### Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales et à l'Etablissement public d'aménagement en Guyane<a id=541></a>
 
 ###### Article D5142-10
 
@@ -31265,7 +31135,7 @@ _Cite_:
   - Code forestier - art. L211-1 (Ab)
 
 
-##### Chapitre III : Concessions et cessions à des communautés d'habitants<a id=548></a>
+##### Chapitre III : Concessions et cessions à des communautés d'habitants<a id=542></a>
 
 ###### Article D5143-6
 
@@ -31465,7 +31335,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R170-60 (V)
 
 
-##### Chapitre IV : Cessions de terrains domaniaux ne relevant pas des dispositions des chapitres Ier, II et III<a id=549></a>
+##### Chapitre IV : Cessions de terrains domaniaux ne relevant pas des dispositions des chapitres Ier, II et III<a id=543></a>
 
 ###### Article D5144-4
 
@@ -31600,7 +31470,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R5145-6 (V)
 
 
-##### Chapitre V : Dispositions communes et diverses<a id=550></a>
+##### Chapitre V : Dispositions communes et diverses<a id=544></a>
 
 ###### Article R5145-1
 
@@ -31845,9 +31715,9 @@ _Créé par_:
   - Décret n°2014-930 du 19 août 2014 - art.
 
 
-#### TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE ET À LA RÉUNION<a id=551></a>
+#### TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE ET À LA RÉUNION<a id=545></a>
 
-##### Chapitre unique.<a id=552></a>
+##### Chapitre unique.<a id=546></a>
 
 ###### Article R5151-1
 
@@ -31987,11 +31857,11 @@ _Créé par_:
   - Décret n°2014-930 du 19 août 2014 - art.
 
 
-### LIVRE  II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=553></a>
+### LIVRE  II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=547></a>
 
-#### TITRE  Ier : DISPOSITIONS GÉNÉRALES<a id=554></a>
+#### TITRE  Ier : DISPOSITIONS GÉNÉRALES<a id=548></a>
 
-##### Chapitre unique.<a id=555></a>
+##### Chapitre unique.<a id=549></a>
 
 ###### Article R5211-1
 
@@ -32121,9 +31991,9 @@ _Créé par_:
   - Décret n°2014-930 du 19 août 2014 - art.
 
 
-#### TITRE  II : ACQUISITIONS<a id=556></a>
+#### TITRE  II : ACQUISITIONS<a id=550></a>
 
-##### Chapitre Ier : Modes d'acquisition<a id=557></a>
+##### Chapitre Ier : Modes d'acquisition<a id=551></a>
 
 ###### Article R5221-1
 
@@ -32145,7 +32015,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1123-1 (V)
 
 
-##### Chapitre II : Procédures d'acquisition<a id=558></a>
+##### Chapitre II : Procédures d'acquisition<a id=552></a>
 
 ###### Article R5222-1
 
@@ -32194,9 +32064,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. R5212-1-1-1 (V)
 
 
-#### TITRE  III : GESTION<a id=559></a>
+#### TITRE  III : GESTION<a id=553></a>
 
-##### Chapitre Ier : Biens relevant du domaine public<a id=560></a>
+##### Chapitre Ier : Biens relevant du domaine public<a id=554></a>
 
 ###### Article R5231-1
 
@@ -32354,7 +32224,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2124-58 (V)
 
 
-##### Chapitre III : Recouvrement<a id=561></a>
+##### Chapitre III : Recouvrement<a id=555></a>
 
 ###### Article R5233-1
 
@@ -32401,13 +32271,13 @@ _Créé par_:
   - Décret n°2014-930 du 19 août 2014 - art.
 
 
-#### TITRE  IV : CESSIONS<a id=562></a>
+#### TITRE  IV : CESSIONS<a id=556></a>
 
-##### Chapitre Ier : Modes de cession<a id=563></a>
+##### Chapitre Ier : Modes de cession<a id=557></a>
 
-##### Section 1 : Cessions à titre onéreux<a id=564></a>
+##### Section 1 : Cessions à titre onéreux<a id=558></a>
 
-##### Sous-section 1 : Vente<a id=565></a>
+##### Sous-section 1 : Vente<a id=559></a>
 
 ###### Article R5241-1
 
@@ -32493,7 +32363,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3211-34 (V)
 
 
-##### Sous-section 2 : Autres modes<a id=566></a>
+##### Sous-section 2 : Autres modes<a id=560></a>
 
 ###### Article R5241-5
 
@@ -32516,7 +32386,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3211-47 (V)
 
 
-##### Section 2 : Cessions à titre gratuit<a id=567></a>
+##### Section 2 : Cessions à titre gratuit<a id=561></a>
 
 ###### Article R5241-6
 
@@ -32634,7 +32504,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L5241-6 (V)
 
 
-##### Chapitre II : Procédures de cession et d'échange<a id=568></a>
+##### Chapitre II : Procédures de cession et d'échange<a id=562></a>
 
 ###### Article R5242-1
 
@@ -32657,9 +32527,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3222-3 (V)
 
 
-#### TITRE  V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES<a id=569></a>
+#### TITRE  V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES<a id=563></a>
 
-##### Chapitre unique.<a id=570></a>
+##### Chapitre unique.<a id=564></a>
 
 ###### Article R5251-1
 
@@ -32686,9 +32556,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R4111-5 (V)
 
 
-#### TITRE  VI : RÉGIME DOMANIAL DES EAUX<a id=571></a>
+#### TITRE  VI : RÉGIME DOMANIAL DES EAUX<a id=565></a>
 
-##### Chapitre unique.<a id=572></a>
+##### Chapitre unique.<a id=566></a>
 
 ###### Article R5261-1
 
@@ -32711,7 +32581,7 @@ _Cite_:
   - Code de l'environnement - art. R214-5 (V)
 
 
-## ANNEXE<a id=573></a>
+## ANNEXE<a id=567></a>
 
 ###### Article Annexe à l'article R3113-2
 
