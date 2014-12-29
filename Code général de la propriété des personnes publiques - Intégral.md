@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2014-12-22
+Version Consolidée au 2014-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -9673,7 +9673,7 @@ participation est exigée à compter de cette publication. Il précise que le mo
 participation sont notifiés au bénéficiaire de la cession par le préfet. 
 
 Les équipements financés par la participation prévue par le présent article ne peuvent faire l'objet des participations
-prévues aux articles L. 311-4, L. 332-11-1 et L. 332-11-3 du code de l'urbanisme. 
+prévues aux articles L. 311-4 et L. 332-11-3 du code de l'urbanisme. 
 
 Le produit de la participation est versé à l'agence pour la mise en valeur des espaces urbains de la zone dite des cinquante
 pas géométriques. Les sommes correspondantes font l'objet d'une affectation exclusive au financement des programmes
@@ -9695,7 +9695,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. L5112-4-1
   - Code général de la propriété des personnes publiques. - art. L5112-5
   - Code général de la propriété des personnes publiques. - art. L5112-6
-  - Code de l'urbanisme - art. L311-4 (V)
+  - Code de l'urbanisme - art. L311-4
   - Code de l'urbanisme - art. L332-11-1
   - Code de l'urbanisme - art. L332-11-3
 
@@ -9705,7 +9705,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 
 ###### Article L5112-7
