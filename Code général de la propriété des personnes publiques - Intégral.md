@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-02-18
+Version Consolidée au 2015-02-28
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -26215,12 +26215,12 @@ _Cite_:
 ###### Article R3211-34
 
 Les dispositions des articles R. 3211-19 à R. 3211-23 sont applicables aux demandes de concession portant sur les
-atterrissements prévus à l'article L. 3211-15, sous réserve des adaptations suivantes : 
+atterrissements prévus à l'article L. 3211-15, sous réserve des adaptations suivantes :
 
 1° L'instruction est conduite par l'autorité compétente de la personne publique propriétaire. Lorsqu'elle intéresse l'Etat,
-cette instruction relève du chef du service gestionnaire du domaine fluvial ; 
+cette instruction relève du chef du service gestionnaire du domaine fluvial ;
 
-2° L'avis du général commandant la région militaire est demandé. L'absence de réponse dans un délai de deux mois vaut avis
+2° L'avis du général commandant la zone terre est demandé. L'absence de réponse dans un délai de deux mois vaut avis
 favorable. Dans les départements d'outre-mer, cet avis est donné par l'officier général commandant supérieur des forces
 armées.
 
@@ -26230,9 +26230,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2015-211 du 25 février 2015 - art. 25
 
 _Anciens textes_:
 
@@ -26248,8 +26248,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L3211-15 (V)
-  - Code général de la propriété des personnes publ... - art. R3211-19 (V)
+  - Code général de la propriété des personnes publiques. - art. L3211-15
+  - Code général de la propriété des personnes publiques. - art. R3211-19
 
 
 ##### Sous-section 2 : Domaine mobilier<a id=482></a>
