@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-07-17
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -7632,8 +7632,8 @@ _Codifié par_:
 
 ###### Article L3114-1
 
-Des transferts de propriété d'infrastructures ferroviaires ou d'infrastructures de service appartenant à l'Etat ou à l'un des
-établissements publics constituant le groupe public ferroviaire mentionné à l'article L. 2101-1 du code des transports
+Des transferts de propriété d'infrastructures ferroviaires ou    d'installations de service appartenant à l'Etat ou à l'un
+des établissements publics constituant le groupe public ferroviaire mentionné à l'article L. 2101-1 du code des transports
 peuvent être opérés au profit d'une région, à la demande de l'assemblée délibérante de celle-ci. 
 
 Ces transferts concernent uniquement, sous réserve des besoins de la défense du pays, les lignes que la région utilise ou
@@ -7642,9 +7642,9 @@ réseau ferré national.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-872 du 4 août 2014 - art. 7
+  - ORDONNANCE n°2015-855 du 15 juillet 2015 - art. 29
 
 _Cité par_:
 
