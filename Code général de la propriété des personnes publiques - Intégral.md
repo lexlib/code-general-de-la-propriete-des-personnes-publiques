@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-07-17
+Version Consolidée au 2015-07-26
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -25677,30 +25677,34 @@ _Cite_:
 
 ###### Article R3211-26
 
-Jusqu'au 31 décembre 2014, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense avant le 31
-décembre 2008 a lieu avec publicité et mise en concurrence soit par adjudication publique, soit à l'amiable. L'aliénation des
-immeubles domaniaux reconnus inutiles par le ministre de la défense après le 31 décembre 2008 et compris dans un site ayant
-fait l'objet d'une décision de restructuration prise par ce ministre a lieu dans les mêmes conditions jusqu'au 31 décembre
-2014. La cession amiable est précédée d'une publicité, adaptée à la nature et à l'importance de l'immeuble dont la cession
-est envisagée, permettant une mise en concurrence, dans les conditions mentionnées aux articles R. 3211-4 et R. 3211-5. 
+En application de l'article 48 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les
+années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale, jusqu'au 31 décembre
+2019, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu avec publicité et mise en
+concurrence soit par adjudication publique, soit à l'amiable. Lorsqu'elle est réalisée à l'amiable, la cession est précédée
+d'une publicité, adaptée à la nature et à l'importance de l'immeuble dont la cession est envisagée, permettant une mise en
+concurrence, dans les conditions mentionnées aux articles R. 3211-4 et R. 3211-5.
 
-Toutefois, la cession peut être consentie à l'amiable, sans appel à la concurrence dans les cas suivants : 
+Toutefois, la cession peut être consentie à l'amiable, sans appel à la concurrence dans les cas suivants :
 
-1° Lorsque la valeur vénale de l'immeuble n'excède pas 150 000 euros ; 
+1° Lorsque la valeur vénale de l'immeuble n'excède pas 150 000 euros ;
 
-2° Lorsqu'une précédente adjudication a été infructueuse ; 
+2° Lorsqu'une précédente adjudication a été infructueuse ;
 
 3° Lorsque la commune sur le territoire de laquelle est situé l'immeuble, le département ou la région de la situation du bien
 ou encore un établissement public de coopération intercommunale agissant dans le cadre de ses compétences s'engage à acquérir
-l'immeuble et à en payer le prix dans un délai fixé en accord avec le ministre de la défense ; 
+l'immeuble et à en payer le prix dans un délai fixé en accord avec le ministre de la défense ;
 
 4° Lorsque l'occupant de l'immeuble, exerçant une activité en rapport avec les besoins de la défense nationale, s'engage à
-l'acquérir et à en payer le prix, dans un délai fixé en accord avec le ministre de la défense. 
+l'acquérir et à en payer le prix, dans un délai fixé en accord avec le ministre de la défense.
 
 Le préfet du département de la situation de l'immeuble autorise la vente par adjudication publique ou consent à la cession
 amiable, sur proposition du directeur départemental des finances publiques qui fixe, selon le cas, la mise à prix ou le prix.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art.
 
 _Cité par_:
 
@@ -25709,21 +25713,13 @@ _Cité par_:
   - Décret du 23 juillet 2015 (V)
   - Code général de la propriété des personnes publ... - art. R3211-27 (V)
 
-_Codifié par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Créé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. R148-3 (Ab)
-
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R3211-4 (V)
+  - Loi n°2013-1168 du 18 décembre 2013 - art. 48
+
+_Modifié par_:
+
+  - Décret du 23 juillet 2015 - art. 1
 
 
 ###### Article R3211-27
