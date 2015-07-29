@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-07-26
+Version Consolidée au 2015-07-30
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -7924,6 +7924,9 @@ l'objet est la construction d'équipements publics destinés en tout ou partie a
 consentie est alignée sur la décote allouée pour la part du programme consacrée aux logements sociaux. Les modalités
 d'application du présent alinéa et la liste des équipements publics concernés sont fixées par décret en Conseil d'Etat. 
 
+II bis.-Jusqu'au 31 décembre 2019, lorsqu'il s'agit de terrains occupés par le ministère de la défense, le taux de la décote
+consentie en application des I ou II ne peut excéder 30 % de leur valeur vénale.  
+
 III.-L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des
 logements locatifs sociaux. 
 
@@ -8046,7 +8049,7 @@ _Cite_:
 
   - Loi n°2000-614 du 5 juillet 2000 - art. 1
   - Code de l'action sociale et des familles - art. L345-1
-  - Code de l'urbanisme - art. L300-1 (V)
+  - Code de l'urbanisme - art. L300-1
   - Code de la construction et de l'habitation. - art. L351-2
   - Code de la construction et de l'habitation. - art. L353-1
   - Code de la construction et de l'habitation. - art. L365-1
@@ -8090,7 +8093,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 160
+  - Loi n°2015-917 du 28 juillet 2015 - art. 2 (V)
 
 _Anciens textes_:
 
