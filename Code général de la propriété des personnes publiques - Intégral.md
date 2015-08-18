@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-08-09 00:00:01 +0200
+Version Consolidée au 2015-08-19
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -4681,8 +4681,8 @@ _Cité par_:
 ###### Article L2131-2
 
 Les propriétaires riverains d'un cours d'eau ou d'un lac domanial ne peuvent planter d'arbres ni se clore par haies ou
-autrement qu'à une distance de 3, 25 mètres. Leurs propriétés sont grevées sur chaque rive de cette dernière servitude de 3,
-25 mètres, dite servitude de marchepied. 
+autrement qu'à une distance de 3,25 mètres. Leurs propriétés sont grevées sur chaque rive de cette dernière servitude de 3,25
+mètres, dite servitude de marchepied. 
 
 Tout propriétaire, locataire, fermier ou titulaire d'un droit réel, riverain d'un cours d'eau ou d'un lac domanial est tenu
 de laisser les terrains grevés de cette servitude de marchepied à l'usage du gestionnaire de ce cours d'eau ou de ce lac, des
@@ -4691,12 +4691,17 @@ pêcheurs et des piétons.
 La responsabilité civile des riverains visés au deuxième alinéa ne peut être engagée au titre des dommages causés ou subis à
 l'occasion du passage des pêcheurs ou des piétons qu'en raison de leurs actes fautifs. 
 
+La continuité de la servitude de passage, dite "servitude de marchepied", doit être assurée tout au long du cours d'eau ou du
+lac domanial ; la ligne délimitative ne peut s'écarter de celle du domaine fluvial, sauf à titre exceptionnel lorsque la
+présence d'un obstacle naturel ou patrimonial rend nécessaire son détournement. Dans ce cas, la ligne délimitative de la
+servitude est tracée au plus près de celle du domaine public fluvial, dans la propriété concernée.
+
 Les propriétaires riverains des cours d'eau domaniaux sont tenus, dans l'intérêt du service de la navigation et partout où il
 existe un chemin de halage ou d'exploitation, de laisser le long des bords desdits cours d'eau domaniaux, ainsi que sur les
-îles où il en est besoin, un espace de 7, 80 mètres de largeur. La servitude dont est ainsi grevée leur propriété est dite
+îles où il en est besoin, un espace de 7,80 mètres de largeur. La servitude dont est ainsi grevée leur propriété est dite
 servitude de halage. 
 
-Ils ne peuvent planter d'arbres ni se clore par haies ou autrement qu'à une distance de 9, 75 mètres sur les bords où il
+Ils ne peuvent planter d'arbres ni se clore par haies ou autrement qu'à une distance de 9,75 mètres sur les bords où il
 existe un chemin de halage ou d'exploitation. 
 
 Le long des canaux de navigation, les pêcheurs et les piétons peuvent user du chemin de halage et de la portion de berge
@@ -4717,7 +4722,7 @@ marchepied le long des cours d'eau domaniaux.
 
 _Modifié par_:
 
-  - Loi n°2010-874 du 27 juillet 2010 - art. 53
+  - Loi n°2015-992 du 17 août 2015 - art. 62
 
 _Cité par_:
 
@@ -4735,7 +4740,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'environnement - art. L211-7 (V)
+  - Code de l'environnement - art. L211-7
 
 
 ###### Article L2131-3
@@ -4769,21 +4774,33 @@ _Cite_:
 ###### Article L2131-4
 
 Les propriétaires riverains qui veulent faire des constructions, plantations ou clôtures le long des cours d'eau domaniaux
-peuvent, au préalable, demander à l'autorité administrative compétente de reconnaître la limite de la servitude.
+peuvent, au préalable, demander à l'autorité administrative compétente de reconnaître la limite de la servitude. 
 
 Si, dans les trois mois à compter de la demande, cette autorité n'a pas fixé la limite, les constructions, plantations ou
-clôtures faites par les riverains ne peuvent plus être supprimées que moyennant indemnité.
+clôtures faites par les riverains ne peuvent plus être supprimées que moyennant indemnité. 
+
+Une commune, un établissement public de coopération intercommunale, un département, un syndicat mixte ou une association
+d'usagers intéressés peuvent demander à l'autorité administrative compétente de fixer la limite des emprises de la servitude
+de marchepied mentionnée à l'article L. 2131-2, dans les cas où celle-ci n'est pas déjà fixée. L'autorité administrative
+compétente en opère la délimitation dans le délai d'une année suivant la date de la demande.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2015-992 du 17 août 2015 - art. 63
 
 _Anciens textes_:
 
   - Code du domaine public fluvial et de la navigation - art. 18 (Ab)
-  - Code du domaine public fluvial et de la navigation intérieure art. 18
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Code général de la propriété des personnes publ... - art. L2131-2 (V)
 
 
 ###### Article L2131-5
