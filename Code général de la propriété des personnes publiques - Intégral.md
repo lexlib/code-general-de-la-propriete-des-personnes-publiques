@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2015-12-31
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -824,7 +824,7 @@ _Cite_:
 
 Le droit de préemption de l'Etat est exercé dans les conditions fixées :
 
-1° Au chapitre II du titre IV du livre Ier du code de l'urbanisme, en ce qui concerne les espaces naturels sensibles des
+1° Au chapitre V du titre Ier du livre II du code de l'urbanisme, en ce qui concerne les espaces naturels sensibles des
 départements ;
 
 2° Aux chapitres Ier, II et III du titre Ier du livre II du code de l'urbanisme, en ce qui concerne le droit de préemption
@@ -834,7 +834,11 @@ urbain, les zones d'aménagement différé et les périmètres provisoires.
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 _Cité par_:
 
@@ -845,17 +849,28 @@ _Cité par_:
 
 Le droit de préemption des établissements publics de l'Etat est exercé dans les conditions fixées :
 
-1° Aux chapitres II et III du titre IV du livre Ier du code de l'urbanisme, en ce qui concerne les espaces naturels sensibles
-des départements et la protection et la mise en valeur des espaces agricoles et naturels périurbains ;
+1° A l'article L. 113-25 du code de l'urbanisme, en ce qui concerne la mise en valeur des espaces agricoles et naturels
+périurbains ;
 
-2° Aux chapitres Ier, II et III du titre Ier du livre II du code de l'urbanisme, en ce qui concerne le droit de préemption
+2° Au chapitre V du titre Ier du livre II du code de l'urbanisme en ce qui concerne les espaces naturels sensibles des
+départements ;
+
+3° Aux chapitres Ier, II et III du titre Ier du livre II du code de l'urbanisme, en ce qui concerne le droit de préemption
 urbain, les zones d'aménagement différé et les périmètres provisoires.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L113-25 (VD)
 
 
 ###### Article L1112-6
@@ -863,13 +878,16 @@ _Codifié par_:
 Le droit de préemption des collectivités territoriales, de leurs groupements et de leurs établissements publics est exercé
 dans les conditions fixées :
 
-1° Aux chapitres II et III du titre IV du livre Ier du code de l'urbanisme, en ce qui concerne les espaces naturels sensibles
-des départements et la protection et la mise en valeur des espaces agricoles et naturels périurbains ;
+1° A l'article L. 113-25 du code de l'urbanisme, en ce qui concerne la mise en valeur des espaces agricoles et naturels
+périurbains ;
 
-2° Aux chapitres Ier, II et III du titre Ier du livre II du code de l'urbanisme, en ce qui concerne le droit de préemption
+2° Au chapitre V du titre Ier du livre II du code de l'urbanisme en ce qui concerne les espaces naturels sensibles des
+départements ;
+
+3° Aux chapitres Ier, II et III du titre Ier du livre II du code de l'urbanisme, en ce qui concerne le droit de préemption
 urbain, les zones d'aménagement différé et les périmètres provisoires ;
 
-3° Au chapitre IV du titre Ier du livre II du code de l'urbanisme, en ce qui concerne les fonds artisanaux, les fonds de
+4° Au chapitre IV du titre Ier du livre II du code de l'urbanisme, en ce qui concerne les fonds artisanaux, les fonds de
 commerce et les baux commerciaux.
 
 Le droit de préemption des établissements publics fonciers locaux est exercé dans les conditions fixées au chapitre IV du
@@ -879,11 +897,19 @@ titre II du livre III du code de l'urbanisme.
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. L5311-2 (VD)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L113-25 (VD)
 
 
 ##### Sous-section 2 : Droit de préemption mobilier.<a id=17></a>
@@ -1373,32 +1399,32 @@ _Cite_:
 
 ###### Article L1126-1
 
-Sont acquis à l'Etat, à moins qu'il ne soit disposé de ces biens par des lois particulières :
+Sont acquis à l'Etat, à moins qu'il ne soit disposé de ces biens par des lois particulières : 
 
 1° Le montant des coupons, intérêts ou dividendes, atteints par la prescription quinquennale ou conventionnelle et afférents
 à des actions, parts de fondateur, obligations ou autres valeurs mobilières négociables, émises par toute société commerciale
-ou civile ou par toute collectivité privée ou publique ;
+ou civile ou par toute collectivité privée ou publique ; 
 
-2° Les actions, parts de fondateur, obligations et autres valeurs mobilières des mêmes collectivités, lorsqu'elles sont
-atteintes par la prescription trentenaire ou conventionnelle ;
+2° (abrogé) 
 
 3° Les dépôts de sommes d'argent et, d'une manière générale, tous avoirs en espèces dans les banques, les établissements de
 crédit et tous autres établissements qui reçoivent des fonds en dépôt ou en compte courant, lorsque ces dépôts ou avoirs
-n'ont fait l'objet de la part des ayants droit d'aucune opération ou réclamation depuis trente années ;
+n'ont fait l'objet de la part des ayants droit d'aucune opération ou réclamation depuis trente années et n'ont pas fait
+l'objet d'un dépôt à la Caisse des dépôts et consignations en application de l'article L. 312-20 du code monétaire et
+financier et que le titulaire du compte, son représentant légal ou la personne habilitée par lui n'a effectué aucune
+opération sur un autre compte ouvert à son nom dans le même établissement ; 
 
 4° Les dépôts de titres et, d'une manière générale, tous avoirs en titres dans les banques et autres établissements qui
 reçoivent des titres en dépôt ou pour tout autre cause lorsque ces dépôts ou avoirs n'ont fait l'objet, de la part des ayants
-droit, d'aucune opération ou réclamation depuis trente années ;
+droit, d'aucune opération ou réclamation depuis trente années et n'ont pas fait l'objet d'un dépôt à la Caisse des dépôts et
+consignations en application de l'article L. 312-20 du code monétaire et financier et que le titulaire du compte, son
+représentant légal ou la personne habilitée par lui n'a effectué aucune opération sur un autre compte ouvert à son nom dans
+le même établissement ; 
 
-5° Les sommes dues au titre de contrats d'assurance sur la vie comportant des valeurs de rachat ou de transfert et n'ayant
-fait l'objet, à compter du décès de l'assuré ou du terme du contrat, d'aucune demande de prestation auprès de l'organisme
-d'assurance depuis trente années.
-
-**Nota:**
-
-Loi 2006-1640 du 21 décembre 2006 art. 18 V : Les dispositions du présent article s'appliquent aux contrats d'assurance sur
-la vie en cours comportant des valeurs de rachat ou de transfert et n'ayant fait l'objet, à compter du décès de l'assuré ou
-du terme du contrat, d'aucune demande de prestation à la date de publication de la présente loi.
+5° Les sommes dues au titre de contrats d'assurance sur la vie et de bons ou contrats de capitalisation ou de transfert et
+n'ayant fait l'objet, à compter du décès de l'assuré ou du terme du contrat, d'aucune demande de prestation auprès de
+l'organisme d'assurance depuis trente années, ni d'un dépôt à la Caisse des dépôts et consignations en application des
+articles L. 132-27-2 du code des assurances et L. 223-25-4 du code de la mutualité.
 
 **Liens relatifs à cet article**
 
@@ -1417,17 +1443,21 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
 
 _Modifié par_:
 
-  - Loi n°2006-1640 du 21 décembre 2006 - art. 18 (V) JORF 22 décembre 2006
+  - Loi n°2014-617 du 13 juin 2014 - art. 11
 
 _Anciens textes_:
 
-  - Code du domaine de l'Etat - art. L27 (M)
-  - Code du domaine de l'Etat L27, alinéas 1 à 5
   - Code du domaine de l'Etat - art. L27 (Ab)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L312-20 (VD)
+  - Code des assurances - art. L132-27-2 (VD)
+  - Code de la mutualité - art. L223-25-4 (VD)
 
 
 ###### Article L1126-2
@@ -1460,32 +1490,42 @@ _Cité par_:
 
 ###### Article L1126-3
 
-Les banques, les établissements de crédit et tous autres établissements qui reçoivent soit des fonds en dépôt ou en compte
-courant, soit des titres en dépôt ou pour tout autre cause sont tenus de remettre     au Trésor public tous les dépôts ou
-avoirs en espèces ou en titres, qui n'ont fait l'objet, de la part des ayants droit, d'aucune opération ou réclamation depuis
-trente ans et qui n'ont pas été déposés dans un établissement habilité à cet effet par décret.
+Sous réserve de l'article L. 312-20 du code monétaire et financier, les banques, les établissements de crédit et tous autres
+établissements qui reçoivent soit des fonds en dépôt ou en compte courant, soit des titres en dépôt ou pour tout autre cause
+sont tenus de remettre au Trésor public tous les dépôts ou avoirs en espèces ou en titres, qui n'ont fait l'objet, de la part
+des ayants droit, d'aucune opération ou réclamation depuis trente ans et qui n'ont pas été déposés dans un établissement
+habilité à cet effet par décret.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 121
+  - Loi n°2014-617 du 13 juin 2014 - art. 11
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. R1126-4 (V)
 
+_Cite_:
+
+  - Code monétaire et financier - art. L312-20 (VD)
+
 
 ###### Article L1126-4
 
 Les sommes déposées, à quelque titre que ce soit, à la Caisse des dépôts et consignations sont acquises par l'Etat selon les
-règles fixées au premier alinéa de l'article L. 518-24 du code monétaire et financier.
+règles fixées au III de l'article L. 312-20 et au premier alinéa de l'article L. 518-24 du code monétaire et financier et au
+III des articles L. 132-27-2 du code des assurances et L. 223-25-4 du code de la mutualité.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2014-617 du 13 juin 2014 - art. 11
 
 _Cité par_:
 
@@ -1493,7 +1533,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L518-24 (V)
+  - Code monétaire et financier - art. L312-20
+  - Code monétaire et financier - art. L518-24 (VD)
+  - Code des assurances - art. L132-27-2 (VD)
+  - Code de la mutualité - art. L223-25-4
 
 
 ##### Chapitre VII : Dispositions diverses.<a id=32></a>
@@ -2644,8 +2687,15 @@ validité du titre restant à courir, y compris dans le cas de réalisation de l
 dans les cas mentionnés aux premier et deuxième alinéas de l'article L. 2122-8, qu'à une personne agréée par l'autorité
 compétente, en vue d'une utilisation compatible avec l'affectation du domaine public occupé. 
 
+Le titulaire de l'autorisation d'occupation temporaire peut demander à l'autorité qui a délivré le titre de lui indiquer si,
+au vu des éléments qui lui sont soumis à ce stade et sous réserve d'un changement ultérieur dans les circonstances de fait ou
+de droit qui l'obligerait à revenir sur sa décision, elle délivrera l'agrément à une personne déterminée qui lui sera
+substituée, pour la durée de validité du titre restant à courir, dans les droits et obligations résultant de ce titre.
+Toutefois, ces dispositions ne sont pas applicables aux autorisations d'occupation du domaine public qui ont été délivrées
+après une procédure de publicité et de mise en concurrence.
+
 Lors du décès d'une personne physique titulaire d'un titre d'occupation constitutif de droit réel, celui-ci peut être
-transmis, dans les conditions mentionnées à l'alinéa précédent, au conjoint survivant ou aux héritiers sous réserve que le
+transmis, dans les conditions mentionnées au premier alinéa, au conjoint survivant ou aux héritiers sous réserve que le
 bénéficiaire, désigné par accord entre eux, soit présenté à l'agrément de l'autorité compétente dans un délai de six mois à
 compter du décès.
 
@@ -2653,22 +2703,25 @@ compter du décès.
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2015-1628 du 10 décembre 2015 - art. 2
 
 _Anciens textes_:
 
-  - Code du domaine de l'Etat L34-2 al 1, al 2
   - Code du domaine de l'Etat - art. L34-2 (Ab)
-
-_Cite_:
-
-  - Code général de la propriété des personnes publ... - art. L2122-8 (V)
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. R2122-19 (V)
   - Code général de la propriété des personnes publ... - art. R2122-21-1 (V)
   - Code général de la propriété des personnes publ... - art. R2122-22 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L2122-8
 
 
 ###### Article L2122-8
@@ -7910,20 +7963,20 @@ _Cité par_:
 ###### Article L3211-7
 
 I. - L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale lorsque ces
-terrains, bâtis ou non, sont destinés à la réalisation de programmes de constructions comportant essentiellement des
-logements dont une partie au moins est réalisée en logement social. Pour la part du programme destinée aux logements sociaux,
-la décote ainsi consentie, qui peut atteindre 100 % de la valeur vénale du terrain, est fixée en fonction de la catégorie à
-laquelle ces logements appartiennent. Elle prend notamment en considération les circonstances locales tenant à la situation
-du marché foncier et immobilier, à la situation financière de l'acquéreur du terrain, à la proportion et à la typologie des
-logements sociaux existant sur le territoire de la collectivité considérée et aux conditions financières et techniques de
-l'opération. La décote ne saurait excéder 50 % pour les logements financés en prêts locatifs sociaux et pour les logements en
-accession à la propriété bénéficiant des dispositifs mentionnés au VIII. 
+terrains, bâtis ou non, sont destinés à la réalisation de programmes comportant essentiellement des logements dont une partie
+au moins est réalisée en logement social. Pour la part du programme destinée aux logements sociaux, la décote ainsi
+consentie, qui peut atteindre 100 % de la valeur vénale du terrain, est fixée en fonction de la catégorie à laquelle ces
+logements appartiennent. Elle prend notamment en considération les circonstances locales tenant à la situation du marché
+foncier et immobilier, à la situation financière de l'acquéreur du terrain, à la proportion et à la typologie des logements
+sociaux existant sur le territoire de la collectivité considérée et aux conditions financières et techniques de l'opération.
+La décote ne saurait excéder 50 % pour les logements financés en prêts locatifs sociaux et pour les logements en accession à
+la propriété bénéficiant des dispositifs mentionnés au VIII. 
 
-Pour les communes qui ne font pas l'objet d'un constat de carence, dans le cadre d'un programme de construction de logements
-sociaux, dans les conditions fixées au présent article, une décote est possible pour la part du programme dont l'objet est la
-construction d'équipements publics destinés en tout ou partie aux occupants de ces logements. La décote ainsi consentie est
-alignée sur la décote allouée pour la part du programme consacrée aux logements sociaux. Les modalités d'application du
-présent alinéa et la liste des équipements publics concernés sont fixées par décret en Conseil d'Etat.  
+Pour les communes qui ne font pas l'objet d'un constat de carence, dans le cadre d'un programme de logements sociaux, dans
+les conditions fixées au présent article, une décote est possible pour la part du programme relative aux équipements publics
+destinés en tout ou partie aux occupants de ces logements. La décote ainsi consentie est alignée sur la décote allouée pour
+la part du programme consacrée aux logements sociaux. Les modalités d'application du présent alinéa et la liste des
+équipements publics concernés sont fixées par décret en Conseil d'Etat. 
 
 II. - Une décote est de droit lorsque les deux conditions suivantes sont satisfaites : 
 
@@ -7943,11 +7996,10 @@ satisfaire des besoins locaux en matière de logement.
 
 Les présentes dispositions ne s'appliquent aux organismes agréés mentionnés à l'article L. 365-2 du code de la construction
 et de l'habitation et aux sociétés d'économie mixte mentionnées à l'article L. 481-1 du même code que pour les cessions de
-terrains destinés à la construction de logements faisant l'objet de conventions régies par le chapitre III du titre V du
-livre III dudit code. 
+terrains destinés à des programmes de logements faisant l'objet de conventions régies par le chapitre III du titre V du livre
+III dudit code. 
 
-II bis. - Jusqu'au 31 décembre 2019, lorsqu'il s'agit de terrains occupés par le ministère de la défense, le taux de la
-décote consentie en application des I ou II ne peut excéder 30 % de leur valeur vénale.  
+II bis. - (Abrogé)
 
 III. - L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des
 logements locatifs sociaux. 
@@ -8006,15 +8058,15 @@ convention conclue entre le représentant de l'Etat dans la région et l'acquér
 par tranches échelonnées sur une durée totale supérieure à cinq ans et permettant chacune un contrôle du dispositif de
 décote, dans les conditions prévues aux troisième et quatrième alinéas du présent V. 
 
-La convention peut prévoir, en outre, le droit de réservation d'un contingent plafonné à 10 % des logements sociaux
-construits, au profit de l'administration qui cède son terrain avec décote, pour le logement de ses agents, au-delà du
+La convention peut prévoir, en outre, le droit de réservation d'un contingent plafonné à 10 % des logements sociaux du
+programme, au profit de l'administration qui cède son terrain avec décote, pour le logement de ses agents, au-delà du
 contingent dont dispose l'Etat. 
 
 VI. - Le représentant de l'Etat dans la région, assisté du comité régional de l'habitat, contrôle l'effectivité de toute
 convention annexée à un acte d'aliénation et définie au V du présent article. A cet effet, l'acquéreur des terrains
-mentionnés au 2° du II rend compte de l'état d'avancement du programme de constructions au comité régional de l'habitat ainsi
-qu'à la commune sur le territoire de laquelle se trouve le terrain cédé. Cette obligation prend fin au jour de la livraison
-effective du programme de logements ou au jour de la résiliation de la convention. 
+mentionnés au 2° du II rend compte de l'état d'avancement du programme au comité régional de l'habitat ainsi qu'à la commune
+sur le territoire de laquelle se trouve le terrain cédé. Cette obligation prend fin au jour de la livraison effective du
+programme de logements ou au jour de la résiliation de la convention. 
 
 En cas de manquements constatés aux engagements pris par un acquéreur dans la convention qui accompagne l'acte de cession, le
 représentant de l'Etat dans la région, assisté du comité régional de l'habitat, mène la procédure contradictoire pouvant
@@ -8022,9 +8074,9 @@ aboutir à la résolution de la vente dans les conditions prévues au V.
 
 Le représentant de l'Etat dans la région établit chaque année un bilan qui dresse notamment la liste des terrains
 disponibles, des terrains cédés au cours de l'année écoulée, des modalités et des prix de cession ainsi que des logements
-sociaux mis en chantier sur les parcelles cédées. Ce bilan est transmis à la commission nationale mentionnée au VII chargée
-d'établir, pour le compte du ministre chargé du logement, le rapport annuel au Parlement sur la mise en œuvre du dispositif,
-lequel fait l'objet d'un débat devant les commissions permanentes. 
+sociaux mis en chantier ou livrés sur les parcelles cédées. Ce bilan est transmis à la commission nationale mentionnée au VII
+chargée d'établir, pour le compte du ministre chargé du logement, le rapport annuel au Parlement sur la mise en œuvre du
+dispositif, lequel fait l'objet d'un débat devant les commissions permanentes. 
 
 VII. - Il est créé, auprès des ministres chargés du logement et de l'urbanisme, une Commission nationale de l'aménagement, de
 l'urbanisme et du foncier. Elle est composée de deux membres de l'Assemblée nationale et de deux membres du Sénat, de
@@ -8036,8 +8088,8 @@ l'immobilier, des professionnels de l'aménagement, des organisations de défens
 
 La commission nationale mentionnée au présent VII est chargée de suivre le dispositif de mobilisation du foncier public en
 faveur du logement. Elle est en particulier chargée de s'assurer que la stratégie adoptée par l'Etat et les établissements
-publics concernés est de nature à favoriser la cession de biens appartenant à leur domaine privé au profit de la construction
-de logements sociaux. Le décret en Conseil d'Etat prévu au IX précise sa composition et fixe ses modalités de travail et de
+publics concernés est de nature à favoriser la cession de biens appartenant à leur domaine privé au profit de programmes de
+logements sociaux. Le décret en Conseil d'Etat prévu au IX précise sa composition et fixe ses modalités de travail et de
 décision. 
 
 VIII. - Pour l'application du présent article, sont assimilés aux logements locatifs mentionnés aux 3° et 5° de l'article L.
@@ -8116,9 +8168,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
-  - Loi n°2015-990 du 6 août 2015 - art. 101
-  - Loi n°2015-990 du 6 août 2015 - art. 97
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 54
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 55
 
 _Anciens textes_:
 
@@ -9418,7 +9469,7 @@ tiers ou un plan local d'urbanisme approuvé et inclus dans un périmètre gér�
 gestion prévue à l'article L. 2123-2. 
 
 La cession doit avoir pour but la réalisation d'opérations d'aménagement conformes au code de l'urbanisme et notamment aux
-objectifs définis au II de son article L. 156-3.
+objectifs définis à l'article L. 121-48. 
 
 Le paiement du prix de cession peut être échelonné ou différé, sur la demande de la commune, dans un délai ne pouvant excéder
 la date d'achèvement de chaque tranche de travaux ou à la date d'utilisation ou de commercialisation des terrains si elle est
@@ -9430,23 +9481,26 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 _Anciens textes_:
 
-  - Code du domaine de l'Etat - art. L89 (M)
   - Code du domaine de l'Etat - art. L89 (Ab)
-
-_Cite_:
-
-  - Code général de la propriété des personnes publ... - art. L2123-2 (V)
-  - Code de l'urbanisme - art. L156-3 (VT)
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. R5111-10 (V)
   - Code général de la propriété des personnes publ... - art. R5111-7 (V)
   - Code général de la propriété des personnes publ... - art. R5111-9 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L2123-2
+  - Code de l'urbanisme - art. L121-48 (VD)
 
 
 ##### Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique.<a id=222></a>
@@ -9632,13 +9686,12 @@ _Cite_:
 
 ###### Article L5112-4-1
 
-Sous réserve des dispositions de l'avant-dernier alinéa de l'article L. 156-2 et de l'article L. 156-3 du code de
-l'urbanisme, les terrains libres de toute occupation situés dans les espaces urbains et les secteurs occupés par une
-urbanisation diffuse, délimités selon les modalités prévues aux articles L. 5112-1 et L. 5112-2 du présent code, peuvent être
-déclassés aux fins de cession à titre onéreux à des personnes physiques ou morales dès lors que les acquéreurs potentiels
-visés à l'article L. 5112-4 n'en ont pas demandé la cession dans un délai de six mois à compter de la mise en demeure
-adressée par l'autorité administrative. Le prix de cession est alors fixé selon les règles applicables à l'aliénation des
-immeubles du domaine privé.
+Sous réserve des dispositions des articles L. 121-43, L. 121-47 et L. 121-48 du code de l'urbanisme, les terrains libres de
+toute occupation situés dans les espaces urbains et les secteurs occupés par une urbanisation diffuse, délimités selon les
+modalités prévues aux articles L. 5112-1 et L. 5112-2 du présent code, peuvent être déclassés aux fins de cession à titre
+onéreux à des personnes physiques ou morales dès lors que les acquéreurs potentiels visés à l'article L. 5112-4 n'en ont pas
+demandé la cession dans un délai de six mois à compter de la mise en demeure adressée par l'autorité administrative. Le prix
+de cession est alors fixé selon les règles applicables à l'aliénation des immeubles du domaine privé.
 
 **Liens relatifs à cet article**
 
@@ -9648,16 +9701,16 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L5112-6-1 (V)
   - Code général de la propriété des personnes publ... - art. R5112-13 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-594 du 27 mai 2009 - art. 43
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L5112-1 (V)
-  - Code général de la propriété des personnes publ... - art. L5112-4 (V)
-  - Code de l'urbanisme - art. L156-2
-  - Code de l'urbanisme - art. L156-3 (VT)
+  - Code général de la propriété des personnes publiques. - art. L5112-1
+  - Code général de la propriété des personnes publiques. - art. L5112-4
+  - Code de l'urbanisme - art. L121-43 (VD)
+  - Code de l'urbanisme - art. L121-47 (VD)
 
 
 ###### Article L5112-5
@@ -11239,22 +11292,31 @@ ou d'une commune.
 
 Les terrains maintenus dans le domaine public peuvent être transférés en gestion au profit de la collectivité départementale
 ou d'une commune pour satisfaire aux objectifs de préservation des sites et paysages remarquables ou caractéristiques du
-patrimoine naturel et culturel, notamment ceux prévus au premier alinéa de l'article L. 146-6 du code de l'urbanisme.
+patrimoine naturel et culturel, notamment ceux prévus aux articles L. 121-23 et L. 121-50 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 (V)
 
 _Codifié par_:
 
   - Ordonnance n°2006-460 du 21 avril 2006 (V)
 
+_Modifié par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. L5114-3 (VD)
+
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L5331-5 (V)
-  - Code de l'urbanisme - art. L146-6 (V)
+  - Code général de la propriété des personnes publiques. - art. L5331-5
+  - Code de l'urbanisme - art. L121-23
+  - Code de l'urbanisme - art. L121-50
 
 
 ###### Article L5331-6-1
@@ -13426,7 +13488,7 @@ _Cité par_:
 
 Le droit de préemption de l'Etat est exercé dans les conditions fixées : 
 
-1° En ce qui concerne les espaces naturels sensibles, aux articles R. 142-8 à R. 142-14 du code de l'urbanisme ; 
+1° En ce qui concerne les espaces naturels sensibles, aux articles R. 215-9 et suivants du code de l'urbanisme ; 
 
 2° En ce qui concerne le droit de préemption urbain, les zones d'aménagement différé et les périmètres provisoires, aux
 articles R. 212-1 à R. 212-6 et R. 213-1 à R. 213-26 du même code.
@@ -13437,27 +13499,27 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R142-8 (V)
-  - Code de l'urbanisme - art. R212-1 (V)
-  - Code de l'urbanisme - art. R213-1 (V)
+  - Code de l'urbanisme - art. R*212-1
+  - Code de l'urbanisme - art. R*213-1
+  - Code de l'urbanisme - art. R215-9 (V)
 
 
 ###### Article R1112-2
 
 Le droit de préemption des établissements publics de l'Etat est exercé dans les conditions fixées : 
 
-1° En ce qui concerne les espaces naturels sensibles, aux articles R. 142-8 à R. 142-14 du code de l'urbanisme ; 
+1° En ce qui concerne les espaces naturels sensibles, aux articles R. 215-9 et suivants du code de l'urbanisme ; 
 
 2° En ce qui concerne le droit de préemption urbain, les zones d'aménagement différé et les périmètres provisoires, aux
 articles R. 212-1 à R. 212-6 et R. 213-1 à R. 213-26 du même code. 
 
-Lorsque, en application du 3° de l'article L. 143-3 du code de l'urbanisme, un établissement public de l'Etat est chargé de
+Lorsque, en application de l'article L. 113-25 du code de l'urbanisme, un établissement public de l'Etat est chargé de
 procéder aux acquisitions foncières destinées à la protection et à la mise en valeur des espaces agricoles et naturels
 périurbains, les dispositions des articles R. 143-15 à R. 143-23 du code rural et de la pêche maritime régissant
 l'intervention de la société d'aménagement foncier et d'établissement rural lui sont applicables.
@@ -13468,17 +13530,16 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cite_:
 
-  - Code rural - art. R143-15 (V)
-  - Code de l'urbanisme - art. L143-3 (V)
-  - Code de l'urbanisme - art. R142-8 (V)
-  - Code de l'urbanisme - art. R212-1 (V)
-  - Code de l'urbanisme - art. R213-1 (V)
+  - Code rural - art. R143-15
+  - Code de l'urbanisme - art. R*212-1
+  - Code de l'urbanisme - art. R*213-1
+  - Code de l'urbanisme - art. R215-9 (V)
 
 
 ###### Article R1112-3
@@ -13486,7 +13547,7 @@ _Cite_:
 Le droit de préemption des collectivités territoriales, de leurs groupements et de leurs établissements publics est exercé
 dans les conditions fixées : 
 
-1° En ce qui concerne les espaces naturels sensibles, aux articles R. 142-8 à R. 142-14 du code de l'urbanisme ; 
+1° En ce qui concerne les espaces naturels sensibles, aux articles R. 215-9 et suivants du code de l'urbanisme ; 
 
 2° En ce qui concerne le droit de préemption urbain, les zones d'aménagement différé et les périmètres provisoires, aux
 articles R. 211-1 à R. 211-8, R. 212-1 à R. 212-6 et R. 213-1 à R. 213-26 du même code ; 
@@ -13505,31 +13566,31 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cite_:
 
-  - Code rural - art. R143-15 (V)
-  - Code de l'urbanisme - art. *R214-1 (V)
-  - Code de l'urbanisme - art. R*211-1 (V)
-  - Code de l'urbanisme - art. R142-8 (V)
-  - Code de l'urbanisme - art. R212-1 (V)
-  - Code de l'urbanisme - art. R213-1 (V)
+  - Code rural - art. R143-15
+  - Code de l'urbanisme - art. *R214-1
+  - Code de l'urbanisme - art. R*212-1
+  - Code de l'urbanisme - art. R*213-1
+  - Code de l'urbanisme - art. R211-1
+  - Code de l'urbanisme - art. R215-9 (V)
 
 
 ###### Article R1112-4
 
 Le droit de préemption des établissements publics fonciers locaux est exercé dans les conditions fixées : 
 
-1° En ce qui concerne les espaces naturels sensibles, aux articles R. 142-8 à R. 142-14 du code de l'urbanisme ; 
+1° En ce qui concerne les espaces naturels sensibles, aux articles R. 215-9 et suivants du code de l'urbanisme ; 
 
 2° En ce qui concerne le droit de préemption urbain, les zones d'aménagement différé et les périmètres provisoires, aux
 articles R. 211-1 à R. 211-8, R. 212-1 à R. 212-6 et R. 213-1 à R. 213-26 du même code. 
 
-Lorsque, en application du 3° de l'article L. 143-3 du code de l'urbanisme, un établissement public foncier local est chargé
-de procéder aux acquisitions foncières destinées à la protection et à la mise en valeur des espaces agricoles et naturels
+Lorsque, en application de l'article L. 113-25 du code de l'urbanisme, un établissement public foncier local est chargé de
+procéder aux acquisitions foncières destinées à la protection et à la mise en valeur des espaces agricoles et naturels
 périurbains, les dispositions des articles R. 143-15 à R. 143-23 du code rural et de la pêche maritime régissant
 l'intervention de la société d'aménagement foncier et d'établissement rural lui sont applicables.
 
@@ -13539,18 +13600,17 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cite_:
 
-  - Code rural - art. R143-15 (V)
-  - Code de l'urbanisme - art. L143-3 (V)
-  - Code de l'urbanisme - art. R*211-1 (V)
-  - Code de l'urbanisme - art. R142-8 (V)
-  - Code de l'urbanisme - art. R212-1 (V)
-  - Code de l'urbanisme - art. R213-1 (V)
+  - Code rural et de la pêche maritime - art. R143-15 (M)
+  - Code de l'urbanisme - art. R*212-1
+  - Code de l'urbanisme - art. R*213-1
+  - Code de l'urbanisme - art. R211-1
+  - Code de l'urbanisme - art. R215-9 (V)
 
 
 ##### Section 2 : Droit de préemption mobilier<a id=326></a>
@@ -13960,14 +14020,9 @@ _Cite_:
 
 ###### Article R1126-2
 
-La remise des sommes et valeurs mentionnées aux 1°, 2°, 3° et 4° de l'article L. 1126-1 a lieu auprès du comptable de la
-direction générale des finances publiques du siège du déposant, dans les vingt premiers jours du mois de janvier de chaque
-année. Elle comprend l'ensemble des dépôts et avoirs qui ont été atteints par la prescription au cours de l'année
-précédente. 
-
-Les banques ou établissements qui possèdent des agences ou succursales dont les écritures comptables ne sont pas centralisées
-à l'établissement principal effectuent la remise auprès du comptable de la direction générale des finances publiques du siège
-de l'agence ou de la succursale détenant les sommes et valeurs dues.
+La remise des sommes et valeurs mentionnées aux 1°, 3° et 4° de l'article L. 1126-1 a lieu auprès du comptable spécialisé du
+domaine, dans les vingt premiers jours du mois de janvier de chaque année. Elle comprend l'ensemble des dépôts et avoirs qui
+ont été atteints par la prescription au cours de l'année précédente.
 
 **Liens relatifs à cet article**
 
@@ -13975,90 +14030,44 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2015-1092 du 28 août 2015 - art. 4
 
 _Cité par_:
 
   - Décret n°2017-1827 du 28 décembre 2017 - art. 3 (V)
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. R47 (Ab)
-  - Code du domaine de l'Etat - art. R48 (Ab)
+  - Code général de la propriété des personnes publ... - art. R1126-3 (Ab)
 
 _Cite_:
 
   - Code général de la propriété des personnes publ... - art. L1126-1 (V)
 
 
-###### Article R1126-3
-
-La remise des sommes dues au titre de contrats d'assurance sur la vie, mentionnées au 5° de l'article L. 1126-1, a lieu selon
-les modalités prévues au premier alinéa de l'article R. 1126-2 auprès du directeur départemental des finances publiques du
-département du siège du déposant. 
-
-Les banques ou établissements qui possèdent des agences ou succursales dont les écritures comptables ne sont pas centralisées
-à l'établissement principal effectuent la remise auprès du directeur départemental des finances publiques du département de
-l'agence ou de la succursale détenant les sommes dues. 
-
-Toutefois, lorsque le déposant a son siège dans la région d'Ile-de-France, la remise prescrite par le présent article
-s'effectue auprès du comptable spécialisé du domaine.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Créé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Abrogé par_:
-
-  - Décret n°2015-1092 du 28 août 2015 - art. 4
-
-_Cite_:
-
-  - Code général de la propriété des personnes publ... - art. R1126-2 (VD)
-  - Code général de la propriété des personnes publiques. - art. L1126-1
-
-
 ###### Article R1126-4
 
-Les sommes et valeurs quelconques dues par des sociétés ou établissements à caractère commercial mentionnés au 2° de
+Les sommes et valeurs quelconques dues par des sociétés ou établissements à caractère commercial mentionnées au 2° de
 l'article L. 1126-2 peuvent être déposées à la Caisse des dépôts et consignations lorsqu'elles n'ont fait l'objet de la part
-des ayants droit d'aucune réclamation au terme du délai de dix ans fixé par le troisième alinéa de l'article 2 de la loi n°
-77-4 du 3 janvier 1977 modifiant l'article 189 bis du code de commerce concernant la prescription en matière commerciale. 
+des titulaires d'aucune réclamation au terme du délai de dix ans fixé par le premier alinéa de l'article 2 de la loi n° 77-4
+du 3 janvier 1977 modifiant l'article 189 bis du code de commerce concernant la prescription en matière commerciale. 
 
-Les fonds et titres mentionnés à l'article L. 1126-3 ayant donné lieu, de la part des établissements dépositaires, à la
-clôture de compte prévue au premier alinéa de l'article 2 de la loi susmentionnée sont déposés à la Caisse des dépôts et
-consignations. 
-
-Six mois avant de procéder à ce dépôt, les sociétés ou établissements mentionnés aux deux alinéas précédents en informent les
-ayants droit par lettre recommandée adressée à leur dernier domicile connu.
+Six mois avant de procéder à ces dépôts, les sociétés ou les établissements mentionnés au premier alinéa en informent les
+titulaires par lettre recommandée à leur dernier domicile connu.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°77-4 du 3 janvier 1977 - art. 2 (V)
+  - Loi n°77-4 du 3 janvier 1977 - art. 2
   - Code général de la propriété des personnes publ... - art. L1126-2 (V)
-  - Code général de la propriété des personnes publ... - art. L1126-3 (V)
 
 _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. R47-1 (Ab), alinéas 1à 4.
+  - Décret n°2015-1092 du 28 août 2015 - art. 4
 
 _Cité par_:
 
@@ -19077,22 +19086,22 @@ _Créé par_:
 ###### Article R2124-16
 
 Les concessions accordées sur les plages doivent respecter, outre les principes énoncés à l'article L. 321-9 du code de
-l'environnement, les règles de fond précisées aux alinéas suivants. 
+l'environnement, les règles de fond précisées aux alinéas suivants.
 
 Un minimum de 80 % de la longueur du rivage, par plage, et de 80 % de la surface de la plage, dans les limites communales,
 doit rester libre de tout équipement et installation. Dans le cas d'une plage artificielle, ces limites ne peuvent être
-inférieures à 50 %. La surface à prendre en compte est la surface à mi-marée. 
+inférieures à 50 %. La surface à prendre en compte est la surface à mi-marée.
 
 Seuls sont permis sur une plage les équipements et installations démontables ou transportables ne présentant aucun élément de
 nature à les ancrer durablement au sol et dont l'importance et le coût sont compatibles avec la vocation du domaine et sa
 durée d'occupation. Les équipements et installations implantés doivent être conçus de manière à permettre, en fin de
 concession, un retour du site à l'état initial. Leur localisation et leur aspect doivent respecter le caractère des sites et
 ne pas porter atteinte aux milieux naturels. Toutefois, les installations sanitaires publiques et les postes de sécurité
-peuvent donner lieu à des implantations fixes, sauf dans un espace remarquable au sens de l'article L. 146-6 du code de
-l'urbanisme. 
+peuvent donner lieu à des implantations fixes, sauf dans un espace remarquable au sens de l'article L. 121-23 du code de
+l'urbanisme.
 
 Les installations autorisées sont déterminées en fonction de la situation et de la fréquentation de la plage ainsi que du
-niveau des services offerts dans le proche environnement. 
+niveau des services offerts dans le proche environnement.
 
 La surface de la plage concédée doit être libre de tout équipement et installation démontable ou transportable en dehors
 d'une période, définie dans la concession, qui ne peut excéder six mois, sous réserve des dispositions des articles R.
@@ -19100,27 +19109,23 @@ d'une période, définie dans la concession, qui ne peut excéder six mois, sous
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2006-608 du 26 mai 2006 - art. 2 (Ab)
-
 _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Cite_:
-
-  - Code général de la propriété des personnes publ... - art. R2124-17 (V)
-  - Code de l'urbanisme - art. L146-6 (V)
-  - Code de l'environnement - art. L321-9 (V)
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. R2124-22 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. R2124-17
+  - Code de l'urbanisme - art. L146-6
+  - Code de l'environnement - art. L321-9
 
 
 ###### Article R2124-17
@@ -19198,40 +19203,36 @@ _Cité par_:
 Les concessionnaires qui ont reçu du préfet l'agrément prévu à l'article R. 2124-18 délivrent, au cas par cas et après avis
 conforme du préfet, des autorisations annuelles spéciales permettant le maintien sur la plage, en dehors de la période
 définie dans la concession, des établissements de plage démontables ou transportables situés en dehors d'un espace classé
-remarquable au sens de l'article L. 146-6 du code de l'urbanisme et qui remplissent les conditions suivantes : 
+remarquable au sens de l'article L. 121-23 du code de l'urbanisme et qui remplissent les conditions suivantes :
 
 1° Respecter une durée d'ouverture au moins égale à quarante-huit semaines consécutives dans l'année, quatre jours par
-semaine ; 
+semaine ;
 
 2° Avoir déposé une demande accompagnée des pièces justificatives au plus tard trois mois avant la fin de la période
-d'exploitation définie dans la concession ; 
+d'exploitation définie dans la concession ;
 
 3° Présenter, à la première demande, un dossier sur les caractéristiques techniques des aménagements et les conditions
-d'insertion paysagère dans l'environnement ; 
+d'insertion paysagère dans l'environnement ;
 
 4° Justifier la compatibilité du maintien de l'installation ou de l'équipement, en dehors de la période d'exploitation, avec
-l'action de la mer et du vent. 
+l'action de la mer et du vent.
 
 Le concessionnaire transmet le dossier au préfet qui donne son avis dans les deux mois.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2006-608 du 26 mai 2006 - art. 3 (Ab), III.
-
 _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R2124-18 (V)
-  - Code de l'urbanisme - art. L146-6 (V)
+  - Code général de la propriété des personnes publiques. - art. R2124-18
+  - Code de l'urbanisme - art. L146-6
 
 
 ###### Article R2124-20
@@ -19445,38 +19446,34 @@ _Cite_:
 ###### Article R2124-26
 
 Le projet de concession fait l'objet d'une instruction administrative conduite par le service chargé de la gestion du domaine
-public maritime. 
+public maritime.
 
 Le service gestionnaire du domaine public maritime recueille l'avis du directeur départemental des finances publiques qui est
-en outre chargé de fixer les conditions financières de la concession. 
+en outre chargé de fixer les conditions financières de la concession.
 
 Le préfet soumet le projet pour avis à la commission consultative départementale de sécurité et d'accessibilité lorsque la
 commune ou le groupement de communes invoque une impossibilité matérielle ne permettant pas l'accessibilité de tout ou partie
 de la plage et de ses installations ou équipements aux personnes handicapées ou qu'il estime que le projet n'apporte pas de
-réponse satisfaisante à l'obligation d'accès des personnes handicapées. 
+réponse satisfaisante à l'obligation d'accès des personnes handicapées.
 
 Le délai imparti pour rendre l'avis prévu à l'alinéa précédent est de deux mois. L'absence de réponse dans ce délai vaut avis
-favorable. 
+favorable.
 
 A l'issue de l'instruction administrative, le service gestionnaire du domaine public maritime transmet le dossier au préfet
-avec sa proposition et, le cas échéant, un projet de contrat de concession. 
+avec sa proposition et, le cas échéant, un projet de contrat de concession.
 
-Lorsque le projet est situé dans un espace remarquable au sens de l'article L. 146-6 du code de l'urbanisme, il ne peut être
+Lorsque le projet est situé dans un espace remarquable au sens de l'article L. 121-23 du code de l'urbanisme, il ne peut être
 autorisé qu'après avis de la commission départementale compétente en matière de nature, paysages et sites.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2006-608 du 26 mai 2006 - art. 8 (Ab)
 
 _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cité par_:
 
@@ -19486,7 +19483,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L146-6 (V)
+  - Code de l'urbanisme - art. L146-6
 
 
 ###### Article R2124-27
@@ -28355,29 +28352,24 @@ surface sur laquelle porte la demande. Il peut être établi un plan de situatio
 Chaque demande comporte une copie de ce plan ; 
 
 4° Des extraits du règlement du plan d'occupation des sols ou du plan local d'urbanisme de la commune mis en conformité avec
-les dispositions des articles L. 156-3 et L. 156-4 du code de l'urbanisme, se rapportant à la zone où est situé le terrain
+les dispositions aux articles L. 121-47 à L. 121-49 du code de l'urbanisme, se rapportant à la zone où est situé le terrain
 dont la cession est demandée.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°46-942 du 7 mai 1946 - art. 30 (M)
-  - Code général de la propriété des personnes publ... - art. R5112-2 (V)
-  - Code de l'urbanisme - art. L156-3 (M)
-  - Code de l'urbanisme - art. L156-4 (M)
+  - Loi n°46-942 du 7 mai 1946 - art. 30
+  - Code général de la propriété des personnes publiques. - art. R5112-2
+  - Code de l'urbanisme - art. L121-47 (V)
 
 _Codifié par_:
 
   - Décret n°2014-930 du 19 août 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-930 du 19 août 2014 - art.
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. R170, paragraphe II (V)
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cité par_:
 
