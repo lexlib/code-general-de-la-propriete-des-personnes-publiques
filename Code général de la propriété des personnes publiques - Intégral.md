@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-11
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -18675,6 +18675,10 @@ public.
 
 Ces concessions sont conclues pour une durée qui ne peut excéder trente ans. 
 
+Les concessions relatives aux ouvrages de production d'énergie renouvelable en mer et leurs ouvrages connexes ainsi qu'aux
+ouvrages des réseaux publics d'électricité dont l'assiette est située sur le domaine public maritime sont conclues pour une
+durée qui ne peut excéder quarante ans. 
+
 Les dispositions de la présente sous-section ne s'appliquent ni aux concessions de plage, ni aux autorisations d'exploitation
 de cultures marines, ni aux ouvrages et installations soumis à l'octroi d'un titre minier.
 
@@ -18688,9 +18692,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2016-9 du 8 janvier 2016 - art. 2
 
 _Cité par_:
 
@@ -18700,7 +18704,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L2124-3 (V)
+  - Code général de la propriété des personnes publiques. - art. L2124-3
 
 
 ###### Article R2124-2
