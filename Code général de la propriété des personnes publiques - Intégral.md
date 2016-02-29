@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2016-01-11
+Version Consolidée au 2016-03-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -403,10 +403,10 @@ Version Consolidée au 2016-01-11
             - [Section 3 : Utilisation du domaine public hertzien (art. R2124-60)](#400)
             - [Section 4 : Exploitation des ressources naturelles (art. R2124-61 à R2124-63)](#401)
             - [Section 5 : Concessions de logement (art. D2124-75 à R2124-78)](#402)
-              - [Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics (art. D2124-75 à R2124-77)](#403)
+              - [Sous-section 1 : Concessions de logement dans les immeubles  appartenant à l'Etat et à ses établissements publics (art. D2124-75 à R2124-76)](#403)
                 - [Paragraphe 1 : Concessions de logement dans les immeubles  appartenant à l'Etat (art. D2124-75 à R2124-74)](#404)
-                - [Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat (art. R2124-76 à R2124-77)](#405)
-              - [Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales, à leurs groupements et à leurs établissements publics (art. R2124-78)](#406)
+                - [Paragraphe 2 : Concessions de logement dans les immeubles  appartenant aux établissements publics de l'Etat (art. R2124-76)](#405)
+              - [Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales, à leurs groupements et à leurs établissements publics (art. R2124-77 à R2124-78)](#406)
             - [Section 6 : Autres utilisations du domaine public (art. R2124-79)](#407)
           - [Chapitre V : Dispositions financières (art. R2125-1 à R2125-16)](#408)
             - [Section 1 : Dispositions générales (art. R2125-1 à R2125-6)](#409)
@@ -21244,37 +21244,28 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. R2124-68
 
 
+##### Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales, à leurs groupements et à leurs établissements publics<a id=406></a>
+
 ###### Article R2124-77
 
-Les dispositions des articles R. 2124-64 à D. 2124-76 sont applicables aux personnels civils ou militaires de l'Etat et aux
-personnels civils des établissements publics de l'Etat qui occupent un logement dans un immeuble dépendant du domaine public
-de l'un de ces établissements, dans les conditions fixées par arrêté conjoint du ministre chargé des finances, du ministre
-chargé de la fonction publique, du ministre de la défense et du ministre chargé de l'outre-mer.
-
-Les établissements publics mentionnés au premier alinéa sont ceux dont les opérations financières et comptables sont
-effectuées par un agent comptable soumis à la juridiction de la Cour des comptes.
+Les conditions d'attribution de concessions de logement par les régions aux personnels de l'Etat employés dans les centres de
+ressources, d'expertise et de performance sportive sont fixées par les dispositions des articles R. 114-42 à R. 114-56 du
+code du sport.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Abrogé par_:
-
-  - Décret n°2012-752 du 9 mai 2012 - art. 1
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat - art. A93-1 (V), ecqc les concessions de logement dans les immeubles appartenant aux établissements publics et dépendant de leur domaine public.
-  - Code du domaine de l'Etat - art. D13 (Ab), ecqc les concessions de logement dans les immeubles appartenant aux établissements publics et dépendant de leur domaine public.
+  - Décret n°2016-152 du 11 février 2016 - art. 3
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. R2222-19 (V)
 
+_Cite_:
 
-##### Sous-section 2 : Concessions de logement dans les immeubles appartenant aux collectivités territoriales, à leurs groupements et à leurs établissements publics<a id=406></a>
+  - Code du sport. - art. R114-42 (V)
+
 
 ###### Article R2124-78
 
