@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2016-03-01
+Version Consolidée au 2016-03-19
 ## Contenu: 
   - [Partie législative (art. L1 à L5261-2)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -15853,8 +15853,8 @@ arrêté de l'autorité compétente de la collectivité propriétaire pour le do
 groupements. 
 
 A défaut d'accord des propriétaires sur la délimitation proposée, l'arrêté est pris après une enquête publique organisée dans
-les conditions prévues pour les enquêtes publiques relevant de l'article L. 110-2 du code de l'expropriation pour cause
-d'utilité publique régies par le titre Ier du livre Ier du même code.
+les conditions prévues par le chapitre IV du titre III du livre Ier du code des relations entre le public et
+l'administration.
 
 **Liens relatifs à cet article**
 
@@ -15864,12 +15864,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+  - Décret n°2016-308 du 17 mars 2016 - art. 6
 
 _Cite_:
 
   - Code général de la propriété des personnes publiques. - art. L2111-9
-  - Code de l'expropriation pour cause d'utilité pu... - art. L110-2 (V)
+  - Code des relations entre le public et l'adminis... -  Chapitre IV : Enquêtes publiques (V)
 
 
 ###### Article R2111-16
@@ -25392,19 +25392,23 @@ _Cite_:
 ###### Article R3211-17-5
 
 L'organisation et le fonctionnement de la Commission nationale de l'aménagement, de l'urbanisme et du foncier, mentionnée au
-VII de l'article L. 3211-7, relèvent du décret n° 2006-672 du 8 juin 2006 relatif à la création, à la composition et au
-fonctionnement de commissions administratives à caractère consultatif.
+VII de l'article L. 3211-7, relèvent des dispositions des articles R. 133-1 à R. 133-15 du code des relations entre le public
+et l'administration.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2018-785 du 12 septembre 2018 - art. 21
+
 _Cite_:
 
-  - Décret n°2006-672 du 8 juin 2006
   - Code général de la propriété des personnes publiques. - art. L3211-7
-
-_Créé par_:
-
-  - Décret n°2013-315 du 15 avril 2013 - art. 1
+  - Code des relations entre le public et l'administration - art. R*133-1
 
 
 ###### Article R3211-17-6
