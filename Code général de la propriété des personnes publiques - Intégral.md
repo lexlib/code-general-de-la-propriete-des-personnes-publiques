@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2017-04-21
+Version Consolidée au 2017-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -2443,36 +2443,35 @@ _Anciens textes_:
 
 Sans préjudice des dispositions applicables en matière de protection des biens culturels, font partie du domaine public
 mobilier de la personne publique propriétaire les biens présentant un intérêt public du point de vue de l'histoire, de l'art,
-de l'archéologie, de la science ou de la technique, notamment : 
+de l'archéologie, de la science ou de la technique, notamment :
 
 1° Un exemplaire identifié de chacun des documents dont le dépôt est prescrit aux fins de constitution d'une mémoire
-nationale par l'article L. 131-2 du code du patrimoine ; 
+nationale par l'article L. 131-2 du code du patrimoine ;
 
-2° Les archives publiques au sens de l'article L. 211-4 du code du patrimoine ; 
+2° Les archives publiques au sens de l'article L. 211-4  du code du patrimoine ;
 
 3° Les archives issues de fonds privés entrées dans les collections publiques par acquisition à titre onéreux, don, dation ou
-legs ; 
+legs ;
 
-4° Les découvertes de caractère mobilier devenues ou demeurées propriété publique en application du chapitre 3 du titre II et
-du chapitre 1er du titre III du livre V du code du patrimoine ; 
+4° Les biens archéologiques mobiliers devenus ou demeurés propriété publique en application du chapitre 3 du titre II, des
+chapitres Ier et VI du titre IV du livre V du code du patrimoine ;
 
-5° Les biens culturels maritimes de nature mobilière au sens du chapitre 2 du titre III du livre V du code du patrimoine ; 
+5° Les biens culturels maritimes de nature mobilière au sens du chapitre 2 du titre III du livre V du code du patrimoine ;
 
 6° Les objets mobiliers classés ou inscrits au titre du chapitre 2 du titre II du livre VI du code du patrimoine ou situés
 dans un immeuble classé ou inscrit et concourant à la présentation au public de parties classées ou inscrites dudit
-immeuble ; 
+immeuble ;
 
 7° Les objets mobiliers autres que ceux mentionnés au 6° ci-dessus, présentant un intérêt historique ou artistique, devenus
-ou demeurés propriété publique en application de la loi du 9 décembre 1905 concernant la séparation des Eglises et de
-l'Etat ; 
+ou demeurés propriété publique en application de la loi du 9 décembre 1905  concernant la séparation des Eglises et de
+l'Etat ;
 
-8° Les collections des musées ; 
+8° Les collections des musées ;
 
 9° Les oeuvres et objets d'art contemporain acquis par le Centre national des arts plastiques ainsi que les collections
-d'oeuvres et objets d'art inscrites sur les inventaires du Fonds national d'art contemporain dont le centre reçoit la
-garde ; 
+d'oeuvres et objets d'art inscrites sur les inventaires du Fonds national d'art contemporain dont le centre reçoit la garde ;
 
-10° Les collections de documents anciens, rares ou précieux des bibliothèques ; 
+10° Les collections de documents anciens, rares ou précieux des bibliothèques ;
 
 11° Les collections publiques relevant du Mobilier national et de la Manufacture nationale de Sèvres.
 
@@ -2480,13 +2479,17 @@ garde ;
 
 _Cite_:
 
-  - Loi du 9 décembre 1905 (V)
-  - Code du patrimoine - art. L131-2 (V)
-  - Code du patrimoine. - art. L211-4 (V)
+  - Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat
+  - Code du patrimoine - art. L131-2
+  - Code du patrimoine - art. L211-4
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1117 du 29 juin 2017 - art. 2
 
 _Cité par_:
 
@@ -9126,7 +9129,10 @@ personne agissant, à des fins non commerciales, dans le domaine culturel ou dan
 assimilés, lorsqu'elles contribuent à une action d'intérêt public, notamment diplomatique, d'appui aux opérations et de
 coopération internationale militaire. Les cessions peuvent concerner des biens acquis à cette fin ou des biens dont le
 ministère de la défense n'a plus l'emploi. La valeur des biens cédés ne peut dépasser un plafond annuel fixé par arrêté
-conjoint du ministre de la défense et du ministre des finances.
+conjoint du ministre de la défense et du ministre des finances ;
+
+9° Les cessions des biens archéologiques mobiliers déclassés, dans les conditions prévues à l'article L. 546-6 du code du
+patrimoine.
 
 **Liens relatifs à cet article**
 
@@ -9144,7 +9150,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-562 du 19 avril 2017 - art. 11
+  - Ordonnance n°2017-1117 du 29 juin 2017 - art. 2
 
 _Cite_:
 
@@ -9168,13 +9174,14 @@ matériels informatiques dont ils n'ont plus l'emploi aux mêmes conditions que 
 
 Ils peuvent également céder gratuitement à leurs personnels les matériels informatiques et les logiciels nécessaires à leur
 utilisation dont ils n'ont plus l'emploi, aux mêmes conditions que celles fixées pour l'Etat ou l'un de ses établissements
-publics au 5° de l'article L. 3212-2.
+publics au 5° de l'article L. 3212-2 ainsi que les biens archéologiques mobiliers dans les conditions prévues à l'article L.
+546-6 du code du patrimoine.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 121
+  - Ordonnance n°2017-1117 du 29 juin 2017 - art. 2
 
 _Anciens textes_:
 
@@ -9188,7 +9195,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L3212-2 (V)
+  - Code général de la propriété des personnes publ... - art. L3212-2 (M)
 
 
 #### TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE<a id=193></a>
