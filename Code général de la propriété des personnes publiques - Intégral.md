@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-08-13
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -375,11 +375,11 @@ Version Consolidée au 2017-07-01
                 - [Paragraphe 3 : Compétence de la région (art. R2122-53-1 à R2122-53-2)](#372)
                 - [Paragraphe 4 : Dispositions communes (art. R2122-54)](#373)
               - [Sous-section 4 : Règles particulières aux titres en cours (art. R2122-55)](#374)
-          - [Chapitre III : Modalités de gestion (art. R2123-1 à R2123-19)](#375)
+          - [Chapitre III : Modalités de gestion (art. R2123-1 à R2123-20)](#375)
             - [Section 1 : Convention de gestion (art. R2123-1 à R2123-8)](#376)
             - [Section 2 : Transfert de gestion lié à un changement d'affectation (art. R2123-9 à R2123-14)](#377)
             - [Section 3 : Superposition d'affectations (art. R2123-15 à R2123-17)](#378)
-            - [Section 5 : Rétablissement de voies de communication rendu nécessaire par la réalisation d'une infrastructure de transport (art. R2123-18 à R2123-19)](#379)
+            - [Section 5 : Rétablissement de voies de communication rendu nécessaire par la réalisation d'une infrastructure de transport (art. R2123-18 à R2123-20)](#379)
           - [Chapitre IV : Dispositions particulières (art. R2124-1 à R2124-79)](#380)
             - [Section 1 : Utilisation du domaine public maritime (art. R2124-1 à R2124-56)](#381)
               - [Sous-section 1 : Concessions d'utilisation  du domaine public maritime en dehors des ports (art. R2124-1 à R2124-12)](#382)
@@ -19638,6 +19638,30 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2334-4
   - Code général des collectivités territoriales - art. L3334-6
   - Code général des collectivités territoriales - art. L5211-30
+
+
+###### Article R2123-20
+
+Pour la mise en œuvre de la médiation prévue à l'article L. 2123-10, les parties communiquent au préfet tout élément
+permettant de porter une appréciation de leurs capacités financières ainsi que leurs propositions quant à la répartition des
+charges liées à la structure de l'ouvrage d'art.
+
+Le préfet saisit la chambre régionale des comptes et lui transmet ces éléments ainsi que, le cas échéant, sa propre
+proposition de répartition des charges.
+
+Dans un délai de deux mois à compter de sa saisine, la chambre régionale des comptes rend un avis motivé sur l'économie
+générale des propositions qui lui ont été transmises par le préfet et leurs conséquences financières sur la situation des
+parties.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1277 du 9 août 2017 - art. 1
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L2123-10
 
 
 ##### Chapitre IV : Dispositions particulières<a id=380></a>
