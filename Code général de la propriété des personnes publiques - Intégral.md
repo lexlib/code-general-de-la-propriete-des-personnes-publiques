@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-01-03
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -16609,26 +16609,27 @@ Lorsque le prix d'une des acquisitions mentionnées à l'article R. 1212-4 donne
 comptables publics remettent les fonds au prestataire de services d'investissement désigné par le vendeur, par contrat ou par
 autorité de justice, pour procéder à l'achat et requérir l'immatriculation des titres acquis en remploi.
 
-La remise des fonds a lieu sur production d'une attestation du prestataire de services d'investissement certifiant la mission
-de remploi qui lui a été confiée.
+La remise des fonds a lieu sur production d'une attestation du prestataire de services d'investissement autre qu'une société
+de gestion de portefeuille certifiant la mission de remploi qui lui a été confiée.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 20 du décret n° 2017-1253 du 9 août 2017 ces dispositions entrent en vigueur le 3
+janvier 2018.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1352 du 14 novembre 1962 - art. 3 (Ab), ecqc  l'Etat et ses établissements publics.
 
 _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2017-1253 du 9 août 2017 - art. 13
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R1212-4 (V)
+  - Code général de la propriété des personnes publiques. - art. R1212-4
 
 
 ###### Article R1212-6
