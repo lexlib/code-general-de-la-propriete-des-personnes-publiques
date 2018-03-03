@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2018-01-03
+Version Consolidée au 2018-03-04
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -3728,9 +3728,9 @@ concessions d'utilisation du domaine public maritime comportant maintien des ter
 être accordées. Un décret en Conseil d'Etat fixe les conditions d'instruction et de délivrance de ces concessions. 
 
 Les concessions d'utilisation du domaine public maritime en dehors des ports font l'objet, avant leur approbation, d'une
-enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement. Cette disposition
-n'est pas applicable aux concessions de plage, aux autorisations d'exploitation de cultures marines et aux ouvrages et
-installations soumis à l'octroi d'un titre minier.
+enquête publique réalisée en application de la section 1 du chapitre III du titre II du livre Ier du code de l'environnement.
+Cette disposition n'est pas applicable aux concessions de plage, aux autorisations d'exploitation de cultures marines et aux
+ouvrages et installations soumis à l'octroi d'un titre minier.
 
 **Liens relatifs à cet article**
 
@@ -3740,7 +3740,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1060 du 3 août 2016 - art. 6
+  - Loi n°2018-148 du 2 mars 2018 - art. 4
 
 _Cité par_:
 
@@ -3752,8 +3752,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L2124-27 (V)
-  - Code de l'environnement -  Chapitre III : Participation du public aux déci... (V)
+  - Code général de la propriété des personnes publiques. - art. L2124-1
+  - Code général de la propriété des personnes publiques. - art. L2124-2
+  - Code général de la propriété des personnes publiques. - art. L2124-27
+  - Code de l'environnement
 
 
 ###### Article L2124-4
