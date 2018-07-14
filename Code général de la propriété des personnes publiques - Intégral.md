@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2018-03-04
+Version Consolidée au 2018-07-15
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -8176,10 +8176,14 @@ Lorsqu'ils ne sont plus utilisés par un service civil ou militaire de l'Etat ou
 immeubles du domaine privé de l'Etat peuvent être vendus dans les conditions fixées par décret en Conseil d'Etat. 
 
 Lorsque la cession de ces immeubles implique l'application des mesures prévues à l'article L. 541-2 du code de
-l'environnement ou l'élimination des pollutions pyrotechniques, l'Etat peut subordonner la cession à l'exécution, dans le
-cadre de la réglementation applicable, par l'acquéreur, de ces mesures ou de ces travaux, le coût de la dépollution
-s'imputant sur le prix de vente. Dans cette hypothèse, le coût de la dépollution peut être fixé par un organisme expert
-indépendant choisi d'un commun accord par l'Etat et l'acquéreur.
+l'environnement ou, en fonction de l'usage auquel le terrain est destiné, la réalisation d'une opération de dépollution
+pyrotechnique, l'Etat peut subordonner la cession à l'exécution, par l'acquéreur, de ces mesures ou de ces travaux. Dans ce
+cas, les opérations de dépollution pyrotechnique sont exécutées conformément aux règles de sécurité définies par voie
+réglementaire. Le coût réel de ces mesures ou travaux s'impute sur le prix de vente à concurrence du montant fixé à ce titre
+dans l'acte de cession, déterminé par un expert indépendant choisi d'un commun accord par l'Etat et l'acquéreur. Cette
+expertise est contradictoire. Le diagnostic de pollution, le rapport d'expertise et le relevé des mesures de dépollution à
+réaliser sont annexés à l'acte de vente. Une fois la cession intervenue, l'acquéreur supporte les dépenses liées aux mesures
+supplémentaires de dépollution nécessaires à l'utilisation future de l'immeuble cédé.
 
 **Liens relatifs à cet article**
 
@@ -8187,7 +8191,7 @@ _Cité par_:
 
   - Décret n°76-225 du 4 mars 1976 - art. 4 (VT)
   - Décret n°76-225 du 4 mars 1976 - art. 4-1 (VT)
-  - Loi n°86-1290 du 23 décembre 1986 - art. 73 (M)
+  - Loi n°86-1290 du 23 décembre 1986 - art. 73 (V)
   - Décret n°2017-867 du 9 mai 2017 - art. (V)
   - Code de la sécurité intérieure - art. R733-5 (V)
   - Code de la sécurité intérieure - art. R733-9 (V)
@@ -8196,7 +8200,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-928 du 29 juillet 2009 - art. 8
+  - Loi n°2018-607 du 13 juillet 2018 - art. 46
 
 _Anciens textes_:
 
@@ -8450,7 +8454,10 @@ et de l'habitation et aux sociétés d'économie mixte mentionnées à l'article
 terrains destinés à des programmes de logements faisant l'objet de conventions régies par le chapitre III du titre V du livre
 III dudit code.
 
-II bis. – (Abrogé)
+II bis. - Jusqu'au 31 décembre 2025, la décote prévue aux I et II n'est applicable aux cessions de terrains occupés par le
+ministère des armées et situés dans des zones tendues, en particulier l'Île-de-France et la région Provence-Alpes-Côte
+d'Azur, que lorsque ces terrains, bâtis ou non, sont destinés à la réalisation de programmes de logements sociaux réservés au
+maximum aux trois quarts aux agents de ce ministère, à la demande de ce dernier.
 
 III. – L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des
 logements locatifs sociaux.
@@ -8596,7 +8603,7 @@ IX. – Un décret en Conseil d'Etat précise les conditions d'application des I
 _Cite_:
 
   - Loi n°2000-614 du 5 juillet 2000 - art. 1
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 141 (V)
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 141
   - Code de l'action sociale et des familles - art. L345-1
   - Code de l'urbanisme - art. L300-1
   - Code de la construction et de l'habitation. - art. L351-2
@@ -8642,8 +8649,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-256 du 28 février 2017 - art. 14
-  - Loi n°2017-257 du 28 février 2017 - art. 50
+  - Loi n°2018-607 du 13 juillet 2018 - art. 47
 
 _Anciens textes_:
 
@@ -13687,9 +13693,8 @@ Dans la troisième partie :</td>
       <td>
 
 L. 3211-1</td>
-      <td>
-
-Résultant de la loi n° 2009-928 du 29 juillet 2009</td>
+      <td>Résultant de la loi n° 2018-607 du 13 juillet 2018 relative à la programmation militaire pour les années 2019 à
+2025 et portant diverses dispositions intéressant la défense </td>
     </tr>
     <tr>
       <td>
@@ -13788,7 +13793,7 @@ L. 4111-2 à L. 4111-5, L. 4112-1 et L. 4121-1</td>
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 154 (V)
+  - Loi n°2018-607 du 13 juillet 2018 - art. 64 (V)
 
 
 ###### Article L5511-5
@@ -15109,7 +15114,8 @@ Dans la troisième partie :</td>
 L. 3211-1</td>
       <td>
 
-Résultant de la loi n° 2009-928 du 29 juillet 2009</td>
+Résultant de la loi n° 2018-607 du 13 juillet 2018 relative à la programmation militaire pour les années 2019 à 2025 et
+portant diverses dispositions intéressant la défense</td>
     </tr>
     <tr>
       <td>
@@ -15170,7 +15176,7 @@ L. 4112-1 et L. 4121-1</td>
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 154 (V)
+  - Loi n°2018-607 du 13 juillet 2018 - art. 64 (V)
 
 
 ###### Article L5711-3
