@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2018-07-15
+Version Consolidée au 2018-07-20
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -15666,11 +15666,8 @@ _Cite_:
 
 ###### Article R1112-5
 
-Le droit de préemption de l'Etat est exercé dans les conditions fixées :
-
-1° En ce qui concerne les œuvres d'art, aux articles R. 123-1 à R. 123-8 du code du patrimoine ;
-
-2° En ce qui concerne les archives privées, aux articles R. 212-91 et R. 212-92 du même code.
+Le droit de préemption de l'Etat à l'égard des biens culturels est exercé dans les conditions fixées aux articles R. 123-1 à
+R. 123-8 du code du patrimoine.
 
 **Liens relatifs à cet article**
 
@@ -15678,20 +15675,19 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2018-630 du 17 juillet 2018 - art. 6
 
 _Cite_:
 
-  - Code du patrimoine. - art. R123-1 (V)
-  - Code du patrimoine. - art. R212-91 (V)
+  - Code du patrimoine - art. R123-1
 
 
 ###### Article R1112-6
 
-Le droit de préemption de la Bibliothèque nationale de France à l'égard des archives privées est exercé dans les conditions
-fixées par les articles R. 212-91 et R. 212-92 du code du patrimoine.
+Le droit de préemption de la Bibliothèque nationale de France à l'égard des biens culturels est exercé dans les conditions
+fixées aux articles R. 123-1 à R. 123-8 du code du patrimoine.
 
 **Liens relatifs à cet article**
 
@@ -15699,23 +15695,19 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2018-630 du 17 juillet 2018 - art. 6
 
 _Cite_:
 
-  - Code du patrimoine. - art. R212-91 (V)
+  - Code du patrimoine - art. R123-1
 
 
 ###### Article R1112-7
 
-L'Etat, à la demande et pour le compte des collectivités territoriales, exerce le droit de préemption dans les conditions
-fixées :
-
-1° En ce qui concerne les œuvres d'art, aux articles R. 123-1 à R. 123-8 du code du patrimoine ;
-
-2° En ce qui concerne les archives privées, aux articles R. 212-91 et R. 212-92 du même code.
+L'Etat, à la demande et pour le compte des collectivités territoriales, exerce le droit de préemption à l'égard des biens
+culturels dans les conditions fixées aux articles R. 123-1 à R. 123-8 du code du patrimoine.
 
 **Liens relatifs à cet article**
 
@@ -15723,14 +15715,13 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2018-630 du 17 juillet 2018 - art. 6
 
 _Cite_:
 
-  - Code du patrimoine. - art. R123-1 (V)
-  - Code du patrimoine. - art. R212-91 (V)
+  - Code du patrimoine - art. R123-1
 
 
 #### TITRE II : ACQUISITIONS À TITRE GRATUIT<a id=327></a>
