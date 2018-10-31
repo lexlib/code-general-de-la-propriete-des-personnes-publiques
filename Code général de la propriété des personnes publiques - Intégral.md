@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2018-08-06
+Version Consolidée au 2018-11-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -27397,12 +27397,10 @@ _Cite_:
 
 ###### Article R3211-26
 
-En application de l'article 48 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les
-années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale, jusqu'au 31 décembre
-2019, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu avec publicité et mise en
-concurrence soit par adjudication publique, soit à l'amiable. Lorsqu'elle est réalisée à l'amiable, la cession est précédée
-d'une publicité, adaptée à la nature et à l'importance de l'immeuble dont la cession est envisagée, permettant une mise en
-concurrence, dans les conditions mentionnées aux articles R. 3211-4 et R. 3211-5.
+L'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu avec publicité et mise en
+concurrence, soit par adjudication publique, soit à l'amiable. La cession amiable est précédée d'une publicité, adaptée à la
+nature et à l'importance de l'immeuble dont la cession est envisagée, permettant une mise en concurrence, dans les conditions
+mentionnées aux articles R. 3211-4 et R. 3211-5.
 
 Toutefois, la cession peut être consentie à l'amiable, sans appel à la concurrence dans les cas suivants :
 
@@ -27440,7 +27438,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret du 23 juillet 2015 - art. 1
+  - Décret n°2018-933 du 30 octobre 2018 - art. 1
 
 _Anciens textes_:
 
