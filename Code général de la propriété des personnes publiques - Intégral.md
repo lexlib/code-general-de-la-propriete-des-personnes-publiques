@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2018-11-01
+Version Consolidée au 2018-11-25
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -2718,6 +2718,18 @@ _Cite_:
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. L2122-1-2 (V)
+
+
+###### Article L2122-1-3-1
+
+L'article L. 2122-1-1 n'est pas applicable lorsque le titre d'occupation est destiné à l'installation et à l'exploitation
+d'un réseau de communications électroniques ouvert au public.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 221
 
 
 ###### Article L2122-1-4
@@ -8435,6 +8447,12 @@ réalisation d'opérations d'aménagement ou de construction et pour les cession
 l'article L. 3211-7 lorsqu'elles comptent plus de 50 % de logements sociaux, dans les conditions fixées par décret en Conseil
 d'Etat. Ce décret fixe notamment les règles applicables à l'utilisation des biens cédés.
 
+Les immeubles bâtis et non bâtis qui font partie du domaine privé de l'Etat peuvent être cédés pour contribuer à la mise en
+œuvre des opérations d'aménagement définies à l'article L. 300-1 du code de l'urbanisme dont la réalisation est prévue par un
+contrat de projet partenarial d'aménagement mentionné à l'article L. 312-1 du même code. Ces terrains sont cédés à l'amiable
+à la collectivité territoriale ou à l'établissement public cocontractant à l'initiative de l'opération mentionné au même
+article L. 312-1 ou à l'opérateur désigné dans ce contrat.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -8443,27 +8461,32 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-86 du 27 janvier 2017 - art. 151
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 23
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. L3211-24 (V)
   - Code général de la propriété des personnes publ... - art. R3211-11 (V)
 
+_Cite_:
+
+  - Code de l'urbanisme - art. L300-1
+
 
 ###### Article L3211-7
 
 I. – L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale lorsque ces
-terrains, bâtis ou non, sont destinés à la réalisation de programmes comportant essentiellement des logements dont une partie
+terrains, bâtis ou non, sont destinés à la réalisation de programmes comportant majoritairement des logements dont une partie
 au moins est réalisée en logement social. Pour la part du programme destinée aux logements sociaux, la décote ainsi
 consentie, qui peut atteindre 100 % de la valeur vénale du terrain, est fixée en fonction de la catégorie à laquelle ces
 logements appartiennent. Elle prend notamment en considération les circonstances locales tenant à la situation du marché
 foncier et immobilier, à la situation financière de l'acquéreur du terrain, à la proportion et à la typologie des logements
 sociaux existant sur le territoire de la collectivité considérée et aux conditions financières et techniques de l'opération.
-La décote ne saurait excéder 50 % pour les logements financés en prêts locatifs sociaux et pour les logements en accession à
-la propriété bénéficiant des dispositifs mentionnés au VIII, à l'exception des logements en accession à la propriété en
-Guadeloupe, en Guyane, en Martinique et à La Réunion qui bénéficient d'une aide destinée aux personnes physiques à faibles
-revenus, pour financer l'acquisition de logements évolutifs sociaux.
+La décote ne saurait excéder 50 % pour les logements financés en prêts locatifs sociaux, pour les logements faisant l'objet
+d'un contrat de bail réel solidaire et pour les logements en accession à la propriété bénéficiant des dispositifs mentionnés
+au VIII, à l'exception des logements en accession à la propriété en Guadeloupe, en Guyane, en Martinique et à La Réunion qui
+bénéficient d'une aide destinée aux personnes physiques à faibles revenus, pour financer l'acquisition de logements évolutifs
+sociaux.
 
 Pour les communes qui ne font pas l'objet d'un constat de carence, dans le cadre d'un programme de logements sociaux, dans
 les conditions fixées au présent article, une décote est possible pour la part du programme relative aux équipements publics
@@ -8550,38 +8573,20 @@ différentes de celles prises en compte pour la fixation du prix de cession, le 
 à l'avantage financier indûment consenti.
 
 Lorsque la cession d'un terrain, bâti ou non, du domaine privé de l'Etat s'inscrit dans une opération d'aménagement, au sens
-de l'article L. 300-1 du code de l'urbanisme, qui porte sur un périmètre de plus de cinq hectares, et après accord des
-ministres chargés du logement et du domaine, au vu du rapport transmis par le représentant de l'Etat dans la région, la
-convention conclue entre le représentant de l'Etat dans la région et l'acquéreur peut prévoir une réalisation de l'opération
-par tranches échelonnées sur une durée totale supérieure à cinq ans et permettant chacune un contrôle du dispositif de
-décote, dans les conditions prévues aux troisième et quatrième alinéas du présent V.
+de l'article L. 300-1 du code de l'urbanisme, et après accord des ministres chargés du logement et du domaine, au vu du
+rapport transmis par le représentant de l'Etat dans la région, la convention conclue entre le représentant de l'Etat dans la
+région et l'acquéreur peut prévoir une réalisation de l'opération par tranches échelonnées sur une durée totale supérieure à
+cinq ans dont la première doit être réalisée dans un délai maximal de cinq ans, et permettant chacune un contrôle du
+dispositif de décote, dans les conditions prévues aux troisième et quatrième alinéas du présent V.
 
 La convention peut prévoir, en outre, le droit de réservation d'un contingent plafonné à 10 % des logements sociaux du
 programme, au profit de l'administration qui cède son terrain avec décote, pour le logement de ses agents, au-delà du
 contingent dont dispose l'Etat.
 
-V bis. – L'Etat peut céder à titre onéreux à la société mentionnée au deuxième alinéa du I de l'article 141 de la loi n°
-2006-1771 du 30 décembre 2006 de finances rectificative pour 2006 la propriété de portefeuilles de terrains, bâtis ou non, de
-son domaine privé.
-
-Chacune de ces cessions fait l'objet d'une convention jointe à l'acte d'aliénation, conclue entre le ministre chargé du
-domaine et l'acquéreur, après avis du ministre chargé du logement, et au vu des rapports transmis par les représentants de
-l'Etat dans les régions concernées et de l'avis de la commission nationale mentionnée au VII. Cette convention détermine les
-objectifs du programme de logements à réaliser. Elle peut prévoir une réalisation des opérations sur une durée totale
-supérieure à cinq ans. Elle prévoit les modalités permettant un contrôle de la réalisation des programmes et de l'application
-du dispositif de décote prévu au présent article.
-
-Le prix de cession est déterminé conformément au I. Il fait l'objet d'un versement en deux temps. Au moment de la cession, la
-société mentionnée au premier alinéa du présent V bis verse un acompte correspondant à 40 % de la valeur vénale cumulée des
-actifs du portefeuille. La valeur vénale retenue est la valeur vénale de marché du logement libre. Lors de l'obtention des
-autorisations d'urbanisme, ladite société effectue un second versement pour chaque actif sur le fondement du prix définitif
-arrêté par détermination de la décote prévue au présent article, en prenant en compte le programme de logement réalisé sur le
-bien et les circonstances locales. Si le prix définitif d'un actif est inférieur à 40 % de sa valeur vénale retenue dans le
-calcul de l'acompte, la somme à restituer par l'Etat s'impute sur les sommes que la société doit au titre de l'acquisition
-d'autres actifs du portefeuille.
+V bis. (abrogé)
 
 VI. – Le représentant de l'Etat dans la région, assisté du comité régional de l'habitat, contrôle l'effectivité de toute
-convention annexée à un acte d'aliénation et définie aux V ou V bis du présent article. A cet effet, l'acquéreur des terrains
+convention annexée à un acte d'aliénation et définie au V du présent article. A cet effet, l'acquéreur des terrains
 mentionnés au 2° du II rend compte de l'état d'avancement du programme au comité régional de l'habitat ainsi qu'à la commune
 sur le territoire de laquelle se trouve le terrain cédé. Cette obligation prend fin au jour de la livraison effective du
 programme de logements ou au jour de la résiliation de la convention.
@@ -8634,8 +8639,11 @@ décote prévue au présent article :
 a) Les logements occupés par des titulaires de contrats de location-accession mentionnés au 6° de l'article L. 351-2 du même
 code ;
 
-b) Les logements faisant l'objet d'une opération d'accession dans les conditions définies au huitième alinéa de l'article L.
-411-2 dudit code.
+b) Les logements faisant l'objet d'une opération d'accession dans les conditions définies au dixième alinéa de l'article L.
+411-2 dudit code ;
+
+c) Les logements faisant l'objet d'un contrat de bail réel solidaire en application du chapitre V du titre V du livre II du
+même code.
 
 IX. – Un décret en Conseil d'Etat précise les conditions d'application des I à VII.
 
@@ -8644,7 +8652,7 @@ IX. – Un décret en Conseil d'Etat précise les conditions d'application des I
 _Cite_:
 
   - Loi n°2000-614 du 5 juillet 2000 - art. 1
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 141
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 141 (V)
   - Code de l'action sociale et des familles - art. L345-1
   - Code de l'urbanisme - art. L300-1
   - Code de la construction et de l'habitation. - art. L351-2
@@ -8652,8 +8660,8 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L365-1
   - Code de la construction et de l'habitation. - art. L365-2
   - Code de la construction et de l'habitation. - art. L411-2
-  - Code de la construction et de l'habitation. - art. L443-7
-  - Code de la construction et de l'habitation. - art. L481-1
+  - Code de la construction et de l'habitation. - art. L443-7 (V)
+  - Code de la construction et de l'habitation. - art. L481-1 (V)
   - Code du patrimoine - art. L522-2
 
 _Cité par_:
@@ -8694,40 +8702,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-607 du 13 juillet 2018 - art. 47
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 23
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 24
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 88 (V)
 
 _Anciens textes_:
 
   - Code du domaine de l'Etat - art. L66-2 (Ab)
-
-
-###### Article L3211-7-1
-
-Il est créé en faveur de la société mentionnée au deuxième alinéa du I de l'article 141 de la loi n° 2006-1771 du 30 décembre
-2006 de finances rectificative pour 2006 un droit de priorité sur tout projet de cession d'actifs immobiliers d'une
-superficie de plus de 5 000 mètres carrés appartenant à l'Etat et destinés majoritairement à la réalisation de logements
-sociaux. 
-
-Ce droit de priorité ne peut toutefois être exercé que lorsque le titulaire du droit de priorité défini à l'article L. 240-1
-du code de l'urbanisme ou son délégataire n'a pas fait connaître son intention de se rendre acquéreur des actifs immobiliers
-ayant fait l'objet d'une décision d'intention d'aliéner, dans les conditions et délais définis à l'article L. 240-3 du même
-code.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 141
-  - Code de l'urbanisme - art. L240-1
-  - Code de l'urbanisme - art. L240-3
-
-_Créé par_:
-
-  - Loi n°2017-257 du 28 février 2017 - art. 50
-
-_Abrogé par_:
-
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 24
 
 
 ###### Article L3211-8
@@ -8885,27 +8866,26 @@ _Cite_:
 ###### Article L3211-13-1
 
 I. – Nonobstant les dispositions législatives particulières applicables aux établissements publics de l'Etat et aux sociétés
-mentionnées à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006, les articles L.
-3211-7 et L. 3211-7-1 sont applicables, dans des conditions fixées par décret en Conseil d'Etat, à l'aliénation des terrains,
-bâtis ou non, du domaine privé leur appartenant ou dont la gestion leur a été confiée par la loi.
+mentionnées à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006, l'article L.
+3211-7 est applicable, dans des conditions fixées par décret en Conseil d'Etat, à l'aliénation des terrains, bâtis ou non, du
+domaine privé leur appartenant ou dont la gestion leur a été confiée par la loi.
 
 Le premier alinéa du présent I s'applique aux établissements publics dont la liste est fixée par décret.
 
 Pour les sociétés mentionnées à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006,
-l'ensemble des cessions doit être réalisé en application des articles L. 3211-7 et L. 3211-7-1 du présent code.
+l'ensemble des cessions doit être réalisé en application de l'article L. 3211-7 du présent code.
 
 II. – Les décrets en Conseil d'Etat mentionnés au I du présent article peuvent adapter les modalités de détermination du prix
-de cession prévues aux articles L. 3211-7 et L. 3211-7-1 pour tenir compte de la situation de chaque établissement ou société
-et du volume des cessions envisagées. Ces décrets déterminent les cas dans lesquels les établissements publics ou les
-sociétés mentionnés au I du présent article sont substitués à l'Etat pour l'application des mêmes articles L. 3211-7 et L.
-3211-7-1.
+de cession prévues à l'article L. 3211-7 pour tenir compte de la situation de chaque établissement ou société et du volume
+des cessions envisagées. Ces décrets déterminent les cas dans lesquels les établissements publics ou les sociétés mentionnés
+au I du présent article sont substitués à l'Etat pour l'application de l'article L. 3211-7.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2006-1771 du 30 décembre 2006 - art. 141
-  - Code général de la propriété des personnes publ... - art. L3211-7 (V)
+  - Code général de la propriété des personnes publiques. - art. L3211-7
 
 _Cité par_:
 
@@ -8923,7 +8903,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-257 du 28 février 2017 - art. 50
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 24
 
 
 ##### Paragraphe 3 : Dispositions applicables aux collectivités territoriales, à leurs groupements et à leurs établissements publics.<a id=182></a>
@@ -10248,25 +10228,30 @@ _Anciens textes_:
 
 ###### Article L5112-4
 
-L'Etat peut consentir aux communes et aux organismes ayant pour objet la réalisation d'opérations d'habitat social, après
-déclassement, la cession gratuite à leur profit de terrains dépendant du domaine public maritime de l'Etat. 
+L'Etat peut consentir aux communes, aux organismes ayant pour objet la réalisation d'opérations d'habitat social et, sur
+proposition des communes, aux organismes agréés exerçant les activités mentionnées à l'article L. 365-1 du code de la
+construction et de l'habitation, après déclassement, la cession gratuite à leur profit de terrains dépendant du domaine
+public maritime de l'Etat.
 
 Cette cession gratuite ne peut concerner que des terrains situés dans les espaces urbains et les secteurs occupés par une
-urbanisation diffuse, délimités conformément aux articles L. 5112-1 et L. 5112-2. 
+urbanisation diffuse, délimités conformément aux articles L. 5112-1 et L. 5112-2 du présent code.
 
-Elle doit avoir pour but la réalisation par la commune d'opérations d'aménagement à des fins d'utilité publique ou la
-réalisation par les organismes compétents d'opérations d'habitat social. 
+Elle doit avoir pour but la réalisation par la commune d'opérations d'aménagement à des fins d'utilité publique, la
+réalisation par les organismes compétents d'opérations d'habitat social ou la réalisation, par les organismes agréés
+mentionnés au premier alinéa du présent article, d'activités mentionnées à l'article L. 365-1 du code de la construction et
+de l'habitation.
 
 Toutefois, lorsque les terrains ont été équipés par l'agence pour la mise en valeur des espaces urbains de la zone dite des
 cinquante pas géométriques, la cession est faite au prix correspondant au coût des aménagements réalisés sur les terrains
-cédés, et financés par l'agence. 
+cédés, et financés par l'agence.
 
 Lorsqu'ils n'ont pas été utilisés dans un délai de dix ans à compter de la date de la cession conformément à l'objet qui l'a
 justifiée, les terrains cédés reviennent dans le patrimoine de l'Etat, à charge pour celui-ci de rembourser, le cas échéant,
-aux cessionnaires le coût des aménagements qu'ils auront acquitté. 
+aux cessionnaires le coût des aménagements qu'ils auront acquitté.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les terrains autres que ceux libres de toute occupation
-peuvent être cédés aux communes ou aux organismes d'habitat social.
+peuvent être cédés aux communes, aux organismes d'habitat social ou aux organismes agréés mentionnés au premier alinéa du
+présent article.
 
 **Liens relatifs à cet article**
 
@@ -10282,7 +10267,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 199
 
 _Anciens textes_:
 
@@ -10290,7 +10279,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L5112-1 (V)
+  - Code général de la propriété des personnes publiques. - art. L5112-1
 
 
 ###### Article L5112-4-1
@@ -11404,16 +11393,15 @@ _Anciens textes_:
 ###### Article L5142-1
 
 Dans le département de la Guyane, les immeubles domaniaux compris dans un plan d'occupation des sols opposable aux tiers, un
-plan d'urbanisme approuvé ou un document d'urbanisme en tenant lieu, peuvent faire l'objet : 
+plan d'urbanisme approuvé ou un document d'urbanisme en tenant lieu, peuvent faire l'objet :
 
 1° De concessions gratuites aux collectivités territoriales et à leurs groupements lorsqu'ils sont destinés à être affectés à
 l'aménagement d'équipements collectifs, à la construction de logements à vocation très sociale et locatifs aidés ou à des
-services ou usages publics ; 
+services ou usages publics ;
 
-2° De cessions gratuites aux titulaires des concessions mentionnées au 1° ci-dessus ; 
+2° De cessions gratuites aux titulaires des concessions mentionnées au 1° ci-dessus ;
 
-3° De cessions gratuites aux collectivités territoriales, à leurs groupements ou à un établissement public d'aménagement créé
-en application du chapitre Ier du titre II du livre III du code de l'urbanisme en vue de constituer sur le territoire d'une
+3° De cessions gratuites aux collectivités territoriales ou à leurs groupements en vue de constituer sur le territoire d'une
 commune des réserves foncières dans les conditions fixées aux articles L. 221-1 et L. 221-2 du code de l'urbanisme, à
 condition que les biens soient libres de toute occupation ou ne soient pas confiés en gestion à des tiers. La superficie
 globale cédée en une ou plusieurs fois ne peut excéder sur chaque commune une superficie de référence égale à dix fois la
@@ -11421,11 +11409,14 @@ superficie des parties agglomérées de la commune de situation des biens cédé
 la date de la première cession gratuite. Lorsque les cessions gratuites sont consenties à un autre acquéreur que la commune,
 elles doivent faire l'objet d'un accord préalable de la commune de situation des biens cédés ;
 
+3° bis De cessions gratuites à l'établissement public foncier et d'aménagement de Guyane créé en application de l'article L.
+321-36-1 du même code. Ces cessions doivent faire l'objet d'un accord préalable de la commune de situation des biens cédés ;
+
 4° De cessions gratuites au grand port maritime de la Guyane, pour l'accomplissement de ses missions de service public.
 
 Peuvent également être cédés gratuitement aux collectivités territoriales et à leurs groupements les immeubles dépendant du
 domaine privé de l'Etat dont l'expropriation a été déclarée d'utilité publique en vue de réaliser l'un des objectifs
-mentionnés au 1° ci-dessus. 
+mentionnés au 1° ci-dessus.
 
 Les concessions et cessions mentionnées au présent article peuvent faire l'objet de prescriptions particulières visant à
 préserver l'environnement. Le non-respect de ces prescriptions peut entraîner l'abrogation de l'acte de concession ou de
@@ -11435,8 +11426,7 @@ cession par le représentant de l'Etat dans le département.
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 169 (VT)
-  - Loi n°2015-1268 du 14 octobre 2015 - art. 19
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 25
 
 _Anciens textes_:
 
