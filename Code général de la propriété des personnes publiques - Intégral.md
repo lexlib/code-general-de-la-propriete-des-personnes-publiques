@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2018-11-25
+Version Consolidée au 2018-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -8518,6 +8518,12 @@ et de l'habitation et aux sociétés d'économie mixte mentionnées à l'article
 terrains destinés à des programmes de logements faisant l'objet de conventions régies par le chapitre III du titre V du livre
 III dudit code.
 
+Lorsqu'une collectivité territoriale, un établissement public, une société ou un opérateur mentionnés au 1° du présent II
+dispose de réserves foncières propres et de biens susceptibles de permettre la réalisation d'un programme qui comporte la
+construction de logements sociaux, le taux de la décote est calculé dans la limite d'un plafond établi en considération du
+coût moyen constaté pour la construction de logements sociaux à l'échelle de la commune ou de l'agglomération. Un décret en
+Conseil d'Etat fixe les conditions d'application du présent alinéa.
+
 II bis. - Jusqu'au 31 décembre 2025, la décote prévue aux I et II n'est applicable aux cessions de terrains occupés par le
 ministère des armées et situés dans des zones tendues, en particulier l'Île-de-France et la région Provence-Alpes-Côte
 d'Azur, que lorsque ces terrains, bâtis ou non, sont destinés à la réalisation de programmes de logements sociaux réservés au
@@ -8652,7 +8658,7 @@ IX. – Un décret en Conseil d'Etat précise les conditions d'application des I
 _Cite_:
 
   - Loi n°2000-614 du 5 juillet 2000 - art. 1
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 141 (V)
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 141
   - Code de l'action sociale et des familles - art. L345-1
   - Code de l'urbanisme - art. L300-1
   - Code de la construction et de l'habitation. - art. L351-2
@@ -8660,8 +8666,8 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L365-1
   - Code de la construction et de l'habitation. - art. L365-2
   - Code de la construction et de l'habitation. - art. L411-2
-  - Code de la construction et de l'habitation. - art. L443-7 (V)
-  - Code de la construction et de l'habitation. - art. L481-1 (V)
+  - Code de la construction et de l'habitation. - art. L443-7
+  - Code de la construction et de l'habitation. - art. L481-1
   - Code du patrimoine - art. L522-2
 
 _Cité par_:
@@ -8702,9 +8708,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 23
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 24
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 88 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 274
 
 _Anciens textes_:
 
