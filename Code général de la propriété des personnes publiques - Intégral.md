@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2018-12-31
+Version Consolidée au 2019-05-11
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -26646,10 +26646,10 @@ _Cite_:
 ###### Article R3211-14
 
 La décote prévue à l'article L. 3211-7 peut être appliquée lorsqu'un terrain mentionné à l'article R. 3211-13 est aliéné en
-vue de recevoir au moins 75 % de surface de plancher affectée au logement et comportant des logements locatifs sociaux
+vue de recevoir plus de 50 % de surface de plancher affectée au logement et comportant des logements locatifs sociaux
 mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation, des logements assimilés aux
 logements locatifs sociaux ou des logements en accession à la propriété mentionnés au VIII de l'article L. 3211-7 du présent
-code.
+code ou faisant l'objet d'un bail réel solidaire.
 
 **Liens relatifs à cet article**
 
@@ -26659,7 +26659,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-315 du 15 avril 2013 - art. 1
+  - Décret n°2019-423 du 9 mai 2019 - art. 1
 
 _Anciens textes_:
 
@@ -26697,8 +26697,9 @@ mentionnées à l'article L. 345-1 du code de l'action sociale et des familles ;
 social ;
 
 3° Catégorie 3 : les logements locatifs ou les résidences de logement pour étudiants financés en prêt locatif social, les
-logements occupés par les titulaires de contrats de location-accession et ceux faisant l'objet d'une opération d'accession
-mentionnés au VIII de l'article L. 3211-7.
+logements occupés par les titulaires de contrats de location-accession, les logements faisant l'objet d'un bail réel
+solidaire lorsqu'ils ne font pas partie des catégories 1 ou 2 mentionnées au 1° et au 2° du présent II et ceux faisant
+l'objet d'une opération d'accession mentionnés au VIII de l'article L. 3211-7.
 
 III. – Dans les limites fixées au IV, la décote est d'autant plus élevée que les critères suivants sont satisfaits :
 
@@ -26825,7 +26826,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1160 du 25 août 2016 - art. 3
+  - Décret n°2019-423 du 9 mai 2019 - art. 2
 
 _Anciens textes_:
 
@@ -26938,24 +26939,24 @@ _Cite_:
 ###### Article R3211-17-1
 
 La personne qui souhaite acquérir un terrain du domaine privé de l'Etat éligible à la décote prévue à l'article L. 3211-7
-adresse un dossier de demande au préfet du département du lieu de situation de ce terrain. Ce dossier comporte : 
+adresse un dossier de demande au préfet du département du lieu de situation de ce terrain. Ce dossier comporte :
 
 1° Le programme à réaliser sur ce terrain et indiquant la surface de plancher totale de logements, la surface de plancher
 affectée à chaque catégorie de logements mentionnée au II de l'article R. 3211-15, le cas échéant, la surface de plancher
-d'équipements publics et la liste de ces équipements, ainsi que la surface de plancher de tout autre élément du programme ; 
+d'équipements publics et la liste de ces équipements, ainsi que la surface de plancher de tout autre élément du programme ;
 
 2° Une estimation du prix de revient des logements locatifs sociaux ou assimilés réalisée aux conditions économiques en
 vigueur à la date de remise de la proposition de prix ainsi que du prix de vente des logements en accession à la propriété
-mentionnés au VIII de l'article L. 3211-7 ; 
+mentionnés au VIII de l'article L. 3211-7 ou faisant l'objet d'un bail réel solidaire ;
 
 3° Un plan de financement de la part du programme destinée aux logements mentionnés au II de l'article R. 3211-15 précisant
-les contributions financières attendues de l'Etat et, le cas échéant, d'autres financeurs ; 
+les contributions financières attendues de l'Etat et, le cas échéant, d'autres financeurs ;
 
 4° Un échéancier prévisionnel détaillé de l'opération qui indique les conditions dans lesquelles l'obligation de réalisation
-du programme dans un délai de cinq ans sera respectée ; 
+du programme dans un délai de cinq ans sera respectée ;
 
 5° Le cas échéant, les éléments nécessaires à l'application d'une décote pour la part du programme consacrée aux équipements
-publics dans les conditions prévues à l'article R. 3211-17. 
+publics dans les conditions prévues à l'article R. 3211-17.
 
 Lorsque le candidat acquéreur n'est pas une personne bénéficiant des subventions et prêts prévus à l'article R. 331-14 du
 code de la construction et de l'habitation, le dossier précise en outre les conditions et modalités générales du transfert au
@@ -26965,7 +26966,7 @@ bailleur des logements sociaux ou des droits et obligations afférents aux logem
 
 _Modifié par_:
 
-  - Décret n°2016-1160 du 25 août 2016 - art. 6
+  - Décret n°2019-423 du 9 mai 2019 - art. 3
 
 _Cité par_:
 
@@ -27683,16 +27684,16 @@ _Cite_:
 ###### Article R3211-32-2
 
 La décote prévue à l'article L. 3211-7 peut être appliquée lorsqu'un terrain mentionné à l'article R. 3211-32-1 est aliéné en
-vue de recevoir au moins 75 % de surface de plancher affectée au logement et comportant des logements locatifs sociaux
+vue de recevoir plus de 50 % de surface de plancher affectée au logement et comportant des logements locatifs sociaux
 mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation, des logements assimilés aux
 logements locatifs sociaux ou des logements en accession à la propriété mentionnés au VIII de l'article L. 3211-7 du présent
-code.
+code ou faisant l'objet d'un bail réel solidaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-936 du 18 octobre 2013 - art. 1
+  - Décret n°2019-423 du 9 mai 2019 - art. 4
 
 _Cité par_:
 
