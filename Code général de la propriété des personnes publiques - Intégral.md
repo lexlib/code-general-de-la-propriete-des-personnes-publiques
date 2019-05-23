@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2019-05-11
+Version Consolidée au 2019-05-24
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -7731,7 +7731,7 @@ _Cite_:
 
 ###### Article L2341-1
 
-I. – Un bien immobilier appartenant à l'Etat ou à un établissement public mentionné au onzième alinéa de l'article L. 710-1
+I. – Un bien immobilier appartenant à l'Etat ou à un établissement public mentionné au treizième alinéa de l'article L. 710-1
 du code de commerce, au premier alinéa de l'article 5-1 du code de l'artisanat ou à l'article L. 510-1 du code rural et de la
 pêche maritime peut faire l'objet d'un bail emphytéotique prévu à l'article L. 451-1 du même code, en vue de sa restauration,
 de sa réparation ou de sa mise en valeur. Ce bail est dénommé bail emphytéotique administratif.
@@ -7789,14 +7789,13 @@ _Cite_:
   - Ordonnance n°2015-899 du 23 juillet 2015
   - Ordonnance n°2016-65 du 29 janvier 2016
   - Code de commerce - art. L710-1
-  - Code général de la propriété des personnes publ... - art. L2122-1-1 (V)
+  - Code général de la propriété des personnes publiques. - art. L2122-1-1
   - Code rural - art. L451-1
   - Code rural - art. L510-1
 
-_Modifié par_:
+_Abrogé par_:
 
-  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 101 (VT)
-  - Ordonnance n°2017-562 du 19 avril 2017 - art. 6
+  - Loi n°2019-486 du 22 mai 2019 - art. 40 (V)
 
 
 ###### Article L2341-2
