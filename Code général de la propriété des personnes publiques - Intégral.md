@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2019-07-01
+Version Consolidée au 2019-07-27
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -6341,14 +6341,14 @@ _Cite_:
 
 Les biens mobiliers dont, à l'occasion d'une procédure pénale, la propriété a été transférée à l'Etat suite à une décision
 judiciaire définitive peuvent être affectés, à titre gratuit, dans les conditions déterminées par arrêté interministériel, à
-des services de police, des unités de gendarmerie ou des services de l'administration des douanes lorsque ces services ou
-unités effectuent des missions de police judiciaire.
+des services de police, des unités de gendarmerie, des services de l'administration des douanes ou des services de l'Office
+français de la biodiversité lorsque ces services ou unités effectuent des missions de police judiciaire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
 
 _Cité par_:
 
@@ -6357,6 +6357,10 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L5532-1 (V)
   - Code général de la propriété des personnes publ... - art. L5732-2 (V)
   - Code général de la propriété des personnes publ... - art. R3211-35 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-773 du 24 juillet 2019 - art. 4
 
 _Anciens textes_:
 
