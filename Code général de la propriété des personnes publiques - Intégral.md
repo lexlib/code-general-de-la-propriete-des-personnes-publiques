@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2019-07-27
+Version Consolidée au 2019-07-29
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -22343,10 +22343,11 @@ _Modifié par_:
 
 ###### Article R2124-70
 
-Le directeur départemental des finances publiques est compétent pour déterminer la redevance prévue à l'article R. 2124-68 et
-pour la réviser ou la modifier. 
+Le directeur départemental des finances publiques ou l'autorité militaire, lorsque l'immeuble est mis à disposition du
+ministère de la défense est compétent pour déterminer la redevance prévue à l'article R. 2124-68 et pour la réviser ou la
+modifier.
 
-La redevance due commence à courir à compter de la date de l'occupation des locaux. 
+La redevance due commence à courir à compter de la date de l'occupation des locaux.
 
 La redevance et, s'il y a lieu, les remboursements à la charge de l'occupant font l'objet d'un précompte mensuel, dans des
 conditions définies par arrêté du ministre chargé du budget, sur la rémunération de l'agent bénéficiaire.
@@ -22359,7 +22360,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-752 du 9 mai 2012 - art. 1
+  - Décret n°2019-793 du 26 juillet 2019 - art. 1
 
 _Anciens textes_:
 
@@ -22562,21 +22563,30 @@ d'autorisations d'occupation précaire en vue de fournir un logement à ses agen
 de ce logement ne soit liée à des considérations de service. Dans ce cas, une redevance est mise à la charge de l'agent. Elle
 est égale, sauf disposition spéciale liée à l'usage social de l'immeuble, à la valeur locative réelle des locaux occupés,
 déduction faite d'un abattement de 15 % destiné à tenir compte de la précarité de l'occupation mentionnée dans
-l'autorisation.
+l'autorisation. 
+
+Le taux de l'abattement mentionné à l'alinéa précédent peut être porté jusqu'à 50 % pour les militaires ainsi que pour les
+agents civils en activité au sein du ministère de la défense et des établissements publics placés sous sa tutelle, occupant
+un immeuble mis à disposition du ministère de la défense. Un arrêté conjoint du ministre de la défense et du ministre chargé
+du domaine établit un classement du territoire national en zones géographiques en tenant compte du déséquilibre entre l'offre
+et la demande de logements et définit le taux d'abattement applicable à chacune de ces zones. Pour l'application du présent
+alinéa, la valeur locative réelle des locaux occupés est fixée par l'autorité militaire, par dérogation à l'article R.
+2125-1.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2012-752 du 9 mai 2012 - art. 3
 
 _Cité par_:
 
   - Décret n°2012-752 du 9 mai 2012 - art. 8 (V)
 
+_Modifié par_:
+
+  - Décret n°2019-793 du 26 juillet 2019 - art. 2
+
 _Cite_:
 
   - Code général de la propriété des personnes publiques. - art. R2124-64
+  - Code général de la propriété des personnes publiques. - art. R2125-1
 
 
 ##### Chapitre V : Dispositions financières<a id=406></a>
@@ -23366,21 +23376,30 @@ Sans préjudice des dispositions de l'article R. 2222-18, les immeubles du domai
 baux en vue de fournir un logement à ses agents civils et militaires sans que l'occupation de ce logement ne soit liée à des
 considérations de service. Dans ce cas, un loyer est mis à la charge de l'agent. Il est égal, sauf disposition spéciale liée
 à l'usage social de l'immeuble, à la valeur locative réelle des locaux occupés, déduction faite d'un abattement de 15 %
-destiné à tenir compte de la précarité de l'occupation mentionnée dans le bail.
+destiné à tenir compte de la précarité de l'occupation mentionnée dans le bail. 
+
+Le taux de l'abattement mentionné à l'alinéa précédent peut être porté jusqu'à 50 % pour les militaires ainsi que pour les
+agents civils en activité au sein du ministère de la défense et des établissements publics placés sous sa tutelle, occupant
+un immeuble mis à disposition du ministère de la défense. Un arrêté conjoint du ministre de la défense et du ministre chargé
+du domaine établit un classement du territoire national en zones géographiques en tenant compte du déséquilibre entre l'offre
+et la demande de logements et définit le taux d'abattement applicable à chacune de ces zones. Pour l'application du présent
+alinéa, la valeur locative réelle des locaux occupés est fixée par l'autorité militaire, par dérogation à l'article R.
+2222-1.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2012-752 du 9 mai 2012 - art. 4
 
 _Cité par_:
 
   - Décret n°2012-752 du 9 mai 2012 - art. 8 (V)
   - Code général de la propriété des personnes publ... - art. R5211-1 (V)
 
+_Modifié par_:
+
+  - Décret n°2019-793 du 26 juillet 2019 - art. 3
+
 _Cite_:
 
+  - Code général de la propriété des personnes publiques. - art. R2222-1
   - Code général de la propriété des personnes publiques. - art. R2222-18
 
 
