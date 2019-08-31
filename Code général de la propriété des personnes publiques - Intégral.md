@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2019-07-29
+Version Consolidée au 2019-09-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -8515,7 +8515,7 @@ présent III et du montant de la décote consentie.
 
 IV. – Pour les programmes ayant bénéficié de la cession d'un terrain avec une décote dans les conditions du présent article :
 
-1° Les conventions mentionnées à l'article L. 351-2 du code de la construction et de l'habitation sont d'une durée au moins
+1° Les conventions mentionnées à l'article L. 831-1 du code de la construction et de l'habitation sont d'une durée au moins
 égale à vingt ans. Cette durée ne peut être inférieure à la période restant à courir pour l'amortissement du prêt. Le
 remboursement anticipé du prêt n'a pas d'incidence sur la durée de la convention ;
 
@@ -8585,7 +8585,7 @@ logements sociaux. Le décret en Conseil d'Etat prévu au IX précise sa composi
 décision.
 
 VIII. – Pour l'application du présent article, sont assimilés aux logements locatifs mentionnés aux 3° et 5° de l'article L.
-351-2 du code de la construction et de l'habitation :
+831-1 du code de la construction et de l'habitation :
 
 1° Les structures d'hébergement temporaire ou d'urgence bénéficiant d'une aide de l'Etat ;
 
@@ -8605,7 +8605,7 @@ aide destinée aux personnes physiques à faibles revenus, pour financer l'acqui
 Outre les logements locatifs sociaux et assimilés mentionnés aux alinéas précédents, sont pris en compte pour le calcul de la
 décote prévue au présent article :
 
-a) Les logements occupés par des titulaires de contrats de location-accession mentionnés au 6° de l'article L. 351-2 du même
+a) Les logements occupés par des titulaires de contrats de location-accession mentionnés au 6° de l'article L. 831-1 du même
 code ;
 
 b) Les logements faisant l'objet d'une opération d'accession dans les conditions définies au dixième alinéa de l'article L.
@@ -8667,7 +8667,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 274
+  - Ordonnance n°2019-770 du 17 juillet 2019 - art. 8
 
 _Anciens textes_:
 
@@ -26578,7 +26578,7 @@ _Cite_:
 
 La décote prévue à l'article L. 3211-7 peut être appliquée lorsqu'un terrain mentionné à l'article R. 3211-13 est aliéné en
 vue de recevoir plus de 50 % de surface de plancher affectée au logement et comportant des logements locatifs sociaux
-mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation, des logements assimilés aux
+mentionnés aux 3° et 5° de l'article    L. 831-1 du code de la construction et de l'habitation, des logements assimilés aux
 logements locatifs sociaux ou des logements en accession à la propriété mentionnés au VIII de l'article L. 3211-7 du présent
 code ou faisant l'objet d'un bail réel solidaire.
 
@@ -26590,7 +26590,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-423 du 9 mai 2019 - art. 1
+  - Décret n°2019-772 du 24 juillet 2019 - art. 10
 
 _Anciens textes_:
 
@@ -26604,7 +26604,6 @@ _Cité par_:
 _Cite_:
 
   - Code général de la propriété des personnes publiques. - art. L3211-7
-  - Code de la construction et de l'habitation. - art. L351-2
 
 
 ###### Article R3211-15
@@ -26613,56 +26612,56 @@ I. – Pour l'application du I de l'article L. 3211-7, la décote est accordée 
 l'opération. A cet effet, un taux et un montant de décote sont calculés pour chacune des catégories de logements mentionnées
 au II prévues dans le programme de logements, en prenant en compte les circonstances locales définies au III et au IV, ainsi
 que la part du programme correspondant à chaque catégorie, selon les modalités prévues au V. Le taux global et le montant
-total de décote sur la valeur vénale du terrain cédé sont déterminés selon les dispositions du VI.
+total de décote sur la valeur vénale du terrain cédé sont déterminés selon les dispositions du VI. 
 
-II. – Les catégories de logements pour lesquelles une décote peut être consentie sont les suivantes :
+II. – Les catégories de logements pour lesquelles une décote peut être consentie sont les suivantes : 
 
 1° Catégorie 1 : les logements locatifs financés en prêt locatif aidé d'intégration, les structures d'hébergement temporaire
 ou d'urgence bénéficiant d'une aide de l'Etat, les aires permanentes d'accueil des gens du voyage mentionnées au premier
 alinéa du II de l'article 1er de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage,
-les logements-foyers dénommés résidences sociales, conventionnés dans les conditions définies au 5° de l'article L. 351-2 du
-code de la construction et de l'habitation ainsi que les places des centres d'hébergement et de réinsertion sociale
-mentionnées à l'article L. 345-1 du code de l'action sociale et des familles ;
+les logements-foyers dénommés résidences sociales, conventionnés dans les conditions définies au 5° de l'article    L. 831-1
+du code de la construction et de l'habitation ainsi que les places des centres d'hébergement et de réinsertion sociale
+mentionnées à l'article L. 345-1 du code de l'action sociale et des familles ; 
 
 2° Catégorie 2 : les logements locatifs ou les résidences de logement pour étudiants financés en prêt locatif à usage
-social ;
+social ; 
 
 3° Catégorie 3 : les logements locatifs ou les résidences de logement pour étudiants financés en prêt locatif social, les
 logements occupés par les titulaires de contrats de location-accession, les logements faisant l'objet d'un bail réel
 solidaire lorsqu'ils ne font pas partie des catégories 1 ou 2 mentionnées au 1° et au 2° du présent II et ceux faisant
-l'objet d'une opération d'accession mentionnés au VIII de l'article L. 3211-7.
+l'objet d'une opération d'accession mentionnés au VIII de l'article L. 3211-7. 
 
-III. – Dans les limites fixées au IV, la décote est d'autant plus élevée que les critères suivants sont satisfaits :
+III. – Dans les limites fixées au IV, la décote est d'autant plus élevée que les critères suivants sont satisfaits : 
 
 1° L'existence d'une forte tension du marché foncier et immobilier qui s'apprécie principalement au regard du déséquilibre
 entre l'offre et la demande de logements dans la commune et de l'écart, sur le marché local, entre les charges foncières pour
-le logement libre et les charges foncières pour les différentes catégories de logements ;
+le logement libre et les charges foncières pour les différentes catégories de logements ; 
 
 2° L'insuffisance du financement du programme de logements pour en assurer l'équilibre, compte tenu des capacités financières
 de l'acquéreur et des aides et subventions dont le programme peut bénéficier ; en fonction de la nature de l'acquéreur, ses
 capacités financières s'apprécient, notamment, au regard du potentiel financier de la collectivité ou de l'établissement
 public de coopération intercommunale, des ressources de l'opérateur d'aménagement ou des fonds propres de l'opérateur en
-charge des logements ;
+charge des logements ; 
 
 3° La contribution du programme de logements à la réalisation des objectifs assignés, le cas échéant, à la commune, en
-application des dispositions de l'article L. 302-5 du code de la construction et de l'habitation ;
+application des dispositions de l'article L. 302-5 du code de la construction et de l'habitation ; 
 
 4° La contribution du programme de logements à la réponse aux besoins de la commune pour chaque catégorie de logements,
-notamment dans un objectif d'amélioration de la mixité sociale et de densification urbaine ;
+notamment dans un objectif d'amélioration de la mixité sociale et de densification urbaine ; 
 
 5° L'existence de difficultés techniques particulières pesant sur la réalisation du programme de logements, notamment au
-regard des contraintes de dépollution du terrain à céder.
+regard des contraintes de dépollution du terrain à céder. 
 
 IV. – Pour chaque catégorie de logements et en fonction des circonstances locales prises en considération, le taux de décote
 est fixé à l'intérieur des fourchettes établies ci-dessous, qui tiennent compte de la zone géographique mentionnée par
 l'article R. 304-1 du code de la construction et de l'habitation dans laquelle se situe la commune de situation du terrain
-aliéné :
+aliéné : 
 
 <table border="1">
   <tbody>
     <tr>
-      <th> </th>
       <th>
+      </th><th>
 
 ZONE C</th>
       <th>
@@ -26678,13 +26677,13 @@ ZONES A ET B1</th>
 Catégorie 1</td>
       <td align="center">
 
-Entre 0 et 50 %</td>
+Entre 0 et 50 % </td>
       <td align="center">
 
-Entre 0 et 75 %</td>
+Entre 0 et 75 % </td>
       <td align="center">
 
-Entre 0 et 100 %</td>
+Entre 0 et 100 % </td>
     </tr>
     <tr>
       <td align="center">
@@ -26692,13 +26691,13 @@ Entre 0 et 100 %</td>
 Catégorie 2</td>
       <td align="center">
 
-Entre 0 et 35 %</td>
+Entre 0 et 35 % </td>
       <td align="center">
 
-Entre 0 et 50 %</td>
+Entre 0 et 50 % </td>
       <td align="center">
 
-Entre 0 et 75 %</td>
+Entre 0 et 75 % </td>
     </tr>
     <tr>
       <td align="center">
@@ -26706,13 +26705,13 @@ Entre 0 et 75 %</td>
 Catégorie 3</td>
       <td align="center">
 
-Entre 0 et 25 %</td>
+Entre 0 et 25 % </td>
       <td align="center">
 
-Entre 0 et 35 %</td>
+Entre 0 et 35 % </td>
       <td align="center">
 
-Entre 0 et 50 %</td>
+Entre 0 et 50 % </td>
     </tr>
   </tbody>
 </table>
@@ -26720,7 +26719,7 @@ Entre 0 et 50 %</td>
 V. – Pour chaque catégorie de logements, le taux de décote est pondéré par le rapport entre la surface de plancher affectée à
 la catégorie de logements considérée et la surface totale de plancher du programme auquel est destiné le terrain aliéné. Le
 taux ainsi pondéré est ensuite appliqué à la valeur vénale du terrain pour obtenir le montant de la décote accordée par
-catégorie de logements.
+catégorie de logements. 
 
 VI. – Le montant total de la décote accordée sur la valeur vénale du terrain aliéné est égal à la somme des montants de
 décote consentis par catégorie de logements. Le taux global de cette décote est égal au rapport entre le montant total de la
@@ -26756,7 +26755,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-423 du 9 mai 2019 - art. 2
+  - Décret n°2019-772 du 24 juillet 2019 - art. 10
 
 _Anciens textes_:
 
@@ -27615,7 +27614,7 @@ _Cite_:
 
 La décote prévue à l'article L. 3211-7 peut être appliquée lorsqu'un terrain mentionné à l'article R. 3211-32-1 est aliéné en
 vue de recevoir plus de 50 % de surface de plancher affectée au logement et comportant des logements locatifs sociaux
-mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation, des logements assimilés aux
+mentionnés aux 3° et 5° de l'article    L. 831-1 du code de la construction et de l'habitation, des logements assimilés aux
 logements locatifs sociaux ou des logements en accession à la propriété mentionnés au VIII de l'article L. 3211-7 du présent
 code ou faisant l'objet d'un bail réel solidaire.
 
@@ -27623,7 +27622,7 @@ code ou faisant l'objet d'un bail réel solidaire.
 
 _Modifié par_:
 
-  - Décret n°2019-423 du 9 mai 2019 - art. 4
+  - Décret n°2019-772 du 24 juillet 2019 - art. 10
 
 _Cité par_:
 
@@ -27632,7 +27631,6 @@ _Cité par_:
 _Cite_:
 
   - Code général de la propriété des personnes publiques. - art. L3211-7
-  - Code de la construction et de l'habitation. - art. L351-2
 
 
 ###### Article R3211-32-3
