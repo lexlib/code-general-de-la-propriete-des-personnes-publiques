@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2019-11-29
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -410,9 +410,9 @@ Version Consolidée au 2019-09-01
             - [Section 1 : Dispositions générales (art. R2125-1 à R2125-6)](#407)
             - [Section 2 : Dispositions particulières au domaine public fluvial (art. R2125-7 à R2125-13)](#408)
             - [Section 3 : Dispositions particulières à certaines occupations (art. R2125-14 à R2125-16)](#409)
-        - [TITRE III : PROTECTION DU DOMAINE PUBLIC (art. R2132-1)](#410)
-          - [Chapitre II : Police de la conservation (art. R2132-1)](#411)
-            - [Section 1 : Contraventions de voirie routière (art. R2132-1)](#412)
+        - [TITRE III : PROTECTION DU DOMAINE PUBLIC (art. R2132-1 à R2132-5)](#410)
+          - [Chapitre II : Police de la conservation (art. R2132-1 à R2132-5)](#411)
+            - [Section 1 : Contraventions de voirie routière (art. R2132-1 à R2132-5)](#412)
         - [TITRE IV : SORTIE DES BIENS DU DOMAINE PUBLIC (art. D2141-1 à R2142-3)](#413)
           - [Chapitre Ier : Règles générales (art. D2141-1)](#414)
           - [Chapitre II : Règles particulières au domaine public fluvial (art. R2142-1 à R2142-3)](#415)
@@ -23257,6 +23257,102 @@ _Créé par_:
 _Cite_:
 
   - Code de la voirie routière - art. R*116-1 (V)
+
+
+###### Article R2132-2
+
+Les personnels de Voies navigables de France, mentionnés à l'article L. 2132-23, compétents pour constater les contraventions
+de grande voirie définies aux articles L. 2132-5 à L. 2132-10, L. 2132-16 et L. 2132-17 sont commissionnés, de manière
+individuelle, par le directeur général de Voies navigables de France et assermentés devant le tribunal de grande instance
+dans les conditions prévues par les articles R. 2132-3 à R. 2132-5. 
+
+Le directeur général de Voies navigables de France peut déléguer ses pouvoirs en matière de commissionnement aux directeurs
+des services territoriaux de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1232 du 26 novembre 2019 - art. 4
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L2132-10
+  - Code général de la propriété des personnes publiques. - art. L2132-16
+  - Code général de la propriété des personnes publiques. - art. L2132-17
+  - Code général de la propriété des personnes publiques. - art. L2132-23
+  - Code général de la propriété des personnes publiques. - art. L2132-5
+  - Code général de la propriété des personnes publiques. - art. R2132-3
+  - Code général de la propriété des personnes publiques. - art. R2132-5
+
+
+###### Article R2132-3
+
+Pour délivrer le commissionnement, le directeur général de Voies navigables de France vérifie que l'agent présente les
+capacités et les garanties requises au regard des missions qui lui sont confiées. Il tient compte notamment de l'affectation
+de l'agent, de son niveau de formation et de son expérience professionnelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1232 du 26 novembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code général de la propriété des personnes publ... - art. R2132-2 (V)
+  - Code général de la propriété des personnes publ... - art. R2132-5 (V)
+
+
+###### Article R2132-4
+
+Les personnels de Voies navigables de France mentionnés à l'article L. 2132-23 ne peuvent entrer en fonctions qu'après avoir
+prêté serment devant le tribunal de grande instance de leur résidence administrative. 
+
+La formule du serment est la suivante : “ Je jure et promets de bien et loyalement remplir mes fonctions et d'observer en
+tout les devoirs qu'elles m'imposent. Je jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance
+à l'occasion de l'exercice de mes fonctions ”. 
+
+Un titre de commissionnement est délivré à l'agent qui a prêté serment. Il porte mention de la prestation de serment apposée
+par le greffier du tribunal de grande instance qui reçoit le serment. La prestation de serment n'est pas à renouveler en cas
+de changement du lieu d'affectation du commissionné dès lors que sa résidence administrative demeure dans le ressort
+territorial du tribunal où il a prêté serment. 
+
+Le commissionnement fixe le ressort territorial dans lequel l'agent exerce ses fonctions, lorsque celui-ci excède le ressort
+de son service d'affectation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1232 du 26 novembre 2019 - art. 4
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L2132-23
+
+
+###### Article R2132-5
+
+Le commissionnement prend fin de plein droit lorsque son titulaire n'exerce plus les fonctions à raison desquelles il a été
+commissionné. Il peut également être retiré soit pour des raisons de service, soit parce que le titulaire ne remplit plus les
+conditions fixées à l'article R. 2132-3, soit en raison de son comportement dans l'exercice de ses fonctions. Dans ce dernier
+cas, l'intéressé est préalablement informé des motifs et de la nature de la mesure envisagée et mis à même de présenter des
+observations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1232 du 26 novembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code général de la propriété des personnes publ... - art. R2132-2 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. R2132-3
 
 
 #### TITRE IV : SORTIE DES BIENS DU DOMAINE PUBLIC<a id=413></a>
