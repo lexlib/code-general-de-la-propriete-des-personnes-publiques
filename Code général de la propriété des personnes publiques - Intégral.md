@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2019-11-29
+Version Consolidée au 2019-12-27
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -2139,13 +2139,10 @@ _Cite_:
 ###### Article L2111-7
 
 Le domaine public fluvial naturel est constitué des cours d'eau et lacs appartenant à l'Etat, à ses établissements publics,
-aux collectivités territoriales ou à leurs groupements, et classés dans leur domaine public fluvial.
+aux syndicats mixtes constitués sur le fondement de l'article L. 5721-2 du code général des collectivités territoriales, aux
+collectivités territoriales ou à leurs groupements, et classés dans leur domaine public fluvial.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006
 
 _Cité par_:
 
@@ -2160,14 +2157,22 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L5461-1 (V)
   - Code rural - art. L924-2 (V)
 
-_Modifié par_:
-
-  - Loi n°2015-991 du 7 août 2015 - art. 22 (V)
-
 _Anciens textes_:
 
   - Code du domaine public fluvial et de la navigation intérieure art. 1 al 1 à 9
   - Code du domaine public fluvial et de la navigation intérieure art. 1-1 al 1
+
+_Codifié par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 149
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L5721-2
 
 
 ###### Article L2111-8
@@ -8090,6 +8095,23 @@ _Modifié par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 879
+
+
+###### Article L3113-1-1
+
+Pour la mise en œuvre de l'article L. 3113-1 du présent code et de l'article L. 5721-6-1 du code général des collectivités
+territoriales, Voies navigables de France peut bénéficier de la part de l'Etat d'un transfert de propriété du domaine public
+fluvial qui lui est confié.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 149
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L5721-6-1
 
 
 ###### Article L3113-2
