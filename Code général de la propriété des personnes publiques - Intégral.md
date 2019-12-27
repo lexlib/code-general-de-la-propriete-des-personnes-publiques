@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2019-12-27
+Version Consolidée au 2019-12-28
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -27019,6 +27019,70 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R148-7 (Ab)
 
 
+###### Article R3211-15-1
+
+I.-Pour l'application du dernier alinéa du II de l'article L. 3211-7, le taux de décote défini au VI de l'article R. 3211-15
+appliqué aux opérations comprenant une part de logements sociaux est plafonné de façon à ce que le montant global de la
+décote rapporté à la surface totale de plancher des logements sociaux du programme ne puisse excéder les valeurs suivantes :
+
+1° 1 000 €/ m2 si le coût moyen hors taxes mentionné au II de l'article L. 3211-7 est inférieur à 2 500 €/ m2 de surface
+utile ;
+
+2° 1 400 €/ m2 si le coût moyen hors taxes mentionné au II de l'article L. 3211-7 est compris entre 2 500 et 3 000 €/ m2 de
+surface utile ;
+
+3° 2 000 €/ m2 si le coût moyen hors taxes mentionné au II de l'article L. 3211-7 est supérieur à 3 000 €/ m2 de surface
+utile.
+
+La surface utile est celle définie à l'article D. 331-10 du code de la construction et de l'habitation.
+
+II.-Le coût moyen constaté pour la construction de logements sociaux correspond au coût moyen au mètre carré de surface utile
+des opérations de construction de logements sociaux sur les cinq dernières années, situées sur le territoire de la commune où
+se situe le terrain. Si le nombre d'opérations est inférieur à trois, ce coût moyen est calculé sur le territoire de
+l'établissement public de coopération intercommunale ou, à défaut, sur le périmètre de l'agglomération au sens de l'article
+R. 2334-7 du code général des collectivités territoriales.
+
+III.-Les réserves foncières propres ou les biens susceptibles de permettre la réalisation d'un programme mentionnés au
+dernier alinéa du II de l'article L. 3211-7 sont ceux susceptibles de permettre la réalisation d'un programme de logements
+sociaux d'une surface de plancher au moins égale à la surface de plancher totale des logements sociaux du programme envisagé
+par le demandeur.
+
+Par dérogation à l'alinéa précédent, lorsque le programme comporte plus de cent logements sociaux, peuvent être considérés
+comme des réserves foncières propres ou des biens répondant aux conditions mentionnées au même alinéa un ensemble d'au
+maximum deux réserves foncières ou biens dont les capacités de constructibilité additionnées peuvent permettre la réalisation
+d'un programme de logements sociaux d'une surface de plancher au moins égale à la surface de plancher totale des logements
+sociaux du programme envisagé par le demandeur.
+
+Les réserves foncières et les biens à prendre en considération sont situés sur le territoire de la commune où se situe le
+terrain. Ils doivent être constructibles et libres d'occupation non précaire au moment de la réalisation du programme
+envisagé par le demandeur.
+
+La constructibilité des réserves foncières et des biens résulte de l'application des règles d'urbanisme en vigueur au moment
+de l'envoi par le préfet du dossier mentionné au premier alinéa et applicables à l'unité foncière pour la réalisation
+d'opérations de logements.
+
+Ne sont pas pris en considération les terrains situés dans le périmètre des quartiers prioritaires de la politique de la
+ville mentionnés à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion
+urbaine.
+
+IV.-L'indisponibilité de réserves foncières propres ou de biens mentionnés au dernier alinéa du II de l'article L. 3211-7 est
+établie par une attestation produite par la commune, par l'établissement public de coopération intercommunale ou, le cas
+échéant, par la métropole de Lyon, et par chaque société ou opérateur mentionnés au 1° du même II agissant sur le territoire
+de la commune. Ces attestations sont transmises au préfet à sa demande.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2014-173 du 21 février 2014 - art. 5
+  - Code général des collectivités territoriales - art. R2334-7
+  - Code de la construction et de l'habitation. - art. D331-10
+
+_Créé par_:
+
+  - Décret n°2019-1460 du 26 décembre 2019 - art. 1
+
+
 ###### Article R3211-16
 
 I. – La liste mentionnée au 2° du II de l'article L. 3211-7 énumère des terrains destinés à être cédés pour des programmes de
@@ -27180,7 +27244,9 @@ partie aux occupants de ces logements.
 II. – Le préfet de département adresse au directeur départemental des finances publiques un dossier comprenant, outre les
 éléments mentionnés à l'article R. 3211-17-1, un document précisant les conditions financières de réalisation de ce programme
 ainsi que, selon le cas, l'impact attendu de la répercussion intégrale de la décote sur le prix de revient des logements
-locatifs sociaux et assimilés ou sur le prix de cession des logements en accession à la propriété.
+locatifs sociaux et assimilés ou sur le prix de cession des logements en accession à la propriété. Ce document précise
+également s'il y a lieu d'appliquer le plafonnement de la décote défini au dernier alinéa du II de l'article L. 3211-7 et,
+dans ce cas, le coût moyen constaté pour la construction de logements sociaux.
 
 III. – Le montant de la décote sur la valeur vénale du terrain à céder est fixé par le directeur départemental des finances
 publiques, sur la base des éléments transmis par le préfet de département.
@@ -27194,7 +27260,7 @@ V. – L'acte d'aliénation est signé par le préfet de département.
 
 _Modifié par_:
 
-  - Décret n°2016-1160 du 25 août 2016 - art. 7
+  - Décret n°2019-1460 du 26 décembre 2019 - art. 2
 
 _Cite_:
 
@@ -27997,11 +28063,14 @@ de la décote. Sauf renonciation à vendre de l'établissement public concerné,
 III. – L'ensemble du dossier est transmis au préfet de région, aux fins d'établissement de la convention mentionnée au V de
 l'article L. 3211-7.
 
+IV.-Le plafonnement prévu au dernier alinéa du II de l'article L. 3211-7 est mis en œuvre dans les conditions fixées aux
+articles R. 3211-15, R. 3211-15-1 et R. 3211-17-2.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-1160 du 25 août 2016 - art. 13
+  - Décret n°2019-1460 du 26 décembre 2019 - art. 3
 
 _Cite_:
 
