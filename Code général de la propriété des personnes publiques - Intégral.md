@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-01-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -31068,17 +31068,18 @@ _Anciens textes_:
 ###### Article R5112-31
 
 La commission départementale de vérification des titres siège à la cour d'appel dans le ressort de laquelle se situe le
-département. 
+département.
 
-Le président de la commission peut toutefois décider de tenir des audiences au siège des tribunaux d'instance ou des
-tribunaux judiciaires du département. 
+Le président de la commission peut toutefois décider de tenir des audiences au siège des tribunaux judiciaires du département
+ou, le cas échant, au siège de leurs chambres de proximité.
 
 Le secrétariat de la commission est assuré par le greffe de la cour d'appel.
 
 **Nota:**
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
-janvier 2020.
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -31092,7 +31093,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2019-913 du 30 août 2019 - art. 15
 
 _Anciens textes_:
 
