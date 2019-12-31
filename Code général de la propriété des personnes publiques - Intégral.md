@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -8115,21 +8115,16 @@ _Codifié par_:
 
 ###### Article L3114-1
 
-Des transferts de propriété d'infrastructures ferroviaires ou    d'installations de service appartenant à l'Etat ou à l'un
-des établissements publics constituant le groupe public ferroviaire mentionné à l'article L. 2101-1 du code des transports
-peuvent être opérés au profit d'une collectivité territoriale ou d'un groupement de collectivités territoriales, compétent en
-matière de développement économique, à la demande de l'assemblée délibérante de celui-ci. 
+Des transferts de propriété d'infrastructures ferroviaires ou d'installations de service appartenant à l'Etat peuvent être
+opérés au profit d'une collectivité territoriale ou d'un groupement de collectivités territoriales, compétent en matière de
+développement économique, à la demande de l'assemblée délibérante de celui-ci.
 
 Ces transferts concernent uniquement, sous réserve des besoins de la défense du pays, soit les lignes que la personne
-publique bénéficiaire  utilise ou envisage d'utiliser pour organiser des services de transport de personnes et qui sont
+publique bénéficiaire utilise ou envisage d'utiliser pour organiser des services de transport de personnes et qui sont
 séparées physiquement du reste du réseau ferré national, soit les lignes à faible trafic n'ayant pas été utilisées par des
 services de transport de personnes depuis plus de cinq ans.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2015-991 du 7 août 2015 - art. 16
 
 _Cité par_:
 
@@ -8138,31 +8133,30 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R3114-2 (V)
   - Code général de la propriété des personnes publ... - art. R3114-4 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code des transports - art. L2101-1
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 16
 
 
 ###### Article L3114-2
 
 Ces transferts ne donnent lieu ni au versement de la contribution prévue à l'article 879 du code général des impôts, ni à
-perception d'impôts, de droits ou de taxes de quelque nature que ce soit. 
+perception d'impôts, de droits ou de taxes de quelque nature que ce soit.
 
-La personne publique bénéficiaire du transfert est substituée à l'Etat ou aux établissements publics constituant le groupe
-public ferroviaire mentionné à l'article L. 2101-1 du code des transports dans l'ensemble des droits et obligations liés aux
-biens qui lui sont transférés, à l'exception de ceux afférents à des dommages constatés avant la date du transfert et à des
-impôts ou taxes dont le fait générateur est antérieur à cette même date.
+La personne publique bénéficiaire du transfert est substituée à l'Etat, à la société SNCF Réseau mentionnée à l'article L.
+2111-9 du code des transports ou à la filiale mentionnée au 5° de cet article dans l'ensemble des droits et obligations liés
+aux biens qui lui sont transférés, à l'exception de ceux afférents à des dommages constatés avant la date du transfert et à
+des impôts ou taxes dont le fait générateur est antérieur à cette même date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 16
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 16
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 879
-  - Code des transports - art. L2101-1
 
 
 ###### Article L3114-3
@@ -8829,10 +8823,15 @@ _Cite_:
 
 ###### Article L3211-13-1
 
-I. – Nonobstant les dispositions législatives particulières applicables aux établissements publics de l'Etat et aux sociétés
-mentionnées à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006, l'article L.
-3211-7 est applicable, dans des conditions fixées par décret en Conseil d'Etat, à l'aliénation des terrains, bâtis ou non, du
-domaine privé leur appartenant ou dont la gestion leur a été confiée par la loi.
+I. – Nonobstant les dispositions législatives particulières applicables aux établissements publics de l'Etat, à la société
+SNCF Réseau mentionnée à l'article L. 2111-9 du code des transports et à sa filiale mentionnée au 5° de cet article, et aux
+sociétés mentionnées à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006,
+l'article L. 3211-7 est applicable, dans des conditions fixées par décret en Conseil d'Etat, à l'aliénation des terrains,
+bâtis ou non, du domaine privé leur appartenant ou dont la gestion leur a été confiée par la loi.
+
+Le décret prévu au premier alinéa du présent I précise les conditions dans lesquelles la société SNCF Réseau mentionnée à
+l'article L. 2111-9 du code des transports et sa filiale mentionnée au 5° de cet article émettent un avis conforme à
+l'inscription des biens dont la gestion leur a été confiée sur la liste mentionnée au 2° du II de l'article L. 3211-7.
 
 Le premier alinéa du présent I s'applique aux établissements publics dont la liste est fixée par décret.
 
@@ -8866,7 +8865,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 24
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 16
 
 
 ##### Paragraphe 3 : Dispositions applicables aux collectivités territoriales, à leurs groupements et à leurs établissements publics.<a id=182></a>
@@ -31030,10 +31029,16 @@ _Anciens textes_:
 La commission départementale de vérification des titres siège à la cour d'appel dans le ressort de laquelle se situe le
 département.
 
-Le président de la commission peut toutefois décider de tenir des audiences au siège des tribunaux d'instance ou des
-tribunaux de grande instance du département.
+Le président de la commission peut toutefois décider de tenir des audiences au siège des tribunaux judiciaires du département
+ou, le cas échant, au siège de leurs chambres de proximité.
 
 Le secrétariat de la commission est assuré par le greffe de la cour d'appel.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -31041,11 +31046,11 @@ _Codifié par_:
 
   - Décret n°2014-930 du 19 août 2014 - art.
 
-_Créé par_:
-
-  - Décret n°2014-930 du 19 août 2014 - art.
-
 _Cité par_:
+
+  - Décret n°2019-913 du 30 août 2019 - art. 15
+
+_Modifié par_:
 
   - Décret n°2019-913 du 30 août 2019 - art. 15
 
