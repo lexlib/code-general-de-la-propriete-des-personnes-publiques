@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -5598,9 +5598,14 @@ _Cite_:
 
 ###### Article L2132-21
 
-Sous réserve de dispositions législatives spécifiques, les agents de l'Etat assermentés à cet effet devant le tribunal de
-grande instance, les agents de police judiciaire et les officiers de police judiciaire sont compétents pour constater les
+Sous réserve de dispositions législatives spécifiques, les agents de l'Etat assermentés à cet effet devant le   tribunal
+judiciaire, les agents de police judiciaire et les officiers de police judiciaire sont compétents pour constater les
 contraventions de grande voirie.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5616,11 +5621,11 @@ _Cité par_:
   - Code de la route. - art. L330-2 (V)
   - Code de la route. - art. R330-3 (V)
   - Code des transports - art. L4313-2 (V)
-  - Code général de la propriété des personnes publ... - art. L2132-23 (V)
+  - Code général de la propriété des personnes publ... - art. L2132-23 (VD)
 
 _Modifié par_:
 
-  - Loi n°2016-1087 du 8 août 2016 - art. 111
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ##### Paragraphe 2 : Dispositions particulières au domaine public des ports maritimes.<a id=117></a>
@@ -5649,11 +5654,11 @@ L. 2132-10, L. 2132-16 et L. 2132-17 :
 2° Les adjoints au maire et les gardes champêtres ; 
 
 3° Les personnels de Voies navigables de France sur le domaine qui lui a été confié, commissionnés par le directeur général
-de Voies navigables de France et assermentés devant le tribunal de grande instance, dans des conditions fixées par décret en
+de Voies navigables de France et assermentés devant le   tribunal judiciaire, dans des conditions fixées par décret en
 Conseil d'Etat ; 
 
 4° Les agents des ports autonomes fluviaux sur le domaine appartenant à ces ports ou qui leur a été confié, assermentés à cet
-effet devant le tribunal de grande instance ; 
+effet devant le   tribunal judiciaire ; 
 
 5° Les agents mentionnés à l'article L. 2132-21. 
 
@@ -5665,6 +5670,11 @@ son identité, ils en rendent compte à tout officier de police judiciaire terri
 contrevenant de lui communiquer son identité. Lorsque l'officier de police judiciaire procède à une vérification d'identité
 dans les conditions prévues à l'article 78-3 du code de procédure pénale, le délai prévu au troisième alinéa du même article
 court à compter du relevé d'identité.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5685,7 +5695,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-665 du 25 mai 2016 - art. 1
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -5694,8 +5704,8 @@ _Anciens textes_:
 
 _Cite_:
 
+  - Code général de la propriété des personnes publ... - art. L2132-21 (VD)
   - Code général de la propriété des personnes publiques. - art. L2132-16
-  - Code général de la propriété des personnes publiques. - art. L2132-21
   - Code général de la propriété des personnes publiques. - art. L2132-5
   - Code de procédure pénale - art. 78-3
 
@@ -8119,21 +8129,16 @@ _Codifié par_:
 
 ###### Article L3114-1
 
-Des transferts de propriété d'infrastructures ferroviaires ou    d'installations de service appartenant à l'Etat ou à l'un
-des établissements publics constituant le groupe public ferroviaire mentionné à l'article L. 2101-1 du code des transports
-peuvent être opérés au profit d'une collectivité territoriale ou d'un groupement de collectivités territoriales, compétent en
-matière de développement économique, à la demande de l'assemblée délibérante de celui-ci. 
+Des transferts de propriété d'infrastructures ferroviaires ou d'installations de service appartenant à l'Etat peuvent être
+opérés au profit d'une collectivité territoriale ou d'un groupement de collectivités territoriales, compétent en matière de
+développement économique, à la demande de l'assemblée délibérante de celui-ci.
 
 Ces transferts concernent uniquement, sous réserve des besoins de la défense du pays, soit les lignes que la personne
-publique bénéficiaire  utilise ou envisage d'utiliser pour organiser des services de transport de personnes et qui sont
+publique bénéficiaire utilise ou envisage d'utiliser pour organiser des services de transport de personnes et qui sont
 séparées physiquement du reste du réseau ferré national, soit les lignes à faible trafic n'ayant pas été utilisées par des
 services de transport de personnes depuis plus de cinq ans.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2015-991 du 7 août 2015 - art. 16
 
 _Cité par_:
 
@@ -8142,31 +8147,30 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R3114-2 (V)
   - Code général de la propriété des personnes publ... - art. R3114-4 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code des transports - art. L2101-1
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 16
 
 
 ###### Article L3114-2
 
 Ces transferts ne donnent lieu ni au versement de la contribution prévue à l'article 879 du code général des impôts, ni à
-perception d'impôts, de droits ou de taxes de quelque nature que ce soit. 
+perception d'impôts, de droits ou de taxes de quelque nature que ce soit.
 
-La personne publique bénéficiaire du transfert est substituée à l'Etat ou aux établissements publics constituant le groupe
-public ferroviaire mentionné à l'article L. 2101-1 du code des transports dans l'ensemble des droits et obligations liés aux
-biens qui lui sont transférés, à l'exception de ceux afférents à des dommages constatés avant la date du transfert et à des
-impôts ou taxes dont le fait générateur est antérieur à cette même date.
+La personne publique bénéficiaire du transfert est substituée à l'Etat, à la société SNCF Réseau mentionnée à l'article L.
+2111-9 du code des transports ou à la filiale mentionnée au 5° de cet article dans l'ensemble des droits et obligations liés
+aux biens qui lui sont transférés, à l'exception de ceux afférents à des dommages constatés avant la date du transfert et à
+des impôts ou taxes dont le fait générateur est antérieur à cette même date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 16
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 16
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 879
-  - Code des transports - art. L2101-1
 
 
 ###### Article L3114-3
@@ -8708,17 +8712,26 @@ _Cité par_:
 ###### Article L3211-9
 
 L'Etat est autorisé à aliéner, dans la forme ordinaire des ventes des biens de l'Etat, les biens immobiliers provenant des
-successions en déshérence dont l'envoi en possession définitive a été prononcé par le tribunal de grande instance.
+successions en déshérence dont l'envoi en possession définitive a été prononcé par le   tribunal judiciaire. 
 
 Ces dispositions ne portent pas atteinte aux droits des tiers et spécialement aux droits des héritiers et légataires
 éventuels, qui sont admis à exercer leur action sur le prix net des biens vendus, dans les mêmes conditions et délais qu'ils
 eussent été fondés à l'exercer sur ces biens eux-mêmes.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -8833,10 +8846,15 @@ _Cite_:
 
 ###### Article L3211-13-1
 
-I. – Nonobstant les dispositions législatives particulières applicables aux établissements publics de l'Etat et aux sociétés
-mentionnées à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006, l'article L.
-3211-7 est applicable, dans des conditions fixées par décret en Conseil d'Etat, à l'aliénation des terrains, bâtis ou non, du
-domaine privé leur appartenant ou dont la gestion leur a été confiée par la loi.
+I. – Nonobstant les dispositions législatives particulières applicables aux établissements publics de l'Etat, à la société
+SNCF Réseau mentionnée à l'article L. 2111-9 du code des transports et à sa filiale mentionnée au 5° de cet article, et aux
+sociétés mentionnées à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006,
+l'article L. 3211-7 est applicable, dans des conditions fixées par décret en Conseil d'Etat, à l'aliénation des terrains,
+bâtis ou non, du domaine privé leur appartenant ou dont la gestion leur a été confiée par la loi.
+
+Le décret prévu au premier alinéa du présent I précise les conditions dans lesquelles la société SNCF Réseau mentionnée à
+l'article L. 2111-9 du code des transports et sa filiale mentionnée au 5° de cet article émettent un avis conforme à
+l'inscription des biens dont la gestion leur a été confiée sur la liste mentionnée au 2° du II de l'article L. 3211-7.
 
 Le premier alinéa du présent I s'applique aux établissements publics dont la liste est fixée par décret.
 
@@ -8870,7 +8888,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 24
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 16
 
 
 ##### Paragraphe 3 : Dispositions applicables aux collectivités territoriales, à leurs groupements et à leurs établissements publics.<a id=182></a>
@@ -9040,20 +9058,28 @@ _Cité par_:
 ###### Article L3211-20
 
 L'Etat est autorisé à aliéner, dans la forme ordinaire des ventes des biens de l'Etat, les biens mobiliers et les valeurs
-provenant des successions en déshérence dont l'envoi en possession définitive a été prononcé par le tribunal de grande
-instance.
+provenant des successions en déshérence dont l'envoi en possession définitive a été prononcé par le   tribunal judiciaire. 
 
-Les inscriptions de rentes sur l'Etat, comme toutes les autres valeurs cotées, sont négociées à une bourse de valeurs.
+Les inscriptions de rentes sur l'Etat, comme toutes les autres valeurs cotées, sont négociées à une bourse de valeurs. 
 
 Ces dispositions ne portent pas atteinte aux droits des tiers et spécialement aux droits des héritiers et légataires
 éventuels, qui sont admis à exercer leur action sur le prix net des biens vendus, dans les mêmes conditions et délais qu'ils
 eussent été fondés à l'exercer sur ces biens eux-mêmes.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-460 2006-04-21 JORF 22 avril 2006
+  - Ordonnance n°2006-460 du 21 avril 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -24071,18 +24097,23 @@ _Cité par_:
 Si le disposant n'a pu être retrouvé, si, au cas où il est décédé, tous ses ayants droit sont restés inconnus ou inactifs,
 s'ils ont refusé de signer le procès-verbal de restitution ou, si malgré cette signature, les meubles n'ont pu faire l'objet
 d'une remise effective la gestion des biens est confiée au directeur départemental des finances publiques mentionné à
-l'article R. 2222-24, par une ordonnance rendue à la requête du préfet par le président du tribunal de grande instance dans
-le ressort duquel se trouve le siège du service de l'administration chargée des domaines appelé à gérer les biens.
+l'article R. 2222-24, par une ordonnance rendue à la requête du préfet par le président du   tribunal judiciaire dans le
+ressort duquel se trouve le siège du service de l'administration chargée des domaines appelé à gérer les biens. 
 
 La requête est introduite au plus tard six mois après la date de publication au Journal officiel de la République française
-de l'arrêté de restitution.
+de l'arrêté de restitution. 
 
 L'ordonnance du président du tribunal est signifiée au disposant ou à ses ayants droit dont l'adresse est connue. Dans le cas
 contraire, la signification est faite conformément aux dispositions de l'article 659 du code de procédure civile ; en outre,
-l'ordonnance est publiée par extrait au Journal officiel de la République française.
+l'ordonnance est publiée par extrait au Journal officiel de la République française. 
 
 La remise des biens à l'administration chargée des domaines par l'administration détentrice est constatée par un procès-
 verbal dressé contradictoirement.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -24090,9 +24121,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -24100,8 +24131,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R2222-24 (V)
-  - Code de procédure civile - art. 659 (M)
+  - Code général de la propriété des personnes publiques. - art. R2222-24
+  - Code de procédure civile - art. 659
 
 
 ###### Article R2222-26
@@ -25606,12 +25637,17 @@ _Cite_:
 
 ###### Article R2331-10
 
-Devant le tribunal de grande instance, l'instruction des instances mentionnées aux articles R. 2331-1 à R. 2331-3, R. 3231-1
-et R. 4111-11 auxquelles l'Etat est partie se fait par simples mémoires.
+Devant le   tribunal judiciaire, l'instruction des instances mentionnées aux articles R. 2331-1 à R. 2331-3, R. 3231-1 et R.
+4111-11 auxquelles l'Etat est partie se fait par simples mémoires. 
 
-Les parties ne sont pas tenues de constituer avocat.
+Les parties ne sont pas tenues de constituer avocat. 
 
 Elles peuvent présenter des explications orales.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -25619,9 +25655,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -25629,9 +25665,9 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R2331-1 (V)
-  - Code général de la propriété des personnes publ... - art. R3231-1 (V)
-  - Code général de la propriété des personnes publ... - art. R4111-11 (V)
+  - Code général de la propriété des personnes publiques. - art. R2331-1
+  - Code général de la propriété des personnes publiques. - art. R3231-1
+  - Code général de la propriété des personnes publiques. - art. R4111-11
 
 
 ###### Article R2331-11
@@ -31032,12 +31068,17 @@ _Anciens textes_:
 ###### Article R5112-31
 
 La commission départementale de vérification des titres siège à la cour d'appel dans le ressort de laquelle se situe le
-département.
+département. 
 
 Le président de la commission peut toutefois décider de tenir des audiences au siège des tribunaux d'instance ou des
-tribunaux de grande instance du département.
+tribunaux judiciaires du département. 
 
 Le secrétariat de la commission est assuré par le greffe de la cour d'appel.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -31045,13 +31086,13 @@ _Codifié par_:
 
   - Décret n°2014-930 du 19 août 2014 - art.
 
-_Créé par_:
-
-  - Décret n°2014-930 du 19 août 2014 - art.
-
 _Cité par_:
 
   - Décret n°2019-913 du 30 août 2019 - art. 15
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -31293,10 +31334,15 @@ _Cite_:
 
 ###### Article R5112-40
 
-Le procureur de la République près le tribunal de grande instance dans le ressort duquel la commission a son siège reçoit
-copie de la convocation adressée aux membres de la commission.
+Le procureur de la République près le   tribunal judiciaire dans le ressort duquel la commission a son siège reçoit copie de
+la convocation adressée aux membres de la commission. 
 
 Il peut intervenir pour faire connaître son avis sur l'application de la loi.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -31304,9 +31350,9 @@ _Codifié par_:
 
   - Décret n°2014-930 du 19 août 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-930 du 19 août 2014 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -33657,21 +33703,26 @@ _Créé par_:
 ###### Article R5211-4
 
 Pour l'application du présent code à Saint-Pierre-et-Miquelon, les références aux termes énumérés ci-après sont ainsi
-remplacés :
+remplacés : 
 
-1° " Département " et " région " par " collectivité territoriale " ;
+1° " Département " et " région " par " collectivité territoriale " ; 
 
-2° " Président du conseil général " par " président du conseil territorial " ;
+2° " Président du conseil général " par " président du conseil territorial " ; 
 
-3° " Conseil général " par " conseil territorial " ;
+3° " Conseil général " par " conseil territorial " ; 
 
-4° " tribunal de grande instance " par " tribunal de première instance " ;
+4° "   tribunal judiciaire " par " tribunal de première instance " ; 
 
-5° " cour d'appel " par " tribunal supérieur d'appel " ;
+5° " cour d'appel " par " tribunal supérieur d'appel " ; 
 
-6° " préfet de département " et " préfet de région " par " préfet " ;
+6° " préfet de département " et " préfet de région " par " préfet " ; 
 
 7° " directeur départemental des finances publiques " par " directeur local des finances publiques ".
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -33679,9 +33730,9 @@ _Codifié par_:
 
   - Décret n°2014-930 du 19 août 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-930 du 19 août 2014 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 #### TITRE  II : ACQUISITIONS<a id=555></a>
