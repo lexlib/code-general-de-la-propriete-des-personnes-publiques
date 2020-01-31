@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2020-01-01 00:00:01 +0100
+Version Consolidée au 2020-02-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -18449,9 +18449,14 @@ _Cite_:
 Dans le cas où l'occupation du domaine public de l'Etat ou du domaine propre d'un établissement public de l'Etat a pour
 fondement une concession de service public, d'outillage public ou d'installations portuaires de plaisance, cette concession
 peut être constitutive de droit réel pour son titulaire dans la mesure et aux conditions prévues par le cahier des charges et
-sous réserve que les dispositions correspondantes du cahier des charges aient reçu l'accord, selon que le montant des travaux
-mis à la charge du concessionnaire est inférieur ou supérieur à 3 millions d'euros hors taxes, du préfet ou du ministre
-chargé du domaine et du ministre intéressé.
+sous réserve que les dispositions correspondantes du cahier des charges aient reçu l'accord
+du préfet.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -18459,9 +18464,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-68 du 30 janvier 2020 - art. 2
 
 _Anciens textes_:
 
@@ -18591,37 +18596,33 @@ _Anciens textes_:
 Dans le cas prévu au premier alinéa de l'article R. 2122-12, et sauf en ce qui concerne le domaine public militaire, la
 décision relève, après instruction par le chef du service déconcentré de l'Etat compétent, de la compétence du préfet.
 
-Toutefois, si l'instruction de la demande, qui comporte obligatoirement la consultation du directeur départemental des
-finances publiques et, le cas échéant, de l'établissement public ou organisme gestionnaire du domaine public en cause, fait
-apparaître que tout ou partie des ouvrages, constructions et installations de caractère immobilier dont la réalisation est
-envisagée sont nécessaires à la continuité du service public auquel est affectée la dépendance du domaine public concernée
-par la demande, la décision ne relève de la compétence du préfet que lorsque le montant des travaux projetés est inférieur à
-3 millions d'euros hors taxes.
-
-Dans le cas contraire, elle relève de la compétence conjointe du ministre intéressé et du ministre chargé du domaine auxquels
-le préfet transmet la demande accompagnée de son avis.
-
 Lorsque la demande concerne le domaine public militaire, la décision relève dans tous les cas de la compétence du ministre de
-la défense, sous réserve des  compétences dévolues au directeur départemental des finances publiques par l'article R. 2125-1.
+la défense, sous réserve des compétences dévolues au directeur départemental des finances publiques par l'article R. 2125-1.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°69-535 du 21 mai 1969 - art. 37 (Ab)
-  - Décret n°2014-1282 du 23 octobre 2014 - art. (VD)
-  - Décret n°2019-832 du 6 août 2019 - art. (V)
-  - Décret n°2020-1027 du 11 août 2020 - art. 2
-  - Code de l'énergie - art. R513-1 (V)
-  - Code général de la propriété des personnes publ... - art. R2122-16 (V)
 
 _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Cité par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°69-535 du 21 mai 1969 - art. 37 (Ab)
+  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+  - Décret n°2019-832 du 6 août 2019 - art. (V)
+  - Décret n°2020-1027 du 11 août 2020 - art. 2
+  - Code de l'énergie - art. R513-1 (V)
+  - Code général de la propriété des personnes publ... - art. R2122-16 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-68 du 30 janvier 2020 - art. 3
 
 _Anciens textes_:
 
@@ -18629,40 +18630,41 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R2122-12 (V)
-  - Code général de la propriété des personnes publ... - art. R2125-1 (V)
+  - Code général de la propriété des personnes publiques. - art. R2122-12
+  - Code général de la propriété des personnes publiques. - art. R2125-1
 
 
 ###### Article R2122-15
 
 La décision relative à une autorisation constitutive de droit réel sur le domaine propre d'un établissement public de l'Etat
 est prise par l'autorité compétente de cet établissement déterminée ainsi qu'il est prévu au quatrième alinéa de l'article R.
-2122-4. 
+2122-4.
 
 Il en va de même de la décision sur la demande d'autorisation soumise à un établissement public de l'Etat qui tient
 expressément du texte qui lui confie ou concède la gestion d'un élément du domaine public le pouvoir d'y délivrer des titres
-d'occupation constitutifs de droits réels. 
+d'occupation constitutifs de droits réels.
 
 Les dispositions des deux alinéas précédents s'appliquent aux organismes gestionnaires du domaine ne détenant pas le statut
-d'établissement public. 
+d'établissement public.
 
 Toutefois, s'il apparaît à cette autorité que tout ou partie des ouvrages, constructions et installations de caractère
 immobilier dont la réalisation est envisagée sont nécessaires à la continuité du service public auquel est affectée la
-dépendance du domaine public concernée par la demande, il ne peut y être fait droit que sur accord préalable du ministre de
-tutelle et du ministre chargé du domaine, ou du préfet après avis du directeur départemental des finances publiques, selon
-que le montant des travaux projetés est ou non supérieur à 3 millions d'euros hors taxes. 
+dépendance du domaine public concernée par la demande, il ne peut y être fait droit que sur accord préalable du préfet après
+avis du directeur départemental des finances publiques.
 
-Faute d'obtention de cet accord préalable dans un délai de deux mois à compter de la saisine du préfet ou de quatre mois à
-compter de la saisine des ministres, l'autorité compétente de l'établissement public ou de l'organisme gestionnaire du
-domaine est tenue de refuser le caractère constitutif de droit réel au titre d'occupation demandé.
+Faute d'obtention de cet accord préalable dans un délai de deux mois à compter de la saisine du préfet, l'autorité compétente
+de l'établissement public ou de l'organisme gestionnaire du domaine est tenue de refuser le caractère constitutif de droit
+réel au titre d'occupation demandé.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Créé par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
@@ -18680,13 +18682,17 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2122-52 (V)
   - Code général de la propriété des personnes publ... - art. R2122-53-1 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-68 du 30 janvier 2020 - art. 4
+
 _Anciens textes_:
 
   - Code du domaine de l'Etat - art. R57-4 (Ab), paragraphe II.
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R2122-4 (V)
+  - Code général de la propriété des personnes publiques. - art. R2122-4
 
 
 ###### Article R2122-16
@@ -19540,8 +19546,7 @@ La convention de gestion est passée par l’administration chargée des domaine
 
 Lorsqu’elle porte sur un ou plusieurs immeubles situés dans un seul département, elle est signée au nom de l’Etat par le
 préfet, agissant en qualité de représentant du ministre chargé du domaine, et sur proposition du responsable dans le
-département du service gestionnaire. Il ne peut être signé de convention d’une durée supérieure à dix-huit ans qu’avec
-l’autorisation du ministre chargé du domaine.
+département du service gestionnaire.
 
 Lorsqu’elle porte sur des immeubles situés dans plusieurs départements ou à l’étranger, la convention de gestion est signée
 au nom de l’Etat par le ministre chargé du domaine, sur proposition du ministre gestionnaire.
@@ -19554,17 +19559,13 @@ signée par le ministre de la défense ou son représentant.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Créé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-68 du 30 janvier 2020 - art. 5
 
 _Anciens textes_:
 
-  - Code du domaine de l'Etat - art. R128-3 (Ab)
+  - Code du domaine de l'Etat - art. R128-3 (Ab),  ecqc les conventions de gestion portant sur des immeubles dépendant du domaine public de l'Etat. ; art. L51-1, les "mots "passée par le service des domaines, sur la proposition du ministre affectataire ou gestionnaire de l'immeuble", ecqc les conventions de gestion portant sur des immeubles dépendant du domaine public de l'État".
 
 _Cite_:
 
@@ -23536,9 +23537,11 @@ _Cite_:
 La location d'un immeuble du domaine privé de l'Etat est consentie par le préfet, après fixation par le directeur
 départemental des finances publiques des conditions financières du contrat.
 
-Toutefois, les locations constitutives de droits réels sont autorisées par le ministre chargé du domaine lorsque la valeur
-vénale de l'immeuble, déterminée par le directeur départemental des finances publiques, est supérieure au montant fixé par
-l'arrêté du ministre chargé du domaine mentionné au dernier alinéa de l'article R. 3211-6.
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -23546,9 +23549,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-68 du 30 janvier 2020 - art. 5
 
 _Anciens textes_:
 
@@ -23562,7 +23565,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R3211-6 (V)
+  - Code général de la propriété des personnes publiques. - art. R3211-6
 
 
 ###### Article R2222-2
@@ -23801,8 +23804,7 @@ La convention de gestion est passée par l'administration chargée des domaines.
 
 Lorsqu'elle porte sur un ou plusieurs immeubles situés dans un seul département, elle est signée au nom de l'Etat par le
 préfet agissant en qualité de représentant du ministre chargé du domaine et sur proposition du responsable dans le
-département du service gestionnaire. Il ne peut être signé de convention d'une durée supérieure à dix-huit ans qu'avec
-l'autorisation du ministre chargé du domaine.
+département du service gestionnaire.
 
 Lorsqu'elle porte sur des immeubles situés dans plusieurs départements ou à l'étranger, la convention de gestion est signée
 au nom de l'Etat par le ministre chargé du domaine, sur proposition du ministre gestionnaire. Dans ce cas, la convention peut
@@ -23812,15 +23814,21 @@ pays où sont situés les immeubles.
 Lorsqu'elle porte sur un immeuble militaire mentionné au 6° de l'article R. 2222-8, la convention de gestion est également
 signée par le ministre de la défense ou son représentant.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-68 du 30 janvier 2020 - art. 5
 
 _Anciens textes_:
 
@@ -23834,7 +23842,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R2222-8 (V)
+  - Code général de la propriété des personnes publiques. - art. R2222-8
 
 
 ###### Article R2222-10
@@ -27685,10 +27693,17 @@ _Anciens textes_:
 
 ###### Article R3211-23
 
-Les dispositions de l'article R. 3211-6 sont applicables aux concessions accordées en application de l'article L. 3211-10.
+Les concessions accordées en application de l'article L. 3211-10 sont consenties par le préfet, au prix convenu entre les
+parties, selon les modalités financières fixées par le directeur départemental des finances publiques.
 
 Toutefois, lorsque l'opération a donné lieu à une enquête publique, la concession est approuvée par décret en Conseil d'Etat
 en cas d'avis défavorable du commissaire enquêteur ou de la commission d'enquête.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -27696,9 +27711,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-68 du 30 janvier 2020 - art. 6
 
 _Anciens textes_:
 
@@ -27706,8 +27721,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L3211-10 (V)
-  - Code général de la propriété des personnes publ... - art. R3211-6 (V)
+  - Code général de la propriété des personnes publiques. - art. L3211-10
+  - Code général de la propriété des personnes publiques. - art. R3211-6
 
 
 ###### Article R3211-24
@@ -27749,10 +27764,16 @@ _Cite_:
 ###### Article R3211-25
 
 Les cessions amiables de servitudes constituées au profit de l'Etat sont consenties par le préfet, après avis du directeur
-départemental des finances publiques, dans les conditions prévues à l'article R. 3211-6.
+départemental des finances publiques, qui fixe les conditions financières.
 
 Le projet de cession est préalablement affiché à la mairie de la commune de situation des lieux et soumis à une enquête d'une
 durée de dix jours.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -27760,9 +27781,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-68 du 30 janvier 2020 - art. 7
 
 _Anciens textes_:
 
@@ -27770,7 +27791,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R3211-6 (V)
+  - Code général de la propriété des personnes publiques. - art. R3211-6
 
 
 ###### Article R3211-26
