@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2020-02-01
+Version Consolidée au 2020-02-12
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -9335,10 +9335,11 @@ gratuite de biens meubles aux personnes les plus défavorisées. Ces association
 onéreux, des biens ainsi alloués à peine d'être exclues définitivement du bénéfice des présentes mesures ;
 
 3° Les cessions des matériels informatiques dont les services de l'Etat ou de l'un de ses établissements publics n'ont plus
-l'emploi et dont la valeur unitaire n'excède pas un seuil fixé par décret aux associations de parents d'élèves aux
-associations de soutien scolaire et aux associations d'étudiants. Les associations s'engagent par écrit à n'utiliser les
-matériels qui leur sont cédés que pour l'objet prévu par leurs statuts, à l'exclusion de tout autre. Elles ne peuvent
-procéder à la cession, à titre onéreux, des biens ainsi alloués, à peine d'être exclues du bénéfice des présentes mesures ;
+l'emploi et dont la valeur unitaire n'excède pas un seuil fixé par décret aux associations de parents d'élèves, aux
+associations de soutien scolaire, aux associations reconnues d'utilité publique et aux associations d'étudiants. Les
+associations s'engagent par écrit à n'utiliser les matériels qui leur sont cédés que pour l'objet prévu par leurs statuts, à
+l'exclusion de tout autre. Elles ne peuvent procéder à la cession, à titre onéreux, des biens ainsi alloués, à peine d'être
+exclues du bénéfice des présentes mesures ;
 
 4° Les cessions de matériels et d'équipements destinés à l'enseignement et à la recherche scientifiques, lorsqu'ils ont été
 remis, dans le cadre d'une convention de coopération, à un organisme assurant des missions de même nature ;
@@ -9361,7 +9362,15 @@ ministère de la défense n'a plus l'emploi. La valeur des biens cédés ne peut
 conjoint du ministre de la défense et du ministre des finances ;
 
 9° Les cessions des biens archéologiques mobiliers déclassés, dans les conditions prévues à l'article L. 546-6 du code du
-patrimoine.
+patrimoine ;
+
+10° Les cessions de constructions temporaires et démontables dont les services de l'Etat ou de l'un de ses établissements
+publics n'ont plus l'emploi aux structures définies au II de l'article L. 3332-17-1 du code du travail relevant de l'économie
+sociale et solidaire dans le but d'en éviter la démolition, conformément aux objectifs mentionnés au II de l'article L. 541-1
+du code de l'environnement. Préalablement à leur cession, les biens font l'objet d'une désaffectation et d'un déclassement
+conformément aux dispositions de l'article L. 2141-1 du présent code et de l'article L. 2241-1 du code général des
+collectivités territoriales. Les biens mentionnés au présent 10° sont proposés sur le site électronique de dons mis en ligne
+par la direction nationale d'interventions domaniales.
 
 **Liens relatifs à cet article**
 
@@ -9379,12 +9388,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1117 du 29 juin 2017 - art. 2
+  - Loi n°2020-105 du 10 février 2020 - art. 38
+  - Loi n°2020-105 du 10 février 2020 - art. 52
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 238 bis
   - Code général de la propriété des personnes publiques. - art. L3211-18
+  - Code du patrimoine - art. L546-6
 
 _Anciens textes_:
 
@@ -9406,11 +9417,14 @@ utilisation dont ils n'ont plus l'emploi, aux mêmes conditions que celles fixé
 publics au 5° de l'article L. 3212-2 ainsi que les biens archéologiques mobiliers dans les conditions prévues à l'article L.
 546-6 du code du patrimoine.
 
+Ils peuvent également céder gratuitement les biens de scénographie dont ils n'ont plus l'usage, aux mêmes conditions que
+celles fixées pour l'Etat au 7° de l'article L. 3212-2 du présent code.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1117 du 29 juin 2017 - art. 2
+  - Loi n°2020-105 du 10 février 2020 - art. 53
 
 _Anciens textes_:
 
@@ -9424,7 +9438,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L3212-2 (M)
+  - Code général de la propriété des personnes publiques. - art. L3212-2
 
 
 #### TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE<a id=194></a>
