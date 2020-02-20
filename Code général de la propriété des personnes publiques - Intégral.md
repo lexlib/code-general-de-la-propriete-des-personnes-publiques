@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2020-02-12
+Version Consolidée au 2020-02-21
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -16595,13 +16595,10 @@ _Cite_:
 
 ###### Article R1211-8
 
-Les opérations immobilières qualifiées secrètes par décision du ministre de la défense, poursuivies par voie d'expropriation
-pour cause d'utilité publique par les services publics relevant de ce ministre ou placés sous sa tutelle, sont soumises à la
-commission d'examen des opérations immobilières présentant un caractère secret prévue par l'article R. 122-5 du code de
-l'expropriation pour cause d'utilité publique. 
-
-L'avis du directeur départemental des finances publiques prévu à l'article R. 1211-3 du présent code figure au dossier soumis
-à la commission.
+Les opérations immobilières qualifiées d'opérations sensibles intéressant la défense nationale en application de l'article L.
+2391-1 du code de la défense et les servitudes qui leur sont associées, poursuivies par voie d'expropriation pour cause
+d'utilité publique par les services publics relevant du ministre de la défense ou placés sous sa tutelle, sont soumises à la
+commission mentionnée à l'article R. 122-5 du code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
@@ -16611,7 +16608,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+  - Décret n°2020-133 du 18 février 2020 - art. 8
 
 _Anciens textes_:
 
@@ -16620,8 +16617,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R1211-3 (VD)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R122-5 (V)
+  - Code de la défense. - art. L2391-1
+  - Code de l'expropriation pour cause d'utilité publique - art. R122-5
 
 
 ##### Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics<a id=342></a>
