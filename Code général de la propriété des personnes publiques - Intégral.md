@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2020-04-01
+Version Consolidée au 2020-04-23
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -512,7 +512,7 @@ Version Consolidée au 2020-04-01
             - [Section 2 : Dispositions applicables aux collectivités territoriales,  à leurs groupements et à leurs établissements publics (art. R3222-3)](#509)
             - [Section 3 : Dispositions applicables  aux établissements publics fonciers locaux (art. R3222-4)](#510)
         - [TITRE III : CONTENTIEUX (art. R3231-1 à R3231-2)](#511)
-    - [QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES  DES PERSONNES PUBLIQUES (art. R4111-1 à D4121-6)](#512)
+    - [QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES  DES PERSONNES PUBLIQUES (art. R4111-1 à D4211-3)](#512)
       - [LIVRE Ier : RÉALISATION DES OPÉRATIONS IMMOBILIÈRES (art. R4111-1 à D4121-6)](#513)
         - [TITRE Ier : PRISES À BAIL (art. R4111-1 à R4112-2)](#514)
           - [Chapitre Ier : Biens situés en France (art. R4111-1 à R4111-11)](#515)
@@ -530,50 +530,53 @@ Version Consolidée au 2020-04-01
             - [Section 3 : Concessions de logement (art. R4121-3 à R4121-3-1)](#527)
             - [Section 4 : Inventaire (art. D4121-5 à R4121-4)](#528)
             - [Section 5 : Biens situés à l'étranger (art. D4121-6)](#529)
-    - [CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D5111-6 à R5261-1)](#530)
-      - [LIVRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION (art. D5111-6 à R5151-5)](#531)
-        - [TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME (art. D5111-6 à R5113-1)](#532)
-          - [Chapitre Ier : Dispositions communes (art. D5111-6 à R5111-10)](#533)
-          - [Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique (art. R5112-1 à R5112-45)](#534)
-            - [Section 1 : Délimitation des espaces urbains et naturels (art. R5112-1)](#535)
-            - [Section 2 : Cession de terrains prévue par l'article L. 5112-4 (art. R5112-2 à R5112-12)](#536)
-            - [Section 3 : Cession de terrains prévue par l'article L. 5112-4-1 (art. R5112-13)](#537)
-            - [Section 4 : Cession de terrains prévue par l'article L. 5112-5 (art. R5112-14 à R5112-19)](#538)
-            - [Section 5 : Cession de terrains prévue par l'article L. 5112-6 (art. D5112-24 à R5112-25)](#539)
-            - [Section 6 : Dispositions relatives à l'application de l'article L. 5112-9 (art. R5112-26 à R5112-28)](#540)
-            - [Section 7 : Dispositions relatives à l'application de l'article L. 5112-3 (art. R5112-29 à R5112-45)](#541)
-          - [Chapitre III : Dispositions particulières à la Guyane et à La Réunion (art. R5113-1)](#542)
-        - [TITRE II : RÉGIME DOMANIAL DES EAUX (art. R5121-1)](#543)
-          - [Chapitre unique. (art. R5121-1)](#544)
-        - [TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE (art. D5141-7 à R5145-8)](#545)
-          - [Chapitre Ier : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales (art. D5141-7 à R5141-25)](#546)
-          - [Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales et à l'Etablissement public d'aménagement en Guyane (art. D5142-10 à R5142-12)](#547)
-          - [Chapitre III : Concessions et cessions à des communautés d'habitants (art. D5143-6 à R5143-5)](#548)
-          - [Chapitre IV : Cessions de terrains domaniaux ne relevant pas des dispositions des chapitres Ier, II et III (art. D5144-4 à R5144-3)](#549)
-          - [Chapitre V : Dispositions communes et diverses (art. R5145-1 à R5145-8)](#550)
-        - [TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE ET À LA RÉUNION (art. R5151-1 à R5151-5)](#551)
-          - [Chapitre unique. (art. R5151-1 à R5151-5)](#552)
-      - [LIVRE  II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. R5211-1 à R5261-1)](#553)
-        - [TITRE  Ier : DISPOSITIONS GÉNÉRALES (art. R5211-1 à R5211-4)](#554)
-          - [Chapitre unique. (art. R5211-1 à R5211-4)](#555)
-        - [TITRE  II : ACQUISITIONS (art. R5221-1 à R5222-2)](#556)
-          - [Chapitre Ier : Modes d'acquisition (art. R5221-1)](#557)
-          - [Chapitre II : Procédures d'acquisition (art. R5222-1 à R5222-2)](#558)
-        - [TITRE  III : GESTION (art. R5231-1 à R5233-2)](#559)
-          - [Chapitre Ier : Biens relevant du domaine public (art. R5231-1 à R5231-7)](#560)
-          - [Chapitre III : Recouvrement (art. R5233-1 à R5233-2)](#561)
-        - [TITRE  IV : CESSIONS (art. R5241-1 à R5242-1)](#562)
-          - [Chapitre Ier : Modes de cession (art. R5241-1 à R5241-9)](#563)
-            - [Section 1 : Cessions à titre onéreux (art. R5241-1 à R5241-5)](#564)
-              - [Sous-section 1 : Vente (art. R5241-1 à R5241-4)](#565)
-              - [Sous-section 2 : Autres modes (art. R5241-5)](#566)
-            - [Section 2 : Cessions à titre gratuit (art. R5241-6 à R5241-9)](#567)
-          - [Chapitre II : Procédures de cession et d'échange (art. R5242-1)](#568)
-        - [TITRE  V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES (art. R5251-1)](#569)
-          - [Chapitre unique. (art. R5251-1)](#570)
-        - [TITRE  VI : RÉGIME DOMANIAL DES EAUX (art. R5261-1)](#571)
-          - [Chapitre unique. (art. R5261-1)](#572)
-    - [ANNEXE (art. Annexe à l'article R3113-2)](#573)
+      - [LIVRE II : CONTRÔLE DES OPÉRATIONS IMMOBILIÈRES (art. D4211-1 à D4211-3)](#530)
+        - [TITRE UNIQUE : CONTRÔLE DE L'UTILISATION DES IMMEUBLES  DE L'ÉTAT ET DE SES ÉTABLISSEMENTS PUBLICS (art. D4211-1 à D4211-3)](#531)
+          - [Chapitre unique (art. D4211-1 à D4211-3)](#532)
+    - [CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D5111-6 à R5261-1)](#533)
+      - [LIVRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION (art. D5111-6 à R5151-5)](#534)
+        - [TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME (art. D5111-6 à R5113-1)](#535)
+          - [Chapitre Ier : Dispositions communes (art. D5111-6 à R5111-10)](#536)
+          - [Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique (art. R5112-1 à R5112-45)](#537)
+            - [Section 1 : Délimitation des espaces urbains et naturels (art. R5112-1)](#538)
+            - [Section 2 : Cession de terrains prévue par l'article L. 5112-4 (art. R5112-2 à R5112-12)](#539)
+            - [Section 3 : Cession de terrains prévue par l'article L. 5112-4-1 (art. R5112-13)](#540)
+            - [Section 4 : Cession de terrains prévue par l'article L. 5112-5 (art. R5112-14 à R5112-19)](#541)
+            - [Section 5 : Cession de terrains prévue par l'article L. 5112-6 (art. D5112-24 à R5112-25)](#542)
+            - [Section 6 : Dispositions relatives à l'application de l'article L. 5112-9 (art. R5112-26 à R5112-28)](#543)
+            - [Section 7 : Dispositions relatives à l'application de l'article L. 5112-3 (art. R5112-29 à R5112-45)](#544)
+          - [Chapitre III : Dispositions particulières à la Guyane et à La Réunion (art. R5113-1)](#545)
+        - [TITRE II : RÉGIME DOMANIAL DES EAUX (art. R5121-1)](#546)
+          - [Chapitre unique. (art. R5121-1)](#547)
+        - [TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE (art. D5141-7 à R5145-8)](#548)
+          - [Chapitre Ier : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales (art. D5141-7 à R5141-25)](#549)
+          - [Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales et à l'Etablissement public d'aménagement en Guyane (art. D5142-10 à R5142-12)](#550)
+          - [Chapitre III : Concessions et cessions à des communautés d'habitants (art. D5143-6 à R5143-5)](#551)
+          - [Chapitre IV : Cessions de terrains domaniaux ne relevant pas des dispositions des chapitres Ier, II et III (art. D5144-4 à R5144-3)](#552)
+          - [Chapitre V : Dispositions communes et diverses (art. R5145-1 à R5145-8)](#553)
+        - [TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE ET À LA RÉUNION (art. R5151-1 à R5151-5)](#554)
+          - [Chapitre unique. (art. R5151-1 à R5151-5)](#555)
+      - [LIVRE  II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. R5211-1 à R5261-1)](#556)
+        - [TITRE  Ier : DISPOSITIONS GÉNÉRALES (art. R5211-1 à R5211-4)](#557)
+          - [Chapitre unique. (art. R5211-1 à R5211-4)](#558)
+        - [TITRE  II : ACQUISITIONS (art. R5221-1 à R5222-2)](#559)
+          - [Chapitre Ier : Modes d'acquisition (art. R5221-1)](#560)
+          - [Chapitre II : Procédures d'acquisition (art. R5222-1 à R5222-2)](#561)
+        - [TITRE  III : GESTION (art. R5231-1 à R5233-2)](#562)
+          - [Chapitre Ier : Biens relevant du domaine public (art. R5231-1 à R5231-7)](#563)
+          - [Chapitre III : Recouvrement (art. R5233-1 à R5233-2)](#564)
+        - [TITRE  IV : CESSIONS (art. R5241-1 à R5242-1)](#565)
+          - [Chapitre Ier : Modes de cession (art. R5241-1 à R5241-9)](#566)
+            - [Section 1 : Cessions à titre onéreux (art. R5241-1 à R5241-5)](#567)
+              - [Sous-section 1 : Vente (art. R5241-1 à R5241-4)](#568)
+              - [Sous-section 2 : Autres modes (art. R5241-5)](#569)
+            - [Section 2 : Cessions à titre gratuit (art. R5241-6 à R5241-9)](#570)
+          - [Chapitre II : Procédures de cession et d'échange (art. R5242-1)](#571)
+        - [TITRE  V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES (art. R5251-1)](#572)
+          - [Chapitre unique. (art. R5251-1)](#573)
+        - [TITRE  VI : RÉGIME DOMANIAL DES EAUX (art. R5261-1)](#574)
+          - [Chapitre unique. (art. R5261-1)](#575)
+    - [ANNEXE (art. Annexe à l'article R3113-2)](#576)
 # Partie législative<a id=1></a>
 
 ## TITRE PRÉLIMINAIRE.<a id=2></a>
@@ -30196,13 +30199,109 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. D1221-3 (V)
 
 
-## CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=530></a>
+### LIVRE II : CONTRÔLE DES OPÉRATIONS IMMOBILIÈRES<a id=530></a>
 
-### LIVRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION<a id=531></a>
+#### TITRE UNIQUE : CONTRÔLE DE L'UTILISATION DES IMMEUBLES  DE L'ÉTAT ET DE SES ÉTABLISSEMENTS PUBLICS<a id=531></a>
 
-#### TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME<a id=532></a>
+##### Chapitre unique<a id=532></a>
 
-##### Chapitre Ier : Dispositions communes<a id=533></a>
+###### Article D4211-1
+
+Le Conseil de l'immobilier de l'Etat est placé auprès du ministre chargé du domaine.
+
+Le conseil suit et évalue pour le compte du ministre chargé du domaine l'avancement de la démarche de modernisation et
+l'évolution du parc immobilier de l'Etat.
+
+A ce titre, il adresse au ministre chargé du domaine des recommandations stratégiques et des avis pour améliorer la politique
+immobilière de l'Etat et de ses opérateurs.
+
+Le conseil invite régulièrement la direction de l'immobilier de l'Etat à lui présenter l'avancement de la démarche de
+modernisation. Un bilan lui est présenté chaque année.
+
+Afin qu'il puisse se prononcer sur leur conformité aux orientations stratégiques de la politique immobilière de l'Etat, le
+conseil peut être saisi pour avis, par le ministre chargé du domaine, des projets immobiliers importants.
+
+Le conseil établit chaque année un rapport d'activité à l'attention du ministre chargé du domaine.
+
+Dans le cadre de ses compétences, il peut procéder aux auditions de tout représentant de l'Etat et de ses établissements
+publics.
+
+Au moins une fois par an, le président de la commission interministérielle chargée d'émettre un avis sur les opérations
+immobilières de l'Etat à l'étranger lui rend compte de l'activité de l'instance qu'il préside.
+
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2020-454 du 20 avril 2020 : Le Conseil de l'immobilier de l'Etat mentionné à
+l'article D. 4211-1 du code général de la propriété des personnes publiques exerce ses missions jusqu'au 27 octobre 2021.
+
+
+
+###### Article D4211-2
+
+Le président et les membres du Conseil de l'immobilier de l'Etat sont désignés par le ministre chargé du domaine.
+
+Outre son président, ainsi que les deux députés et les deux sénateurs mentionnés à l'article L. 4211-1, le conseil comprend :
+
+1° Un représentant de la chambre des notaires de Paris ;
+
+2° Deux personnalités qualifiées désignées en raison de leurs compétences dans le domaine de l'immobilier, issues du secteur
+public et des entreprises privées ;
+
+3° Deux personnalités qualifiées désignées en raison de leurs compétences dans le domaine de l'immobilier, issues du secteur
+public ou du secteur privé, l'une désignée sur proposition du président de l'Assemblée nationale, l'autre désignée sur
+proposition du président du Sénat ;
+
+4° Une personnalité qualifiée désignée en raison de ses compétences dans le domaine du logement ;
+
+5° Une personnalité qualifiée désignée en raison de ses compétences dans le domaine de la transition écologique et
+solidaire ;
+
+6° Une personnalité qualifiée désignée en raison de ses compétences dans le domaine de la transformation numérique ;
+
+7° Une personnalité qualifiée désignée en raison de ses compétences dans le domaine du patrimoine.
+
+Le président et les membres sont soumis à une obligation de confidentialité à l'égard des informations auxquelles ils ont
+accès et des délibérations auxquelles ils participent.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-454 du 20 avril 2020 - art. 1
+
+
+###### Article D4211-3
+
+Le Conseil de l'immobilier de l'Etat dispose d'un secrétariat général.
+
+Le secrétaire général est désigné par arrêté du ministre chargé du domaine.
+
+Le secrétariat général prépare les travaux du conseil et en assure le suivi. Il diffuse aux membres toutes informations
+utiles à l'activité du conseil. Il présente en outre les conclusions des discussions qu'il conduit avec les administrations
+en charge de l'immobilier de l'Etat.
+
+Le secrétaire général soumet au ministre chargé du domaine les propositions et orientations formulées par le conseil, en
+liaison avec le président.
+
+Pour l'exercice de ses missions, le secrétaire général dispose du concours des services du ministère de l'action et des
+comptes publics et, en tant que de besoin, des services des autres ministères concernés.
+
+Les moyens de fonctionnement du secrétariat général sont pris en charge par le ministère de l'action et des comptes publics.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-454 du 20 avril 2020 - art. 1
+
+
+## CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=533></a>
+
+### LIVRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION<a id=534></a>
+
+#### TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME<a id=535></a>
+
+##### Chapitre Ier : Dispositions communes<a id=536></a>
 
 ###### Article D5111-6
 
@@ -30531,9 +30630,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L5111-5 (V)
 
 
-##### Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique<a id=534></a>
+##### Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique<a id=537></a>
 
-##### Section 1 : Délimitation des espaces urbains et naturels<a id=535></a>
+##### Section 1 : Délimitation des espaces urbains et naturels<a id=538></a>
 
 ###### Article R5112-1
 
@@ -30556,7 +30655,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L5112-2 (V)
 
 
-##### Section 2 : Cession de terrains prévue par l'article L. 5112-4<a id=536></a>
+##### Section 2 : Cession de terrains prévue par l'article L. 5112-4<a id=539></a>
 
 ###### Article R5112-2
 
@@ -30919,7 +31018,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L5112-4 (V)
 
 
-##### Section 3 : Cession de terrains prévue par l'article L. 5112-4-1<a id=537></a>
+##### Section 3 : Cession de terrains prévue par l'article L. 5112-4-1<a id=540></a>
 
 ###### Article R5112-13
 
@@ -30947,7 +31046,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R5111-1 (V)
 
 
-##### Section 4 : Cession de terrains prévue par l'article L. 5112-5<a id=538></a>
+##### Section 4 : Cession de terrains prévue par l'article L. 5112-5<a id=541></a>
 
 ###### Article R5112-14
 
@@ -31136,7 +31235,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R5111-1 (V)
 
 
-##### Section 5 : Cession de terrains prévue par l'article L. 5112-6<a id=539></a>
+##### Section 5 : Cession de terrains prévue par l'article L. 5112-6<a id=542></a>
 
 ###### Article D5112-24
 
@@ -31323,7 +31422,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R170-7 (V)
 
 
-##### Section 6 : Dispositions relatives à l'application de l'article L. 5112-9<a id=540></a>
+##### Section 6 : Dispositions relatives à l'application de l'article L. 5112-9<a id=543></a>
 
 ###### Article R5112-26
 
@@ -31420,7 +31519,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R170-10 (V)
 
 
-##### Section 7 : Dispositions relatives à l'application de l'article L. 5112-3<a id=541></a>
+##### Section 7 : Dispositions relatives à l'application de l'article L. 5112-3<a id=544></a>
 
 ###### Article R5112-29
 
@@ -31902,7 +32001,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R170-27 (V)
 
 
-##### Chapitre III : Dispositions particulières à la Guyane et à La Réunion<a id=542></a>
+##### Chapitre III : Dispositions particulières à la Guyane et à La Réunion<a id=545></a>
 
 ###### Article R5113-1
 
@@ -31934,9 +32033,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R5112-38 (V)
 
 
-#### TITRE II : RÉGIME DOMANIAL DES EAUX<a id=543></a>
+#### TITRE II : RÉGIME DOMANIAL DES EAUX<a id=546></a>
 
-##### Chapitre unique.<a id=544></a>
+##### Chapitre unique.<a id=547></a>
 
 ###### Article R5121-1
 
@@ -31959,9 +32058,9 @@ _Cite_:
   - Code de l'environnement - art. R214-5 (V)
 
 
-#### TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE<a id=545></a>
+#### TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE<a id=548></a>
 
-##### Chapitre Ier : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales<a id=546></a>
+##### Chapitre Ier : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales<a id=549></a>
 
 ###### Article D5141-7
 
@@ -32928,7 +33027,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R5145-2 (V)
 
 
-##### Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales et à l'Etablissement public d'aménagement en Guyane<a id=547></a>
+##### Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales et à l'Etablissement public d'aménagement en Guyane<a id=550></a>
 
 ###### Article D5142-10
 
@@ -33311,7 +33410,7 @@ _Cite_:
   - Code forestier - art. L211-1 (Ab)
 
 
-##### Chapitre III : Concessions et cessions à des communautés d'habitants<a id=548></a>
+##### Chapitre III : Concessions et cessions à des communautés d'habitants<a id=551></a>
 
 ###### Article D5143-6
 
@@ -33512,7 +33611,7 @@ _Anciens textes_:
   - Code du domaine de l'Etat - art. R170-60 (V)
 
 
-##### Chapitre IV : Cessions de terrains domaniaux ne relevant pas des dispositions des chapitres Ier, II et III<a id=549></a>
+##### Chapitre IV : Cessions de terrains domaniaux ne relevant pas des dispositions des chapitres Ier, II et III<a id=552></a>
 
 ###### Article D5144-4
 
@@ -33647,7 +33746,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R5145-6 (V)
 
 
-##### Chapitre V : Dispositions communes et diverses<a id=550></a>
+##### Chapitre V : Dispositions communes et diverses<a id=553></a>
 
 ###### Article R5145-1
 
@@ -33892,9 +33991,9 @@ _Créé par_:
   - Décret n°2014-930 du 19 août 2014 - art.
 
 
-#### TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE ET À LA RÉUNION<a id=551></a>
+#### TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE ET À LA RÉUNION<a id=554></a>
 
-##### Chapitre unique.<a id=552></a>
+##### Chapitre unique.<a id=555></a>
 
 ###### Article R5151-1
 
@@ -34034,11 +34133,11 @@ _Créé par_:
   - Décret n°2014-930 du 19 août 2014 - art.
 
 
-### LIVRE  II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=553></a>
+### LIVRE  II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=556></a>
 
-#### TITRE  Ier : DISPOSITIONS GÉNÉRALES<a id=554></a>
+#### TITRE  Ier : DISPOSITIONS GÉNÉRALES<a id=557></a>
 
-##### Chapitre unique.<a id=555></a>
+##### Chapitre unique.<a id=558></a>
 
 ###### Article R5211-1
 
@@ -34173,9 +34272,9 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-#### TITRE  II : ACQUISITIONS<a id=556></a>
+#### TITRE  II : ACQUISITIONS<a id=559></a>
 
-##### Chapitre Ier : Modes d'acquisition<a id=557></a>
+##### Chapitre Ier : Modes d'acquisition<a id=560></a>
 
 ###### Article R5221-1
 
@@ -34197,7 +34296,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R1123-1 (V)
 
 
-##### Chapitre II : Procédures d'acquisition<a id=558></a>
+##### Chapitre II : Procédures d'acquisition<a id=561></a>
 
 ###### Article R5222-1
 
@@ -34246,9 +34345,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. R5212-1-1-1 (V)
 
 
-#### TITRE  III : GESTION<a id=559></a>
+#### TITRE  III : GESTION<a id=562></a>
 
-##### Chapitre Ier : Biens relevant du domaine public<a id=560></a>
+##### Chapitre Ier : Biens relevant du domaine public<a id=563></a>
 
 ###### Article R5231-1
 
@@ -34357,7 +34456,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2124-58 (V)
 
 
-##### Chapitre III : Recouvrement<a id=561></a>
+##### Chapitre III : Recouvrement<a id=564></a>
 
 ###### Article R5233-1
 
@@ -34404,13 +34503,13 @@ _Créé par_:
   - Décret n°2014-930 du 19 août 2014 - art.
 
 
-#### TITRE  IV : CESSIONS<a id=562></a>
+#### TITRE  IV : CESSIONS<a id=565></a>
 
-##### Chapitre Ier : Modes de cession<a id=563></a>
+##### Chapitre Ier : Modes de cession<a id=566></a>
 
-##### Section 1 : Cessions à titre onéreux<a id=564></a>
+##### Section 1 : Cessions à titre onéreux<a id=567></a>
 
-##### Sous-section 1 : Vente<a id=565></a>
+##### Sous-section 1 : Vente<a id=568></a>
 
 ###### Article R5241-1
 
@@ -34496,7 +34595,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3211-34 (V)
 
 
-##### Sous-section 2 : Autres modes<a id=566></a>
+##### Sous-section 2 : Autres modes<a id=569></a>
 
 ###### Article R5241-5
 
@@ -34519,7 +34618,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3211-47 (V)
 
 
-##### Section 2 : Cessions à titre gratuit<a id=567></a>
+##### Section 2 : Cessions à titre gratuit<a id=570></a>
 
 ###### Article R5241-6
 
@@ -34637,7 +34736,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L5241-6 (V)
 
 
-##### Chapitre II : Procédures de cession et d'échange<a id=568></a>
+##### Chapitre II : Procédures de cession et d'échange<a id=571></a>
 
 ###### Article R5242-1
 
@@ -34660,9 +34759,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R3222-3 (V)
 
 
-#### TITRE  V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES<a id=569></a>
+#### TITRE  V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES<a id=572></a>
 
-##### Chapitre unique.<a id=570></a>
+##### Chapitre unique.<a id=573></a>
 
 ###### Article R5251-1
 
@@ -34689,9 +34788,9 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R4111-5 (V)
 
 
-#### TITRE  VI : RÉGIME DOMANIAL DES EAUX<a id=571></a>
+#### TITRE  VI : RÉGIME DOMANIAL DES EAUX<a id=574></a>
 
-##### Chapitre unique.<a id=572></a>
+##### Chapitre unique.<a id=575></a>
 
 ###### Article R5261-1
 
@@ -34714,7 +34813,7 @@ _Cite_:
   - Code de l'environnement - art. R214-5 (V)
 
 
-## ANNEXE<a id=573></a>
+## ANNEXE<a id=576></a>
 
 ###### Article Annexe à l'article R3113-2
 
