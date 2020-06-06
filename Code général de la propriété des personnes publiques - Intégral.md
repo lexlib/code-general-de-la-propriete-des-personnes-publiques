@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2020-04-23
+Version Consolidée au 2020-06-07
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -20257,8 +20257,17 @@ _Cité par_:
 
 ###### Article R2124-4
 
-Dès qu'il est saisi de la demande, le préfet consulte le préfet maritime ou le délégué du Gouvernement pour l'action de
-l'Etat en mer.
+Dès qu'il est saisi de la demande, le préfet la soumet à l'avis du préfet maritime ou du délégué du Gouvernement pour
+l'action de l'Etat en mer.
+
+Cet avis est joint au dossier soumis à l'instruction administrative et à l'enquête publique mentionnées aux articles R.
+2124-6 et R. 2124-7.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
@@ -20270,14 +20279,14 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
 _Cité par_:
 
   - Décret n°2018-1204 du 21 décembre 2018 - art. 2
   - Code de l'environnement - art. R181-54-2 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-677 du 4 juin 2020 - art. 2
 
 
 ###### Article R2124-5
@@ -20317,30 +20326,32 @@ _Cite_:
 ###### Article R2124-6
 
 La demande fait l'objet d'une instruction administrative conduite par le service gestionnaire du domaine public maritime qui
-consulte les administrations civiles, notamment le chef du service déconcentré chargé des affaires maritimes, ainsi que les
-autorités militaires intéressées.
+consulte les administrations civiles ainsi que les autorités militaires intéressées.
 
 Le service gestionnaire du domaine public maritime recueille l'avis du directeur départemental des finances publiques qui est
 chargé de fixer les conditions financières de la concession.
 
 Le projet est soumis à l'avis de la commission nautique locale ou de la grande commission nautique conformément aux
-dispositions des articles 1er à 3 du décret n° 86-606 du 14 mars 1986 relatif aux commissions nautiques. L'avis du préfet
-maritime ou du délégué du Gouvernement pour l'action de l'Etat en mer est joint au dossier soumis à consultation.
+dispositions des articles 1er à 3 du décret n° 86-606 du 14 mars 1986 relatif aux commissions nautiques.
 
-Le projet est soumis pour avis aux communes et établissements publics de coopération intercommunale territorialement
-intéressés et aux communes et établissements publics de coopération intercommunale dans le ressort desquels, au vu des
-éléments du dossier, l'opération est de nature à entraîner un changement substantiel dans le domaine public maritime.
+Le projet est soumis pour avis aux communes et établissements publics de coopération intercommunale intéressés.
 
 L'absence de réponse dans le délai de deux mois vaut avis favorable.
 
 A l'issue de l'instruction administrative, le service gestionnaire du domaine public maritime transmet le dossier au préfet
 avec sa proposition et, si le projet paraît pouvoir être accepté, un projet de convention.
 
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°86-606 du 14 mars 1986 - art. 1 (V)
+  - Décret n°86-606 du 14 mars 1986 - art. 1
 
 _Anciens textes_:
 
@@ -20350,15 +20361,15 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
 _Cité par_:
 
   - Décret n°2018-1204 du 21 décembre 2018 - art. 2
   - Code de l'environnement - art. R181-54-2 (V)
   - Code général de la propriété des personnes publ... - art. R2124-5 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-677 du 4 juin 2020 - art. 3
 
 
 ###### Article R2124-7
@@ -21473,10 +21484,16 @@ _Cité par_:
 
 ###### Article R2124-39
 
-L'occupation temporaire du domaine public maritime, en dehors des limites des ports, en vue de l'aménagement, de
+L'occupation temporaire du domaine public maritime, en dehors des limites administratives des ports, en vue de l'aménagement,
 l'organisation et la gestion des zones de mouillages et d'équipements légers destinées à l'accueil et au stationnement des
-navires et bateaux de plaisance fait l'objet d'une autorisation dans les conditions fixées par les dispositions de la
-présente sous-section et des articles D. 341-2, R. 341-4 et R. 341-5 du code du tourisme.
+navires et bateaux tels que définis par le code des transports, fait l'objet d'une autorisation délivrée dans les conditions
+fixées par les dispositions de la présente sous-section et des articles D. 341-2, R. 341-4 et R. 341-5 du code du tourisme.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
@@ -21488,28 +21505,34 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
 _Cité par_:
 
   - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
   - Code du tourisme. - art. D341-2 (V)
   - Code général de la propriété des personnes publ... - art. R2124-58 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-677 du 4 juin 2020 - art. 4
+
 _Cite_:
 
-  - Code du tourisme. - art. R341-4 (V)
+  - Code du tourisme. - art. R341-4
 
 
 ###### Article R2124-40
 
-Dans les zones de mouillage et d'équipements légers, les travaux et équipements réalisés ne doivent en aucun cas entraîner
-l'affectation irréversible du site. En particulier, aucun ouvrage permanent n'est autorisé sur le sol de la mer en dehors des
-équipements d'amarrage et de mise à l'eau. Seuls sont permis, sur le rivage et les lais et relais de la mer, des équipements
-et installations mobiles et relevables dont la nature et l'importance sont compatibles avec l'objet de l'autorisation, sa
-durée et l'obligation de démolition prévue à l'article R. 2124-51.
+Dans les zones de mouillages et d'équipements légers, les travaux et équipements réalisés ne doivent en aucun cas entraîner
+l'affectation irréversible du site. En particulier, seuls sont admis les équipements et installations destinés exclusivement
+à l'amarrage ou la mise à l'eau des navires et bateaux et les équipements et installations mobiles et relevables, dont la
+nature et l'importance sont compatibles avec l'objet de l'autorisation, sa durée et l'obligation de démolition prévue à
+l'article R. 2124-51.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
@@ -21517,26 +21540,44 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-677 du 4 juin 2020 - art. 5
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R2124-51 (V)
+  - Code général de la propriété des personnes publiques. - art. R2124-51
 
 
 ###### Article R2124-41
 
-La demande d'autorisation, adressée au préfet, est accompagnée d'un rapport de présentation, d'un devis des dépenses
-envisagées, d'une notice descriptive des installations prévues, d'un plan de situation et d'un plan de détail de la zone
-faisant ressortir l'organisation des dispositifs des mouillages ainsi que des installations et des équipements légers annexes
-au mouillage.
+La demande d'autorisation, adressée au préfet, est accompagnée d'un dossier comportant :
+
+1° Un rapport de présentation du projet et de ses incidences potentielles sur l'environnement et sur le patrimoine
+archéologique immergé ;
+
+2° Un devis des dépenses envisagées ;
+
+3° Une notice descriptive des installations prévues ;
+
+4° Un plan de situation et un plan détaillé de la zone, faisant ressortir l'organisation des mouillages ainsi que des
+installations et des équipements légers annexes au mouillage ;
+
+5° Une copie du dossier d'examen au cas par cas transmis à l'autorité environnementale au titre de l'article L. 122-1 du code
+de l'environnement.
+
+Cette demande d'autorisation peut être transmise par voie électronique.
 
 Le rapport de présentation indique les modalités de prise en compte de la vocation et des activités de la zone concernée et
 des terrains avoisinants, des impératifs de sécurité des personnes et des biens notamment du point de vue de la navigation,
 des conditions de préservation des sites et paysages du littoral et des milieux naturels aquatiques ainsi que des contraintes
 relatives à l'écoulement et à la qualité des eaux.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
@@ -21548,15 +21589,15 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
 _Cité par_:
 
   - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
   - Code général de la propriété des personnes publ... - art. R2124-42 (V)
   - Code général de la propriété des personnes publ... - art. R2124-45 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-677 du 4 juin 2020 - art. 6
 
 
 ###### Article R2124-42
@@ -21564,13 +21605,24 @@ _Cité par_:
 Lorsqu'une commune ou un groupement de communes compétent sur le territoire desquels l'implantation est prévue le demandent,
 l'autorisation leur est accordée par priorité. Ils déposent leur demande selon les modalités prévues à l'article R. 2124-41.
 
-Lorsque la demande émane d'une autre personne publique ou privée, elle est notifiée à la commune ou au groupement de communes
-compétent. Pour faire valoir la priorité prévue à l'article L. 2124-5, la commune ou le groupement de communes disposent d'un
-délai de trois mois à compter de cette notification. La commune ou le groupement de communes qui ont fait connaître dans ce
-délai leur décision d'exercer leur droit de priorité disposent alors d'un délai de six mois pour déposer leur propre demande.
+Lorsque la demande d'autorisation émane d'une autre personne publique ou privée, elle est immédiatement notifiée par le
+préfet à la commune ou au groupement de communes compétent, qui dispose alors d'un délai de deux mois à compter de cette
+notification pour faire valoir le droit de priorité prévu à l'article L. 2124-5. La commune ou le groupement de communes qui
+a fait connaître dans ce délai sa décision d'exercer son droit de priorité dispose d'un délai de six mois pour déposer sa
+propre demande. En l'absence de réponse ou en cas de renonciation explicite de la commune ou du groupement de communes à son
+droit de priorité dans ce délai et lorsque la demande d'autorisation émanant d'une autre personne publique ou privée est
+formulée en vue d'une exploitation économique, le préfet organise librement une procédure de sélection ou de publicité
+préalable dans les conditions prévues aux articles L. 2122-1-1 et L. 2122-1-4.
 
-Ce droit de priorité peut être exercé à chaque délivrance d'une nouvelle autorisation, sous réserve, s'il y a lieu, de
-l'indemnisation du précédent titulaire dans le cas prévu au dernier alinéa de l'article R. 2124-48.
+Ce droit de priorité de la commune ou du groupement de communes compétent peut être exercé à chaque délivrance d'une nouvelle
+autorisation, sous réserve, s'il y a lieu, de l'indemnisation du précédent titulaire dans le cas prévu au dernier alinéa de
+l'article R. 2124-48.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
@@ -21582,43 +21634,83 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-677 du 4 juin 2020 - art. 7
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L2124-5 (V)
-  - Code général de la propriété des personnes publ... - art. R2124-41 (V)
   - Code général de la propriété des personnes publ... - art. R2124-48 (V)
+  - Code général de la propriété des personnes publiques. - art. L2124-5
+  - Code général de la propriété des personnes publiques. - art. R2124-41
 
 
 ###### Article R2124-43
 
-La demande d'autorisation d'occupation temporaire du domaine public maritime est instruite sous l'autorité du préfet par le
-chef du service déconcentré chargé des affaires maritimes, en liaison avec le préfet maritime ou le délégué du Gouvernement
-pour l'action de l'Etat en mer.
+I.-La demande d'autorisation est instruite sous l'autorité du préfet, en liaison avec le préfet maritime ou le délégué du
+Gouvernement pour l'action de l'Etat en mer.
 
-Elle est soumise pour avis aux services et organismes intéressés, et notamment :
+II.-Elle est soumise pour avis aux services et organismes intéressés, notamment :
 
-1° A la commission départementale de la nature, des paysages et des sites ;
+1° A la commission départementale de la nature, des paysages et des sites, lorsque le projet est situé dans un espace
+remarquable au sens de l'article L. 121-23 du code de l'urbanisme ;
 
 2° A la commission nautique locale prévue par le décret n° 86-606 du 14 mars 1986 relatif aux commissions nautiques ;
 
-3° A l'organe délibérant des communes ou du groupement de communes compétent dans le ressort desquels se trouve le site objet
-de la demande, lorsque ceux-ci ont renoncé à leur droit de priorité ;
+3° A l'organe délibérant de la commune ou du groupement de communes compétent, lorsqu'il a renoncé au droit de priorité prévu
+à l'article L. 2124-5 ;
 
-4° Au directeur départemental des finances publiques. Le directeur départemental des finances publiques fixe en outre le
-montant de la redevance domaniale.
+4° Au directeur départemental des finances publiques, qui fixe en outre le montant de la redevance domaniale ;
 
-Faute de réponse dans un délai de trois mois à compter de la transmission de la demande, les avis mentionnés aux 1°, 2° et 3°
-sont réputés favorables.
+5° A l'organe délibérant de l'établissement public du parc national, lorsque la demande d'autorisation concerne l'aire
+maritime adjacente au cœur du parc national, au sens des articles L. 331-1 et suivants du code de l'environnement ;
+
+6° A l'organe délibérant de l'Office français de la biodiversité ou, par délégation, au conseil de gestion du parc, lorsque
+la demande d'autorisation concerne un parc naturel marin, au sens de l'article L. 334-4 du code de l'environnement, et pour
+avis conforme lorsque cette demande est susceptible d'altérer de façon notable le milieu marin conformément à l'article L.
+334-5 du même code ;
+
+7° A l'organe délibérant du syndicat mixte de gestion du parc naturel régional, lorsque la demande d'autorisation concerne
+les zones du parc ou son périmètre d'étude, au sens de l'article L. 333-1 du code l'environnement.
+
+III.-Lorsque l'occupation est projetée sur le domaine relevant du Conservatoire de l'espace littoral et des rivages
+lacustres, au sens de l'article L. 322-9 du code de l'environnement, la demande d'autorisation est soumise à l'avis conforme
+du directeur de cet établissement ou, par délégation, du délégué de rivage territorialement compétent.
+
+IV.-Lorsque l'occupation est projetée dans le périmètre d'une réserve naturelle en projet, au sens de l'article L. 332-6 du
+code de l'environnement, la demande d'autorisation est soumise à l'avis conforme de l'autorité administrative compétente pour
+autoriser spécialement une modification de l'état des lieux de la réserve ou de leur aspect.
+
+V.-Lorsque l'occupation est projetée dans le périmètre d'une réserve naturelle classée, au sens de l'article L. 332-1 du code
+de l'environnement, la demande d'autorisation est soumise à l'avis conforme :
+
+1° Du préfet de région, après avis du conseil scientifique régional du patrimoine naturel compétent mentionné au III de
+l'article L. 411-1 A du code de l'environnement, du comité consultatif de la réserve et du ou des conseils municipaux
+intéressés, si la demande d'autorisation concerne une réserve naturelle nationale ou une réserve naturelle de Corse classée
+par l'Etat ;
+
+2° Du conseil régional compétent, après avis du conseil scientifique régional du patrimoine naturel compétent mentionné au
+III de l'article L. 411-1 A du code de l'environnement, du comité consultatif de la réserve et du ou des conseils municipaux
+intéressés, si la demande d'autorisation concerne une réserve naturelle régionale ;
+
+3° De l'Assemblée de Corse, après avis du comité consultatif de la réserve et du ou des conseils municipaux intéressés, si la
+demande d'autorisation concerne une réserve naturelle classée par la collectivité territoriale de Corse. Si cette réserve a
+été classée à la demande de l'Etat, l'avis du préfet de Corse est également requis.
+
+VI.-Faute de réponse dans un délai de deux mois à compter de la transmission de la demande, les avis mentionnés au présent
+article, à l'exception de celui du directeur départemental des finances publiques, sont réputés favorables ou conformes.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°86-606 du 14 mars 1986 (V)
+  - Décret n°86-606 du 14 mars 1986
 
 _Anciens textes_:
 
@@ -21628,9 +21720,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-677 du 4 juin 2020 - art. 8
 
 
 ###### Article R2124-44
@@ -21657,20 +21749,29 @@ _Cite_:
 
 ###### Article R2124-45
 
-L'autorisation d'occupation est délivrée par arrêté du préfet pris conjointement avec le préfet maritime ou le délégué du
-Gouvernement pour l'action de l'Etat en mer. Elle comporte la délimitation de la zone et définit les conditions de son
-aménagement et de son fonctionnement en prenant en compte les impératifs et objectifs mentionnés à l'article R. 2124-41. Elle
-énonce notamment les prescriptions nécessaires pour assurer la sécurité des personnes et des biens et la protection de
-l'environnement.
+L'autorisation est accordée par la voie d'une convention qui fixe les conditions et modalités d'occupation du domaine public
+maritime aux fins de l'aménagement, l'organisation et la gestion de la zone de mouillages et d'équipements légers.
+
+Cette convention est approuvée par arrêté du préfet pris conjointement avec le préfet maritime ou le délégué du Gouvernement
+pour l'action de l'Etat en mer. Elle comporte la délimitation de la zone et définit les conditions de son aménagement et de
+son fonctionnement en prenant en compte les impératifs et objectifs mentionnés à l'article R. 2124-41. Elle énonce notamment
+les prescriptions nécessaires pour assurer la sécurité des personnes et des biens et la protection de l'environnement.
 
 Elle fixe la période annuelle d'exploitation de la zone ainsi que la proportion des postes de mouillage réservés aux
-associations et aux navires ou bateaux de passage. La proportion des postes réservés aux navires ou bateaux de passage ne
-peut être inférieure à 25 %.
+associations et aux navires et bateaux de passage. La proportion des postes réservés, qui ne peut être nulle, est fixée par
+le préfet, sur proposition du demandeur, en fonction du contexte et des caractéristiques de la navigation locale.
 
-L'autorisation précise si l'utilisation des mouillages est subordonnée au règlement par l'usager d'une redevance pour
-services rendus.
+Elle précise les modalités selon lesquelles le titulaire de l'autorisation présente annuellement le bilan de sa gestion, à la
+fois matérielle et financière, ainsi que le projet de budget pour l'année suivante.
 
-Elle ne vaut pas autorisation au titre de la police des eaux.
+La convention précise si l'utilisation des mouillages est subordonnée au règlement par l'usager d'une redevance pour service
+rendu.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
@@ -21682,25 +21783,35 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
 _Cité par_:
 
   - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
 
+_Modifié par_:
+
+  - Décret n°2020-677 du 4 juin 2020 - art. 9
+
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R2124-41 (V)
+  - Code général de la propriété des personnes publiques. - art. R2124-41
 
 
 ###### Article R2124-46
 
-L'autorisation est délivrée à titre précaire et révocable pour une durée maximale de quinze ans.
+La convention est conclue pour une durée maximale de quinze ans.
 
-Elle peut être renouvelée sur demande du titulaire. Le refus de renouvellement d'une autorisation expirée n'ouvre droit à
-aucune indemnité.
+Elle peut être reconduite, à la demande du bénéficiaire, après instruction administrative menée selon les modalités fixées
+aux articles R. 2124-41 à R. 2124-45.
+
+Elle fixe les modalités de sa modification à la demande du bénéficiaire ainsi que celles d'une dénonciation par
+l'administration, avant l'expiration du terme, pour des motifs d'intérêt général ou dans l'intérêt du domaine occupé selon
+les modalités prévues à l'article R. 2124-48.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
@@ -21712,40 +21823,12 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-
-###### Article R2124-47
-
-Lorsque l'autorisation est modifiée en cours de validité à la demande du bénéficiaire et que cette modification donne lieu à
-la délivrance d'un nouveau titre d'autorisation, celui-ci indique, le cas échéant, le montant des dépenses non amorties
-exposées en vertu du titre antérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°91-1110 du 22 octobre 1991 - art. 9 (V)
-
-_Codifié par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Créé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-677 du 4 juin 2020 - art. 11
+  - Décret n°2020-677 du 4 juin 2020 - art. 10
 
 
 ###### Article R2124-48
-
-L'autorisation peut être retirée, en totalité ou en partie, avant l'expiration du terme fixé, pour des motifs d'intérêt
-général ou dans l'intérêt du domaine occupé.
 
 L'indemnité à laquelle peut prétendre le titulaire évincé est égale, sous déduction de l'amortissement calculé dans les
 conditions fixées par le titre d'autorisation, au montant des dépenses exposées pour la réalisation des équipements et
@@ -21766,6 +21849,12 @@ Lorsqu'une nouvelle autorisation est accordée à une autre personne, cette dern
 précédent titulaire des investissements qu'il a réalisés, sous les réserves et dans les conditions prévues par le présent
 article.
 
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -21776,13 +21865,13 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-677 du 4 juin 2020 - art. 11
 
 _Cité par_:
 
-  - Code général de la propriété des personnes publ... - art. R2124-42 (M)
+  - Code général de la propriété des personnes publ... - art. R2124-42 (V)
 
 _Cite_:
 
@@ -21791,13 +21880,20 @@ _Cite_:
 
 ###### Article R2124-49
 
-Il peut être mis fin à l'autorisation sans indemnité s'il n'en a pas été fait usage à l'expiration d'un délai d'un an à
-compter de la date à laquelle elle a été accordée, sauf disposition contraire de l'autorisation.
+La convention peut être résiliée sans indemnité s'il n'a pas été fait usage de l'autorisation d'occupation du domaine public
+maritime à l'expiration d'un délai d'un an à compter de la signature de la convention, sauf stipulation contraire de celle-
+ci.
 
-L'autorisation peut également être supprimée en cas de liquidation judiciaire, de décès du titulaire ou de dissolution s'il
-s'agit d'une personne morale.
+Elle peut également être résiliée en cas de liquidation judiciaire, de décès du titulaire ou de dissolution s'il s'agit d'une
+personne morale.
 
 La résiliation est notifiée par lettre recommandée avec demande d'avis de réception.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
@@ -21809,9 +21905,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-677 du 4 juin 2020 - art. 12
 
 _Cité par_:
 
@@ -21821,11 +21917,17 @@ _Cité par_:
 ###### Article R2124-50
 
 En cas d'inexécution des obligations fixées par les dispositions de la présente sous-section, par celles des articles D.
-341-2, R. 341-4 et R. 341-5 du code du tourisme et par l'acte de délivrance de l'autorisation, il peut être mis fin à celle-
-ci sans indemnité, le titulaire entendu.
+341-2, R. 341-4 et R. 341-5 du code du tourisme et par la convention, il peut être mis fin à celle-ci sans indemnité, le
+titulaire entendu.
 
-Le retrait est prononcé après mise en demeure et expiration d'un délai qui ne peut être inférieur à un mois. Sa notification
-est effectuée dans les mêmes conditions que celles prévues à l'article R. 2124-49 du présent code.
+La résiliation est prononcée après mise en demeure et expiration d'un délai qui ne peut être inférieur à un mois. Sa
+notification est effectuée dans les mêmes conditions que celles prévues à l'article R. 2124-49 du présent code.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
@@ -21837,13 +21939,13 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-677 du 4 juin 2020 - art. 13
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. R2124-49 (V)
+  - Code général de la propriété des personnes publiques. - art. R2124-49
   - Code du tourisme. - art. D341-2 (V)
 
 
@@ -21856,12 +21958,11 @@ travaux.
 
 Il n'est pas procédé à cette démolition :
 
-1° En cas de renouvellement de l'autorisation ;
+1° Si une autorisation nouvelle est accordée dans le but de poursuivre l'exploitation de la zone de mouillages et
+d'équipements légers, auquel cas l'obligation de démolition et de remise en l'état afférente à l'autorisation précédente est
+transférée sur le nouveau titulaire ;
 
-2° Si une autorisation nouvelle est accordée, auquel cas l'obligation de démolition et de remise en l'état afférente à
-l'autorisation précédente est transférée sur le nouveau titulaire ;
-
-3° Si le préfet notifie au titulaire de l'autorisation qu'il exige le maintien de tout ou partie des équipements et
+2° Si le préfet notifie au titulaire de l'autorisation qu'il exige le maintien de tout ou partie des équipements et
 installations, auquel cas l'Etat se trouve, à compter de cette notification, subrogé dans tous les droits du titulaire sur
 ces équipements et installations qui doivent lui être remis en l'état sans qu'il y ait lieu à indemnité à ce titre ni à
 passation d'un acte.
@@ -21871,6 +21972,12 @@ après mise en demeure restée sans effet dans le délai qu'elle a fixé.
 
 Le titulaire de l'autorisation demeure responsable des ouvrages et installations jusqu'à leur démolition complète ou leur
 remise à l'administration.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
@@ -21882,14 +21989,14 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-677 du 4 juin 2020 - art. 14
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. R2124-40 (V)
-  - Code général de la propriété des personnes publ... - art. R2124-48 (M)
+  - Code général de la propriété des personnes publ... - art. R2124-48 (V)
 
 
 ###### Article R2124-52
@@ -21929,6 +22036,16 @@ Le titulaire de l'autorisation peut, avec l'accord du préfet, confier à un tie
 mouillages et d'équipements légers ainsi que de certains services connexes et la perception de redevances correspondantes. Il
 demeure toutefois seul responsable vis-à-vis de cette autorité.
 
+Dans ce cas, le titulaire de l'autorisation adresse préalablement sa demande au préfet et y joint le projet de contrat qu'il
+entend passer avec son sous-traitant. Le silence gardé pendant deux mois par le préfet sur la demande vaut décision
+d'acceptation.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -21939,9 +22056,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-677 du 4 juin 2020 - art. 15
 
 _Cité par_:
 
@@ -21954,6 +22071,17 @@ Les rapports du titulaire de l'autorisation ou du gestionnaire et des usagers so
 générales sont affichées, accompagnées des tarifs en vigueur, aux lieux où l'on accède normalement aux zones de mouillages et
 d'équipements légers.
 
+Ces contrats précisent notamment que l'attribution et l'utilisation des postes de mouillage dans le périmètre de la zone
+considérée sont conditionnées à la présentation annuelle d'une attestation d'assurance couvrant la responsabilité civile et
+les frais de retirement du navire ou du bateau, en particulier en cas d'atteinte à la conservation ou à l'utilisation normale
+du domaine public maritime ou à la sécurité du public.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -21964,17 +22092,32 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-677 du 4 juin 2020 - art. 16
 
 
 ###### Article R2124-55
 
-A l'intérieur de la circonscription d'un grand port maritime ou d'un port autonome, les pouvoirs attribués au préfet par les
-dispositions de la présente sous-section et par celles de l'article D. 341-2, des cinquième à septième alinéas de l'article
-R. 341-4 et de l'article R. 341-5 du code du tourisme sont exercés par le directoire du grand port maritime ou le directeur
-du port autonome.
+Les compétences attribuées au préfet par les dispositions de la présente sous-section et par celles de l'article D. 341-2,
+des cinquièmes à septième alinéas de l'article R. 341-4 et de l'article R. 341-5 du code du tourisme sont exercées :
+
+1° Par le directoire du grand port maritime ou le directeur du port autonome lorsque la demande d'autorisation concerne une
+implantation située à l'intérieur de la circonscription d'un grand port maritime ou d'un port autonome ;
+
+2° Par le directeur du Conservatoire de l'espace littoral et des rivages lacustres, à l'exception des règles de police du
+mouillage mentionnées à l'article R. 341-4 du code du tourisme, lorsque la demande d'autorisation concerne une implantation
+située dans le périmètre d'immeubles affectés au conservatoire, au sens de l'article L. 322-6 du code de l'environnement ;
+
+3° Par le directeur du Conservatoire de l'espace littoral et des rivages lacustres, sous réserve d'y être habilité par la
+convention d'attribution passée avec l'Etat, lorsque la demande d'autorisation concerne une implantation située dans le
+périmètre d'immeubles attribués au conservatoire, au sens de l'article L. 322-6-1 du code de l'environnement.
+
+**Nota:**
+
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
@@ -21986,9 +22129,9 @@ _Codifié par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art.
+  - Décret n°2020-677 du 4 juin 2020 - art. 17
 
 _Cité par_:
 
@@ -21996,9 +22139,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du tourisme. - art. D341-2 (V)
-  - Code du tourisme. - art. R341-4 (V)
-  - Code du tourisme. - art. R341-5 (V)
+  - Code du tourisme. - art. D341-2
+  - Code du tourisme. - art. R341-4
+  - Code du tourisme. - art. R341-5
 
 
 ##### Sous-section 4 : Dispositions communes<a id=394></a>
@@ -34240,26 +34383,32 @@ _Créé par_:
 ###### Article R5211-4
 
 Pour l'application du présent code à Saint-Pierre-et-Miquelon, les références aux termes énumérés ci-après sont ainsi
-remplacés : 
+remplacés :
 
-1° " Département " et " région " par " collectivité territoriale " ; 
+1° " Département " et " région " par " collectivité territoriale " ;
 
-2° " Président du conseil général " par " président du conseil territorial " ; 
+2° " Président du conseil général " par " président du conseil territorial " ;
 
-3° " Conseil général " par " conseil territorial " ; 
+3° " Conseil général " par " conseil territorial " ;
 
-4° "   tribunal judiciaire " par " tribunal de première instance " ; 
+4° " tribunal judiciaire " par " tribunal de première instance " ;
 
-5° " cour d'appel " par " tribunal supérieur d'appel " ; 
+5° " cour d'appel " par " tribunal supérieur d'appel " ;
 
-6° " préfet de département " et " préfet de région " par " préfet " ; 
+6° " préfet de département " et " préfet de région " par " préfet " ;
 
-7° " directeur départemental des finances publiques " par " directeur local des finances publiques ".
+7° " directeur départemental des finances publiques " par " directeur local des finances publiques " ;
+
+8° “ conseil scientifique régional du patrimoine naturel ” par “ conseil scientifique territorial du patrimoine naturel ” ;
+
+9° “ commission départementale de la nature, des paysages et des sites ” par “ commission territoriale de la nature, des
+paysages et des sites ”.
 
 **Nota:**
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
-janvier 2020.
+Conformément à l’article 20 du décret n° 2020-677 du 4 juin 2020, ces dispositions s'appliquent, y compris en cas de
+renouvellement, aux demandes de concession ou d'autorisation déposées après sa publication, ainsi qu'aux autorisations qui en
+résultent.
 
 **Liens relatifs à cet article**
 
@@ -34269,7 +34418,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2020-677 du 4 juin 2020 - art. 18
 
 
 #### TITRE  II : ACQUISITIONS<a id=559></a>
