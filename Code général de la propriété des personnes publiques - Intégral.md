@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2020-06-07
+Version Consolidée au 2020-06-19
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -10189,16 +10189,16 @@ _Cite_:
 
 ###### Article L5112-1
 
-L'Etat délimite par décret en Conseil d'Etat, au plus tard le 1er janvier 2019, après avis des collectivités territoriales ou
+L'Etat délimite par décret en Conseil d'Etat, au plus tard le 1er juillet 2021, après avis des collectivités territoriales ou
 de leurs groupements, à l'intérieur de la zone des cinquante pas géométriques, d'une part, les espaces urbains et les
 secteurs occupés par une urbanisation diffuse, d'autre part, les espaces naturels. Cette délimitation prend en compte l'état
 d'occupation du sol et les orientations du document stratégique d'aménagement et de mise en valeur de la zone des cinquante
 pas géométriques prévu au IV de l'article 27 de la loi n° 2015-1268 du 14 octobre 2015 d'actualisation du droit des outre-
-mer. 
+mer.
 
 Le schéma d'aménagement régional prévu à l'article L. 4433-7 du code général des collectivités territoriales, les schémas
 directeurs, les schémas de cohérence territoriale, les plans d'occupation des sols et les plans locaux d'urbanisme prévus par
-le code de l'urbanisme sont pris en compte. 
+le code de l'urbanisme sont pris en compte.
 
 Pour l'application des dispositions du présent article, la présence de constructions éparses ne peut faire obstacle à
 l'identification d'un secteur comme espace naturel.
@@ -10214,8 +10214,8 @@ _Cité par_:
   - Code de l'urbanisme - art. R121-38 (V)
   - Code général de la propriété des personnes publ... - art. L5112-4 (V)
   - Code général de la propriété des personnes publ... - art. L5112-4-1 (VD)
-  - Code général de la propriété des personnes publ... - art. L5112-5 (M)
-  - Code général de la propriété des personnes publ... - art. L5112-6 (V)
+  - Code général de la propriété des personnes publ... - art. L5112-5 (V)
+  - Code général de la propriété des personnes publ... - art. L5112-6 (M)
   - Code général de la propriété des personnes publ... - art. L5112-8 (V)
   - Code général de la propriété des personnes publ... - art. R5112-1 (V)
 
@@ -10225,7 +10225,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1268 du 14 octobre 2015 - art. 27
+  - Loi n°2015-1268 du 14 octobre 2015 - art. 27 (V)
+  - Loi n°2020-734 du 17 juin 2020 - art. 27
 
 _Anciens textes_:
 
@@ -10414,10 +10415,10 @@ d'établissements à usage professionnel. La cession à une personne morale est 
 ou au groupement de collectivités territoriales concerné, qui dispose de trois mois pour faire connaître son avis.
 
 Les demandes de cession faites en application du présent article doivent, sous peine de forclusion, être déposées avant le
-1er janvier 2020. 
+1er janvier 2021.
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
-fixé selon les règles applicables à l'aliénation des immeubles du domaine privé. 
+fixé selon les règles applicables à l'aliénation des immeubles du domaine privé.
 
 La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
 conditions de cession des fonds voisins. Elle ne peut excéder de plus de la moitié la superficie occupée par l'emprise au sol
@@ -10440,8 +10441,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1268 du 14 octobre 2015 - art. 27
-  - Loi n°2015-1268 du 14 octobre 2015 - art. 28
+  - Loi n°2015-1268 du 14 octobre 2015 - art. 27 (V)
+  - Loi n°2020-734 du 17 juin 2020 - art. 27
 
 _Anciens textes_:
 
@@ -10449,7 +10450,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code général de la propriété des personnes publiques. - art. L5112-1
+  - Code général de la propriété des personnes publ... - art. L5112-1 (V)
 
 
 ###### Article L5112-6
@@ -10462,7 +10463,7 @@ A défaut d'identification des personnes mentionnées à l'alinéa précédent, 
 cession à titre onéreux aux occupants de constructions affectées à leur habitation édifiées avant le 1er janvier 1995.
 
 Les demandes de cession faites en application du présent article doivent, sous peine de forclusion, être déposées avant le
-1er janvier 2020.
+1er janvier 2021.
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
 fixé selon les règles applicables à l'aliénation des immeubles du domaine privé.
@@ -10489,8 +10490,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1268 du 14 octobre 2015 - art. 27 (V)
-  - Loi n°2015-1268 du 14 octobre 2015 - art. 28
+  - Loi n°2020-734 du 17 juin 2020 - art. 27
 
 _Anciens textes_:
 
