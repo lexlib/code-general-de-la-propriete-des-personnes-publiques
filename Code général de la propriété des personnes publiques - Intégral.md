@@ -1,5 +1,5 @@
 # Code général de la propriété des personnes publiques  
-Version Consolidée au 2018-11-01
+Version Consolidée au 2022-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L5741-1)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L2)](#2)
@@ -8510,10 +8510,9 @@ son domaine privé.
 
 Chacune de ces cessions fait l'objet d'une convention jointe à l'acte d'aliénation, conclue entre le ministre chargé du
 domaine et l'acquéreur, après avis du ministre chargé du logement, et au vu des rapports transmis par les représentants de
-l'Etat dans les régions concernées et de l'avis de la commission nationale mentionnée au VII. Cette convention détermine les
-objectifs du programme de logements à réaliser. Elle peut prévoir une réalisation des opérations sur une durée totale
-supérieure à cinq ans. Elle prévoit les modalités permettant un contrôle de la réalisation des programmes et de l'application
-du dispositif de décote prévu au présent article.
+l'Etat dans les régions concernées. Cette convention détermine les objectifs du programme de logements à réaliser. Elle peut
+prévoir une réalisation des opérations sur une durée totale supérieure à cinq ans. Elle prévoit les modalités permettant un
+contrôle de la réalisation des programmes et de l'application du dispositif de décote prévu au présent article.
 
 Le prix de cession est déterminé conformément au I. Il fait l'objet d'un versement en deux temps. Au moment de la cession, la
 société mentionnée au premier alinéa du présent V bis verse un acompte correspondant à 40 % de la valeur vénale cumulée des
@@ -8536,23 +8535,9 @@ aboutir à la résolution de la vente dans les conditions prévues au V.
 
 Le représentant de l'Etat dans la région établit chaque année un bilan qui dresse notamment la liste des terrains
 disponibles, des terrains cédés au cours de l'année écoulée, des modalités et des prix de cession ainsi que des logements
-sociaux mis en chantier ou livrés sur les parcelles cédées. Ce bilan est transmis à la commission nationale mentionnée au VII
-chargée d'établir, pour le compte du ministre chargé du logement, le rapport annuel au Parlement sur la mise en œuvre du
-dispositif, lequel fait l'objet d'un débat devant les commissions permanentes.
+sociaux mis en chantier ou livrés sur les parcelles cédées.
 
-VII. – Il est créé, auprès des ministres chargés du logement et de l'urbanisme, une Commission nationale de l'aménagement, de
-l'urbanisme et du foncier. Elle est composée de deux membres de l'Assemblée nationale et de deux membres du Sénat, de
-représentants de l'Etat dont notamment de représentants des ministres chargés du logement et de l'urbanisme, de représentants
-du ministre chargé du Domaine, de représentants des associations représentatives des collectivités locales, des organismes
-mentionnés aux articles L. 365-1, L. 411-2 et L. 481-1 du code de la construction et de l'habitation, des professionnels de
-l'immobilier, des professionnels de l'aménagement, des organisations de défense de l'environnement et des organisations
-œuvrant dans le domaine de l'insertion, et de personnalités qualifiées.
-
-La commission nationale mentionnée au présent VII est chargée de suivre le dispositif de mobilisation du foncier public en
-faveur du logement. Elle est en particulier chargée de s'assurer que la stratégie adoptée par l'Etat et les établissements
-publics concernés est de nature à favoriser la cession de biens appartenant à leur domaine privé au profit de programmes de
-logements sociaux. Le décret en Conseil d'Etat prévu au IX précise sa composition et fixe ses modalités de travail et de
-décision.
+VII. – (Abrogé)
 
 VIII. – Pour l'application du présent article, sont assimilés aux logements locatifs mentionnés aux 3° et 5° de l'article L.
 351-2 du code de la construction et de l'habitation :
@@ -8581,7 +8566,7 @@ code ;
 b) Les logements faisant l'objet d'une opération d'accession dans les conditions définies au huitième alinéa de l'article L.
 411-2 dudit code.
 
-IX. – Un décret en Conseil d'Etat précise les conditions d'application des I à VII.
+IX. – Un décret en Conseil d'Etat précise les conditions d'application des I à VI.
 
 **Liens relatifs à cet article**
 
@@ -8634,7 +8619,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-607 du 13 juillet 2018 - art. 47
+  - Loi n°2018-699 du 3 août 2018 - art. 82
 
 _Anciens textes_:
 
@@ -26879,168 +26864,6 @@ livraison effective du programme de logements ou au jour de la résiliation de l
 _Modifié par_:
 
   - Décret n°2016-1160 du 25 août 2016 - art. 9
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiques. - art. L3211-7
-
-
-###### Article R3211-17-5
-
-L'organisation et le fonctionnement de la Commission nationale de l'aménagement, de l'urbanisme et du foncier, mentionnée au
-VII de l'article L. 3211-7, relèvent des dispositions des articles R. 133-1 à R. 133-15 du code des relations entre le public
-et l'administration.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
-
-_Abrogé par_:
-
-  - Décret n°2018-785 du 12 septembre 2018 - art. 21
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiques. - art. L3211-7
-  - Code des relations entre le public et l'administration - art. R*133-1
-
-
-###### Article R3211-17-6
-
-Cette commission est composée, outre son président, de vingt-trois membres : 
-
-1° Deux députés, désignés par l'Assemblée nationale ; 
-
-2° Deux sénateurs, désignés par le Sénat ; 
-
-3° Cinq membres représentant l'Etat : 
-
-a) Le directeur général de l'aménagement, du logement et de la nature ; 
-
-b) Le directeur général des finances publiques ; 
-
-c) Le directeur du budget ; 
-
-d) Le délégué à l'action foncière et immobilière ; 
-
-e) Le secrétaire général du ministère de l'intérieur ; 
-
-4° Le président du Conseil immobilier de l'Etat ; 
-
-5° Deux élus locaux, nommés sur proposition, respectivement, du président de l'Association des maires de France et du
-président de l'Association des communautés de France ; 
-
-6° Deux représentants des associations œuvrant dans le domaine du logement des personnes défavorisées, sur proposition du
-Conseil national de l'habitat ; 
-
-7° Le président de l'Union sociale pour l'habitat ou son représentant ; 
-
-8° Deux représentants d'associations agréées pour la protection de l'environnement ; 
-
-9° Deux représentants des organisations œuvrant dans le domaine de l'insertion ; 
-
-10° Deux personnalités qualifiées désignées en raison de leurs compétences dans les domaines de l'aménagement, de l'urbanisme
-et du foncier ;
-
-11° Deux représentants des professionnels de l'aménagement. 
-
-Un représentant de chacun des départements ministériels non mentionnés au 3° prend part aux débats avec voix délibérative
-lorsqu'ils concernent son département ainsi que des établissements publics dont il a la tutelle. 
-
-Un représentant de chaque établissement public ou société mentionnés à l'article L. 3211-13-1, dont la liste est fixée par
-décret en application de cet article, désigné par son organe de direction, assiste aux séances de la commission et prend part
-aux débats avec voix délibérative lorsque ceux-ci concernent cet établissement ou cette société. 
-
-Les membres qui ne sont pas désignés par l'institution dont ils dépendent sont nommés par arrêté des ministres chargés du
-logement et de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-1160 du 25 août 2016 - art. 10
-
-_Abrogé par_:
-
-  - Décret n°2018-785 du 12 septembre 2018 - art. 21
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiques. - art. L3211-13-1
-
-
-###### Article R3211-17-7
-
-Le président de la commission est nommé par arrêté des ministres chargés du logement et de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2013-315 du 15 avril 2013 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2018-785 du 12 septembre 2018 - art. 21
-
-
-###### Article R3211-17-8
-
-La commission se réunit sur convocation de son président au moins une fois par an.
-
-Sur proposition de son président, elle adopte son règlement intérieur, qui est soumis à l'approbation des ministres chargés
-du logement et de l'urbanisme.
-
-Le secrétariat de la commission est assuré par les services des ministres chargés du logement et de l'urbanisme. Les frais de
-fonctionnement sont pris en charge par ces mêmes services.
-
-Les membres de la commission exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de transport et de séjour
-peuvent être remboursés dans les conditions prévues par la réglementation applicable aux personnels civils de l'Etat, suivant
-les dispositions du décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais
-occasionnés par les déplacements temporaires des personnels civils de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2006-781 du 3 juillet 2006
-
-_Créé par_:
-
-  - Décret n°2013-315 du 15 avril 2013 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2018-785 du 12 septembre 2018 - art. 21
-
-
-###### Article R3211-17-9
-
-La commission est chargée :
-
-1° De suivre le dispositif de mobilisation du foncier public en faveur du logement ;
-
-2° De s'assurer que la stratégie adoptée par l'Etat et les établissements publics concernés est de nature à favoriser la
-cession de biens appartenant à leur domaine privé au profit de programmes de logements sociaux ;
-
-3° D'élaborer le rapport annuel au Parlement sur la mise en œuvre du dispositif, lequel fait l'objet d'un débat devant les
-commissions permanentes conformément aux dispositions de l'article L. 3211-7.
-
-Sur son initiative ou à la demande des ministres chargés du logement, de l'urbanisme ou du domaine, la commission peut
-examiner toute question relative à la mobilisation du foncier public en faveur du développement de l'offre de logement et à
-la cession d'immeubles domaniaux en vue de la réalisation de programmes de logement social.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-1160 du 25 août 2016 - art. 11
-
-_Abrogé par_:
-
-  - Décret n°2018-785 du 12 septembre 2018 - art. 21
 
 _Cite_:
 
